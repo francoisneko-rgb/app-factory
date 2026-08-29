@@ -54,6 +54,12 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
    (le plus de colonnes/infos). Si un fichier est jugé redondant, le .bak reste disponible.
    Toute donnée de recherche (scored_all.json, appfigures_raw/, rankings_*.csv) est précieuse
    et ne se supprime pas.
+14. SAUVEGARDE GITHUB (décision utilisateur 2026-08-29) : le repo
+   `https://github.com/francoisneko-rgb/app-factory` (public, branche main) est la sauvegarde
+   distante du travail. Faire un `git add -A` + `git commit` + `git push origin main` régulier
+   après chaque étape significative. Le `.gitignore` exclut images/audio/vidéo, APK/IPA/archives,
+   secrets (`.env`, `config/api-keys.env`), snapshots `.playwright-mcp/`, `brain/logs/`.
+   Les fichiers texte/CSV/MD/JSON de recherche ne doivent jamais être perdus.
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
 G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →

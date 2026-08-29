@@ -29,7 +29,7 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 - Données Appfigures payantes = SAUVEGARDER avant expiration (~6 jours).
 
 ## FICHIERS CLÉS (organisés, pas de doublons)
-- **`brain/marche/scoring/appfigures-insights.csv`** → LE fichier de travail unique (1381 mots-clés, pop/comp).
+- **`brain/marche/scoring/appfigures-insights.csv`** → LE fichier de travail unique (1182 mots-clés, pop/comp).
 - `brain/marche/scoring/MEILLEURES_NICHES.md` → synthèse des clusters (65+) + verdicts.
 - `brain/marche/scoring/VUE_ELARGIE_45_NICHES.md` → les 45+ niches à faire valider (LE fichier pour trancher).
 - `brain/REPRISE_RECHERCHE.md` → ce fichier = mémoire/état.
@@ -38,6 +38,15 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 - `brain/marche/v4/scored_all.json` → données brutes du scraping (source, ne pas consulter directement).
 - `brain/marche/scoring/mybestKWconsolidation_mots_cles.csv` (32 mots-clés triés par l'utilisateur),
   `recap_pepites_appfigures.csv` (pépites) → vues thématiques, PAS des doublons du fichier de travail.
+
+## ✅ SAUVEGARDE GITHUB (configuré 2026-08-29)
+- **Repo : https://github.com/francoisneko-rgb/app-factory** (public), branche `main`.
+- Outil : `gh` (GitHub CLI) installé et connecté en tant que `francoisneko-rgb`.
+- Procédure : `git add -A` → `git commit` → `git push origin main`.
+- `.gitignore` exclut : images/audio/vidéo (png, jpg, mp4...), APK/IPA/archives, `.env`,
+  `config/api-keys.env`, snapshots `.playwright-mcp/`, `brain/logs/`.
+- Règle : **faire un commit + push régulier** après chaque étape significative (la donnée de
+  recherche ne doit plus jamais être perdue).
 
 ## NICHE APPROFONDIES AVEC REVENUS (2026-08-29) — nouvelles pistes validées à l'analyse
 | Niche | Pop/Comp | Leader | Revenue/mois | Modèle | Verdict |
