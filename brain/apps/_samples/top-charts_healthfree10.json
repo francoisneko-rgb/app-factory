@@ -1,0 +1,62 @@
+﻿[
+  {
+    "appId": "com.planetfitness",
+    "title": "Planet Fitness",
+    "developer": "Planet Fitness",
+    "score": 4.642073
+  },
+  {
+    "appId": "com.alltrails.alltrails",
+    "title": "AllTrails: Hike, Bike & Run",
+    "developer": "AllTrails, LLC",
+    "score": 4.5646386
+  },
+  {
+    "appId": "io.yuka.android",
+    "title": "Yuka - Food & Cosmetic Scanner",
+    "developer": "Yuka App",
+    "score": 4.7251654
+  },
+  {
+    "appId": "com.strava",
+    "title": "Strava: Run, Bike, Walk",
+    "developer": "Strava Inc.",
+    "score": 4.5836816
+  },
+  {
+    "appId": "com.stepcounter.pedometer.steptracker.fitness.android",
+    "title": "Step Tracker Launcher",
+    "developer": "AtomApplications",
+    "score": 4.5273633
+  },
+  {
+    "appId": "com.ecw.healow",
+    "title": "healow",
+    "developer": "eClinicalWorks LLC",
+    "score": 4.5939875
+  },
+  {
+    "appId": "com.finch.finch",
+    "title": "Finch: Self-Care Pet",
+    "developer": "Finch Care Public Benefit Corporation",
+    "score": 4.8808036
+  },
+  {
+    "appId": "com.womenfitness.xbodybuilding.workoutspro",
+    "title": "HerBody - Home Workout",
+    "developer": "AnlinYu",
+    "score": 3.8365386
+  },
+  {
+    "appId": "org.iggymedia.periodtracker",
+    "title": "Flo Ovulation & Period Tracker",
+    "developer": "Flo Health Inc.",
+    "score": 4.7054925
+  },
+  {
+    "appId": "com.healthpulsesense.pro",
+    "title": "PulseSense ΓÇô Health Tracker",
+    "developer": "80UGame",
+    "score": 4.445415
+  }
+]

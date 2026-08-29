@@ -1,0 +1,96 @@
+# V5B — NOUVEAUX DOMAINES 2e MOITIÉ (auto, maps, beauté, finance, IA, jeux, médical, ident, sons)
+car maintenance tracker
+fuel tracker
+obd2 scanner
+ev charging map
+dashcam
+parking finder
+vin decoder
+bus tracker
+subway map
+offline maps
+transit app
+makeup try on
+nail art
+ingredient scanner
+perfume finder
+color season
+kibbe
+wardrobe planner
+outfit planner
+split bill
+vat calculator
+mileage tracker
+subscription tracker
+net worth tracker
+debt snowball
+dividend tracker
+forex
+crypto tax
+1099
+per diem
+ai tutor
+homework helper
+stable diffusion
+comfyui
+ollama
+prompt library
+mcp server
+whisper
+handwriting ocr
+business card scanner
+scan cad
+photomath
+mahjong
+solitaire
+rummy
+wordle
+connections
+escape room
+geoguessr
+anime
+manga
+webtoon
+blood pressure
+thyroid
+hashimoto
+ibs
+fodmap
+fibromyalgia
+long covid
+asthma tracker
+sleep apnea
+cpap
+pill identifier
+drug interaction
+tinnitus masker
+mushroom identifier
+bird identifier
+plant identifier
+rock identifier
+mineral identifier
+fossil identifier
+insect identifier
+wildflower
+digital wellbeing
+screen time
+doomscrolling
+brown noise
+focus music
+lofi
+asmr
+binaural
+white noise
+subtitle
+screen recorder
+gif maker
+slow motion
+time lapse
+dictionary
+thesaurus
+wikipedia
+periodic table
+nursing calculator
+medical calculator
+electrician
+hvac

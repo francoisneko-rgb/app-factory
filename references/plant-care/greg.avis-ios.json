@@ -1,0 +1,92 @@
+[
+  {
+    "id": "review-14287636972",
+    "title": "Amazing app, although…",
+    "rating": 5,
+    "review": "I don't know if it's my iPhone or the app but when I try to type a response to someone it freezes in app, like, I can't type in the app once it freezes, I can't back out of the post in the app…the only way to unfreeze the app is to close out of it. Like I said before I don't know if it's my iPhone or it's the app but if it's the app please when you have the time can you look into that? I really hope that this all made sense, but again it's an amazing app!",
+    "author": "Lyra___Moon",
+    "date": "2026-07-10T21:21:55.000Z",
+    "devResponse": ""
+  },
+  {
+    "id": "review-13881902409",
+    "title": "I like the app,but...",
+    "rating": 5,
+    "review": "the only thing that i think it would be great is if we can create our own watering schedule,as all areas are different and you cant follow the app 100% and also the option for the plants that are in the ground,not in pots",
+    "author": "rasmus2110",
+    "date": "2026-03-24T13:15:53.000Z",
+    "devResponse": "Hi rasmus2110! Thanks so much for the 5 stars. You're right that watering needs vary a lot by climate and growing context, and our team really does consider feedback like yours when planning updates. For now, the best way to fine-tune Greg's schedule is to snooze or mark a plant watered earlier than suggested, and Greg learns from that to adjust future reminders."
+  },
+  {
+    "id": "review-13889506241",
+    "title": "Good app but limited",
+    "rating": 3,
+    "review": "I love the clean look and simplicity. Overall has great potential. However i don't understand why i have to subscribe to super greg in order to track my plants watering. Especially when i can always just go into plant details and just update when the plant was last watered. Its more tedious but its free. So why not just make the watering tracking feature free? Other apps allow you to track on their free versions too.",
+    "author": "Torrtino",
+    "date": "2026-03-26T16:24:46.000Z",
+    "devResponse": "Hi Torrtino, thanks for the kind words and the honest feedback. You're right that you can log waterings manually in Plant Details for free. What sits behind Super Greg is the watering algorithm itself, which calculates when each plant actually needs water and sends smart reminders so you don't have to track it yourself."
+  },
+  {
+    "id": "review-14060285711",
+    "title": "It's cute",
+    "rating": 2,
+    "review": "Cute app for tracking and identifying your plants, but the watering schedule is totally unreliable and random. Super Greg doesn't have any useful features. Also I had to have support do a full swap to a new account for me because the app was so buggy I couldn't access any of the plants I added after a while. Wish we could program the watering schedule ourselves so it's accurate.—— I see the dev reply. Obviously you guys have programmed a watering schedule system, when I say it's 'random' I mean it doesn't correctly account for factors that would affect the actual watering needs of the plant. It's dishonest to suggest that it's accurate for everyone. I live at high altitude and my plants dry out much faster and take more intense sunlight. So perhaps I'm an outlier.",
+    "author": "Jo Kimbrell",
+    "date": "2026-05-13T15:37:14.000Z",
+    "devResponse": "Hi Jo, thanks for sticking with us through the account swap and for being honest about your experience. The watering schedule isn't actually random. It's calibrated for each plant using species, pot, light, and your local weather, and it learns from your inputs over time."
+  },
+  {
+    "id": "review-13804608947",
+    "title": "Not user friendly - and I'm a young millennial",
+    "rating": 1,
+    "review": "I had high hopes for this app as it came highly recommended. The thing is, I find it so difficult to maneuver as the platform is not user friendly. Perhaps I need more straight forward information and to click on items I need right away rather than click click click to get to where I need as I have to on Greg. I'm tech savvy as a young millennial and that's saying something about this app. I don't want to dig around, for things I need like a watering schedule or identify plant and care instructions. I'll pass on this app.",
+    "author": "WizardProf",
+    "date": "2026-03-02T03:34:50.000Z",
+    "devResponse": "Hi @WizardProf, we appreciate the detailed feedback! Making Greg intuitive is really important to us, so hearing that navigation felt like too many taps is valuable."
+  },
+  {
+    "id": "review-14234948393",
+    "title": "Free trial to accidental subscription",
+    "rating": 1,
+    "review": "I used this free trial for about 2 days and then forgot to cancel it. My plants weren't identified directly and diagnosis wasn't super effective. I found a better app for my vegetable garden but sadly got charged before I could cancel and Apple won't refund my request. I'm sure it's fine for some people but sadly just thought it would be more helpful for a new backyard vegetable gardener and can't manage to get a refund despite reporting an accidental renewal within 10 minutes of realizing my trial had run out and I was charged.",
+    "author": "Free trial fail :(",
+    "date": "2026-06-28T01:30:49.000Z",
+    "devResponse": ""
+  },
+  {
+    "id": "review-7497159763",
+    "title": "Overall, great app",
+    "rating": 5,
+    "review": "As a newb to plants, this app is very helpful. I love that it takes so many things into consideration. Here are my thoughts: Pros: ~ It's easy to put your specific plants in the app and you get to use your plants picture. Even better cause sometimes the plant you have isn't always a perfect replica of the stock photo of the plant. ~ If you are unsure of the type of plant the app will help you identify it. ~ The algorithm updates as you water more frequently or less frequently. That's really nice. ~ You get to name your plants! Unlike any other app I was looking into using. ~ The app lets you set lots of criteria that will change how your plants grows such as lighting, indoor/outdoor, pot type, pot size, etc. Cons: ~ I wish once it identifies your plant that it gave the plants preferences for light and watering on the 'home page' for the specific plant. Since I'm new this would help as a quick reminder when I want to move a plants location. ~ I wish it put the plants name (the one that you give it) on the bottom of the picture when your looking at all of them together. EDIT: ~ wish it gave you the option to edit when you watered cause sometimes I forget to put in that I watered and it won't let you edit that ~ wish it gave you the option to track the rain as 'watering' also.",
+    "author": "ky5150",
+    "date": "2021-06-23T14:05:05.000Z",
+    "devResponse": ""
+  },
+  {
+    "id": "review-11776201515",
+    "title": "Wonderful Concept, But The Bugs…",
+    "rating": 3,
+    "review": "I am thrilled that this app exists, and there are so many things I love about it! But I have to echo previous reviews and say that the Plant ID feature is lacking. My Bush on Fire Croton was ID'd as a Gold Dust Croton (after multiple pictures from different angles), and my Dark Mystery Pilea kept getting ID'd as an Aluminum Plant. I experienced multiple issues when filling out the 'profiles' for each of my plants. I was unable to set the desired cover photo (even after deleting all other options). The names of my plants kept resetting or even copying the names from my other plants, and at one point, some points, the plant profiles would either clone themselves, or disappear entirely. There is also a lot of lag/glitches when I am switching between screens. When I select the buttons about 'difficulty, pot type, etc', sometimes the screen it goes to is just blank. I have to restart to app to get it to fix itself. On the whole, this app has SO MUCH POTENTIAL and I am thrilled that it is in the works. But I don't get the impression that it is polished enough to have paid features at this point in development. If everything ran smoothly, I'd be more than happy to subscribe for a year, but the amount of problems I've seen on day one of the free trial is discouraging.",
+    "author": "ClaireFutrell",
+    "date": "2024-09-29T02:28:30.000Z",
+    "devResponse": "Hi ClaireFutrell, we truly appreciate your honest review and understand your concerns about plant identification accuracy and app functionality. If interested, we'd be happy to offer you complimentary months of Super Greg access. Please email us at concierge@greg.app, and we'll set that up for you."
+  },
+  {
+    "id": "review-12844224530",
+    "title": "Cute but I have had better",
+    "rating": 2,
+    "review": "The app I was using to track my watering schedule and the growth of my plants got taken off the App Store so I've been on the search to find a good app for all of my plants to be on. The app struggled to identify a couple of my plants, but with a quick Google search, I was able to identify them and add them into the app fairly easily do be warned that any of the features like notifications for water and fertilizing reminders only come with premium, which is a weekly subscription. It can also tell you about the sun intensity in your area, which is nice again only comes with premium. It took me about 30 minutes to add all 25 of my plants to the app. It auto generates names for each plant which you can change otherwise it just gives each of your plants an individual name. Please keep in mind other than tracking what types and how many plants you have you literally cannot do anything else on this app without premium you cannot update when they were last watered without going into each plant settings individually, and updating it but then it doesn't keep a log Like it would with premium. It was honestly a lot of my time and effort just to find out that I have to pay money for the app to actually do anything it was promised.",
+    "author": "zoeyim 12",
+    "date": "2025-07-02T17:25:50.000Z",
+    "devResponse": "Hi Zoey! We really appreciate you taking the time to share your experience with Greg. To thank you, we would like to give you 3 free months of Super Greg to your account! This gives you full access to premium features like care reminders and light recommendation. Feel free to reach out anytime at concierge@greg.app to redeem our offer. As for the plant identification feature: we'd love to help you get more accurate results. Here's a helpful tip — when browsing plant suggestions, try tapping 'View Other Results', then use the magnifying glass icon in the top right to search directly. You can enter either the common name or scientific name of your plant, whichever you prefer!"
+  },
+  {
+    "id": "review-7745664419",
+    "title": "Super handy for more than just a watering schedule",
+    "rating": 4,
+    "review": "I love the social aspect of the app, and the little tidbits of information on the home page.This app will totally help you water more regularly, but also it just helps keep track what type of plants you own. I often forget the official names of my plants and having this information so readily on hand makes researching fertilization needs, when to repot, pest treatments etc etc way easier. It also helped me identify a few plants that I had 0 idea what kind of plant I owned. For edits I'd love to see: I want to be able to keep more information about my plants. Which plants share containers, whether my plants are in a closed/semi closed terrarium or in water. The social and cataloging aspect of the apps has made it fun to add plants that I don't need a water schedule but I also feel bad that those plants could affect their algorithm. I also want to add more scecific descriptions about my plants updates 'turning greener' 'my current goal for this plant' 'testing out this propagation methods.' 'This method kicked my fungus Gnar problem' I love to see what other people are thinking about their plants, and I want to share what works for me.",
+    "author": "Alina Michelle",
+    "date": "2021-08-28T21:38:14.000Z",
+    "devResponse": ""
+  }
+]

@@ -1,0 +1,65 @@
+config/api-keys.env
+keys/
+*.p8
+*.keystore
+node_modules/
+build/
+brain/logs/
+
+# Secrets & credentials
+*.env
+.env
+
+# Binaires / archives lourds
+*.apk
+*.aab
+*.ipa
+*.dmg
+*.exe
+*.msi
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Images / médias volumineux (à exclure du repo — backup texte uniquement)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.heic
+*.svg
+*.ico
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.wav
+*.m4a
+*.aac
+*.webm
+*.gifv
+*.psd
+*.ai
+*.fig
+
+# Dossiers de médias / assets lourds
+**/screenshots-*/
+**/screenshots/
+**/assets-*/
+**/assets/
+**/images/
+**/media/
+**/audio/
+**/video/
+
+# Données brutes volumineuses temporaires
+*.jsonl
+*.log
+*.lock
+
+# Snapshots Playwright (temporaires, inutiles pour backup)
+.playwright-mcp/
+.opencode/sessions/

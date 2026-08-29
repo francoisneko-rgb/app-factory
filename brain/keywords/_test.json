@@ -1,0 +1,854 @@
+[
+  {
+    "root": "active games for kids",
+    "nSuggestions": 10,
+    "data": [
+      {
+        "term": "active games for kids",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.63,
+          "nApps": 6,
+          "avgScore": 4.45,
+          "apps": [
+            {
+              "appId": "org.pbskids.gamesapp",
+              "title": "PBS KIDS Games",
+              "dev": "PBS KIDS",
+              "score": 4.3,
+              "free": true
+            },
+            {
+              "appId": "com.aofl.abcmouse",
+              "title": "ABCmouse: Kids Learning Games",
+              "dev": "Age of Learning, Inc.",
+              "score": 4.54,
+              "free": true
+            },
+            {
+              "appId": "gen.tech.keiki.world.learning",
+              "title": "Keiki Learning games for Kids",
+              "dev": "Benipol Limited",
+              "score": 4.63,
+              "free": true
+            },
+            {
+              "appId": "es.monkimun.lingokids",
+              "title": "Lingokids: Games & Shows",
+              "dev": "Lingokids - Games, Shows & Songs for Kids",
+              "score": 4.33,
+              "free": true
+            },
+            {
+              "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+              "title": "Kids Games: For Toddlers 3-5",
+              "dev": "RV AppStudios",
+              "score": 4.35,
+              "free": true
+            },
+            {
+              "appId": "com.educational.baby.games",
+              "title": "Baby Games for 1-3 Year Olds",
+              "dev": "Bebi Family: preschool learning games for kids",
+              "score": 4.57,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 5,
+          "nApps": 6,
+          "avgScore": 4.56,
+          "apps": [
+            {
+              "appId": 6447699987,
+              "title": "Kids activity book",
+              "dev": "Concolor - Educational learning games for kids & toddlers",
+              "score": 4,
+              "free": true
+            },
+            {
+              "appId": 6743126051,
+              "title": "MovePlay Active Games for Kids",
+              "dev": "Bitwise Software SL",
+              "score": 4,
+              "free": true
+            },
+            {
+              "appId": 1599875128,
+              "title": "Pre-K Learning Games For Kids.",
+              "dev": "ART ZISHAS INC",
+              "score": 4.8,
+              "free": true
+            },
+            {
+              "appId": 6757315307,
+              "title": "Kids: Learning Games",
+              "dev": "Ahmad Burghol",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6737974959,
+              "title": "Kids Educational Learning Apps",
+              "dev": "Mendapara Janakiben Milankumar",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 508798354,
+              "title": "Brain Games: for kids & family",
+              "dev": "Happy Touch Kids Learning Games for Toddlers GmbH",
+              "score": 5,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "active games for kids",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.63,
+          "nApps": 6,
+          "avgScore": 4.45,
+          "apps": [
+            {
+              "appId": "org.pbskids.gamesapp",
+              "title": "PBS KIDS Games",
+              "dev": "PBS KIDS",
+              "score": 4.3,
+              "free": true
+            },
+            {
+              "appId": "com.aofl.abcmouse",
+              "title": "ABCmouse: Kids Learning Games",
+              "dev": "Age of Learning, Inc.",
+              "score": 4.54,
+              "free": true
+            },
+            {
+              "appId": "gen.tech.keiki.world.learning",
+              "title": "Keiki Learning games for Kids",
+              "dev": "Benipol Limited",
+              "score": 4.63,
+              "free": true
+            },
+            {
+              "appId": "es.monkimun.lingokids",
+              "title": "Lingokids: Games & Shows",
+              "dev": "Lingokids - Games, Shows & Songs for Kids",
+              "score": 4.33,
+              "free": true
+            },
+            {
+              "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+              "title": "Kids Games: For Toddlers 3-5",
+              "dev": "RV AppStudios",
+              "score": 4.35,
+              "free": true
+            },
+            {
+              "appId": "com.educational.baby.games",
+              "title": "Baby Games for 1-3 Year Olds",
+              "dev": "Bebi Family: preschool learning games for kids",
+              "score": 4.57,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 5,
+          "nApps": 6,
+          "avgScore": 4.56,
+          "apps": [
+            {
+              "appId": 6447699987,
+              "title": "Kids activity book",
+              "dev": "Concolor - Educational learning games for kids & toddlers",
+              "score": 4,
+              "free": true
+            },
+            {
+              "appId": 6743126051,
+              "title": "MovePlay Active Games for Kids",
+              "dev": "Bitwise Software SL",
+              "score": 4,
+              "free": true
+            },
+            {
+              "appId": 1599875128,
+              "title": "Pre-K Learning Games For Kids.",
+              "dev": "ART ZISHAS INC",
+              "score": 4.8,
+              "free": true
+            },
+            {
+              "appId": 6757315307,
+              "title": "Kids: Learning Games",
+              "dev": "Ahmad Burghol",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6737974959,
+              "title": "Kids Educational Learning Apps",
+              "dev": "Mendapara Janakiben Milankumar",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 508798354,
+              "title": "Brain Games: for kids & family",
+              "dev": "Happy Touch Kids Learning Games for Toddlers GmbH",
+              "score": 5,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "active games for kids indoors",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.66,
+          "nApps": 6,
+          "avgScore": 4.44,
+          "apps": [
+            {
+              "appId": "com.educational.baby.games",
+              "title": "Baby Games for 1-3 Year Olds",
+              "dev": "Bebi Family: preschool learning games for kids",
+              "score": 4.57,
+              "free": true
+            },
+            {
+              "appId": "org.pbskids.gamesapp",
+              "title": "PBS KIDS Games",
+              "dev": "PBS KIDS",
+              "score": 4.3,
+              "free": true
+            },
+            {
+              "appId": "es.monkimun.lingokids",
+              "title": "Lingokids: Games & Shows",
+              "dev": "Lingokids - Games, Shows & Songs for Kids",
+              "score": 4.33,
+              "free": true
+            },
+            {
+              "appId": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+              "title": "Kids Games: For Toddlers 3-5",
+              "dev": "RV AppStudios",
+              "score": 4.35,
+              "free": true
+            },
+            {
+              "appId": "com.iabuzz.kidslogicfun",
+              "title": "Kids Brain Games: Fun & Logic",
+              "dev": "Abuzz",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": "net.peakgames.match",
+              "title": "Match Factory!",
+              "dev": "Peak",
+              "score": 4.66,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 5,
+          "nApps": 6,
+          "avgScore": 4.8,
+          "apps": [
+            {
+              "appId": 6464541681,
+              "title": "Get Moving! Active Kids Game",
+              "dev": "Swayday Inc.",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 6743126051,
+              "title": "MovePlay Active Games for Kids",
+              "dev": "Bitwise Software SL",
+              "score": 4,
+              "free": true
+            },
+            {
+              "appId": 1602418126,
+              "title": "365 Games",
+              "dev": "Aleksandar Ignjatovic",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 6474679701,
+              "title": "Kids 7: Fun Games",
+              "dev": "PESCAPPS GAMES SL",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 6761685630,
+              "title": "PlaySpot360",
+              "dev": "Mathew Abhulimen",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 6757315307,
+              "title": "Kids: Learning Games",
+              "dev": "Ahmad Burghol",
+              "score": null,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "active games for kids no equipment",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.66,
+          "nApps": 6,
+          "avgScore": 4.37,
+          "apps": [
+            {
+              "appId": "org.pbskids.gamesapp",
+              "title": "PBS KIDS Games",
+              "dev": "PBS KIDS",
+              "score": 4.3,
+              "free": true
+            },
+            {
+              "appId": "com.educational.baby.games",
+              "title": "Baby Games for 1-3 Year Olds",
+              "dev": "Bebi Family: preschool learning games for kids",
+              "score": 4.57,
+              "free": true
+            },
+            {
+              "appId": "hu.crabs.kidmaze",
+              "title": "Maze for Kids",
+              "dev": "Crab's Games",
+              "score": 3.97,
+              "free": true
+            },
+            {
+              "appId": "net.peakgames.match",
+              "title": "Match Factory!",
+              "dev": "Peak",
+              "score": 4.66,
+              "free": true
+            },
+            {
+              "appId": "com.storytoys.lego.duplo.world.kids.play.free.friends.animals.android.googleplay",
+              "title": "LEGO® DUPLO® World",
+              "dev": "StoryToys",
+              "score": 4.18,
+              "free": true
+            },
+            {
+              "appId": "com.aofl.abcmouse",
+              "title": "ABCmouse: Kids Learning Games",
+              "dev": "Age of Learning, Inc.",
+              "score": 4.54,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 5,
+          "nApps": 6,
+          "avgScore": 4.55,
+          "apps": [
+            {
+              "appId": 6760800008,
+              "title": "Underpebble",
+              "dev": "Timothy Matyas",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6739583283,
+              "title": "Baby Games For Toddler & Kids",
+              "dev": "Dritan Kola",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6757315307,
+              "title": "Kids: Learning Games",
+              "dev": "Ahmad Burghol",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 1061533206,
+              "title": "Toddler game for 2,3 year olds",
+              "dev": "Clapenjoy Kids Learning games for toddlers, boys and girls GmbH",
+              "score": 4.31,
+              "free": true
+            },
+            {
+              "appId": 1182895301,
+              "title": "Profession Games for Kids",
+              "dev": "YovoGames",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 1050773989,
+              "title": "PBS KIDS Games",
+              "dev": "PBS KIDS",
+              "score": 4.35,
+              "free": true
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "root": "pose estimation yoga",
+    "nSuggestions": 4,
+    "data": [
+      {
+        "term": "pose estimation yoga",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 95,
+          "topScore": 4.66,
+          "nApps": 6,
+          "avgScore": 4.13,
+          "apps": [
+            {
+              "appId": "com.gaiam.yogastudio",
+              "title": "Yoga Studio: Poses & Classes",
+              "dev": "Fit For Life LLC",
+              "score": 3.9,
+              "free": true
+            },
+            {
+              "appId": "com.vgfit.yoga",
+              "title": "Yoga - Poses & Classes",
+              "dev": "VGFIT LLC",
+              "score": 4.29,
+              "free": true
+            },
+            {
+              "appId": "com.fitifyworkouts.yoga",
+              "title": "Yoga Poses",
+              "dev": "Fitify Workouts s.r.o.",
+              "score": 4.65,
+              "free": true
+            },
+            {
+              "appId": "com.pipyl.yogapose",
+              "title": "Yoga Pose: Yoga for everyone",
+              "dev": "PiPyL",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": "com.khobta.yogaposes_dailyworkout",
+              "title": "Yoga Poses For Beginners",
+              "dev": "Khobta App",
+              "score": 3.17,
+              "free": true
+            },
+            {
+              "appId": "com.ssstudio.yogadailyfitness",
+              "title": "Yoga Daily Fitness - Yoga Pose",
+              "dev": "SEStudio",
+              "score": 4.66,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.84,
+          "nApps": 6,
+          "avgScore": 4.59,
+          "apps": [
+            {
+              "appId": 6751261770,
+              "title": "Tummee: Yoga Teachers Platform",
+              "dev": "Visiblebox LLC",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6474953141,
+              "title": "Yoga Pose • Mindful Asanas",
+              "dev": "Sunil Targe",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6470841460,
+              "title": "MirrorFit－Somatic Yoga Workout",
+              "dev": "Cyclop GmbH",
+              "score": 4.52,
+              "free": true
+            },
+            {
+              "appId": 1228855553,
+              "title": "Muscle & Motion: Yoga",
+              "dev": "Muscle & Motion LTD",
+              "score": 4.84,
+              "free": true
+            },
+            {
+              "appId": 1122658784,
+              "title": "Yoga - Poses & Classes at Home",
+              "dev": "VGFIT LLC",
+              "score": 4.68,
+              "free": true
+            },
+            {
+              "appId": 1148951074,
+              "title": "Yoga: Poses and Moves at Home",
+              "dev": "Mosaic S.r.l.",
+              "score": 4.31,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "pose estimation yoga",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 95,
+          "topScore": 4.66,
+          "nApps": 6,
+          "avgScore": 4.13,
+          "apps": [
+            {
+              "appId": "com.gaiam.yogastudio",
+              "title": "Yoga Studio: Poses & Classes",
+              "dev": "Fit For Life LLC",
+              "score": 3.9,
+              "free": true
+            },
+            {
+              "appId": "com.vgfit.yoga",
+              "title": "Yoga - Poses & Classes",
+              "dev": "VGFIT LLC",
+              "score": 4.29,
+              "free": true
+            },
+            {
+              "appId": "com.fitifyworkouts.yoga",
+              "title": "Yoga Poses",
+              "dev": "Fitify Workouts s.r.o.",
+              "score": 4.65,
+              "free": true
+            },
+            {
+              "appId": "com.pipyl.yogapose",
+              "title": "Yoga Pose: Yoga for everyone",
+              "dev": "PiPyL",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": "com.khobta.yogaposes_dailyworkout",
+              "title": "Yoga Poses For Beginners",
+              "dev": "Khobta App",
+              "score": 3.17,
+              "free": true
+            },
+            {
+              "appId": "com.ssstudio.yogadailyfitness",
+              "title": "Yoga Daily Fitness - Yoga Pose",
+              "dev": "SEStudio",
+              "score": 4.66,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.84,
+          "nApps": 6,
+          "avgScore": 4.59,
+          "apps": [
+            {
+              "appId": 6751261770,
+              "title": "Tummee: Yoga Teachers Platform",
+              "dev": "Visiblebox LLC",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6474953141,
+              "title": "Yoga Pose • Mindful Asanas",
+              "dev": "Sunil Targe",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6470841460,
+              "title": "MirrorFit－Somatic Yoga Workout",
+              "dev": "Cyclop GmbH",
+              "score": 4.52,
+              "free": true
+            },
+            {
+              "appId": 1228855553,
+              "title": "Muscle & Motion: Yoga",
+              "dev": "Muscle & Motion LTD",
+              "score": 4.84,
+              "free": true
+            },
+            {
+              "appId": 1122658784,
+              "title": "Yoga - Poses & Classes at Home",
+              "dev": "VGFIT LLC",
+              "score": 4.68,
+              "free": true
+            },
+            {
+              "appId": 1148951074,
+              "title": "Yoga: Poses and Moves at Home",
+              "dev": "Mosaic S.r.l.",
+              "score": 4.31,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "yoga-pose estimation github",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.87,
+          "nApps": 6,
+          "avgScore": 4.5,
+          "apps": [
+            {
+              "appId": "com.vgfit.yoga",
+              "title": "Yoga - Poses & Classes",
+              "dev": "VGFIT LLC",
+              "score": 4.29,
+              "free": true
+            },
+            {
+              "appId": "com.fitifyworkouts.yoga",
+              "title": "Yoga Poses",
+              "dev": "Fitify Workouts s.r.o.",
+              "score": 4.65,
+              "free": true
+            },
+            {
+              "appId": "com.gaiam.yogastudio",
+              "title": "Yoga Studio: Poses & Classes",
+              "dev": "Fit For Life LLC",
+              "score": 3.9,
+              "free": true
+            },
+            {
+              "appId": "com.sunny.yoga",
+              "title": "Yoga - Track Yoga",
+              "dev": "Paramita_",
+              "score": 4.78,
+              "free": true
+            },
+            {
+              "appId": "face.yoga.skincare.app",
+              "title": "Luvly: Face Yoga & Exercise",
+              "dev": "Gismart",
+              "score": 4.54,
+              "free": true
+            },
+            {
+              "appId": "com.downdogapp",
+              "title": "Yoga | Down Dog",
+              "dev": "Yoga Buddhi Co.",
+              "score": 4.87,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 5,
+          "nApps": 6,
+          "avgScore": 4.62,
+          "apps": [
+            {
+              "appId": 1228855553,
+              "title": "Muscle & Motion: Yoga",
+              "dev": "Muscle & Motion LTD",
+              "score": 4.84,
+              "free": true
+            },
+            {
+              "appId": 1434388017,
+              "title": "Yoga Poses Daily by GetFit",
+              "dev": "Appyfurious",
+              "score": 4.47,
+              "free": true
+            },
+            {
+              "appId": 1144311762,
+              "title": "Yoga Poses — 250 yoga poses with video tutorials",
+              "dev": "AloYoga",
+              "score": 4.16,
+              "free": true
+            },
+            {
+              "appId": 1155834884,
+              "title": "Yoga Time - Poses & Routines",
+              "dev": "ASN GROUP LLC",
+              "score": 5,
+              "free": true
+            },
+            {
+              "appId": 6474953141,
+              "title": "Yoga Pose • Mindful Asanas",
+              "dev": "Sunil Targe",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 1607983688,
+              "title": "Yoga for Mind and Body",
+              "dev": "Stefan Roobol",
+              "score": null,
+              "free": true
+            }
+          ]
+        }
+      },
+      {
+        "term": "end of yoga pose",
+        "googlePlay": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.79,
+          "nApps": 6,
+          "avgScore": 4.46,
+          "apps": [
+            {
+              "appId": "com.vgfit.yoga",
+              "title": "Yoga - Poses & Classes",
+              "dev": "VGFIT LLC",
+              "score": 4.29,
+              "free": true
+            },
+            {
+              "appId": "com.gaiam.yogastudio",
+              "title": "Yoga Studio: Poses & Classes",
+              "dev": "Fit For Life LLC",
+              "score": 3.9,
+              "free": true
+            },
+            {
+              "appId": "com.fitifyworkouts.yoga",
+              "title": "Yoga Poses",
+              "dev": "Fitify Workouts s.r.o.",
+              "score": 4.65,
+              "free": true
+            },
+            {
+              "appId": "com.ssstudio.yogadailyfitness",
+              "title": "Yoga Daily Fitness - Yoga Pose",
+              "dev": "SEStudio",
+              "score": 4.66,
+              "free": true
+            },
+            {
+              "appId": "com.samantharoobol.yogarelax",
+              "title": "Yoga Poses for Relaxation",
+              "dev": "Stay Fit With Samantha",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": "uk.co.olsonapps.fiveMinYoga",
+              "title": "5 Minute Yoga",
+              "dev": "Olson Applications Ltd",
+              "score": 4.79,
+              "free": true
+            }
+          ]
+        },
+        "ios": {
+          "popular": 100,
+          "competition": 109,
+          "topScore": 4.84,
+          "nApps": 6,
+          "avgScore": 4.69,
+          "apps": [
+            {
+              "appId": 1228855553,
+              "title": "Muscle & Motion: Yoga",
+              "dev": "Muscle & Motion LTD",
+              "score": 4.84,
+              "free": true
+            },
+            {
+              "appId": 1122658784,
+              "title": "Yoga - Poses & Classes at Home",
+              "dev": "VGFIT LLC",
+              "score": 4.68,
+              "free": true
+            },
+            {
+              "appId": 6751261770,
+              "title": "Tummee: Yoga Teachers Platform",
+              "dev": "Visiblebox LLC",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 6474953141,
+              "title": "Yoga Pose • Mindful Asanas",
+              "dev": "Sunil Targe",
+              "score": null,
+              "free": true
+            },
+            {
+              "appId": 1546056877,
+              "title": "Yoga for Beginners - Workout",
+              "dev": "ohealth apps studio",
+              "score": 4.79,
+              "free": true
+            },
+            {
+              "appId": 1434388017,
+              "title": "Yoga Poses Daily by GetFit",
+              "dev": "Appyfurious",
+              "score": 4.47,
+              "free": true
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

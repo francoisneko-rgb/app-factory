@@ -1,0 +1,425 @@
+{
+  "total": 60,
+  "reviews": [
+    {
+      "user": "Miranda Spears",
+      "score": 1,
+      "title": null,
+      "body": "The app no longer tracks my steps to count towards points. Reached out to support but never heard anything back.",
+      "date": "2026-07-27T04:06:39.814Z"
+    },
+    {
+      "user": "Morgan",
+      "score": 1,
+      "title": null,
+      "body": "can't login with a username",
+      "date": "2026-06-01T20:23:06.800Z"
+    },
+    {
+      "user": "Shawn Reeves",
+      "score": 1,
+      "title": null,
+      "body": "Same complaints as everyone else it appears.. log in issues. Every time I try to navigate to a different page it gives me the how-to after I close it every time. Then the price at $39 is about to the point where it's not even worth it anymore considering most places are just Planet Fitness then Anytime Fitness if you're around them. Continues to get worse. Thanks",
+      "date": "2026-05-09T19:32:46.431Z"
+    },
+    {
+      "user": "ricky Pettigrew",
+      "score": 1,
+      "title": null,
+      "body": "the app is horrible. doesn't save login information, and the dashboard doesn't work properly. Please fix the app people.",
+      "date": "2026-04-10T23:01:56.772Z"
+    },
+    {
+      "user": "Brad Perry",
+      "score": 1,
+      "title": null,
+      "body": "App works won't log in, please just add biometric sign in",
+      "date": "2026-03-13T02:59:03.118Z"
+    },
+    {
+      "user": "Shaunna R",
+      "score": 1,
+      "title": null,
+      "body": "Won't allow sign in and doesn't have an icon on the phone. you have to access it through play.",
+      "date": "2026-03-02T21:53:22.296Z"
+    },
+    {
+      "user": "JH",
+      "score": 1,
+      "title": null,
+      "body": "make sure that everything is working before you deploy your software. Buttons don't work like profile. I cannot even pull my membership info with app. so i have to use my pc to use the website instead.",
+      "date": "2026-02-19T18:19:16.664Z"
+    },
+    {
+      "user": "Juan Baca",
+      "score": 1,
+      "title": null,
+      "body": "Horrible App. Fire whoever made this app. the location feature does not work, ans you have to be extremely precise where to click in order for the app to register it.",
+      "date": "2026-02-18T02:40:56.187Z"
+    },
+    {
+      "user": "Samuel Rawles",
+      "score": 1,
+      "title": null,
+      "body": "Some parts of the app wont register any inputs. Poor experience. I cant even find my membership card to get into the gyms!",
+      "date": "2026-02-09T21:46:15.704Z"
+    },
+    {
+      "user": "Brigitte Garza",
+      "score": 1,
+      "title": null,
+      "body": "Several Buttons do not work in the app. I can't save my favorite gyms--I can't even use the back button in the app. For something that is required for me to use my membership through my insurance, I thought it would be better...",
+      "date": "2026-02-06T15:30:22.698Z"
+    },
+    {
+      "user": "Ness",
+      "score": 1,
+      "title": null,
+      "body": "app does not work, crashes and restarts cannot get past login.",
+      "date": "2026-01-28T19:06:44.163Z"
+    },
+    {
+      "user": "Daniel Hall",
+      "score": 1,
+      "title": null,
+      "body": "very buggy overall experience. issue currently Jan/26 is the app uses the whole screen. this includes the bar where the phone has time, camera, cell, wifi, etc. The options at the top cannot be selected to search an area or get into profile, etc.",
+      "date": "2026-01-20T15:57:37.393Z"
+    },
+    {
+      "user": "Hugh",
+      "score": 1,
+      "title": null,
+      "body": "app won't even render properly on smartphone screens, it is completely non functional due to this error. the website will not load, and gets stuck in a loop at login.",
+      "date": "2026-01-10T20:15:59.854Z"
+    },
+    {
+      "user": "Ned Schneebley",
+      "score": 2,
+      "title": null,
+      "body": "some of the navigation buttons on the app appear underneath your phone and time data ribbon at the top. making them useless. can't get to your details, card information or filters. why weren't these buttons put down in the middle of the screen where you could reach them?",
+      "date": "2026-01-10T18:15:10.740Z"
+    },
+    {
+      "user": "joseph ahrens",
+      "score": 1,
+      "title": null,
+      "body": "after Google enabled edge to edge design, the ability to select profile no longer works in this app. this app needs an update to make it compatible with edge to edge design.",
+      "date": "2025-12-08T03:00:21.519Z"
+    },
+    {
+      "user": "chris simmons",
+      "score": 1,
+      "title": null,
+      "body": "This is a trash app, why on earth was no one held accountable for the QA of this app. AI development tools would quickly fix many of these issues such as the screen size not being determined appropriately by phone model. how in the world is this a professional app I am supposed to use weekly!?",
+      "date": "2025-11-13T06:05:46.334Z"
+    },
+    {
+      "user": "Brock Ashley",
+      "score": 1,
+      "title": null,
+      "body": "terrible nothing about this works",
+      "date": "2025-11-05T16:29:44.994Z"
+    },
+    {
+      "user": "John Silva",
+      "score": 1,
+      "title": null,
+      "body": "Cannot access profile settings due to the top part of the app hidden behind phone functions at the top of the screen. Very poor sizing that doesn't adapt to the phone.",
+      "date": "2025-10-04T16:50:25.188Z"
+    },
+    {
+      "user": "Brandon Hornberg",
+      "score": 1,
+      "title": null,
+      "body": "App cannot function on Pixel phone due to screen size",
+      "date": "2025-09-29T01:18:52.733Z"
+    },
+    {
+      "user": "M Woods",
+      "score": 1,
+      "title": null,
+      "body": "Can't access the profile selection in the upper right of the app because it is too high up on the screen behind my battery power indicator and 5G strength bar.",
+      "date": "2025-09-09T12:44:21.838Z"
+    },
+    {
+      "user": "Jessie Heckenmueller",
+      "score": 1,
+      "title": null,
+      "body": "I cannot get any studio details to pull up which means I cannot take advantage of the discount afforded.",
+      "date": "2025-08-24T22:25:42.423Z"
+    },
+    {
+      "user": "doesnt matter",
+      "score": 1,
+      "title": null,
+      "body": "Where is the icon for the app? This is the only app I have to use from the Play Store. And as others mentioned I have to keep signing in. The app doesn't let you search via gym name you have to look on the map or list and go through each one just to see if the gym you want is included or to find a gym. I have honestly never come across a lesser put together app than this one. I'm impressed for all the wrong reasons.",
+      "date": "2025-08-24T14:40:55.899Z"
+    },
+    {
+      "user": "Mandy Leibovitz",
+      "score": 1,
+      "title": null,
+      "body": "I was never able to log in. When you hit forgot password it never sent an email. worst app I have ever dealt with",
+      "date": "2025-08-17T17:40:23.813Z"
+    },
+    {
+      "user": "Wayne",
+      "score": 1,
+      "title": null,
+      "body": "Useless.",
+      "date": "2025-08-12T16:39:20.892Z"
+    },
+    {
+      "user": "Chris Olsen",
+      "score": 1,
+      "title": null,
+      "body": "predatory company, will continue billing you with change of insurance, and job without telling you",
+      "date": "2025-08-11T20:09:00.936Z"
+    },
+    {
+      "user": "Moranny Un",
+      "score": 1,
+      "title": null,
+      "body": "I have never dealt with such a terrible app like this before. The app keeps crashing, and it makes it difficult to explore the studio options. I'm so glad I didn't invest in the more expensive membership because it's difficult to access on the app. I like the idea of the accessibility of all of the gyms, but the app makes it hard to even use it. please fix this app. I called customer support, and they said they don't have access to the app and to use the web version instead....",
+      "date": "2025-07-27T05:11:05.168Z"
+    },
+    {
+      "user": "Anthony Kirkland",
+      "score": 1,
+      "title": null,
+      "body": "Just created account, cannot log in.",
+      "date": "2025-05-30T23:22:12.526Z"
+    },
+    {
+      "user": "Jessica Wollwage-Rymut",
+      "score": 3,
+      "title": null,
+      "body": "glitchy",
+      "date": "2025-05-06T12:00:51.379Z"
+    },
+    {
+      "user": "Ava Eagleton",
+      "score": 1,
+      "title": null,
+      "body": "Doesn't save login information. Now it says error when I try to log in",
+      "date": "2025-04-30T16:24:59.504Z"
+    },
+    {
+      "user": "Albert Lee",
+      "score": 1,
+      "title": null,
+      "body": "Login isn't saved. Must be inputted each time. For some reason, unable to login. Always says connection issue. membership card isn't useful to the gyms, and must make a seperate account with them. my suggestion is to go to the website, download a copy of the membership card or just save the membership number to give to the gym. The uptime for the app isn't reliable.",
+      "date": "2025-04-26T06:39:41.960Z"
+    },
+    {
+      "user": "Myriam M",
+      "score": 1,
+      "title": null,
+      "body": "Won't send luck to change password.",
+      "date": "2025-04-25T00:11:53.488Z"
+    },
+    {
+      "user": "micheal couts",
+      "score": 1,
+      "title": null,
+      "body": "will not allow me to login",
+      "date": "2025-04-23T03:42:12.160Z"
+    },
+    {
+      "user": "Adriana Romero",
+      "score": 1,
+      "title": null,
+      "body": "worst app ever, login is very difficult, and it's often down",
+      "date": "2025-03-28T04:20:15.166Z"
+    },
+    {
+      "user": "J .*.",
+      "score": 1,
+      "title": null,
+      "body": "Problem with sign in and reset password. 0 star to the app developer",
+      "date": "2025-02-17T04:35:17.285Z"
+    },
+    {
+      "user": "jj stop",
+      "score": 1,
+      "title": null,
+      "body": "Never logs in workouts, not 1 single time",
+      "date": "2025-02-04T15:08:04.712Z"
+    },
+    {
+      "user": "Courtney Aubrecht",
+      "score": 1,
+      "title": null,
+      "body": "Self check-ins decided to randomly stop populating, so I'm no longer getting credit for my visits to my gym.",
+      "date": "2025-01-24T13:27:25.491Z"
+    },
+    {
+      "user": "Octavio Rocha",
+      "score": 1,
+      "title": null,
+      "body": "App absolutely sucks and won't let you login half the time",
+      "date": "2025-01-22T19:57:03.564Z"
+    },
+    {
+      "user": "G H",
+      "score": 4,
+      "title": null,
+      "body": "Won't load",
+      "date": "2025-01-21T23:20:50.310Z"
+    },
+    {
+      "user": "John LeBeane",
+      "score": 1,
+      "title": null,
+      "body": "Horrible App",
+      "date": "2025-01-16T20:41:37.860Z"
+    },
+    {
+      "user": "jai me",
+      "score": 1,
+      "title": null,
+      "body": "App never loads. Trash",
+      "date": "2025-01-15T15:14:21.840Z"
+    },
+    {
+      "user": "Jermaine",
+      "score": 1,
+      "title": null,
+      "body": "All I'm getting right is a blank white screen with the name and logo when I click on login.",
+      "date": "2025-01-15T15:12:01.887Z"
+    },
+    {
+      "user": "Uadrme",
+      "score": 1,
+      "title": null,
+      "body": "App will not load, even after uninstalling and re-downloading. Cannot log in at all!",
+      "date": "2025-01-14T16:06:20.134Z"
+    },
+    {
+      "user": "Boxer Poli-Trick",
+      "score": 1,
+      "title": null,
+      "body": "Not sure if this app is properly maintained by developers. First try to install last night, but it won't let me. The message said it was meant for older version of phone lol. This morning I was able to install but it won't let me enroll or log in, no wonder why this app has low ratings",
+      "date": "2025-01-14T16:03:36.123Z"
+    },
+    {
+      "user": "Mike E",
+      "score": 1,
+      "title": null,
+      "body": "App doesn't even open anymore",
+      "date": "2025-01-13T17:26:04.590Z"
+    },
+    {
+      "user": "Andy Thomson",
+      "score": 1,
+      "title": null,
+      "body": "Can't even log in at the moment. When you could the constant 2fa is inconvenient, at least off mfa with an authentication app. Wish I could give zero stars.",
+      "date": "2025-01-13T12:47:16.480Z"
+    },
+    {
+      "user": "Keeann W",
+      "score": 1,
+      "title": null,
+      "body": "The app isn't opening.",
+      "date": "2025-01-12T17:08:45.702Z"
+    },
+    {
+      "user": "Ludwid Reyes",
+      "score": 1,
+      "title": null,
+      "body": "App won't log on. Just goes to a blank screen.",
+      "date": "2025-01-12T00:05:01.372Z"
+    },
+    {
+      "user": "Dan O",
+      "score": 1,
+      "title": null,
+      "body": "Site has been down for 4 tw days and no one is addressing it! Fix it!!!",
+      "date": "2025-01-10T19:46:23.154Z"
+    },
+    {
+      "user": "Stephen Kwiecinski",
+      "score": 1,
+      "title": null,
+      "body": "Horrible app. Works when it wants to. 2-factor authent every time is cumbersome. Login screen now invisible for a week, unable to track visits and earn points. Shame.",
+      "date": "2025-01-10T16:20:01.752Z"
+    },
+    {
+      "user": "Josh Beckwith",
+      "score": 1,
+      "title": null,
+      "body": "Yeah same here as every one else, app won't load. It used to though a couple months ago when I last check. Probably needs to be debugged and updated.",
+      "date": "2025-01-10T13:18:09.364Z"
+    },
+    {
+      "user": "Ashley H",
+      "score": 1,
+      "title": null,
+      "body": "The app isn't loading. I need to update my card information 😩 but I can't even get into the app.",
+      "date": "2025-01-10T12:51:45.604Z"
+    },
+    {
+      "user": "Brian",
+      "score": 1,
+      "title": null,
+      "body": "I was able to login once. Since then when I click login, it shows a blank white pop up. Have tried restarting phone/reinstalling app/checking permissions.",
+      "date": "2025-01-09T18:17:18.228Z"
+    },
+    {
+      "user": "Daniel Cloninger",
+      "score": 1,
+      "title": null,
+      "body": "Is this app broken?",
+      "date": "2025-01-09T12:09:37.760Z"
+    },
+    {
+      "user": "Katrina Pederson",
+      "score": 1,
+      "title": null,
+      "body": "The screen doesn't load to log in.",
+      "date": "2025-01-08T22:10:37.323Z"
+    },
+    {
+      "user": "Cassie kulhanek",
+      "score": 1,
+      "title": null,
+      "body": "I can't even seem to ever get it to log in after I signed up for 1 gym and no matter how many times you uninstall and reinstall it never let's you in.",
+      "date": "2025-01-08T18:12:54.201Z"
+    },
+    {
+      "user": "Sarah Tompkins",
+      "score": 1,
+      "title": null,
+      "body": "It's the absolute worst. It pretty much never works. It just gives me a blank screen when I try to login.",
+      "date": "2025-01-08T12:31:40.813Z"
+    },
+    {
+      "user": "Anthony Vela",
+      "score": 1,
+      "title": null,
+      "body": "It's very convoluted and never loads. Worst app and experience with any program I've ever used. If you can finally get it going and view the gym list to see if it's even worth it for you then it's fine cause you don't ever have to use the app. Screenshot your card to provide to gyms or you will regret it. The app is garbage but the actual service of being able to go to multiple gyms is awesome. If only they had a somewhat decent app it would be great, too bad tho.",
+      "date": "2025-01-08T04:22:57.878Z"
+    },
+    {
+      "user": "Emmanuel Szepieniec",
+      "score": 1,
+      "title": null,
+      "body": "Having issues logging in. Did the 2 step verification like 10 times and i still can't login.",
+      "date": "2025-01-02T22:02:57.662Z"
+    },
+    {
+      "user": "Matt C",
+      "score": 1,
+      "title": null,
+      "body": "Unable to login or use",
+      "date": "2025-01-02T19:27:00.690Z"
+    },
+    {
+      "user": "Alicia Royer",
+      "score": 1,
+      "title": null,
+      "body": "The app has never worked once for me.",
+      "date": "2024-11-30T12:34:06.463Z"
+    }
+  ]
+}

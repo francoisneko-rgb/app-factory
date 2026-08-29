@@ -1,0 +1,554 @@
+[
+  {
+    "keyword": "triathlon",
+    "popularity": "18",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "spinning",
+    "popularity": "12",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "longboard",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wilderness",
+    "popularity": "5",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bushcraft",
+    "popularity": "5",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fire starting",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knot",
+    "popularity": "42",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knots",
+    "popularity": "17",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cpr",
+    "popularity": "28",
+    "competitiveness": "64",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "emergency",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "disaster",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "earthquake",
+    "popularity": "56",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tsunami",
+    "popularity": "27",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "flood",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hurricane",
+    "popularity": "5",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tornado",
+    "popularity": "5",
+    "competitiveness": "47",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wildfire",
+    "popularity": "5",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "off grid",
+    "popularity": "6",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "solar",
+    "popularity": "44",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Solar SmashPlanet Destruction Simulator",
+        "rating": "4.78",
+        "ratings_count": "2.3K"
+      },
+      {
+        "rank": "2",
+        "app": "Solar System SimSpace & Planet Physics Sandbox",
+        "rating": "4.52",
+        "ratings_count": "83*"
+      },
+      {
+        "rank": "3",
+        "app": "SkyView® LiteExplore the Universe",
+        "rating": "4.94",
+        "ratings_count": "35*"
+      },
+      {
+        "rank": "4",
+        "app": "mySolarEdge",
+        "rating": "2.50",
+        "ratings_count": "38*"
+      },
+      {
+        "rank": "5",
+        "app": "Enphase Enlighten",
+        "rating": "4.43",
+        "ratings_count": "670*"
+      },
+      {
+        "rank": "6",
+        "app": "Solar System Scope",
+        "rating": "5.00",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "7",
+        "app": "SOLARMAN Smart",
+        "rating": "4.00",
+        "ratings_count": "1*"
+      },
+      {
+        "rank": "8",
+        "app": "Solar Smash 2D: Space GamePlanet Destruction Sandbox",
+        "rating": "4.48",
+        "ratings_count": "39*"
+      },
+      {
+        "rank": "9",
+        "app": "City Smash: Sandbox GameEarth Demolition Simulator",
+        "rating": "4.68",
+        "ratings_count": "298*"
+      },
+      {
+        "rank": "10",
+        "app": "SunStrong Connect",
+        "rating": "1.55",
+        "ratings_count": "16*"
+      }
+    ]
+  },
+  {
+    "keyword": "water filter",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "foraging",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "animal tracks",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "barometer",
+    "popularity": "8",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "topographic",
+    "popularity": "5",
+    "competitiveness": "76",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "topo map",
+    "popularity": "5",
+    "competitiveness": "81",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trail map",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "compass",
+    "popularity": "63",
+    "competitiveness": "65",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Compass",
+        "rating": "3.56",
+        "ratings_count": "43*"
+      },
+      {
+        "rank": "2",
+        "app": "Compass: Real Estate & HomesBuy, Sell, and Rent Properties",
+        "rating": "3",
+        "ratings_count": "1484.9"
+      },
+      {
+        "rank": "3",
+        "app": "myCOMPASS PA",
+        "rating": "4.78",
+        "ratings_count": "1.1K"
+      },
+      {
+        "rank": "4",
+        "app": "Compass & GPSQuick Compass for Directions",
+        "rating": "5",
+        "ratings_count": "2354.5"
+      },
+      {
+        "rank": "5",
+        "app": "Compass TimeTime and Attendance",
+        "rating": "4.61",
+        "ratings_count": "47*"
+      },
+      {
+        "rank": "6",
+        "app": "Compass°Simple Large Display Compass",
+        "rating": "4.79",
+        "ratings_count": "104*"
+      },
+      {
+        "rank": "7",
+        "app": "Precision Compass Pro—Live GPSCompass with GPS & location",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Compass ×#1 design",
+        "rating": "4.00",
+        "ratings_count": "10*"
+      },
+      {
+        "rank": "9",
+        "app": "Compass∞The #1 Compass Navigation App",
+        "rating": "4.50",
+        "ratings_count": "15*"
+      },
+      {
+        "rank": "10",
+        "app": "Offline CompassCompass offline",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "altimeter",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gpx",
+    "popularity": "8",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "waypoint",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "star",
+    "popularity": "57",
+    "competitiveness": "86",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "stargazing",
+    "popularity": "8",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "constellation",
+    "popularity": "46",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aurora",
+    "popularity": "50",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "My Aurora Forecast & AlertsNorthern Lights & Borealis",
+        "rating": "9",
+        "ratings_count": "3924.4"
+      },
+      {
+        "rank": "2",
+        "app": "Aurora Forecast.Northern Lights & Aurora Alert",
+        "rating": "4.45",
+        "ratings_count": "23*"
+      },
+      {
+        "rank": "3",
+        "app": "Aurora Now - Northern LightsAurora alerts and forecast",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "4",
+        "app": "Northern Light Aurora ForecastAurora Forecast and Alerts",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "5",
+        "app": "LiveWell with Advocate AuroraManage your health & wellness",
+        "rating": "4.03",
+        "ratings_count": "217*"
+      },
+      {
+        "rank": "6",
+        "app": "Hello Aurora:Alerts & ForecastNorthern Lights Tracker",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "7",
+        "app": "Aurora Forecast: BorealisNorthern Lights Alerts & Map",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Aurora Forecast & borealisNorthern Lights Alerts & Map",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "My Aurora Forecast ProNorthern Lights Alerts & Map",
+        "rating": "4.20",
+        "ratings_count": "17*"
+      },
+      {
+        "rank": "10",
+        "app": "Aurora Forecast & AlertsNorthern Lights Forecast Alert",
+        "rating": "1",
+        "ratings_count": "74.7"
+      }
+    ]
+  },
+  {
+    "keyword": "geocache",
+    "popularity": "9",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "orienteering",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ham radio",
+    "popularity": "28",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "scanner radio",
+    "popularity": "54",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bug out bag",
+    "popularity": "5",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "edc",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knife",
+    "popularity": "9",
+    "competitiveness": "64",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "reload",
+    "popularity": "6",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "walkie talkie",
+    "popularity": "58",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": [
+      {
+        "rank": 1,
+        "app": "!!",
+        "rating": "4.58",
+        "ratings_count": "254*"
+      },
+      {
+        "rank": 2,
+        "app": "!!",
+        "rating": "4.25",
+        "ratings_count": "153*"
+      },
+      {
+        "rank": 3,
+        "app": "!!",
+        "rating": "4.11",
+        "ratings_count": "11*"
+      },
+      {
+        "rank": 4,
+        "app": "!!",
+        "rating": "4.00",
+        "ratings_count": "8*"
+      },
+      {
+        "rank": 5,
+        "app": "!!",
+        "rating": "4.66",
+        "ratings_count": "42*"
+      },
+      {
+        "rank": 6,
+        "app": "!!",
+        "rating": "1.00",
+        "ratings_count": "30*"
+      },
+      {
+        "rank": 7,
+        "app": "!!",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 8,
+        "app": "!!",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 9,
+        "app": "!!",
+        "rating": "7",
+        "ratings_count": "454.4"
+      },
+      {
+        "rank": 10,
+        "app": "!!",
+        "rating": "4.67",
+        "ratings_count": "20*"
+      }
+    ]
+  },
+  {
+    "keyword": "morse code",
+    "popularity": "7",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  }
+]

@@ -1,0 +1,16 @@
+keyword,exact_title,avg_score,min_score,cluster,verdict
+fall detection,1,2.60,1.92,sante-seniors,OPPORTUNITE FORTE - apps mediocres
+local llm,0,3.44,2.64,ia-ondevice,OPPORTUNITE - IA locale emergeante
+adhd kids,0,4.06,2.83,neurodiversite,OPPORTUNITE - ADHD enfants
+dance app,0,4.09,3.33,fitness-ludique,OPPORTUNITE
+fanfiction,4,3.72,1.48,lecture-ecriture,OPPORTUNITE - lecteurs mal servis
+transcribe app,0,4.33,3.89,productivite-ia,MOYEN (leaders bons)
+ramadan tracker,1,4.23,2.20,religion-islam,MOYEN - sous-niche
+executive function,1,4.40,3.77,neurodiversite,MOYEN
+symptom checker,4,3.89,2.63,sante,MOYEN - satures Ada/WebMD
+blood glucose,2,4.19,2.69,diabete,SATURE (mySugr leaders)
+tinnitus,10,4.16,3.61,sante-auditive,SATURE
+burnout,10,4.15,4.11,sante-mentale,SATURE
+balance app,1,4.32,3.57,meditation-budget,MOYEN
+bible study,4,4.54,3.07,religion-chretienne,SATURE (page1 bonne)
+quran audio,2,4.66,4.13,religion-islam,SATURE

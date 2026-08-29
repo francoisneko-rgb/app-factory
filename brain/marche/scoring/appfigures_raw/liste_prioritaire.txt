@@ -1,0 +1,38 @@
+# PEPITES (demande forte + comp battable) - a capturer en priorite
+home workout
+yoga
+habit tracker
+75 hard
+weight loss
+# AUTRES FORTE DEMANDE (a capturer related+rankings)
+fitness
+meditation
+running
+walking
+sleep tracker
+journal
+language learning
+learn english
+budget
+# CLUSTERS VALIDES
+voice changer
+passport photo
+ai photo generator
+room planner
+adhd planner
+# BIEN-ETRE / SANTE
+calorie counter
+intermittent fasting
+water tracker
+period tracker
+gratitude
+manifestation
+# EDUCATION
+flashcards
+vocabulary
+# DIVERS a forte demande
+timer
+stopwatch
+calendar
+password manager
+weather

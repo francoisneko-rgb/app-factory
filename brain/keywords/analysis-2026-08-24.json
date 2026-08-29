@@ -1,0 +1,8387 @@
+{
+  "summary": [
+    {
+      "root": "AR sports kids",
+      "popularity": 96,
+      "competition": 86,
+      "topScoreAvg": 4.41,
+      "topScoreMin": 4.17,
+      "terms": 1,
+      "opportunity": 10
+    },
+    {
+      "root": "lock",
+      "popularity": 99,
+      "competition": 89,
+      "topScoreAvg": 4.62,
+      "topScoreMin": 3.8,
+      "terms": 8,
+      "opportunity": 10,
+      "weakLeader": true
+    },
+    {
+      "root": "control",
+      "popularity": 99,
+      "competition": 89,
+      "topScoreAvg": 4.5,
+      "topScoreMin": 2.32,
+      "terms": 8,
+      "opportunity": 10,
+      "weakLeader": true
+    },
+    {
+      "root": "stream",
+      "popularity": 93,
+      "competition": 83,
+      "topScoreAvg": 4.5,
+      "topScoreMin": 3.01,
+      "terms": 8,
+      "opportunity": 10,
+      "weakLeader": true
+    },
+    {
+      "root": "home",
+      "popularity": 92,
+      "competition": 82,
+      "topScoreAvg": 4.58,
+      "topScoreMin": 3.4,
+      "terms": 8,
+      "opportunity": 10,
+      "weakLeader": true
+    },
+    {
+      "root": "body tracking games",
+      "popularity": 97,
+      "competition": 88,
+      "topScoreAvg": 4.58,
+      "topScoreMin": 3.96,
+      "terms": 8,
+      "opportunity": 9,
+      "weakLeader": true
+    },
+    {
+      "root": "smart",
+      "popularity": 92,
+      "competition": 83,
+      "topScoreAvg": 4.49,
+      "topScoreMin": 2.43,
+      "terms": 8,
+      "opportunity": 9,
+      "weakLeader": true
+    },
+    {
+      "root": "creator",
+      "popularity": 99,
+      "competition": 91,
+      "topScoreAvg": 4.68,
+      "topScoreMin": 3.76,
+      "terms": 8,
+      "opportunity": 8,
+      "weakLeader": true
+    },
+    {
+      "root": "helper",
+      "popularity": 99,
+      "competition": 91,
+      "topScoreAvg": 4.69,
+      "topScoreMin": 4.43,
+      "terms": 8,
+      "opportunity": 8
+    },
+    {
+      "root": "motion games",
+      "popularity": 98,
+      "competition": 91,
+      "topScoreAvg": 4.65,
+      "topScoreMin": 4.45,
+      "terms": 8,
+      "opportunity": 7
+    },
+    {
+      "root": "fitness",
+      "popularity": 99,
+      "competition": 92,
+      "topScoreAvg": 4.71,
+      "topScoreMin": 3.2,
+      "terms": 8,
+      "opportunity": 7,
+      "weakLeader": true
+    },
+    {
+      "root": "remote",
+      "popularity": 99,
+      "competition": 92,
+      "topScoreAvg": 4.66,
+      "topScoreMin": 4.04,
+      "terms": 8,
+      "opportunity": 7
+    },
+    {
+      "root": "kids",
+      "popularity": 100,
+      "competition": 94,
+      "topScoreAvg": 4.67,
+      "topScoreMin": 4.3,
+      "terms": 8,
+      "opportunity": 6
+    },
+    {
+      "root": "baby",
+      "popularity": 99,
+      "competition": 93,
+      "topScoreAvg": 4.74,
+      "topScoreMin": 4.07,
+      "terms": 8,
+      "opportunity": 6
+    },
+    {
+      "root": "battery",
+      "popularity": 99,
+      "competition": 93,
+      "topScoreAvg": 4.55,
+      "topScoreMin": 3.39,
+      "terms": 8,
+      "opportunity": 6,
+      "weakLeader": true
+    },
+    {
+      "root": "interactive motion kids",
+      "popularity": 100,
+      "competition": 95,
+      "topScoreAvg": 4.73,
+      "topScoreMin": 4.21,
+      "terms": 9,
+      "opportunity": 5
+    },
+    {
+      "root": "tool",
+      "popularity": 100,
+      "competition": 95,
+      "topScoreAvg": 4.69,
+      "topScoreMin": 4.32,
+      "terms": 9,
+      "opportunity": 5
+    },
+    {
+      "root": "draw",
+      "popularity": 99,
+      "competition": 94,
+      "topScoreAvg": 4.69,
+      "topScoreMin": 4.22,
+      "terms": 8,
+      "opportunity": 5
+    },
+    {
+      "root": "relax",
+      "popularity": 99,
+      "competition": 94,
+      "topScoreAvg": 4.67,
+      "topScoreMin": 3.4,
+      "terms": 8,
+      "opportunity": 5,
+      "weakLeader": true
+    },
+    {
+      "root": "routine",
+      "popularity": 99,
+      "competition": 94,
+      "topScoreAvg": 4.71,
+      "topScoreMin": 2.67,
+      "terms": 8,
+      "opportunity": 5,
+      "weakLeader": true
+    },
+    {
+      "root": "map",
+      "popularity": 100,
+      "competition": 95,
+      "topScoreAvg": 4.73,
+      "topScoreMin": 4.42,
+      "terms": 8,
+      "opportunity": 5
+    },
+    {
+      "root": "gps",
+      "popularity": 93,
+      "competition": 88,
+      "topScoreAvg": 4.63,
+      "topScoreMin": 3.54,
+      "terms": 8,
+      "opportunity": 5,
+      "weakLeader": true
+    },
+    {
+      "root": "active games for kids",
+      "popularity": 100,
+      "competition": 96,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.3,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "reader",
+      "popularity": 99,
+      "competition": 95,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.19,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "camera",
+      "popularity": 98,
+      "competition": 94,
+      "topScoreAvg": 4.72,
+      "topScoreMin": 4.2,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "photo",
+      "popularity": 100,
+      "competition": 96,
+      "topScoreAvg": 4.65,
+      "topScoreMin": 1.69,
+      "terms": 9,
+      "opportunity": 4,
+      "weakLeader": true
+    },
+    {
+      "root": "family",
+      "popularity": 99,
+      "competition": 95,
+      "topScoreAvg": 4.7,
+      "topScoreMin": 4.46,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "language",
+      "popularity": 100,
+      "competition": 96,
+      "topScoreAvg": 4.72,
+      "topScoreMin": 4.19,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "money",
+      "popularity": 100,
+      "competition": 96,
+      "topScoreAvg": 4.72,
+      "topScoreMin": 3.67,
+      "terms": 8,
+      "opportunity": 4,
+      "weakLeader": true
+    },
+    {
+      "root": "shop",
+      "popularity": 94,
+      "competition": 90,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.3,
+      "terms": 9,
+      "opportunity": 4
+    },
+    {
+      "root": "food",
+      "popularity": 99,
+      "competition": 95,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.39,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "clock",
+      "popularity": 94,
+      "competition": 90,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 3.94,
+      "terms": 8,
+      "opportunity": 4,
+      "weakLeader": true
+    },
+    {
+      "root": "hotel",
+      "popularity": 100,
+      "competition": 96,
+      "topScoreAvg": 4.69,
+      "topScoreMin": 2.5,
+      "terms": 8,
+      "opportunity": 4,
+      "weakLeader": true
+    },
+    {
+      "root": "bluetooth",
+      "popularity": 99,
+      "competition": 95,
+      "topScoreAvg": 4.68,
+      "topScoreMin": 4.34,
+      "terms": 8,
+      "opportunity": 4
+    },
+    {
+      "root": "pet",
+      "popularity": 99,
+      "competition": 95,
+      "topScoreAvg": 4.68,
+      "topScoreMin": 2.15,
+      "terms": 9,
+      "opportunity": 4,
+      "weakLeader": true
+    },
+    {
+      "root": "motion workout app",
+      "popularity": 99,
+      "competition": 96,
+      "topScoreAvg": 4.82,
+      "topScoreMin": 4.19,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "tracker",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.8,
+      "topScoreMin": 4.4,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "generator",
+      "popularity": 99,
+      "competition": 96,
+      "topScoreAvg": 4.8,
+      "topScoreMin": 4.39,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "planner",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.43,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "health",
+      "popularity": 93,
+      "competition": 90,
+      "topScoreAvg": 4.74,
+      "topScoreMin": 4.33,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "audio",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.81,
+      "topScoreMin": 4.44,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "art",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.44,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "brain",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.72,
+      "topScoreMin": 4.23,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "study",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.69,
+      "topScoreMin": 4.01,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "learn",
+      "popularity": 99,
+      "competition": 96,
+      "topScoreAvg": 4.76,
+      "topScoreMin": 3.56,
+      "terms": 8,
+      "opportunity": 3,
+      "weakLeader": true
+    },
+    {
+      "root": "store",
+      "popularity": 87,
+      "competition": 84,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.32,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "delivery",
+      "popularity": 87,
+      "competition": 84,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 3.93,
+      "terms": 8,
+      "opportunity": 3,
+      "weakLeader": true
+    },
+    {
+      "root": "alarm",
+      "popularity": 99,
+      "competition": 96,
+      "topScoreAvg": 4.67,
+      "topScoreMin": 3.67,
+      "terms": 8,
+      "opportunity": 3,
+      "weakLeader": true
+    },
+    {
+      "root": "cat",
+      "popularity": 100,
+      "competition": 97,
+      "topScoreAvg": 4.81,
+      "topScoreMin": 4.33,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "dog",
+      "popularity": 94,
+      "competition": 91,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.44,
+      "terms": 8,
+      "opportunity": 3
+    },
+    {
+      "root": "editor",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.62,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "player",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.79,
+      "topScoreMin": 4.51,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "guide",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.86,
+      "topScoreMin": 4.67,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "music",
+      "popularity": 97,
+      "competition": 95,
+      "topScoreAvg": 4.76,
+      "topScoreMin": 4.48,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "design",
+      "popularity": 99,
+      "competition": 97,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.34,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "sleep",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.74,
+      "topScoreMin": 4.48,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "meditation",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.85,
+      "topScoreMin": 4.33,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "focus",
+      "popularity": 93,
+      "competition": 91,
+      "topScoreAvg": 4.79,
+      "topScoreMin": 4.62,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "math",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.45,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "recipe",
+      "popularity": 99,
+      "competition": 97,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.34,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "water",
+      "popularity": 99,
+      "competition": 97,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.38,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "habit",
+      "popularity": 87,
+      "competition": 85,
+      "topScoreAvg": 4.86,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "travel",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.2,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "news",
+      "popularity": 99,
+      "competition": 97,
+      "topScoreAvg": 4.74,
+      "topScoreMin": 4.5,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "read",
+      "popularity": 100,
+      "competition": 98,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.33,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "write",
+      "popularity": 99,
+      "competition": 97,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.47,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "boost",
+      "popularity": 97,
+      "competition": 95,
+      "topScoreAvg": 4.71,
+      "topScoreMin": 3.62,
+      "terms": 8,
+      "opportunity": 2,
+      "weakLeader": true
+    },
+    {
+      "root": "car",
+      "popularity": 81,
+      "competition": 79,
+      "topScoreAvg": 4.73,
+      "topScoreMin": 4.08,
+      "terms": 8,
+      "opportunity": 2
+    },
+    {
+      "root": "pose estimation yoga",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.85,
+      "topScoreMin": 4.78,
+      "terms": 4,
+      "opportunity": 1
+    },
+    {
+      "root": "camera yoga app",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.85,
+      "topScoreMin": 4.52,
+      "terms": 4,
+      "opportunity": 1
+    },
+    {
+      "root": "game",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.53,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "manager",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.84,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "workout",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.85,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "video",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.81,
+      "topScoreMin": 4.66,
+      "terms": 9,
+      "opportunity": 1
+    },
+    {
+      "root": "sound",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.64,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "puzzle",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "budget",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.82,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "finance",
+      "popularity": 94,
+      "competition": 93,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "invest",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.66,
+      "terms": 9,
+      "opportunity": 1
+    },
+    {
+      "root": "weather",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.86,
+      "topScoreMin": 4.6,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "flight",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.71,
+      "terms": 9,
+      "opportunity": 1
+    },
+    {
+      "root": "book",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.82,
+      "topScoreMin": 4.56,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "pdf",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.82,
+      "topScoreMin": 4.62,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "file",
+      "popularity": 99,
+      "competition": 98,
+      "topScoreAvg": 4.74,
+      "topScoreMin": 4.5,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "clean",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.8,
+      "topScoreMin": 4.62,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "security",
+      "popularity": 99,
+      "competition": 98,
+      "topScoreAvg": 4.75,
+      "topScoreMin": 4.56,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "vpn",
+      "popularity": 100,
+      "competition": 99,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.68,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "cast",
+      "popularity": 99,
+      "competition": 98,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.58,
+      "terms": 9,
+      "opportunity": 1
+    },
+    {
+      "root": "wifi",
+      "popularity": 99,
+      "competition": 98,
+      "topScoreAvg": 4.78,
+      "topScoreMin": 4.56,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "parking",
+      "popularity": 50,
+      "competition": 49,
+      "topScoreAvg": 4.82,
+      "topScoreMin": 4.45,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "sport",
+      "popularity": 50,
+      "competition": 49,
+      "topScoreAvg": 4.87,
+      "topScoreMin": 4.8,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "football",
+      "popularity": 50,
+      "competition": 49,
+      "topScoreAvg": 4.84,
+      "topScoreMin": 4.56,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "timer",
+      "popularity": 56,
+      "competition": 55,
+      "topScoreAvg": 4.84,
+      "topScoreMin": 4.75,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "counter",
+      "popularity": 50,
+      "competition": 49,
+      "topScoreAvg": 4.87,
+      "topScoreMin": 4.71,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "calc",
+      "popularity": 50,
+      "competition": 49,
+      "topScoreAvg": 4.89,
+      "topScoreMin": 4.77,
+      "terms": 8,
+      "opportunity": 1
+    },
+    {
+      "root": "camera fitness kids",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.91,
+      "topScoreMin": 4.82,
+      "terms": 1,
+      "opportunity": 0
+    },
+    {
+      "root": "jump and run camera",
+      "popularity": 98,
+      "competition": 98,
+      "topScoreAvg": 4.79,
+      "topScoreMin": 4.71,
+      "terms": 1,
+      "opportunity": 0
+    },
+    {
+      "root": "AI fitness tracker camera",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.94,
+      "topScoreMin": 4.87,
+      "terms": 1,
+      "opportunity": 0
+    },
+    {
+      "root": "form checker workout",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.92,
+      "topScoreMin": 4.78,
+      "terms": 4,
+      "opportunity": 0
+    },
+    {
+      "root": "interactive home workout",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.88,
+      "topScoreMin": 4.7,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "bodyweight fitness game",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.88,
+      "topScoreMin": 4.84,
+      "terms": 1,
+      "opportunity": 0
+    },
+    {
+      "root": "scanner",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.86,
+      "topScoreMin": 4.74,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "quiz",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.84,
+      "topScoreMin": 4.77,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "crypto",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.77,
+      "topScoreMin": 4.65,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "diet",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.83,
+      "topScoreMin": 4.58,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "note",
+      "popularity": 100,
+      "competition": 100,
+      "topScoreAvg": 4.87,
+      "topScoreMin": 4.78,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "speed",
+      "popularity": 50,
+      "competition": 50,
+      "topScoreAvg": 4.86,
+      "topScoreMin": 4.77,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "running",
+      "popularity": 50,
+      "competition": 50,
+      "topScoreAvg": 4.79,
+      "topScoreMin": 4.58,
+      "terms": 8,
+      "opportunity": 0
+    },
+    {
+      "root": "yoga",
+      "popularity": 50,
+      "competition": 50,
+      "topScoreAvg": 4.98,
+      "topScoreMin": 4.92,
+      "terms": 8,
+      "opportunity": 0
+    }
+  ],
+  "topTerms": [
+    {
+      "root": "active games for kids",
+      "terms": [
+        {
+          "term": "active games for kids outdoors",
+          "p": 100,
+          "c": 86,
+          "opp": 14,
+          "gpLeader": {
+            "title": "Wild Animals VR Kid Game",
+            "score": 3.75
+          },
+          "iosLeader": {
+            "title": "Messy Summer Camp - Outdoor Adventures for Kids",
+            "score": 2.76
+          }
+        },
+        {
+          "term": "active games for kids camp",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Little Panda’s Camping Trip",
+            "score": 4.12
+          },
+          "iosLeader": {
+            "title": "Messy Summer Camp - Outdoor Adventures for Kids",
+            "score": 2.76
+          }
+        },
+        {
+          "term": "active games for kids in the classroom",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "PBS KIDS Games",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "Kids: Learning Games",
+            "score": null
+          }
+        },
+        {
+          "term": "active games for kids",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "PBS KIDS Games",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "Kids activity book",
+            "score": 4
+          }
+        },
+        {
+          "term": "active games for kids to play inside",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "PBS KIDS Games",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "PBS KIDS Games",
+            "score": 4.35
+          }
+        }
+      ]
+    },
+    {
+      "root": "motion games",
+      "terms": [
+        {
+          "term": "motion games",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Motion Sport Games AR",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Hand Motion Game",
+            "score": 5
+          }
+        },
+        {
+          "term": "motion games for kids",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Tilt it! Kids Motion Games",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Games for kids 3 - 5 year olds",
+            "score": 4.2
+          }
+        },
+        {
+          "term": "motion games for ps5",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Motion Sport Games AR",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "PS Remote Play",
+            "score": 3.37
+          }
+        },
+        {
+          "term": "motion games console",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Motion Sport Games AR",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Motion Sports 3D",
+            "score": 2.33
+          }
+        },
+        {
+          "term": "motion games for android",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Motion Sport Games AR",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "CrazyGames: Play 1500+ Games",
+            "score": 4.72
+          }
+        }
+      ]
+    },
+    {
+      "root": "body tracking games",
+      "terms": [
+        {
+          "term": "body tracking vr games",
+          "p": 96,
+          "c": 76,
+          "opp": 20,
+          "gpLeader": {
+            "title": "Driver4VR: Full Body Tracking",
+            "score": 2.17
+          },
+          "iosLeader": {
+            "title": "Driver4VR: Full Body Tracking",
+            "score": 3.5
+          }
+        },
+        {
+          "term": "body tracking games",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "PinoFBT",
+            "score": 2.76
+          },
+          "iosLeader": {
+            "title": "Driver4VR: Full Body Tracking",
+            "score": 3.5
+          }
+        },
+        {
+          "term": "motion tracking games for kids",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Elev8 - Motion Tracking Games",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Tilt it! Kids Motion Games",
+            "score": null
+          }
+        },
+        {
+          "term": "motion tracking games for android",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Elev8 - Motion Tracking Games",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Games Tracker",
+            "score": 4.32
+          }
+        },
+        {
+          "term": "full body tracking games",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Driver4VR: Full Body Tracking",
+            "score": 2.17
+          },
+          "iosLeader": {
+            "title": "Driver4VR: Full Body Tracking",
+            "score": 3.5
+          }
+        }
+      ]
+    },
+    {
+      "root": "AR sports kids",
+      "terms": [
+        {
+          "term": "AR sports kids",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "AR Sports : Augmented Reality",
+            "score": 3.17
+          },
+          "iosLeader": {
+            "title": "AR Sports : Augmented Reality",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "camera fitness kids",
+      "terms": [
+        {
+          "term": "camera fitness kids",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Kids Exercise: Kids Workout",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Kids Workout: Exercise at Home",
+            "score": 4.63
+          }
+        }
+      ]
+    },
+    {
+      "root": "jump and run camera",
+      "terms": [
+        {
+          "term": "jump and run camera",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "RunCam App",
+            "score": 1
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        }
+      ]
+    },
+    {
+      "root": "interactive motion kids",
+      "terms": [
+        {
+          "term": "interactive motion kids",
+          "p": 100,
+          "c": 86,
+          "opp": 14,
+          "gpLeader": {
+            "title": "Motion Sport Games AR",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "KIDS⁢",
+            "score": 3.41
+          }
+        },
+        {
+          "term": "interactive motion games for kids",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Tilt it! Kids Motion Games",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Hand Strike",
+            "score": 4.52
+          }
+        },
+        {
+          "term": "interactive colour games for preschoolers",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Colors & Shapes: Coloring game",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Toddler Learning Game-EduKitty",
+            "score": 4.2
+          }
+        },
+        {
+          "term": "interactive kids movement video",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Kids Exercise: Kids Workout",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "GoNoodle - Kids Videos",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "interactive motion racing game kids",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Hot Wheels Unlimited",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Rebel Racing",
+            "score": 4.75
+          }
+        }
+      ]
+    },
+    {
+      "root": "AI fitness tracker camera",
+      "terms": [
+        {
+          "term": "AI fitness tracker camera",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Hevy - Gym Log Workout Tracker",
+            "score": 4.87
+          },
+          "iosLeader": {
+            "title": "Zing AI: Home & Gym Workouts",
+            "score": 4.77
+          }
+        }
+      ]
+    },
+    {
+      "root": "form checker workout",
+      "terms": [
+        {
+          "term": "form checker workout",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "BodBot AI Workout Planner",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "CueForm: Exercise Form Checker",
+            "score": null
+          }
+        },
+        {
+          "term": "form check workout",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Gym Lens: AI Form Check Coach",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Gym Assistant - AI Form Check",
+            "score": null
+          }
+        },
+        {
+          "term": "workout form checker",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "BodBot AI Workout Planner",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Formlit - AI Form Coach",
+            "score": null
+          }
+        },
+        {
+          "term": "workout form checker app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Lyfta: Gym Log Workout Tracker",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Formlit - AI Form Coach",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "pose estimation yoga",
+      "terms": [
+        {
+          "term": "pose estimation yoga",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Yoga Studio: Poses & Classes",
+            "score": 3.9
+          },
+          "iosLeader": {
+            "title": "Tummee: Yoga Teachers Platform",
+            "score": null
+          }
+        },
+        {
+          "term": "yoga-pose estimation github",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Yoga - Poses & Classes",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "Muscle & Motion: Yoga",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "end of yoga pose",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Yoga - Poses & Classes",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "Muscle & Motion: Yoga",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "purpose of yoga poses",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Daily Yoga ®: Yoga for Fitness",
+            "score": 4.11
+          },
+          "iosLeader": {
+            "title": "Yoga Poses — 250 yoga poses with video tutorials",
+            "score": 4.16
+          }
+        }
+      ]
+    },
+    {
+      "root": "interactive home workout",
+      "terms": [
+        {
+          "term": "interactive things to do at home",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Vacation Home - Merge & Design",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Design Masters: Home Simulator",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "interactive home workout",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "CITYROW: at home fitness",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "online home workout",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Home Workout - Fitness Planner",
+            "score": 4.7
+          }
+        },
+        {
+          "term": "online home workout classes",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Mindbody: Fitness & Wellness",
+            "score": 4.9
+          }
+        },
+        {
+          "term": "online home workout programs",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Home Workout - Fitness Planner",
+            "score": 4.7
+          }
+        }
+      ]
+    },
+    {
+      "root": "camera yoga app",
+      "terms": [
+        {
+          "term": "camera yoga app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Yoga Go Fitness & Yoga Workout",
+            "score": 4.63
+          },
+          "iosLeader": {
+            "title": "Daily Yoga: Fitness & Wellness",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "lenovo yoga camera app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Lenovo",
+            "score": 3.78
+          },
+          "iosLeader": {
+            "title": "Flo Yoga Studio Pittsburgh",
+            "score": 4.98
+          }
+        },
+        {
+          "term": "what is the best free camera app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Open Camera",
+            "score": 4.01
+          },
+          "iosLeader": {
+            "title": "Blackmagic Camera",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "is camera 360 app free",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Camera360 :Photo Editor&Selfie",
+            "score": 4.26
+          },
+          "iosLeader": {
+            "title": "Blackmagic Camera",
+            "score": 4.83
+          }
+        }
+      ]
+    },
+    {
+      "root": "bodyweight fitness game",
+      "terms": [
+        {
+          "term": "bodyweight fitness game",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Caliverse - Bodyweight Fitness",
+            "score": 4.57
+          },
+          "iosLeader": {
+            "title": "Idle Fitness Gym Tycoon - Game",
+            "score": 4.74
+          }
+        }
+      ]
+    },
+    {
+      "root": "motion workout app",
+      "terms": [
+        {
+          "term": "motion fitness apparel",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Motion Fitness",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Motion: Steps & Fitness Game",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "motion fitness app iphone",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Motion Fitness",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Motion: Steps & Fitness Game",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "motion fitness apple",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Google Fit: Activity Tracking",
+            "score": 3.45
+          },
+          "iosLeader": {
+            "title": "Motion: Steps & Fitness Game",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "motion fitness app",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Motion Fitness",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Motion Fitness.",
+            "score": null
+          }
+        },
+        {
+          "term": "motion fitness app review",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Muscle & Motion: Strength",
+            "score": 4.71
+          },
+          "iosLeader": {
+            "title": "Motion: Steps & Fitness Game",
+            "score": 4.59
+          }
+        }
+      ]
+    },
+    {
+      "root": "game",
+      "terms": [
+        {
+          "term": "gamehub",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "GameHub",
+            "score": 2.85
+          },
+          "iosLeader": {
+            "title": "GameHub",
+            "score": 2.27
+          }
+        },
+        {
+          "term": "game",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Plants vs. Zombies™",
+            "score": 3.74
+          },
+          "iosLeader": {
+            "title": "Subway Surfers",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "game of thrones",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Game of Thrones: Dragonfire",
+            "score": 4.63
+          },
+          "iosLeader": {
+            "title": "Game of Thrones: Dragonfire",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "game of thrones kingsroad",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Game of Thrones: Kingsroad",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Game of Thrones: Kingsroad",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "game free",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Free Fire: 9th Anniversary",
+            "score": 4.34
+          },
+          "iosLeader": {
+            "title": "Subway Surfers",
+            "score": 4.65
+          }
+        }
+      ]
+    },
+    {
+      "root": "tracker",
+      "terms": [
+        {
+          "term": "tracker series",
+          "p": 100,
+          "c": 86,
+          "opp": 14,
+          "gpLeader": {
+            "title": "Serializd - Track TV Shows",
+            "score": 3.43
+          },
+          "iosLeader": {
+            "title": "Hobi Time: TV Show Tracker",
+            "score": 4.47
+          }
+        },
+        {
+          "term": "tracker valorant",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Tracker Network Stats",
+            "score": 4.52
+          },
+          "iosLeader": {
+            "title": "Tracker Network Stats",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "tracker.gg valorant",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Tracker Network Stats",
+            "score": 4.52
+          },
+          "iosLeader": {
+            "title": "Valking.gg - Valorant Tracker",
+            "score": 4.41
+          }
+        },
+        {
+          "term": "tracker",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Period Calendar Period Tracker",
+            "score": 4.89
+          },
+          "iosLeader": {
+            "title": "Habit Tracker",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "tracker season 3",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "TV Show & Movie Tracker Trakt",
+            "score": 4.32
+          },
+          "iosLeader": {
+            "title": "MW III Camo Tracker",
+            "score": 3.63
+          }
+        }
+      ]
+    },
+    {
+      "root": "editor",
+      "terms": [
+        {
+          "term": "editorial photography",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Photoshop Express Photo Editor",
+            "score": 4.55
+          },
+          "iosLeader": {
+            "title": "Framed - Take Aesthetic Photos",
+            "score": 5
+          }
+        },
+        {
+          "term": "editor in chief",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Markdown Chief Editor .md file",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "LightX: AI Generator & Editor",
+            "score": 4.7
+          }
+        },
+        {
+          "term": "editorial design",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "VistaCreate: AI Graphic Design",
+            "score": 4.29
+          },
+          "iosLeader": {
+            "title": "Tattoo AI Design Generator－Ink",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "editor",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Video Editor & Maker - InShot",
+            "score": 4.84
+          },
+          "iosLeader": {
+            "title": "CapCut: Photo & Video Editor",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "editorial",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Picsart AI Photo Editor, Video",
+            "score": 3.98
+          },
+          "iosLeader": {
+            "title": "Editorial",
+            "score": 4.08
+          }
+        }
+      ]
+    },
+    {
+      "root": "scanner",
+      "terms": [
+        {
+          "term": "scanner",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Scanner Radio - Police Scanner",
+            "score": 4.75
+          },
+          "iosLeader": {
+            "title": "CamScanner - PDF Scanner App",
+            "score": 4.85
+          }
+        },
+        {
+          "term": "scanner app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "QR & Barcode Scanner",
+            "score": 4.8
+          },
+          "iosLeader": {
+            "title": "Scanner App. JPG, Photo to PDF",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "scanner flight",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Skyscanner Flights Hotels Cars",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Skyscanner Flights & Travel",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "scanner sky",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Skyscanner Flights Hotels Cars",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Skyscanner Flights & Travel",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "scanner online",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "CamScanner- scanner, PDF maker",
+            "score": 4.64
+          },
+          "iosLeader": {
+            "title": "TurboScan™ Pro: PDF scanner",
+            "score": 4.92
+          }
+        }
+      ]
+    },
+    {
+      "root": "reader",
+      "terms": [
+        {
+          "term": "reader digest",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Reader´s Digest Argentina",
+            "score": 4.19
+          },
+          "iosLeader": {
+            "title": "Reader's Digest",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "readership",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "2Ship",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Paperclip Social: Good Books",
+            "score": 4.33
+          }
+        },
+        {
+          "term": "reader card",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Suica and IC Card reader",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "PowerReader-Card Reader Expert",
+            "score": 1.38
+          }
+        },
+        {
+          "term": "reader",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Moon+ Reader Pro",
+            "score": 4.2
+          },
+          "iosLeader": {
+            "title": "Readwise Reader",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "readery",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Readest: EPUB & PDF Reader",
+            "score": 4.31
+          },
+          "iosLeader": {
+            "title": "Ridery: Safety rides",
+            "score": 4.66
+          }
+        }
+      ]
+    },
+    {
+      "root": "player",
+      "terms": [
+        {
+          "term": "player baby come back",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Baby Connect: Newborn Tracker",
+            "score": 4.54
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "players club",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "SCEL Players’ Club Rewards",
+            "score": 4.07
+          },
+          "iosLeader": {
+            "title": "SCEL Players’ Club Rewards",
+            "score": 2.31
+          }
+        },
+        {
+          "term": "player of the match world cup",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "FIFA World Cup 2026™",
+            "score": 3.16
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "player",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "VLC for Android",
+            "score": 4.04
+          },
+          "iosLeader": {
+            "title": "VLC media player",
+            "score": 3.71
+          }
+        },
+        {
+          "term": "playerauctions",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Marketplace: Buy, Sell, Tradet",
+            "score": 4.42
+          },
+          "iosLeader": {
+            "title": "Super Player Auction",
+            "score": 5
+          }
+        }
+      ]
+    },
+    {
+      "root": "creator",
+      "terms": [
+        {
+          "term": "creator hub",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "SkinSeoul Creator Hub",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Creator Hub: Post & Grow",
+            "score": 5
+          }
+        },
+        {
+          "term": "creator hub pubg",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "Name creator for pubg",
+            "score": 3.76
+          },
+          "iosLeader": {
+            "title": "PUBG Matches",
+            "score": 4.43
+          }
+        },
+        {
+          "term": "creator studio",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "YouTube Studio",
+            "score": 4.32
+          },
+          "iosLeader": {
+            "title": "Facebook Creator Studio",
+            "score": 4.37
+          }
+        },
+        {
+          "term": "creator alley",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Clown Alley Creator",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Comicpalooza",
+            "score": 2.83
+          }
+        },
+        {
+          "term": "creator",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Sony | Creators' App",
+            "score": 4.22
+          },
+          "iosLeader": {
+            "title": "Sony | Creators' App",
+            "score": 3.85
+          }
+        }
+      ]
+    },
+    {
+      "root": "generator",
+      "terms": [
+        {
+          "term": "generator room",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "RoomGPT AI - Interior Design",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "RoomClear: AI Room Unfurnisher",
+            "score": null
+          }
+        },
+        {
+          "term": "generator rex",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "REXNORDIC",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Idle Museum Tycoon: Art Empire",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "generator human design",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Human Design App",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Human Design Rave",
+            "score": 3
+          }
+        },
+        {
+          "term": "generator name",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Namerator: Fake Name Generator",
+            "score": 4
+          },
+          "iosLeader": {
+            "title": "Infinite Name Generator",
+            "score": 3
+          }
+        },
+        {
+          "term": "generator",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Mobile Link for Generators",
+            "score": 4.62
+          },
+          "iosLeader": {
+            "title": "Spin The Wheel - Random Picker",
+            "score": 4.87
+          }
+        }
+      ]
+    },
+    {
+      "root": "manager",
+      "terms": [
+        {
+          "term": "manager kim webtoon",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WEBTOON: Manga, Comics, Manhwa",
+            "score": 4.61
+          },
+          "iosLeader": {
+            "title": "Bang! Exclusive Webtoons",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "manager kim netflix",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Netflix",
+            "score": 4.09
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "manager line biz",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "LINE Official Account",
+            "score": 4.1
+          },
+          "iosLeader": {
+            "title": "LINE Official Account",
+            "score": 3.82
+          }
+        },
+        {
+          "term": "manager",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Soccer Manager 2026 - Football",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Soccer Manager 2026 - Football",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "manager online",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "OSM 26/27 Soccer Manager Game",
+            "score": 4.63
+          },
+          "iosLeader": {
+            "title": "Online Soccer Manager (OSM)",
+            "score": 4.7
+          }
+        }
+      ]
+    },
+    {
+      "root": "tool",
+      "terms": [
+        {
+          "term": "tooling",
+          "p": 98,
+          "c": 76,
+          "opp": 22,
+          "gpLeader": {
+            "title": "Tooling U-SME",
+            "score": 4.25
+          },
+          "iosLeader": {
+            "title": "Tooling U-SME",
+            "score": 4.4
+          }
+        },
+        {
+          "term": "toolbar",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Taskbar",
+            "score": 4.32
+          },
+          "iosLeader": {
+            "title": "Hong Kong Toolbar",
+            "score": 3.34
+          }
+        },
+        {
+          "term": "tools",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Member Tools",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "Member Tools",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "tool box",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "ToolBox Pro",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Toolbox by Paperclip",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "tool synonym",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Reverso Translate and Learn",
+            "score": 4.64
+          },
+          "iosLeader": {
+            "title": "Tool identifier: ToolFind",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "helper",
+      "terms": [
+        {
+          "term": "helper springs",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Helpering",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Toyo Springs",
+            "score": 1
+          }
+        },
+        {
+          "term": "helper",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Taskrabbit Helper",
+            "score": 2.2
+          },
+          "iosLeader": {
+            "title": "Taskrabbit Helper",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "helper utah",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Utah PTN",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Salt Lake City History Walk",
+            "score": null
+          }
+        },
+        {
+          "term": "helper bees",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Helper Hive",
+            "score": 2.69
+          },
+          "iosLeader": {
+            "title": "Helper Hive",
+            "score": 2.58
+          }
+        },
+        {
+          "term": "helper helper",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Helper Helper",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "Helper Helper",
+            "score": 4.77
+          }
+        }
+      ]
+    },
+    {
+      "root": "guide",
+      "terms": [
+        {
+          "term": "guideline tb thai",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Guideline",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Read Thai",
+            "score": 4.91
+          }
+        },
+        {
+          "term": "guideline tb",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WHO TB Guide",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Georgia TB Reference Guide",
+            "score": 5
+          }
+        },
+        {
+          "term": "guideline dm",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Guideline Central (Legacy)",
+            "score": 3.47
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "guideline uti thai",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Guideline Central (Legacy)",
+            "score": 3.47
+          },
+          "iosLeader": {
+            "title": "Read Thai",
+            "score": 4.91
+          }
+        },
+        {
+          "term": "guide",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "GetYourGuide: Travel & Tickets",
+            "score": 4.88
+          },
+          "iosLeader": {
+            "title": "GetYourGuide: Plan & Book",
+            "score": 4.89
+          }
+        }
+      ]
+    },
+    {
+      "root": "planner",
+      "terms": [
+        {
+          "term": "planner 5d free",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Planner 5D: AI Home Design",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "Planner 5D: AI Home Design",
+            "score": 4.36
+          }
+        },
+        {
+          "term": "planner 5d",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Planner 5D: AI Home Design",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "Planner 5D: AI Home Design",
+            "score": 4.36
+          }
+        },
+        {
+          "term": "planner 2026 pdf",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Journal: Notes, Planner, PDFs",
+            "score": 4.61
+          },
+          "iosLeader": {
+            "title": "Calendar - 2026",
+            "score": 2.57
+          }
+        },
+        {
+          "term": "planner microsoft",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Microsoft Planner",
+            "score": 3.91
+          },
+          "iosLeader": {
+            "title": "Microsoft Planner",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "planner",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Microsoft Planner",
+            "score": 3.91
+          },
+          "iosLeader": {
+            "title": "Structured: Daily Planner Todo",
+            "score": 4.79
+          }
+        }
+      ]
+    },
+    {
+      "root": "fitness",
+      "terms": [
+        {
+          "term": "fitness your way",
+          "p": 96,
+          "c": 59,
+          "opp": 37,
+          "gpLeader": {
+            "title": "Well onTarget Fitness Program",
+            "score": 1.23
+          },
+          "iosLeader": {
+            "title": "Prime GO",
+            "score": 2
+          }
+        },
+        {
+          "term": "fitness centers near me",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Centr: Personal Fitness App",
+            "score": 4.36
+          },
+          "iosLeader": {
+            "title": "ClassPass: Fitness, Spa, Salon",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "fitness",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Apple Fitness",
+            "score": 2.87
+          }
+        },
+        {
+          "term": "fitness tracker",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Fit: Activity Tracking",
+            "score": 3.45
+          },
+          "iosLeader": {
+            "title": "MyFitnessPal: Calorie Counter",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "fitness near me",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Fitness Court",
+            "score": 2.07
+          },
+          "iosLeader": {
+            "title": "Gym Finder: Find Fitness Workout Gyms Near Me",
+            "score": 2
+          }
+        }
+      ]
+    },
+    {
+      "root": "health",
+      "terms": [
+        {
+          "term": "health",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Google Health (Fitbit)",
+            "score": 3.63
+          },
+          "iosLeader": {
+            "title": "Apple Health",
+            "score": 3.02
+          }
+        },
+        {
+          "term": "healthland asoke",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Healthland - هيلث لاند",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "The World Spa",
+            "score": 5
+          }
+        },
+        {
+          "term": "healthland",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Healthland - هيلث لاند",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Healthland - هيلث لاند",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "healthland ekkamai",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Healthland - هيلث لاند",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Bangkok MRT BTS Map Route",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "healthy",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Samsung Health",
+            "score": 3.17
+          },
+          "iosLeader": {
+            "title": "Yuka - Food & Cosmetic Scanner",
+            "score": 4.82
+          }
+        }
+      ]
+    },
+    {
+      "root": "workout",
+      "terms": [
+        {
+          "term": "workout music",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Workout Motivational Music",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Fit Radio: Train Inspired",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "workout",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Home Workout - No Equipments",
+            "score": 4.88
+          }
+        },
+        {
+          "term": "workout cool",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Workout.cool: Fitness Coach",
+            "score": 2
+          }
+        },
+        {
+          "term": "workout meaning",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Workout For Women & Men",
+            "score": 4.31
+          }
+        },
+        {
+          "term": "workout plan",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Home Workout - No Equipment",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Fitbod: Gym & Fitness Planner",
+            "score": 4.81
+          }
+        }
+      ]
+    },
+    {
+      "root": "camera",
+      "terms": [
+        {
+          "term": "camera angle",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Angle Cam - Geotag Camera",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "RICOH THETA",
+            "score": 4.57
+          }
+        },
+        {
+          "term": "camera test",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "- Camera2 Test -",
+            "score": 4.29
+          },
+          "iosLeader": {
+            "title": "Halide Mark III - Pro Camera",
+            "score": 4.45
+          }
+        },
+        {
+          "term": "camera 360",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Camera360 :Photo Editor&Selfie",
+            "score": 4.26
+          },
+          "iosLeader": {
+            "title": "Camera360-Selfie Editor",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "camera",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Pixel Camera",
+            "score": 2.9
+          },
+          "iosLeader": {
+            "title": "Camera",
+            "score": 3.39
+          }
+        },
+        {
+          "term": "camera lens",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Lens",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Dazz Cam - Vintage Camera",
+            "score": 4.75
+          }
+        }
+      ]
+    },
+    {
+      "root": "photo",
+      "terms": [
+        {
+          "term": "photopea",
+          "p": 98,
+          "c": 71,
+          "opp": 27,
+          "gpLeader": {
+            "title": "Photopea - Photo Editor",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Photopea AI: Photo Generator",
+            "score": 3.94
+          }
+        },
+        {
+          "term": "photobooth",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Licowa -Photobooth & Wallpaper",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "Sera - Vintage Photobooth",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "photo",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Photos",
+            "score": 4.4
+          },
+          "iosLeader": {
+            "title": "Google Photos: Backup & Edit",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "photos",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Photos",
+            "score": 4.4
+          },
+          "iosLeader": {
+            "title": "Google Photos: Backup & Edit",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "photoshop",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Photoshop Express Photo Editor",
+            "score": 4.55
+          },
+          "iosLeader": {
+            "title": "Photoshop Express Photo Editor",
+            "score": 4.75
+          }
+        }
+      ]
+    },
+    {
+      "root": "video",
+      "terms": [
+        {
+          "term": "video",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "YouTube",
+            "score": 3.85
+          },
+          "iosLeader": {
+            "title": "CapCut: Photo & Video Editor",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "videos",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "YouTube",
+            "score": 3.85
+          },
+          "iosLeader": {
+            "title": "YouTube",
+            "score": 4.67
+          }
+        },
+        {
+          "term": "video downloader",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Video Downloader",
+            "score": 4.72
+          },
+          "iosLeader": {
+            "title": "Float: Video Saver",
+            "score": 4.69
+          }
+        },
+        {
+          "term": "video to mp3",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Video to MP3 - Video to Audio",
+            "score": 4.76
+          },
+          "iosLeader": {
+            "title": "Video To MP3 Pro Converter",
+            "score": 4.38
+          }
+        },
+        {
+          "term": "video to gif",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Convert Video to GIF",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "ImgPlay: GIF Maker & Meme",
+            "score": 4.75
+          }
+        }
+      ]
+    },
+    {
+      "root": "audio",
+      "terms": [
+        {
+          "term": "audiophile",
+          "p": 100,
+          "c": 93,
+          "opp": 7,
+          "gpLeader": {
+            "title": "Audiophile.fm: HiFi Radio",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Plexamp",
+            "score": 4.73
+          }
+        },
+        {
+          "term": "audioslave",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Audiolasītava",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "AD-202",
+            "score": 5
+          }
+        },
+        {
+          "term": "audiologist bangkok",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Hearing Test - Ear Audiogram",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Bangkok Guide & Tours",
+            "score": 3.67
+          }
+        },
+        {
+          "term": "audiologist",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "MindEar | Tinnitus Relief",
+            "score": 3.65
+          },
+          "iosLeader": {
+            "title": "Audiologist by tonen",
+            "score": 5
+          }
+        },
+        {
+          "term": "audio",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Audible: Audiobooks & Podcasts",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Audiomack - Play Music Offline",
+            "score": 4.79
+          }
+        }
+      ]
+    },
+    {
+      "root": "music",
+      "terms": [
+        {
+          "term": "music concept",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Song GPT AI Song & Music Maker",
+            "score": 3.47
+          },
+          "iosLeader": {
+            "title": "Amare Music",
+            "score": 5
+          }
+        },
+        {
+          "term": "music",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Samsung Music",
+            "score": 3.8
+          },
+          "iosLeader": {
+            "title": "YouTube Music",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "music notes",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Musicnotes Sheet Music Player",
+            "score": 4.16
+          },
+          "iosLeader": {
+            "title": "Musicnotes: Sheet Music Reader",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "music arms",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Armstrong EXP",
+            "score": 2.84
+          },
+          "iosLeader": {
+            "title": "Arm Workout at Home with music",
+            "score": 5
+          }
+        },
+        {
+          "term": "music collection",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Music Collection",
+            "score": 4.38
+          },
+          "iosLeader": {
+            "title": "Soundmap: Find Your Songs",
+            "score": 4.76
+          }
+        }
+      ]
+    },
+    {
+      "root": "sound",
+      "terms": [
+        {
+          "term": "sound check",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "SoundCheck Live",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Decibel X:dB Sound Level Meter",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "sound effect",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "400 Sound Buttons: 150K+",
+            "score": 3.37
+          },
+          "iosLeader": {
+            "title": "100's of Buttons & Sounds Lite",
+            "score": 4.51
+          }
+        },
+        {
+          "term": "soundboard",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "400 Sound Buttons: 150K+",
+            "score": 3.37
+          },
+          "iosLeader": {
+            "title": "Meme Soundboard 2016-2026",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "sound",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SoundCloud: The Music You Love",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "SoundCloud: The Music You Love",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "soundcloud",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SoundCloud: The Music You Love",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "SoundCloud: The Music You Love",
+            "score": 4.84
+          }
+        }
+      ]
+    },
+    {
+      "root": "art",
+      "terms": [
+        {
+          "term": "arthritis",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "My Arthritis",
+            "score": 4.44
+          },
+          "iosLeader": {
+            "title": "Flare: Arthritis Support",
+            "score": 5
+          }
+        },
+        {
+          "term": "article",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Article Reader Offline",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "AllModern",
+            "score": 4.87
+          }
+        },
+        {
+          "term": "artlist",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Artlist's AI Video App Hints",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Artlist - AI Video Generator",
+            "score": 3.77
+          }
+        },
+        {
+          "term": "art",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Sketchbook",
+            "score": 4.06
+          },
+          "iosLeader": {
+            "title": "ibis Paint X",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "artfight",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Drawing Battles: Art Challenge",
+            "score": 4.53
+          },
+          "iosLeader": {
+            "title": "Discord - Talk, Play, Hang Out",
+            "score": 4.7
+          }
+        }
+      ]
+    },
+    {
+      "root": "draw",
+      "terms": [
+        {
+          "term": "drawing",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Sketchbook",
+            "score": 4.06
+          },
+          "iosLeader": {
+            "title": "AR Drawing: Sketch & Paint",
+            "score": 4.49
+          }
+        },
+        {
+          "term": "drawer",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "My Drawer",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Whiteboard: just draw together",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "draw io",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "ioDraw",
+            "score": 2.57
+          },
+          "iosLeader": {
+            "title": "Paper.io 2",
+            "score": 4.55
+          }
+        },
+        {
+          "term": "drawing ideas",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Drawing ideas. What to draw",
+            "score": 4.3
+          },
+          "iosLeader": {
+            "title": "WannaDraw",
+            "score": 4.69
+          }
+        },
+        {
+          "term": "drawing closer",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Drawing Desk: Learn to Draw",
+            "score": 4.48
+          },
+          "iosLeader": {
+            "title": "Draw Closer",
+            "score": 5
+          }
+        }
+      ]
+    },
+    {
+      "root": "design",
+      "terms": [
+        {
+          "term": "design md",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Wellness By Design, MD The Lab",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "AI LOGO : Design Creator Maker",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "design thinking",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Design Thinking",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Design Thinking",
+            "score": 3
+          }
+        },
+        {
+          "term": "designated survivor",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Last Day on Earth: Survival",
+            "score": 4.36
+          },
+          "iosLeader": {
+            "title": "PineDrama - Short Dramas",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "design",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Design Home™: House Makeover",
+            "score": 4.33
+          },
+          "iosLeader": {
+            "title": "Design Home™: House Makeover",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "designation meaning",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Sublimation Designer & Printer",
+            "score": 4.29
+          },
+          "iosLeader": {
+            "title": "Dictionary.com: English Words",
+            "score": 4.78
+          }
+        }
+      ]
+    },
+    {
+      "root": "puzzle",
+      "terms": [
+        {
+          "term": "puzzle room bangkok",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Puzzle Room Escape",
+            "score": 4.75
+          },
+          "iosLeader": {
+            "title": "Escape Room:Can you escape?",
+            "score": 4.6
+          }
+        },
+        {
+          "term": "puzzle",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Jigsaw Puzzles - Puzzle Games",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Jigsaw Puzzles - Puzzle Games",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "puzzle game",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Blockudoku®: Block Puzzle Game",
+            "score": 4.61
+          },
+          "iosLeader": {
+            "title": "Jigsaw Puzzles - Puzzle Games",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "puzzle farm",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Puzzle Farm",
+            "score": 3.88
+          },
+          "iosLeader": {
+            "title": "Tropical Crush: Lucky Match",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "puzzle room",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "The Room Three",
+            "score": 4.87
+          },
+          "iosLeader": {
+            "title": "The Room Pocket",
+            "score": 4.67
+          }
+        }
+      ]
+    },
+    {
+      "root": "brain",
+      "terms": [
+        {
+          "term": "brain fog",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Brain Fog Clear: Focus Reset",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Impulse - Brain Training",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "brainrot",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Brainrot - Reduce Screentime",
+            "score": 4.59
+          },
+          "iosLeader": {
+            "title": "Brainrot: Screen Time Control",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "brainstorm",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Xmind: Mind Map & Brainstorm",
+            "score": 4.38
+          },
+          "iosLeader": {
+            "title": "Brainstorm Test: Tricky Puzzle",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "braintrade",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Trade Brains Portal",
+            "score": 3.85
+          },
+          "iosLeader": {
+            "title": "Day Trading Simulator & Guide",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "brain",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Brain Test: Tricky Puzzles",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "Brain Test: Tricky Puzzles",
+            "score": 4.78
+          }
+        }
+      ]
+    },
+    {
+      "root": "quiz",
+      "terms": [
+        {
+          "term": "quiz",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Trivia Crack: Brain Quiz Games",
+            "score": 4.47
+          },
+          "iosLeader": {
+            "title": "Trivia Crack: Brain Quiz Games",
+            "score": 4.6
+          }
+        },
+        {
+          "term": "quizizz",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Wayground",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "Wayground",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "quizlet",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Quizlet: More than Flashcards",
+            "score": 4.68
+          },
+          "iosLeader": {
+            "title": "Quizlet: More than Flashcards",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "quizzes",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Kahoot! Play & Create Quizzes",
+            "score": 4.74
+          },
+          "iosLeader": {
+            "title": "Wayground",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "quizizz join",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Wayground",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "Wayground",
+            "score": 4.75
+          }
+        }
+      ]
+    },
+    {
+      "root": "kids",
+      "terms": [
+        {
+          "term": "kids song",
+          "p": 100,
+          "c": 86,
+          "opp": 14,
+          "gpLeader": {
+            "title": "LooLoo Kids - Nursery Rhymes",
+            "score": 4.12
+          },
+          "iosLeader": {
+            "title": "LooLoo Kids - Nursery Rhymes",
+            "score": 4.42
+          }
+        },
+        {
+          "term": "kids cinema",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Kidoodle.TV: Movies, TV, Fun!",
+            "score": 3.97
+          },
+          "iosLeader": {
+            "title": "Messenger",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "kids movies",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "YouTube Kids",
+            "score": 4.18
+          },
+          "iosLeader": {
+            "title": "YouTube Kids",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "kids cinema bangkok",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Kids Movie Night",
+            "score": 4.13
+          },
+          "iosLeader": {
+            "title": "Bangkok Guide & Tours",
+            "score": 3.67
+          }
+        },
+        {
+          "term": "kids a-z",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Kids A-Z",
+            "score": 3.89
+          },
+          "iosLeader": {
+            "title": "Kids A-Z",
+            "score": 3.61
+          }
+        }
+      ]
+    },
+    {
+      "root": "family",
+      "terms": [
+        {
+          "term": "family mart",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "全家便利商店 FamilyMart",
+            "score": 2.95
+          },
+          "iosLeader": {
+            "title": "FamilyMart VietNam",
+            "score": 2.31
+          }
+        },
+        {
+          "term": "family suki",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "My Suki",
+            "score": 3.55
+          },
+          "iosLeader": {
+            "title": "Sukhothai Thai Restaurant",
+            "score": 4.97
+          }
+        },
+        {
+          "term": "family link",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Google Family Link",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Google Family Link",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "family",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Family Link",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Virtual Families 3",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "family time",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "Parental Control FamilyTime",
+            "score": 2.87
+          },
+          "iosLeader": {
+            "title": "FamilyTime: Parental Control",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "baby",
+      "terms": [
+        {
+          "term": "baby shark",
+          "p": 96,
+          "c": 76,
+          "opp": 20,
+          "gpLeader": {
+            "title": "Baby Shark World for Kids",
+            "score": 3.2
+          },
+          "iosLeader": {
+            "title": "Pinkfong Baby Shark",
+            "score": 3.47
+          }
+        },
+        {
+          "term": "baby lyrics",
+          "p": 100,
+          "c": 86,
+          "opp": 14,
+          "gpLeader": {
+            "title": "LooLoo Kids - Nursery Rhymes",
+            "score": 4.12
+          },
+          "iosLeader": {
+            "title": "Nursery Rhymes Song With Lyrics",
+            "score": null
+          }
+        },
+        {
+          "term": "babyccino",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Babyccino",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Babyccino",
+            "score": null
+          }
+        },
+        {
+          "term": "baby cake",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Little Panda's Cake Shop",
+            "score": 4.09
+          },
+          "iosLeader": {
+            "title": "Icing on the Cake",
+            "score": 4.54
+          }
+        },
+        {
+          "term": "baby",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Baby Daybook - Newborn Tracker",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "Pregnancy + | Tracker App",
+            "score": 4.85
+          }
+        }
+      ]
+    },
+    {
+      "root": "sleep",
+      "terms": [
+        {
+          "term": "sleep paralysis",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Getting to Bed Horror",
+            "score": 2.9
+          },
+          "iosLeader": {
+            "title": "Sleep Paralysis - Umbral",
+            "score": null
+          }
+        },
+        {
+          "term": "sleep test",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "SnoreLab : Record Your Snoring",
+            "score": 4.38
+          },
+          "iosLeader": {
+            "title": "SnoreLab : Record Your Snoring",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "sleep",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Sleep as Android: Smart alarm",
+            "score": 4.59
+          },
+          "iosLeader": {
+            "title": "Sleep Cycle - Tracker & Sounds",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "sleeping cloud",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SleepCloud: Backup for Sleep",
+            "score": 4.51
+          },
+          "iosLeader": {
+            "title": "Dream Clouds: Relax & Sleep",
+            "score": null
+          }
+        },
+        {
+          "term": "sleep apnea",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SnoreLab : Record Your Snoring",
+            "score": 4.38
+          },
+          "iosLeader": {
+            "title": "SnoreLab : Record Your Snoring",
+            "score": 4.71
+          }
+        }
+      ]
+    },
+    {
+      "root": "meditation",
+      "terms": [
+        {
+          "term": "meditations marcus aurelius pdf",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Meditations - Marcus Aurelius",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "Meditations – Marcus Aurelius",
+            "score": 4.33
+          }
+        },
+        {
+          "term": "meditations marcus aurelius",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Meditations - Marcus Aurelius",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "Meditations – Marcus Aurelius",
+            "score": 4.33
+          }
+        },
+        {
+          "term": "meditation",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Insight Timer - Meditation App",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Insight Timer: Meditate, Sleep",
+            "score": 4.9
+          }
+        },
+        {
+          "term": "meditation music",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Meditation Music - meditate",
+            "score": 4.88
+          },
+          "iosLeader": {
+            "title": "Meditation Music - meditate",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "meditation meaning",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Headspace: Sleep & Meditation",
+            "score": 4.26
+          },
+          "iosLeader": {
+            "title": "Quantum Meditation",
+            "score": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "root": "relax",
+      "terms": [
+        {
+          "term": "relax massage",
+          "p": 96,
+          "c": 59,
+          "opp": 37,
+          "gpLeader": {
+            "title": "Home Massage & Wellness - RLAX",
+            "score": 4.23
+          },
+          "iosLeader": {
+            "title": "Massage・Relax Massager",
+            "score": null
+          }
+        },
+        {
+          "term": "relax time",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Calm - Sleep, Meditate, Relax",
+            "score": 4.48
+          },
+          "iosLeader": {
+            "title": "Relaxing Sounds, Sleep Easy",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "relax spa",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Relax Spa",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Spa Master",
+            "score": 4.49
+          }
+        },
+        {
+          "term": "relax place",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "Relax Place",
+            "score": 1.64
+          },
+          "iosLeader": {
+            "title": "Relax Place",
+            "score": 1.4
+          }
+        },
+        {
+          "term": "relax",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Calm - Sleep, Meditate, Relax",
+            "score": 4.48
+          },
+          "iosLeader": {
+            "title": "Destress Relaxing Games",
+            "score": 4.69
+          }
+        }
+      ]
+    },
+    {
+      "root": "focus",
+      "terms": [
+        {
+          "term": "focus film",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Movie Tracker - FlickFocus",
+            "score": 4.47
+          },
+          "iosLeader": {
+            "title": "Focus Film Rentals",
+            "score": null
+          }
+        },
+        {
+          "term": "focusrite scarlett 2i2",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Focusrite Control 2",
+            "score": 3.67
+          },
+          "iosLeader": {
+            "title": "Focusrite Control 2",
+            "score": 2.67
+          }
+        },
+        {
+          "term": "focus flight",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "FocusFlight: Focus Timer",
+            "score": 4.17
+          },
+          "iosLeader": {
+            "title": "FocusFlight - Deepfocus Timer",
+            "score": 4.85
+          }
+        },
+        {
+          "term": "focus",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "BPS Focus",
+            "score": 2.55
+          },
+          "iosLeader": {
+            "title": "BPS Focus",
+            "score": 1.71
+          }
+        },
+        {
+          "term": "focus town",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Focustown: Multiplayer Timer",
+            "score": 4.65
+          },
+          "iosLeader": {
+            "title": "Focustown: Pomodoro Timer",
+            "score": 4.76
+          }
+        }
+      ]
+    },
+    {
+      "root": "study",
+      "terms": [
+        {
+          "term": "study v3",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "V3",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "study",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "My Study Life - School Planner",
+            "score": 2.79
+          },
+          "iosLeader": {
+            "title": "Quizlet: More than Flashcards",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "study group",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "YPT - Yeolpumta",
+            "score": 4.54
+          },
+          "iosLeader": {
+            "title": "YPT - Study Group",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "studying",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Quizlet: More than Flashcards",
+            "score": 4.68
+          },
+          "iosLeader": {
+            "title": "Quizlet: More than Flashcards",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "study abroad",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Study Abroad App -Collegedunia",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Study Abroad with Leverage",
+            "score": 4.83
+          }
+        }
+      ]
+    },
+    {
+      "root": "learn",
+      "terms": [
+        {
+          "term": "learn anywhere download",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "ReadAnywhere",
+            "score": 3.32
+          },
+          "iosLeader": {
+            "title": "Teachable online courses",
+            "score": 4.62
+          }
+        },
+        {
+          "term": "learn anywhere",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Anywhere Teacher",
+            "score": 2.92
+          },
+          "iosLeader": {
+            "title": "Learn Anywhere - eggspace",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "learn corporation",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "EF Corporate Learning",
+            "score": 3.9
+          },
+          "iosLeader": {
+            "title": "LinkedIn Learning",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "learn",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Learn Python Coding - Mimo",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Imprint: Visual Micro Learning",
+            "score": 4.76
+          }
+        },
+        {
+          "term": "learning",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "LinkedIn Learning",
+            "score": 4.78
+          },
+          "iosLeader": {
+            "title": "Imprint: Visual Micro Learning",
+            "score": 4.76
+          }
+        }
+      ]
+    },
+    {
+      "root": "language",
+      "terms": [
+        {
+          "term": "languages in india",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Indilingo: Learn Any Language",
+            "score": 3.5
+          },
+          "iosLeader": {
+            "title": "Hindi by Nemo",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "language of switzerland",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "LanguageFast: Swiss German",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "SwissWay",
+            "score": null
+          }
+        },
+        {
+          "term": "language translator",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Translate",
+            "score": 4.27
+          },
+          "iosLeader": {
+            "title": "Google Translate",
+            "score": 4.29
+          }
+        },
+        {
+          "term": "language transfer",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Language Transfer",
+            "score": 4.9
+          },
+          "iosLeader": {
+            "title": "Language Transfer",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "language in spanish",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Learn Spanish for Beginners",
+            "score": 4.57
+          },
+          "iosLeader": {
+            "title": "Speak Spanish Phrasebook Lite",
+            "score": 4
+          }
+        }
+      ]
+    },
+    {
+      "root": "math",
+      "terms": [
+        {
+          "term": "matheus fernandes",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Inter Banking & Money Transfer",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "Routine Tracker: Consistency",
+            "score": null
+          }
+        },
+        {
+          "term": "math whizz",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Math Whiz",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "2nd Grade Math Worksheets for Kids Math Whizz",
+            "score": 1
+          }
+        },
+        {
+          "term": "math",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Photomath",
+            "score": 4.28
+          },
+          "iosLeader": {
+            "title": "Gauth: AI Study Companion",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "math solver",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Photomath",
+            "score": 4.28
+          },
+          "iosLeader": {
+            "title": "Photomath",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "mathematics",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Photomath",
+            "score": 4.28
+          },
+          "iosLeader": {
+            "title": "Photomath",
+            "score": 4.77
+          }
+        }
+      ]
+    },
+    {
+      "root": "money",
+      "terms": [
+        {
+          "term": "moneyball",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "Money Ball",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Moneyball Sportswear",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "money tree",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Money Tree: Cash Grow Game",
+            "score": 4.35
+          },
+          "iosLeader": {
+            "title": "Money Tree: Cash Making Games",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "money order near me",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "MoneyGram® Money Transfers App",
+            "score": 4.61
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "money",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Cash App",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Money App - Cash Advance",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "moneygram",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "MoneyGram® Money Transfers App",
+            "score": 4.61
+          },
+          "iosLeader": {
+            "title": "MoneyGram® Money Transfers App",
+            "score": 4.86
+          }
+        }
+      ]
+    },
+    {
+      "root": "budget",
+      "terms": [
+        {
+          "term": "budget thailand",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Budget Car Rental",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Thailand Hotel Booking",
+            "score": null
+          }
+        },
+        {
+          "term": "budget air",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Budget Air Tickets",
+            "score": 3.96
+          },
+          "iosLeader": {
+            "title": "Budget Flights: Fly Cheap",
+            "score": 4.07
+          }
+        },
+        {
+          "term": "budget rent a car japan",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Budget Car Rental",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Budget – Car Rental",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "budget",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Budget Car Rental",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Budget app - spending tracker",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "budget car rental",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Budget Car Rental",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Budget – Car Rental",
+            "score": 4.61
+          }
+        }
+      ]
+    },
+    {
+      "root": "crypto",
+      "terms": [
+        {
+          "term": "crypto",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Crypto.com: Trade Every Market",
+            "score": 4.41
+          },
+          "iosLeader": {
+            "title": "Crypto.com: Trade Every Market",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "cryptocurrency",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "BTCC - Trade Bitcoin & Crypto",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Coinbase: Buy Crypto & Stocks",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "crypto news",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "BTCC - Trade Bitcoin & Crypto",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Crypto News: Prices, Alerts",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "crypto price",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "CoinMarketCap: Crypto Tracker",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "CoinMarketCap: Crypto Tracker",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "crypto bubble",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Crypto Bubbles",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "Crypto Bubbles",
+            "score": 4.73
+          }
+        }
+      ]
+    },
+    {
+      "root": "finance",
+      "terms": [
+        {
+          "term": "finance",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Finance",
+            "score": 2.42
+          },
+          "iosLeader": {
+            "title": "Yahoo Finance: Stocks, Markets",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "finance google",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Finance",
+            "score": 2.42
+          },
+          "iosLeader": {
+            "title": "Stocks",
+            "score": 4.47
+          }
+        },
+        {
+          "term": "finance engineering",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "GulfTalent - Job Search App",
+            "score": 4.53
+          },
+          "iosLeader": {
+            "title": "CFI: Real-World Finance",
+            "score": 4.82
+          }
+        },
+        {
+          "term": "finance yahoo",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Yahoo Finance: Stocks & News",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Yahoo Finance: Stocks, Markets",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "finance meaning",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Yahoo Finance: Stocks & News",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Financial Chinese - Phrases, Words & Vocabulary",
+            "score": 3
+          }
+        }
+      ]
+    },
+    {
+      "root": "invest",
+      "terms": [
+        {
+          "term": "investigation discovery",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "ID GO - Stream Live TV",
+            "score": 4.83
+          },
+          "iosLeader": {
+            "title": "ID GO - Stream Live TV",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "invest",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Investing.com: Stock Market",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Robinhood: Trading & Investing",
+            "score": 4.29
+          }
+        },
+        {
+          "term": "investment calculator",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Compound Interest Calculator",
+            "score": 4.78
+          },
+          "iosLeader": {
+            "title": "Compound Interest Calc",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "investment",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "BTCC - Trade Bitcoin & Crypto",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Fidelity Investments",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "investopedia",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Investopedia stock simulator",
+            "score": 1.5
+          },
+          "iosLeader": {
+            "title": "MarketSim",
+            "score": 4.58
+          }
+        }
+      ]
+    },
+    {
+      "root": "shop",
+      "terms": [
+        {
+          "term": "shopify",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Shopify: Sell online/in person",
+            "score": 4.15
+          },
+          "iosLeader": {
+            "title": "Shopify: Sell online/in person",
+            "score": 4.69
+          }
+        },
+        {
+          "term": "shopee seller center",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Shop Seller Center",
+            "score": 3.43
+          },
+          "iosLeader": {
+            "title": "TikTok Shop Seller Center",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "shopee",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Owl Shopee",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Lazada | All Shipping On Us",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "shoppee",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Shoppywhere",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Lazada | All Shipping On Us",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "shopee thailand",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Lazada | All Shipping On Us",
+            "score": 4.68
+          },
+          "iosLeader": {
+            "title": "Lazada | All Shipping On Us",
+            "score": 4.74
+          }
+        }
+      ]
+    },
+    {
+      "root": "store",
+      "terms": [
+        {
+          "term": "store support",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "TeamViewer QuickSupport",
+            "score": 4.34
+          },
+          "iosLeader": {
+            "title": "VseeBox USA Store Tech Support",
+            "score": 1
+          }
+        },
+        {
+          "term": "storey meaning",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Storey",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Dream Story AI Journal Meaning",
+            "score": 3.97
+          }
+        },
+        {
+          "term": "store line me",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "LINE Sticker Maker",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "store",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Walmart: Shopping & Savings",
+            "score": 4.71
+          },
+          "iosLeader": {
+            "title": "Apple Store",
+            "score": 3.5
+          }
+        },
+        {
+          "term": "stores near me",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Walmart: Shopping & Savings",
+            "score": 4.71
+          },
+          "iosLeader": {
+            "title": "Find Best Places Near Me",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "delivery",
+      "terms": [
+        {
+          "term": "delivery man",
+          "p": 98,
+          "c": 76,
+          "opp": 22,
+          "gpLeader": {
+            "title": "Delivery Man",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Deliveryman - Food Delivery",
+            "score": null
+          }
+        },
+        {
+          "term": "delivery app thailand",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Grab - Taxi & Food Delivery",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "D2D Delivery Thailand",
+            "score": null
+          }
+        },
+        {
+          "term": "delivery",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "DoorDash: Food, Grocery, More",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "Uber Eats: Food & Groceries",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "delivery note",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Delivery note",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Delivery Note",
+            "score": null
+          }
+        },
+        {
+          "term": "delivery kpg",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Delivery KPG",
+            "score": 3.58
+          },
+          "iosLeader": {
+            "title": "Delivery KPG",
+            "score": 3.78
+          }
+        }
+      ]
+    },
+    {
+      "root": "food",
+      "terms": [
+        {
+          "term": "food poisoning",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "ToxiPets: Pet Poison Scanner",
+            "score": 3.69
+          },
+          "iosLeader": {
+            "title": "Food Recalls & Alerts",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "food court",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Food Court Idle",
+            "score": 4.06
+          },
+          "iosLeader": {
+            "title": "FoodCourt: Food Delivery+",
+            "score": 4.69
+          }
+        },
+        {
+          "term": "food near me",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "DoorDash: Food, Grocery, More",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "AroundMe",
+            "score": 4.62
+          }
+        },
+        {
+          "term": "food court central world",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WorldFood Connect",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "foodland",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "Foodland Hawaii",
+            "score": 3.04
+          },
+          "iosLeader": {
+            "title": "Foodland",
+            "score": 2.21
+          }
+        }
+      ]
+    },
+    {
+      "root": "recipe",
+      "terms": [
+        {
+          "term": "recipe spotify",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Stats for Spotify - Receiptify",
+            "score": 4.23
+          },
+          "iosLeader": {
+            "title": "Saverd Recipe Saver",
+            "score": 5
+          }
+        },
+        {
+          "term": "recipetin eats",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Plan to Eat: Meal Planner",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "RecipeTinEats!",
+            "score": null
+          }
+        },
+        {
+          "term": "recipe pronunciation",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "SideChef: Recipes & Meal Plans",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Pronuncian - English Pronounce",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "recipe",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "My Recipe Box: My Cookbook",
+            "score": 4.62
+          },
+          "iosLeader": {
+            "title": "ReciMe: Recipes & Meal Planner",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "recipe meaning",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SuperCook - Recipe Generator",
+            "score": 4.64
+          },
+          "iosLeader": {
+            "title": "Recipe Book — Video Guide",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "diet",
+      "terms": [
+        {
+          "term": "diet",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Calorie Counter - MyNetDiary",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "Calorie Counter - MyNetDiary",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "diet coke",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Coke Buddy- Diamond Beverages",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Coca-Cola Rewards Georgia",
+            "score": 4.91
+          }
+        },
+        {
+          "term": "dieter rams",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "RAMSAR sites of India",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Los Angeles Rams",
+            "score": 4.2
+          }
+        },
+        {
+          "term": "dietary supplement",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "SuppCo: Supplement Scanner",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "iHerb: Vitamins & Supplements",
+            "score": 4.8
+          }
+        },
+        {
+          "term": "dietary",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Fig: Food Scanner & Guide",
+            "score": 4.57
+          },
+          "iosLeader": {
+            "title": "Calorie Counter - MyNetDiary",
+            "score": 4.81
+          }
+        }
+      ]
+    },
+    {
+      "root": "water",
+      "terms": [
+        {
+          "term": "waterfall",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Waterfalls - Find Nearby",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "waterfall by Radiant Records",
+            "score": 4.15
+          }
+        },
+        {
+          "term": "watermark remover",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Watermark Remover, Photo Video",
+            "score": 4.13
+          },
+          "iosLeader": {
+            "title": "Watermark Maker・Eraser Objects",
+            "score": 3.77
+          }
+        },
+        {
+          "term": "water monitor",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "My Water: Daily Drink Tracker",
+            "score": 4.19
+          },
+          "iosLeader": {
+            "title": "EyeOnWater",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "water",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "My Water Tracker & Reminder",
+            "score": 4.65
+          },
+          "iosLeader": {
+            "title": "Water tracker Waterllama",
+            "score": 4.87
+          }
+        },
+        {
+          "term": "water eject",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Water Eject - Speaker Fix",
+            "score": 4.57
+          },
+          "iosLeader": {
+            "title": "Water Eject°",
+            "score": 4.6
+          }
+        }
+      ]
+    },
+    {
+      "root": "habit",
+      "terms": [
+        {
+          "term": "habitat group",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Habitat Home",
+            "score": 4.41
+          },
+          "iosLeader": {
+            "title": "Habitat - Group Accountability",
+            "score": 4.62
+          }
+        },
+        {
+          "term": "habitat",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Habitat IQ by Tactacam",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Habitat HomeLink",
+            "score": 4.08
+          }
+        },
+        {
+          "term": "habito mall",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Habito: Habit Tracker",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "SIMON: Malls, Mills & Outlets",
+            "score": 4.88
+          }
+        },
+        {
+          "term": "habitat mall bangkok",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Atlanta Habitat Homebuyer",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "BeAnywhere: Offers in Bangkok",
+            "score": null
+          }
+        },
+        {
+          "term": "habitat meaning",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Habitat IQ by Tactacam",
+            "score": 4.86
+          },
+          "iosLeader": {
+            "title": "Habitat Home",
+            "score": 4.58
+          }
+        }
+      ]
+    },
+    {
+      "root": "routine",
+      "terms": [
+        {
+          "term": "routine post op care",
+          "p": 96,
+          "c": 68,
+          "opp": 28,
+          "gpLeader": {
+            "title": "Post Op",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Post Op",
+            "score": 1
+          }
+        },
+        {
+          "term": "routine pronunciation",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Quick Pronunciation",
+            "score": 4
+          },
+          "iosLeader": {
+            "title": "Pronuncian - English Pronounce",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "routine coffee",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "iBrewCoffee - Coffee Journal",
+            "score": 4.64
+          },
+          "iosLeader": {
+            "title": "7 Brew Coffee",
+            "score": 4.21
+          }
+        },
+        {
+          "term": "routine game",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Daily good habits routine",
+            "score": 3
+          },
+          "iosLeader": {
+            "title": "Habitica: Gamified Taskmanager",
+            "score": 4.25
+          }
+        },
+        {
+          "term": "routine synonym",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Me+ Lifestyle Routine",
+            "score": 4.74
+          },
+          "iosLeader": {
+            "title": "Routine - Daily routines",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "alarm",
+      "terms": [
+        {
+          "term": "alarm9",
+          "p": 96,
+          "c": 76,
+          "opp": 20,
+          "gpLeader": {
+            "title": "Alarmo - Smart Alarm Clock",
+            "score": 4.4
+          },
+          "iosLeader": {
+            "title": "GSM 3G Touch Keypad Alarm System",
+            "score": null
+          }
+        },
+        {
+          "term": "alarm",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.89
+          },
+          "iosLeader": {
+            "title": "Alarmy - Loud alarm clock",
+            "score": 4.76
+          }
+        },
+        {
+          "term": "alarm clock",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.89
+          },
+          "iosLeader": {
+            "title": "Alarmy - Loud alarm clock",
+            "score": 4.76
+          }
+        },
+        {
+          "term": "alarm clock online",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.94
+          },
+          "iosLeader": {
+            "title": "Progressive Alarm Clock",
+            "score": 4.58
+          }
+        },
+        {
+          "term": "alarm sound",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Alarm Sounds & Ringtones",
+            "score": 4.29
+          },
+          "iosLeader": {
+            "title": "Ringtones Maker - the ring app",
+            "score": 4.68
+          }
+        }
+      ]
+    },
+    {
+      "root": "clock",
+      "terms": [
+        {
+          "term": "clockwork orange",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "Glasgow Subcrawl - Tour Guide",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Orange Max it",
+            "score": 4.14
+          }
+        },
+        {
+          "term": "clock with seconds",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Digital Clock Seconds",
+            "score": 4.01
+          },
+          "iosLeader": {
+            "title": "Flip Clock:Digital Desk Widget",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "clock",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.89
+          },
+          "iosLeader": {
+            "title": "Clock",
+            "score": 2.5
+          }
+        },
+        {
+          "term": "clock timer",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.94
+          },
+          "iosLeader": {
+            "title": "Clock",
+            "score": 2.5
+          }
+        },
+        {
+          "term": "clock it meaning",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "ClockIt - Time Clock",
+            "score": 2.5
+          },
+          "iosLeader": {
+            "title": "Clock – Simple & Customizable",
+            "score": 4.39
+          }
+        }
+      ]
+    },
+    {
+      "root": "weather",
+      "terms": [
+        {
+          "term": "weather bangkok",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Thai Weather",
+            "score": 1.86
+          },
+          "iosLeader": {
+            "title": "Thai Weather",
+            "score": 3
+          }
+        },
+        {
+          "term": "weather chiang mai",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "MSN Weather - Forecast & Maps",
+            "score": 3.95
+          },
+          "iosLeader": {
+            "title": "Chiang Mai Travel Guide",
+            "score": 1.5
+          }
+        },
+        {
+          "term": "weather",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "The Weather Channel - Radar",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "The Weather Channel - Radar",
+            "score": 4.76
+          }
+        },
+        {
+          "term": "weather tomorrow",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "The Weather Channel - Radar",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Tomorrow.io: Weather Forecast",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "weather phuket",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "AccuWeather: Weather Radar",
+            "score": 3.54
+          },
+          "iosLeader": {
+            "title": "Yahoo Weather: Daily Forecasts",
+            "score": 4.69
+          }
+        }
+      ]
+    },
+    {
+      "root": "map",
+      "terms": [
+        {
+          "term": "maps bangkok",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Bangkok Offline Map and Travel",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Explore Bangkok",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "maple syrup",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Maple Syrup Time",
+            "score": 4.4
+          },
+          "iosLeader": {
+            "title": "Maple Syrup Time",
+            "score": 4.5
+          }
+        },
+        {
+          "term": "map",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Google Maps",
+            "score": 3.24
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "map google",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Google Maps",
+            "score": 3.24
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "map of thailand",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Thailand Offline Map and Trave",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Thailand Map - Travel Guide",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "gps",
+      "terms": [
+        {
+          "term": "gpsc set",
+          "p": 98,
+          "c": 76,
+          "opp": 22,
+          "gpLeader": {
+            "title": "GPSC Master: Gujarati ExamPrep",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Fsolar",
+            "score": 3.43
+          }
+        },
+        {
+          "term": "gpsiam",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "i GPS",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "GPSiam",
+            "score": null
+          }
+        },
+        {
+          "term": "gps",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Maps",
+            "score": 3.24
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "gps map",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google Maps",
+            "score": 3.24
+          },
+          "iosLeader": {
+            "title": "Google Maps",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "gps tracker",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Geo Tracker - GPS tracker",
+            "score": 4.48
+          },
+          "iosLeader": {
+            "title": "GPS Tracks",
+            "score": 4.72
+          }
+        }
+      ]
+    },
+    {
+      "root": "travel",
+      "terms": [
+        {
+          "term": "travelodge nimman",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Travelodge Hotels",
+            "score": 4.2
+          },
+          "iosLeader": {
+            "title": "Hilton Honors: Book Hotels",
+            "score": 4.9
+          }
+        },
+        {
+          "term": "traveloka",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Traveloka: Book Hotel & Flight",
+            "score": 4.78
+          },
+          "iosLeader": {
+            "title": "Traveloka: Book Hotel & Flight",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "travel visa",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Visa Airport Companion",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Atlys - You’re Going",
+            "score": 4.6
+          }
+        },
+        {
+          "term": "travel card",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Travel Card",
+            "score": 4.52
+          },
+          "iosLeader": {
+            "title": "Travel Card-Cards&Energy",
+            "score": 4.6
+          }
+        },
+        {
+          "term": "travel",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Expedia: Hotels, Flights, Cars",
+            "score": 4.79
+          }
+        }
+      ]
+    },
+    {
+      "root": "hotel",
+      "terms": [
+        {
+          "term": "hotel labaris khao yai",
+          "p": 98,
+          "c": 71,
+          "opp": 27,
+          "gpLeader": {
+            "title": "MyHolidays - Hotels & Flights",
+            "score": 2.5
+          },
+          "iosLeader": {
+            "title": "Thailand Hotel Booking",
+            "score": null
+          }
+        },
+        {
+          "term": "hotel transylvania",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Hotel Transylvania Adventures",
+            "score": 4.62
+          },
+          "iosLeader": {
+            "title": "Hotel Transylvania Adventures",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "hotel",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "My Perfect Hotel",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "My Perfect Hotel",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "hotel near me",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "hotel california",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Hotels.com: Book Hotel Deals",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "HotelTonight: Hotel Booking",
+            "score": 4.88
+          }
+        }
+      ]
+    },
+    {
+      "root": "flight",
+      "terms": [
+        {
+          "term": "flights pattaya",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Skyscanner Flights Hotels Cars",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Pattaya Real Estate",
+            "score": null
+          }
+        },
+        {
+          "term": "flight",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Flightradar24 Flight Tracker",
+            "score": 4.51
+          },
+          "iosLeader": {
+            "title": "Flightradar24 | Flight Tracker",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "flights bangkok",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Bangkok Airways",
+            "score": 2.68
+          },
+          "iosLeader": {
+            "title": "Bangkok Suvarnabhumi Airport",
+            "score": 5
+          }
+        },
+        {
+          "term": "flights",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Expedia: Hotels, Flights, Cars",
+            "score": 4.81
+          },
+          "iosLeader": {
+            "title": "Expedia: Hotels, Flights, Cars",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "flight tracker",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Flightradar24 Flight Tracker",
+            "score": 4.51
+          },
+          "iosLeader": {
+            "title": "Flightradar24 | Flight Tracker",
+            "score": 4.84
+          }
+        }
+      ]
+    },
+    {
+      "root": "news",
+      "terms": [
+        {
+          "term": "news thailand",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Thai PBS",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Thaiger",
+            "score": 3.27
+          }
+        },
+        {
+          "term": "news",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google News - Daily Headlines",
+            "score": 4.01
+          },
+          "iosLeader": {
+            "title": "Apple News",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "news today",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Google News - Daily Headlines",
+            "score": 4.01
+          },
+          "iosLeader": {
+            "title": "Apple News",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "news australia",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "ABC NEWS",
+            "score": 4.34
+          },
+          "iosLeader": {
+            "title": "ABC News",
+            "score": 4.55
+          }
+        },
+        {
+          "term": "news score",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "theScore: Sports News & Scores",
+            "score": 4.23
+          },
+          "iosLeader": {
+            "title": "Yahoo Sports: Scores and News",
+            "score": 4.6
+          }
+        }
+      ]
+    },
+    {
+      "root": "book",
+      "terms": [
+        {
+          "term": "booking.com thailand",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Thailand Hotel Booking",
+            "score": null
+          }
+        },
+        {
+          "term": "bookmyshow",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "BookMyShow | Movies & Events",
+            "score": 4.71
+          },
+          "iosLeader": {
+            "title": "BookMyShow | Movies & Events",
+            "score": 4.78
+          }
+        },
+        {
+          "term": "booklet",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "BookLet",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Booklet+",
+            "score": 4.07
+          }
+        },
+        {
+          "term": "book",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Google Play Books & Audiobooks",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "Apple Books",
+            "score": 4.44
+          }
+        },
+        {
+          "term": "booking",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.79
+          },
+          "iosLeader": {
+            "title": "Booking.com: Hotels & Travel",
+            "score": 4.84
+          }
+        }
+      ]
+    },
+    {
+      "root": "read",
+      "terms": [
+        {
+          "term": "ready player one",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "One Player: Smart Streaming",
+            "score": 4.33
+          },
+          "iosLeader": {
+            "title": "Netflix",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "ready or not",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Facebook",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Police Simulator: Warzone Call",
+            "score": 3.87
+          }
+        },
+        {
+          "term": "read theory",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Reading Comprehension",
+            "score": 3.77
+          },
+          "iosLeader": {
+            "title": "Khan Academy",
+            "score": 4.57
+          }
+        },
+        {
+          "term": "reading comprehension",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "I Read: Reading Comprehension",
+            "score": 4.26
+          },
+          "iosLeader": {
+            "title": "English Reading +",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "read",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "ReadEra – book reader pdf epub",
+            "score": 4.85
+          },
+          "iosLeader": {
+            "title": "Amazon Kindle: Reading App",
+            "score": 4.86
+          }
+        }
+      ]
+    },
+    {
+      "root": "note",
+      "terms": [
+        {
+          "term": "note",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "ColorNote Notepad Notes",
+            "score": 4.88
+          },
+          "iosLeader": {
+            "title": "Notes",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "notebooklm",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "notebookllm",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "notebook",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Gemini Notebook",
+            "score": 4.86
+          }
+        },
+        {
+          "term": "notebookspec",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Squid: Take Notes, Markup PDFs",
+            "score": 4.09
+          },
+          "iosLeader": {
+            "title": "Carnets - Jupyter",
+            "score": 4.56
+          }
+        }
+      ]
+    },
+    {
+      "root": "write",
+      "terms": [
+        {
+          "term": "write off",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Write On, Right Off!",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Write Off",
+            "score": 4.94
+          }
+        },
+        {
+          "term": "write v3",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Writing Wizard - Handwriting",
+            "score": 4.44
+          },
+          "iosLeader": {
+            "title": "Learning to Write ABC and 123",
+            "score": 4.29
+          }
+        },
+        {
+          "term": "write and improve",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Grammarly-AI Writing Assistant",
+            "score": 4.26
+          },
+          "iosLeader": {
+            "title": "Grammarly: AI Keyboard & Voice",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "write chinese.com",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Chinese Writer",
+            "score": 4.77
+          },
+          "iosLeader": {
+            "title": "Write Chinese: Learn Mandarin",
+            "score": 3.48
+          }
+        },
+        {
+          "term": "write",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Google Docs",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "Pages: Create Documents",
+            "score": 4.65
+          }
+        }
+      ]
+    },
+    {
+      "root": "pdf",
+      "terms": [
+        {
+          "term": "pdf compressor",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Compress PDF File",
+            "score": 4.75
+          },
+          "iosLeader": {
+            "title": "PDF Compressor : Compress PDF",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "pdf",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Adobe Acrobat Reader: Edit PDF",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Acrobat Reader: PDF Editor",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "pdf to jpg",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "PDF to JPG Converter : Image C",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "PDF To JPG Convert",
+            "score": 4.59
+          }
+        },
+        {
+          "term": "pdf to word",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "PDF to Word Converter",
+            "score": 4.71
+          },
+          "iosLeader": {
+            "title": "PDF Converter - Word to PDF",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "pdf to png",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "PDF to JPG/PNG high quality",
+            "score": 4.97
+          },
+          "iosLeader": {
+            "title": "Convert PDF to JPG,PDF to PNG",
+            "score": 4.65
+          }
+        }
+      ]
+    },
+    {
+      "root": "file",
+      "terms": [
+        {
+          "term": "file converter",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "File Converter",
+            "score": 3.66
+          },
+          "iosLeader": {
+            "title": "File Converter",
+            "score": 3.82
+          }
+        },
+        {
+          "term": "file manager",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "File Manager",
+            "score": 4.65
+          },
+          "iosLeader": {
+            "title": "File Manager & Browser",
+            "score": 4.5
+          }
+        },
+        {
+          "term": "file",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Files by Google",
+            "score": 4.5
+          },
+          "iosLeader": {
+            "title": "Files",
+            "score": 2.86
+          }
+        },
+        {
+          "term": "filezilla",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "FTP Client - FTP File Manager",
+            "score": 3.44
+          },
+          "iosLeader": {
+            "title": "FTPManager - FTP, SFTP client",
+            "score": 4.53
+          }
+        },
+        {
+          "term": "file compressor",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Compress PDF File",
+            "score": 4.75
+          },
+          "iosLeader": {
+            "title": "Compressor: Photos & Pictures",
+            "score": 4.63
+          }
+        }
+      ]
+    },
+    {
+      "root": "clean",
+      "terms": [
+        {
+          "term": "cleansing",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Liver Cleansing Superfoods",
+            "score": 4.33
+          },
+          "iosLeader": {
+            "title": "Master Cleaner - Clean Storage",
+            "score": 4.5
+          }
+        },
+        {
+          "term": "cleaning lady",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Tody - Smarter Cleaning",
+            "score": 4.74
+          },
+          "iosLeader": {
+            "title": "Thumbtack: Home Service Pros",
+            "score": 4.89
+          }
+        },
+        {
+          "term": "clean",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Cleaner Antivirus VPN Cleaner",
+            "score": 4.82
+          },
+          "iosLeader": {
+            "title": "Cleanup: Phone Storage Cleaner",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "cleanser",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Skan - AI Skincare and Beauty",
+            "score": 4.59
+          },
+          "iosLeader": {
+            "title": "Cleanup: Phone Storage Cleaner",
+            "score": 4.66
+          }
+        },
+        {
+          "term": "cleansing oil",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Clean Swell",
+            "score": 3.64
+          },
+          "iosLeader": {
+            "title": "Valvoline Instant Oil Change",
+            "score": 4.63
+          }
+        }
+      ]
+    },
+    {
+      "root": "battery",
+      "terms": [
+        {
+          "term": "battery lithium",
+          "p": 96,
+          "c": 49,
+          "opp": 47,
+          "gpLeader": {
+            "title": "Lifeline Lithium Batteries",
+            "score": 3.57
+          },
+          "iosLeader": {
+            "title": "AG LITHIUM",
+            "score": null
+          }
+        },
+        {
+          "term": "battery health ipad",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Battery Health",
+            "score": 4.17
+          },
+          "iosLeader": {
+            "title": "Battery Testing",
+            "score": 4.48
+          }
+        },
+        {
+          "term": "battery",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Accu​Battery",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Battery Life - check runtimes",
+            "score": 4.58
+          }
+        },
+        {
+          "term": "battery health",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Accu​Battery",
+            "score": 4.67
+          },
+          "iosLeader": {
+            "title": "Battery Life - check runtimes",
+            "score": 4.58
+          }
+        },
+        {
+          "term": "battery casing fisch",
+          "p": 98,
+          "c": 98,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Fishing Clash: Sport Simulator",
+            "score": 4.74
+          },
+          "iosLeader": {
+            "title": "Robux Wallet For Roblox",
+            "score": 4.79
+          }
+        }
+      ]
+    },
+    {
+      "root": "boost",
+      "terms": [
+        {
+          "term": "boosteroid",
+          "p": 82,
+          "c": 72,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Boosteroid Cloud Gaming",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Boosteroid Gamepad",
+            "score": 2.63
+          }
+        },
+        {
+          "term": "boost",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Boost Mobile",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Boost Mobile",
+            "score": 4.71
+          }
+        },
+        {
+          "term": "boost juice member",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Boost Mobile",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "boost menu",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "Boost: Campus Food Ordering",
+            "score": 1.57
+          },
+          "iosLeader": {
+            "title": "Boost: Mobile Food Ordering",
+            "score": 2.17
+          }
+        },
+        {
+          "term": "boost juice",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Booster Rewards",
+            "score": 4.05
+          },
+          "iosLeader": {
+            "title": "Booster Rewards",
+            "score": 4.67
+          }
+        }
+      ]
+    },
+    {
+      "root": "lock",
+      "terms": [
+        {
+          "term": "locksmith bangkok",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "LockSmith",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Kwikset",
+            "score": 4.84
+          }
+        },
+        {
+          "term": "locke and key",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "Locke & Key Boutique LLC",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Locke & Key Associates",
+            "score": 5
+          }
+        },
+        {
+          "term": "lockheed martin",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Lockheed Martin HOC 2024",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "LM Federal Credit Union",
+            "score": 3.27
+          }
+        },
+        {
+          "term": "locksmith near me",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "LockSmith",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "locksmith widget - by sendit",
+            "score": 4.82
+          }
+        },
+        {
+          "term": "locksmith",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Locksley - Locksmith Sidekick",
+            "score": 3.8
+          },
+          "iosLeader": {
+            "title": "locksmith widget - by sendit",
+            "score": 4.82
+          }
+        }
+      ]
+    },
+    {
+      "root": "security",
+      "terms": [
+        {
+          "term": "security guard",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "I Am Security",
+            "score": 4.62
+          },
+          "iosLeader": {
+            "title": "I Am Security",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "security boot fail",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "F-Secure Mobile Security",
+            "score": 4.19
+          },
+          "iosLeader": {
+            "title": "Home Security: Detect Tracker",
+            "score": 1
+          }
+        },
+        {
+          "term": "security camera",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "AlfredCamera Home Security app",
+            "score": 4.69
+          },
+          "iosLeader": {
+            "title": "Alfred Camera: Home Security",
+            "score": 4.77
+          }
+        },
+        {
+          "term": "security boot fail acer",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Federation Of Safety Glass",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Fortis Protection&Security App",
+            "score": 4.05
+          }
+        },
+        {
+          "term": "security",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "I Am Security",
+            "score": 4.62
+          },
+          "iosLeader": {
+            "title": "I Am Security",
+            "score": 4.77
+          }
+        }
+      ]
+    },
+    {
+      "root": "vpn",
+      "terms": [
+        {
+          "term": "vpn gate",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "VPN Gate - Software Ethernet",
+            "score": 3.66
+          },
+          "iosLeader": {
+            "title": "VPN Gate List",
+            "score": 2.6
+          }
+        },
+        {
+          "term": "vpn",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Proton VPN: Fast & Secure VPN",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "VPN - Super Unlimited Proxy",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "vpn free",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Secure VPN－Safer Internet",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Free VPN by Free VPN .org™",
+            "score": 4.52
+          }
+        },
+        {
+          "term": "vpn for pc",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Proton VPN: Fast & Secure VPN",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "VPN - Super Unlimited Proxy",
+            "score": 4.63
+          }
+        },
+        {
+          "term": "vpn app",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Turbo VPN - Secure VPN Proxy",
+            "score": 4.73
+          },
+          "iosLeader": {
+            "title": "VPN - Super Unlimited Proxy",
+            "score": 4.63
+          }
+        }
+      ]
+    },
+    {
+      "root": "remote",
+      "terms": [
+        {
+          "term": "remote desktop",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Chrome Remote Desktop",
+            "score": 2.77
+          },
+          "iosLeader": {
+            "title": "Windows App Mobile",
+            "score": 4.15
+          }
+        },
+        {
+          "term": "remote desktop chrome",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Chrome Remote Desktop",
+            "score": 2.77
+          },
+          "iosLeader": {
+            "title": "Google Chrome",
+            "score": 4.69
+          }
+        },
+        {
+          "term": "remote desktop connection",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Windows App",
+            "score": 3.94
+          },
+          "iosLeader": {
+            "title": "Windows App Mobile",
+            "score": 4.15
+          }
+        },
+        {
+          "term": "remote work",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "RemoteWork - Daily Remote Jobs",
+            "score": 3.38
+          },
+          "iosLeader": {
+            "title": "DailyRemote: Remote Job Search",
+            "score": 4.74
+          }
+        },
+        {
+          "term": "remote jobs thailand",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "RemoteWork - Daily Remote Jobs",
+            "score": 3.38
+          },
+          "iosLeader": {
+            "title": "Himalayas: Remote Jobs Search",
+            "score": 2
+          }
+        }
+      ]
+    },
+    {
+      "root": "control",
+      "terms": [
+        {
+          "term": "controloc",
+          "p": 98,
+          "c": 71,
+          "opp": 27,
+          "gpLeader": {
+            "title": "ControlAcc",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Drugs.com Medication Guide",
+            "score": 4.83
+          }
+        },
+        {
+          "term": "controloc 40 mg",
+          "p": 98,
+          "c": 79,
+          "opp": 19,
+          "gpLeader": {
+            "title": "Control-M",
+            "score": 3
+          },
+          "iosLeader": {
+            "title": "Acid Reflux Diet Helper",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "controller test",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Game Controller Tester",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Game Controller Tester Gamepad",
+            "score": 4.48
+          }
+        },
+        {
+          "term": "controller tester",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Game Controller Tester",
+            "score": 4.45
+          },
+          "iosLeader": {
+            "title": "Game Controller Tester Gamepad",
+            "score": 4.48
+          }
+        },
+        {
+          "term": "control resonant",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Resonant Breathing",
+            "score": 4.58
+          },
+          "iosLeader": {
+            "title": "Sonos S1 Controller",
+            "score": 4.74
+          }
+        }
+      ]
+    },
+    {
+      "root": "stream",
+      "terms": [
+        {
+          "term": "streamlabs",
+          "p": 98,
+          "c": 68,
+          "opp": 30,
+          "gpLeader": {
+            "title": "Streamlabs: Live Streaming",
+            "score": 3.42
+          },
+          "iosLeader": {
+            "title": "Streamlabs: Live Streaming App",
+            "score": 3.84
+          }
+        },
+        {
+          "term": "streamlit",
+          "p": 98,
+          "c": 71,
+          "opp": 27,
+          "gpLeader": {
+            "title": "Streamit Laravel App",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "StreamFit Member",
+            "score": 3.01
+          }
+        },
+        {
+          "term": "streamable",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Streamable Downloader",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Streamlabs: Live Streaming App",
+            "score": 3.84
+          }
+        },
+        {
+          "term": "stream",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Steam",
+            "score": 3.11
+          },
+          "iosLeader": {
+            "title": "Twitch: Live Streaming",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "streamyard",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Streamlabs: Live Streaming",
+            "score": 3.42
+          },
+          "iosLeader": {
+            "title": "StreamYard Guest",
+            "score": 3.3
+          }
+        }
+      ]
+    },
+    {
+      "root": "cast",
+      "terms": [
+        {
+          "term": "cast of my royal nemesis",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "TV Cast for Chromecast",
+            "score": 3.81
+          },
+          "iosLeader": {
+            "title": "PineDrama - Short Dramas",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "cast of the wonderfools",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WonderCast: Screen Mirroring",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "PineDrama - Short Dramas",
+            "score": 4.81
+          }
+        },
+        {
+          "term": "cast of obsession 2025",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Prime Video",
+            "score": 4.66
+          },
+          "iosLeader": {
+            "title": "IMDb: Movies & TV Shows",
+            "score": 4.79
+          }
+        },
+        {
+          "term": "cast of teach you a lesson",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "MyLearn Cast Members",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Screen Mirroring | All TV Cast",
+            "score": 1.33
+          }
+        },
+        {
+          "term": "cast",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Google Home",
+            "score": 4.03
+          },
+          "iosLeader": {
+            "title": "Web Video Cast | Browser to TV",
+            "score": 4.82
+          }
+        }
+      ]
+    },
+    {
+      "root": "bluetooth",
+      "terms": [
+        {
+          "term": "bluetooth driver windows 10",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "USB Driver for Android Devices",
+            "score": 4.34
+          },
+          "iosLeader": {
+            "title": "Talixo Driver",
+            "score": 4.18
+          }
+        },
+        {
+          "term": "bluetooth driver",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Bluetooth Device Manager",
+            "score": 3.06
+          },
+          "iosLeader": {
+            "title": "BlueDriver OBD2 Scan Tool",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "bluetooth driver windows 11",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Link to Windows",
+            "score": 3.82
+          },
+          "iosLeader": {
+            "title": "Talixo Driver",
+            "score": 4.18
+          }
+        },
+        {
+          "term": "bluetooth receiver",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Bluetooth Audio Connect Widget",
+            "score": 4.21
+          },
+          "iosLeader": {
+            "title": "Speaker & Headphones Connect",
+            "score": 4.67
+          }
+        },
+        {
+          "term": "bluetooth headphones",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "JBL Headphones",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Speaker & Headphones Connect",
+            "score": 4.67
+          }
+        }
+      ]
+    },
+    {
+      "root": "wifi",
+      "terms": [
+        {
+          "term": "wifi",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WiFi Analyzer (open-source)",
+            "score": 4.13
+          },
+          "iosLeader": {
+            "title": "WiFi Map: Free WiFi Near You",
+            "score": 4.56
+          }
+        },
+        {
+          "term": "wifies",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "WiFi Analyzer (open-source)",
+            "score": 4.13
+          },
+          "iosLeader": {
+            "title": "WiFi Map: Free WiFi Near You",
+            "score": 4.56
+          }
+        },
+        {
+          "term": "wifi calling",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "TextNow: Call + Text Unlimited",
+            "score": 4.6
+          },
+          "iosLeader": {
+            "title": "Talkatone: WiFi Text & Calls",
+            "score": 4.7
+          }
+        },
+        {
+          "term": "wifi ais",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "myAIS",
+            "score": 2.79
+          },
+          "iosLeader": {
+            "title": "myAIS",
+            "score": 4.16
+          }
+        },
+        {
+          "term": "wifi calling ais",
+          "p": 96,
+          "c": 95,
+          "opp": 1,
+          "gpLeader": {
+            "title": "WePhone: WiFi Phone Call &Text",
+            "score": 3.37
+          },
+          "iosLeader": {
+            "title": "Wifi Calling: 2nd Phone Number",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "smart",
+      "terms": [
+        {
+          "term": "smart office",
+          "p": 48,
+          "c": 21,
+          "opp": 27,
+          "gpLeader": {
+            "title": "Smart Office",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "SmartOffice Anywhere",
+            "score": 1.42
+          }
+        },
+        {
+          "term": "smart",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Smart",
+            "score": 3.51
+          },
+          "iosLeader": {
+            "title": "SmartNas",
+            "score": 4.45
+          }
+        },
+        {
+          "term": "smartedu",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Smart Edu",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "SmartEdu Platform",
+            "score": 4.48
+          }
+        },
+        {
+          "term": "smart casual",
+          "p": 100,
+          "c": 88,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Smart Casual Capture",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Smart Casual Capture",
+            "score": null
+          }
+        },
+        {
+          "term": "smart math pro",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Smart Math Tools",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Math.",
+            "score": 4.71
+          }
+        }
+      ]
+    },
+    {
+      "root": "home",
+      "terms": [
+        {
+          "term": "homepro",
+          "p": 96,
+          "c": 68,
+          "opp": 28,
+          "gpLeader": {
+            "title": "HomePro Security",
+            "score": 2.81
+          },
+          "iosLeader": {
+            "title": "HomePro Security",
+            "score": 2.74
+          }
+        },
+        {
+          "term": "homepro online",
+          "p": 96,
+          "c": 68,
+          "opp": 28,
+          "gpLeader": {
+            "title": "HomePro | Home Shopping",
+            "score": 3.4
+          },
+          "iosLeader": {
+            "title": "HomePro | #1 ช้อปเรื่องบ้าน",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "homepro call center",
+          "p": 96,
+          "c": 86,
+          "opp": 10,
+          "gpLeader": {
+            "title": "HomePro | Home Shopping",
+            "score": 3.4
+          },
+          "iosLeader": {
+            "title": "WhatsApp Messenger",
+            "score": 4.68
+          }
+        },
+        {
+          "term": "home",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Google Home",
+            "score": 4.03
+          },
+          "iosLeader": {
+            "title": "Home",
+            "score": 2.21
+          }
+        },
+        {
+          "term": "homelander",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "Google Calendar",
+            "score": 4.65
+          },
+          "iosLeader": {
+            "title": "Bad Boys: Sandbox City Smash",
+            "score": 2.84
+          }
+        }
+      ]
+    },
+    {
+      "root": "pet",
+      "terms": [
+        {
+          "term": "pet expo",
+          "p": 96,
+          "c": 68,
+          "opp": 28,
+          "gpLeader": {
+            "title": "Global Pet Expo 2026 Official",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "PetSmart",
+            "score": 3.97
+          }
+        },
+        {
+          "term": "peter parker",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "MARVEL Future Fight",
+            "score": 4.18
+          },
+          "iosLeader": {
+            "title": "Superhero Wallpaper HD",
+            "score": 4.61
+          }
+        },
+        {
+          "term": "peter thiel",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Tailgreeter",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Bloom: Learn to Invest",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "petra",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "PeTra",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Petra Ride",
+            "score": 3.66
+          }
+        },
+        {
+          "term": "pet",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Finch: Self-Care Pet",
+            "score": 4.88
+          },
+          "iosLeader": {
+            "title": "Widgetable: Besties & Couples",
+            "score": 4.92
+          }
+        }
+      ]
+    },
+    {
+      "root": "cat",
+      "terms": [
+        {
+          "term": "catherine princess of wales",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Cat Diary: Dress up Princess",
+            "score": 4.08
+          },
+          "iosLeader": {
+            "title": "Dress Up Princess Catherine",
+            "score": 4.25
+          }
+        },
+        {
+          "term": "catalytic converter",
+          "p": 98,
+          "c": 95,
+          "opp": 3,
+          "gpLeader": {
+            "title": "Cat DB - Catalytic Converters",
+            "score": 4.52
+          },
+          "iosLeader": {
+            "title": "Eco Cat App",
+            "score": 4.72
+          }
+        },
+        {
+          "term": "catherine ritchson",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Catherine Tresa -Movies,Puzzle",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "E! News",
+            "score": 4.75
+          }
+        },
+        {
+          "term": "cat",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Talking Tom Cat",
+            "score": 4.06
+          },
+          "iosLeader": {
+            "title": "My Talking Tom",
+            "score": 4.32
+          }
+        },
+        {
+          "term": "catholic church near me",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Catholic Mass Times",
+            "score": 4.9
+          },
+          "iosLeader": {
+            "title": "Catholic Mass Times",
+            "score": 4.93
+          }
+        }
+      ]
+    },
+    {
+      "root": "dog",
+      "terms": [
+        {
+          "term": "dograde",
+          "p": 98,
+          "c": 86,
+          "opp": 12,
+          "gpLeader": {
+            "title": "Let Me Downgrade",
+            "score": 3.43
+          },
+          "iosLeader": {
+            "title": "Srbijavoz",
+            "score": 1.8
+          }
+        },
+        {
+          "term": "dog food",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Ollie - Human Grade Dog Food",
+            "score": 4.7
+          },
+          "iosLeader": {
+            "title": "Chewy - Pet Care & Pharmacy",
+            "score": 4.91
+          }
+        },
+        {
+          "term": "dog breeds",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Dog Scanner: Breed Recognition",
+            "score": 4.33
+          },
+          "iosLeader": {
+            "title": "Dog Breeds Training Games Life",
+            "score": 4.65
+          }
+        },
+        {
+          "term": "dog meme",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Dog meme sticker WAStickerApps",
+            "score": 4.74
+          },
+          "iosLeader": {
+            "title": "AR Dogy – Dog Filter Meme",
+            "score": 3.91
+          }
+        },
+        {
+          "term": "dogecoin",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "MyDoge - Dogecoin Wallet",
+            "score": 4.01
+          },
+          "iosLeader": {
+            "title": "DogiVault-Dogecoin Wallet",
+            "score": 4.52
+          }
+        }
+      ]
+    },
+    {
+      "root": "car",
+      "terms": [
+        {
+          "term": "cartier",
+          "p": 98,
+          "c": 88,
+          "opp": 10,
+          "gpLeader": {
+            "title": "Jacques-Cartier Pizza",
+            "score": null
+          },
+          "iosLeader": {
+            "title": "Louis Vuitton",
+            "score": 4.91
+          }
+        },
+        {
+          "term": "carlos espi",
+          "p": 100,
+          "c": 95,
+          "opp": 5,
+          "gpLeader": {
+            "title": "LALIGA Official App 2026/27",
+            "score": 4.43
+          },
+          "iosLeader": {
+            "title": "Fubo: Watch Live TV & Sports",
+            "score": 4.49
+          }
+        },
+        {
+          "term": "car",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Extreme Car Driving Simulator",
+            "score": 4.29
+          },
+          "iosLeader": {
+            "title": "Car Parking Multiplayer",
+            "score": 4.34
+          }
+        },
+        {
+          "term": "carnival",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Carnival HUB",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Carnival HUB",
+            "score": 4.67
+          }
+        },
+        {
+          "term": "carnival magic phuket",
+          "p": 100,
+          "c": 100,
+          "opp": 0,
+          "gpLeader": {
+            "title": "Carnival HUB",
+            "score": 4.56
+          },
+          "iosLeader": {
+            "title": "Phuket Tourist",
+            "score": null
+          }
+        }
+      ]
+    },
+    {
+      "root": "parking",
+      "terms": [
+        {
+          "term": "parking toy",
+          "p": 48,
+          "c": 38,
+          "opp": 10,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Parking Jam 3D",
+            "score": 4.45
+          }
+        }
+      ]
+    },
+    {
+      "root": "speed",
+      "terms": [
+        {
+          "term": "speed camera radar",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Speed Cameras Radar",
+            "score": 4.6
+          }
+        }
+      ]
+    },
+    {
+      "root": "sport",
+      "terms": [
+        {
+          "term": "sport massage",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Anatomy & Sports Massage AR",
+            "score": 2.33
+          }
+        },
+        {
+          "term": "sporty and rich",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "OYSHO: Online Fashion Store",
+            "score": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "root": "football",
+      "terms": [
+        {
+          "term": "football live",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Live Football TV. Soccer Score",
+            "score": 4.43
+          }
+        },
+        {
+          "term": "football live stream",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Live Football TV. Soccer Score",
+            "score": 4.43
+          }
+        }
+      ]
+    },
+    {
+      "root": "running",
+      "terms": []
+    },
+    {
+      "root": "yoga",
+      "terms": [
+        {
+          "term": "yoga chiang mai",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Chiang Mai Travel Guide",
+            "score": 1.5
+          }
+        }
+      ]
+    },
+    {
+      "root": "timer",
+      "terms": [
+        {
+          "term": "timer online",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Dream Day - How Many Days Until Big Special Events",
+            "score": 3
+          }
+        },
+        {
+          "term": "timer 5 minutes",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Five Minute Dungeon Timer",
+            "score": 3.34
+          }
+        },
+        {
+          "term": "timer clock",
+          "p": 100,
+          "c": 98,
+          "opp": 2,
+          "gpLeader": {
+            "title": "Clock",
+            "score": 3.94
+          },
+          "iosLeader": {
+            "title": "Clock",
+            "score": 2.5
+          }
+        }
+      ]
+    },
+    {
+      "root": "counter",
+      "terms": [
+        {
+          "term": "counterpain run",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "JomRun – Let’s Run",
+            "score": 4.38
+          }
+        }
+      ]
+    },
+    {
+      "root": "calc",
+      "terms": [
+        {
+          "term": "calc",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Calculator",
+            "score": 3.03
+          }
+        },
+        {
+          "term": "calcio serie a",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Lega Serie A - Official app",
+            "score": 4.06
+          }
+        },
+        {
+          "term": "calcium score test",
+          "p": 50,
+          "c": 48,
+          "opp": 2,
+          "gpLeader": null,
+          "iosLeader": {
+            "title": "Calcium Digital Health AI",
+            "score": 3.5
+          }
+        }
+      ]
+    }
+  ]
+}

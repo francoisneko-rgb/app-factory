@@ -1,0 +1,78 @@
+async (page) => {
+  const kws = __KWS__;
+  const key = '__SCORE__';
+  let stored = [];
+  try { stored = JSON.parse(await page.evaluate((k) => localStorage.getItem(k) || '[]', key)); } catch (e) {}
+  const done = new Set(stored.map(x => x.keyword));
+  const todo = kws.filter(k => !done.has(k));
+  for (const kw of todo) {
+    const r = { keyword: kw, popularity: 'NA', competitiveness: 'NA', related: [], rankings: [] };
+    try {
+      await page.waitForTimeout(400);
+      const url = 'https://appfigures.com/reports/keyword-inspector?keyword=' + encodeURIComponent(kw) + '&country=US&store=apple%3Aios&device_type=handheld';
+      await page.goto(url + '&view=related-keywords', { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.waitForFunction(() => /Popularity\s*(\d|—)/.test(document.body.innerText) && /Competitiveness\s*(\d|—)/.test(document.body.innerText), { timeout: 10000 }).catch(() => {});
+      await page.waitForTimeout(1200);
+      let ins = await page.evaluate(() => {
+        const leaf = [...document.querySelectorAll('body *')].find(e => e.children.length === 0 && e.textContent.trim() === 'Insights');
+        let txt = '';
+        if (leaf && leaf.parentElement) { let p = leaf.parentElement; for (let i = 0; i < 4 && p; i++) { const t = p.textContent.replace(/\s+/g, ' '); if (t.includes('Popularity') && t.includes('Competitiveness')) { txt = t; break; } p = p.parentElement; } }
+        const pm = txt.match(/Popularity\s*(\d+|—|\-)/);
+        const cm = txt.match(/Competitiveness\s*(\d+|—|\-)/);
+        const clean = m => m ? (m[1] === '—' || m[1] === '-' ? 'NA' : m[1]) : 'NA';
+        const rows = [];
+        const tb = document.querySelector('table');
+        if (tb) { for (const tr of tb.querySelectorAll('tbody tr')) { const cells = [...tr.querySelectorAll('td')]; if (cells.length < 4) continue; const btn = cells[1].querySelector('button'); const k = btn ? btn.textContent.trim() : cells[1].textContent.trim(); if (!k) continue; rows.push({ keyword: k, popularity: (cells[2].textContent.trim() === '—' ? 'NA' : cells[2].textContent.trim()), competitiveness: (cells[3].textContent.trim() === '—' ? 'NA' : cells[3].textContent.trim()) }); } }
+        return { popularity: clean(pm), competitiveness: clean(cm), related: rows };
+      });
+      r.popularity = ins.popularity;
+      r.competitiveness = ins.competitiveness;
+      if (ins.popularity === 'NA' || ins.competitiveness === 'NA') {
+        await page.waitForTimeout(600);
+        await page.goto(url + '&view=related-keywords', { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await page.waitForFunction(() => /Popularity\s*(\d|—)/.test(document.body.innerText) && /Competitiveness\s*(\d|—)/.test(document.body.innerText), { timeout: 10000 }).catch(() => {});
+        await page.waitForTimeout(1200);
+        ins = await page.evaluate(() => {
+          const leaf = [...document.querySelectorAll('body *')].find(e => e.children.length === 0 && e.textContent.trim() === 'Insights');
+          let txt = '';
+          if (leaf && leaf.parentElement) { let p = leaf.parentElement; for (let i = 0; i < 4 && p; i++) { const t = p.textContent.replace(/\s+/g, ' '); if (t.includes('Popularity') && t.includes('Competitiveness')) { txt = t; break; } p = p.parentElement; } }
+          const pm = txt.match(/Popularity\s*(\d+|—|\-)/);
+          const cm = txt.match(/Competitiveness\s*(\d+|—|\-)/);
+          const clean = m => m ? (m[1] === '—' || m[1] === '-' ? 'NA' : m[1]) : 'NA';
+          const rows = [];
+          const tb = document.querySelector('table');
+          if (tb) { for (const tr of tb.querySelectorAll('tbody tr')) { const cells = [...tr.querySelectorAll('td')]; if (cells.length < 4) continue; const btn = cells[1].querySelector('button'); const k = btn ? btn.textContent.trim() : cells[1].textContent.trim(); if (!k) continue; rows.push({ keyword: k, popularity: (cells[2].textContent.trim() === '—' ? 'NA' : cells[2].textContent.trim()), competitiveness: (cells[3].textContent.trim() === '—' ? 'NA' : cells[3].textContent.trim()) }); } }
+          return { popularity: clean(pm), competitiveness: clean(cm), related: rows };
+        });
+        r.popularity = ins.popularity;
+        r.competitiveness = ins.competitiveness;
+        r.related = ins.related;
+      }
+      const pop = parseInt(r.popularity, 10);
+      const comp = parseInt(r.competitiveness, 10);
+      if (r.related && !(pop >= 25)) r.related = [];
+      if (!isNaN(pop) && pop >= 30 && !isNaN(comp) && comp < 80) {
+        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+        await page.waitForTimeout(2000);
+        r.rankings = await page.evaluate(() => {
+          const tb = document.querySelector('table');
+          if (!tb) return [];
+          return [...tb.querySelectorAll('tbody tr')].slice(0, 10).map((tr, idx) => {
+            const tds = [...tr.querySelectorAll('td')];
+            const n = tds[1] ? tds[1].textContent.replace(/\s+/g, ' ').trim() : '';
+            const m = n.match(/^(\d+)\.\s*(.*)$/);
+            let app = m ? m[2] : n;
+            app = app.split('By ')[0].trim();
+            const sc = tds[8] ? tds[8].textContent.replace(/\s+/g, ' ').trim() : '';
+            const mm = sc.match(/^([\d.]+[KMB]*\*?)\s*([\d.]+)☆/);
+            return { rank: m ? m[1] : (idx + 1), app, rating: mm ? mm[2] : '—', ratings_count: mm ? mm[1] : '—' };
+          });
+        });
+      }
+    } catch (e) { r.error = e.message.slice(0, 60); }
+    await page.waitForTimeout(800);
+    stored.push(r);
+    await page.evaluate((o) => localStorage.setItem(o.k, o.v), { k: key, v: JSON.stringify(stored) });
+  }
+  return { done: todo.length, skipped: kws.length - todo.length, total: stored.length };
+}

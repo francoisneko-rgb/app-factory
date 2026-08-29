@@ -1,0 +1,327 @@
+# V3 SANTE SPECIFIQUE
+sleep apnea
+snoring app
+jet lag app
+menopause tracker
+menopause symptoms
+pcod tracker
+endometriosis tracker
+pelvic floor
+pelvic floor exercises
+period pain
+cramps tracker
+fibromyalgia
+chronic pain tracker
+migraine tracker
+back pain app
+sciatica
+diabetes tracker
+blood sugar
+thyroid tracker
+cholesterol tracker
+gout tracker
+kidney stones
+fodmap
+ibs tracker
+acid reflux
+electrolytes
+hydration tracker
+acne tracker
+eczema
+psoriasis
+uv index app
+skincare routine tracker
+tinnitus
+hearing test
+dental care
+bad breath
+posture tracker
+medication reminder
+drug interaction
+prescription tracker
+first aid
+blood donation
+vaccination tracker
+symptom checker
+doctor visit prep
+# V3 SANTE MENTALE / NEURO
+anxiety relief
+panic attack
+rumination
+ocd
+phobia app
+depression app
+grief
+burnout
+mental load
+adhd app
+adhd planner
+adhd women
+adhd timer
+executive function
+autism app
+hypersensitivity
+hsp app
+sensory overload
+bipolar tracker
+borderline coping
+quit alcohol
+quit nicotine
+quit porn
+quit social media
+sugar addiction
+cbt app
+dbt app
+cbt therapy
+thought diary
+rumination diary
+loneliness
+social skills app
+shyness
+anger management
+jealousy
+self esteem
+inner critic
+people pleasing
+# V3 MEDECINES TRADITIONNELLES
+tai chi
+tai chi app
+qigong
+acupuncture
+acupressure
+chinese medicine
+shiatsu
+ayurveda
+kundalini
+kundalini yoga
+reiki
+chakra healing
+reflexology
+herbal medicine
+naturopathy
+homeopathy
+traditional medicine
+# V3 RELIGION
+christian app
+bible study
+daily bible
+bible reading plan
+prayer journal
+devotional app
+christian meditation
+worship app
+islam app
+quran recitation
+quran audio
+prayer times app
+mosque finder
+hajj app
+umrah app
+ramadan tracker
+zakat calculator
+islamic calendar
+hadith app
+salah app
+torah app
+judaism app
+hindu app
+buddhist app
+buddhist meditation
+stoicism
+stoic app
+# V3 JEUX TEXTUELS / IA
+text adventure
+interactive fiction
+choose your own adventure
+ai story generator
+ai novel
+ai rpg
+ai dungeon
+text rpg
+interactive story maker
+visual novel maker
+ai visual novel
+story game maker
+ai writing app
+# V3 ARGENT / INDEPENDANTS
+envelope budget
+cash stuffing
+debt payoff
+side hustle
+freelance invoice
+freelance time tracking
+vat calculator
+tax calculator
+crypto portfolio
+crypto tax
+dca calculator
+paper trading
+options calculator
+trading journal
+risk calculator
+salary calculator
+job hunt app
+resume builder
+ats resume
+linkedin profile
+retirement calculator
+real estate calculator
+insurance app
+inheritance
+pod print on demand
+etsy seller
+amazon seller
+inventory app
+tip calculator
+qr tip
+restaurant pos
+# V3 MAISON / NOURRITURE
+meal prep
+fridge app
+food waste
+expiry date
+keto recipes
+halal recipes
+allergy recipes
+peanut allergy
+cleaning schedule
+laundry app
+deep clean
+coliving
+roommate app
+plant care
+aquarium app
+dog care
+cat care
+bird app
+deworming
+diy wood
+electrical app
+plumbing
+car maintenance
+moving checklist
+packing app
+# V3 CORPS / SPORT / APPARENCE
+calisthenics
+pickleball
+hyrox
+mobility app
+foam roller
+knee pain
+postpartum exercise
+senior fitness
+creatine
+bulking app
+cutting app
+posture desk
+walking pad
+standing desk
+beard app
+hair care
+nail care
+perfume app
+capsule wardrobe
+color season
+body measurements
+# V3 RELATIONS / SEXE / IDENTITE
+dating app
+aftercare
+situationship
+breakup app
+couple app
+relationship check in
+libido
+lgbtq app
+coming out
+transition app
+pronouns
+polyamory
+long distance relationship
+infidelity recovery
+conscious parenting
+attachment style
+# V3 LOISIRS / FOI / VOYAGE
+book tracker
+fanfiction
+poetry app
+journal app
+sketchnotes
+watercolor app
+music practice
+sheet music
+metronome app
+guitar tabs
+lut app
+film simulation
+tcg app
+chess app
+go game
+visa app
+esim
+offline maps
+trekking
+marine gps
+surf forecast
+fishing app
+pollen app
+storm radar
+# V3 CAPTEURS / IA / MCP
+squat form
+dance app
+rehab app
+lidar app
+room scan
+tremor app
+balance app
+fall detection
+skin scan
+wound care
+food calorie camera
+snore detect
+cough detect
+bird song
+transcribe app
+nfc app
+find my device
+carplay app
+watch app
+ar furniture
+ar makeup
+indoor navigation
+ai companion
+grief companion
+adhd coach
+language coach
+ai doctor
+ai lawyer
+ai teacher
+ebook generator
+etsy generator
+ugc ads
+receipt scanner
+whiteboard ocr
+comic ocr
+manga ocr
+voice clone
+bedtime story
+mcp app
+local llm
+private ai
+on device ai
+zero account
+# V3 NICHE LONGUE TRAINE
+adhd women planner
+executive function timer
+menopause symptoms tracker
+pelvic floor timer
+coparenting calendar
+school pickup tracker
+baby sleep regression
+kids exercise 6 years
+manual budget
+hiking offline gps
+marine tides
+sheet music practice
+form check squat
+claude mcp calendar
+local llm notes

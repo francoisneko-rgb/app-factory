@@ -1,0 +1,735 @@
+# V4 SALVE UTILISATEUR — SPORTS / OUTDOOR / SURVIE / HOBBIES / PSY / MEDICAL / AUTO / MAPS / CREATION
+# Sports non scorés
+swimming
+swim
+triathlon
+cycling
+indoor cycling
+spinning
+rowing
+climbing
+bouldering
+golf
+golf gps
+disc golf
+tennis
+badminton
+table tennis
+boxing
+boxing timer
+mma
+wrestling
+martial arts
+karate
+taekwondo
+fencing
+archery
+shooting
+horseback riding
+equestrian
+skateboarding
+longboard
+roller skating
+ice skating
+hockey
+soccer
+football
+basketball
+volleyball
+cricket
+rugby
+bowling
+darts
+billiards
+snooker
+fishing
+fly fishing
+hunting
+skiing
+snowboarding
+surf
+surf forecast
+tide
+kite
+windsurf
+sailing
+kayak
+paddleboard
+scuba
+freediving
+snorkel
+parkour
+hyrox
+crossfit
+marathon
+couch to 5k
+interval timer
+emom
+tabata
+macros tracker
+body fat
+posture corrector
+scoliosis
+physio
+physiotherapy
+knee rehab
+shoulder rehab
+pelvic floor
+breathwork
+box breathing
+wim hof
+cold plunge
+cold therapy
+recovery
+hrv
+vo2 max
+cadence
+power meter
+# Survie / outdoor / prep
+survival
+wilderness
+bushcraft
+fire starting
+knot
+knots
+first aid
+cpr
+emergency
+disaster
+earthquake
+tsunami
+flood
+hurricane
+tornado
+wildfire
+off grid
+solar
+water filter
+foraging
+mushroom
+plant identifier
+animal tracks
+compass
+altimeter
+barometer
+offline maps
+topographic
+topo map
+trail map
+gpx
+waypoint
+geocache
+orienteering
+star
+stargazing
+constellation
+aurora
+ham radio
+scanner radio
+walkie talkie
+morse code
+bug out bag
+edc
+knife
+reload
+# Hobbies / passions
+bird identifier
+bird watching
+ebird
+mushrooms
+insects
+butterflies
+rocks
+minerals
+fossils
+clouds
+trees
+wine
+sommelier
+beer brewing
+homebrew
+coffee
+tea
+cigar
+whisky
+perfume
+fountain pen
+film camera
+light meter
+vinyl
+stamp
+coin
+lego
+model train
+rc cars
+drones
+fpv
+chess
+go
+poker
+bridge
+magic the gathering
+mtg
+pokemon tcg
+warhammer
+miniature
+3d printing
+cnc
+woodworking
+welding
+soldering
+electronics
+resistor
+aquarium
+reef tank
+koi
+beekeeping
+chicken coop
+hydroponics
+bonsai
+succulents
+orchids
+garden planner
+compost
+sourdough
+bread
+cheese
+chocolate
+cake decorating
+soap
+candle
+resin
+calligraphy
+bullet journal
+scrapbook
+leather
+blacksmith
+jewelry
+beading
+embroidery
+quilting
+spinning yarn
+pottery
+kiln
+stained glass
+magic tricks
+juggling
+yo yo
+kite flying
+# Animaux hors chat/chien/puppy
+aquarium
+fish identifier
+betta
+goldfish
+turtle
+hamster
+guinea pig
+rabbit
+ferret
+parrot
+cockatiel
+budgie
+reptile
+gecko
+snake
+tarantula
+horse health
+goat
+sheep
+cattle
+beehive
+wildlife rescue
+lost pet
+pet medication
+vet records
+pet insurance
+flea
+tick
+axolotl
+hermit crab
+hedgehog
+chinchilla
+koi
+shrimp
+isopod
+ant farm
+silkworm
+pigeon racing
+falconry
+# Psychologie / relations
+cbt
+dbt
+emdr
+panic attack
+ocd
+phobia
+social anxiety
+agoraphobia
+ptsd
+trauma
+grief
+bereavement
+inner child
+people pleasing
+boundaries
+gaslighting
+narcissist
+codependency
+attachment
+anxious
+avoidant
+love languages
+couples
+marriage
+sex tracker
+libido
+pelvic pain
+dating safety
+situationship
+long distance
+polyamory
+open relationship
+aftercare
+coming out
+trans
+pronouns
+autism
+asperger
+sensory
+misophonia
+hsp
+rumination
+overthinking
+decision fatigue
+executive function
+procrastination
+body dysmorphia
+eating disorder
+binge eating
+anorexia
+body neutral
+loneliness
+friend making
+small talk
+public speaking
+stuttering
+anger log
+jealousy
+imposter
+perfectionism
+bpd
+addiction recovery
+aa companion
+na
+smart recovery
+quit smoking
+quit vaping
+quit porn
+quit gambling
+quit sugar
+dopamine detox
+digital wellbeing
+doomscrolling
+fomo
+# Parenting / bébé
+pregnancy tracker
+ovulation
+fertility
+ttc
+basal temperature
+ivf
+kick counter
+contraction timer
+breastfeeding
+pumping
+formula
+diaper log
+white noise baby
+colic
+reflux baby
+sleep training
+ferber
+wake windows
+solids
+weaning
+teething
+vaccine
+growth percentile
+potty training
+tantrums
+gentle parenting
+time in
+chore chart
+allowance kids
+screen time parental
+family location
+school bus
+lunchbox
+allergy
+epipen
+asthma kids
+eczema baby
+speech delay
+stutter kids
+autism kids
+iep
+homework
+spelling bee
+times tables
+handwriting
+phonics
+bedtime stories
+lullaby
+night light
+car seat
+baby proofing
+# Medical / chronic
+blood pressure
+cholesterol
+thyroid
+hashimoto
+gout
+kidney stones
+uti
+ibs
+fodmap
+crohns
+colitis
+gerd
+reflux
+migraine
+migraine tracker
+aura
+cluster headache
+fibromyalgia
+chronic fatigue
+long covid
+asthma
+peak flow
+copd
+allergy
+epi pen
+seizure
+epilepsy
+parkinson
+tremor
+ms
+lupus
+rheumatoid
+psoriasis
+eczema
+acne
+rosacea
+vitiligo
+tinnitus
+hearing test
+vision test
+ishihara
+color blind
+glaucoma
+dry eye
+dental
+floss
+retainer
+braces
+sleep apnea
+cpap
+medication reminder
+pill identifier
+drug interaction
+first aid
+aed
+blood donation
+organ donor
+lab results
+medical id
+ice emergency
+wheelchair
+ostomy
+catheter
+dialysis
+chemo
+cancer journal
+pain scale
+# Auto
+fuel log
+gas mileage
+obd2
+car scanner
+parking finder
+parking meter
+car maintenance
+oil change
+tire pressure
+ev charging
+tesla
+hybrid
+toll
+dashcam
+speed camera
+radar detector
+vin decoder
+motorcycle
+bicycle
+ebike
+scooter
+boat nav
+# Maps / transit
+public transport
+bus tracker
+subway
+train times
+taxi fare
+ride split
+indoor maps
+mall map
+airport map
+peak finder
+sun surveyor
+# Weather niche
+radar
+lightning
+marine weather
+surf forecast
+snow forecast
+pollen
+mold
+air quality
+uv index
+heat index
+wind meter
+# Beauty
+makeup try on
+contour
+eyebrow
+nail art
+skincare routine
+ingredient scanner
+perfume finder
+color season
+kibbe
+body type
+wardrobe capsule
+outfit planner
+laundry symbols
+stain remover
+# Shopping / deals
+price compare
+coupons
+cashback
+receipt ocr
+warranty
+loyalty cards
+grocery list
+pantry
+expiry
+fridge
+thrift
+resale
+ebay selling
+etsy seller
+amazon seller
+print on demand
+mockup
+# Finance manquants
+tips calculator
+split bill
+vat calculator
+tax
+mileage log
+per diem
+subscription tracker
+net worth
+debt
+fire
+dividend
+options calculator
+greeks
+paper trading
+forex
+gold
+silver
+lottery
+crypto tax
+freelance tax
+# Communication / dating
+sms backup
+email client
+clipboard
+translate camera
+conversation starter
+icebreaker
+dating journal
+date ideas
+red flags
+# Personalization
+wallpaper
+widgets
+icon pack
+launcher
+always on display
+watch faces
+carplay dashboard
+lock screen
+# Reference
+dictionary
+thesaurus
+wikipedia
+units converter
+currency converter
+timezone
+periodic table
+formulas
+electrician
+pipe fitting
+hvac
+nursing
+medical calculator
+due date
+bmi
+legal timer
+statute
+# Video
+subtitle
+meeting notes
+lecture recorder
+screen recorder
+gif maker
+slow motion
+time lapse
+drone edit
+youtube studio
+# Events / local
+rsvp
+potluck
+secret santa
+gift exchange
+wedding planner
+seating chart
+guestbook
+funeral
+memorial
+church volunteer
+neighborhood
+hoa
+lost found
+garage sale
+farmers market
+food truck
+# Accessibility
+magnifier
+color filter
+switch control
+aac
+sign language
+live transcribe
+dyslexia
+haptic
+one handed mode
+senior phone
+big launcher
+pillbox senior
+# Civic / daily
+recycling
+trash schedule
+parking permit
+voting
+noise meter
+decibel
+lux meter
+emf
+ghost box
+evp
+metal detector
+sports betting
+fantasy sports
+live scores
+# Terrain
+timesheet
+punch clock
+safety inspection
+osha
+scaffolding
+delivery proof
+signature
+nfc
+rfid
+asset tag
+farm
+livestock
+crop
+# Createurs / IA / MCP
+prompt library
+lora
+comfyui
+stable diffusion
+ollama
+whisper
+rag
+mcp server
+claude artifacts
+chatgpt wrapper
+gemini
+character card
+ai homework
+ai tutor
+exam scanner
+photomath
+handwriting ocr
+business card scanner
+scan cad
+measure ar
+room scan
+body scan
+squat form
+dance score
+just dance
+boxing camera
+golf swing
+bowling form
+yoga pose
+sign language translator
+# Jeux / entertainment
+shogi
+mahjong
+solitaire
+hearts
+spades
+rummy
+uno
+trivia
+quiz
+hangman
+wordle
+connections
+sporcle
+escape room
+geoguessr
+movie tracker
+letterboxd
+tv show
+anime
+manga
+webtoon
+comics
+wattpad
+reading goals
+speed reading
+hadith
+rosary
+liturgy hours
+jewish calendar
+hebrew
+kosher
+zakat
+hajj
+tahajjud
+yoga nidra
+nsr
+tm timer
+singing bowl
+binaural
+brown noise
+focus music
+lo fi
+asmr

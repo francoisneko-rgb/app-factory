@@ -1,0 +1,408 @@
+# V2 GAMING - tous les genres
+action game
+action games
+arcade game
+arcade games
+runner game
+endless runner
+parkour game
+platformer game
+platformer games
+jump game
+shooting game
+shooter game
+shooter games
+gun game
+sniper game
+fps game
+first person shooter
+third person shooter
+fighting game
+combat game
+beat em up
+sword game
+ninja game
+samurai game
+karate game
+boxing game
+zombie game
+zombie shooter
+survival game
+survival shooter
+battle royale
+battle royale game
+tank game
+war game
+army game
+military game
+# ADVENTURE / RPG
+adventure game
+adventure games
+rpg game
+rpg games
+mmorpg
+mmo game
+open world game
+open world
+story game
+story games
+visual novel
+text adventure
+dungeon crawler
+dungeon game
+idle rpg
+gacha game
+fantasy game
+magic game
+wizard game
+dragon game
+knight game
+medieval game
+pirate game
+exploration game
+quest game
+rpg maker
+# STRATEGY
+strategy game
+strategy games
+tower defense
+tower defense game
+turn based strategy
+real time strategy
+tactics game
+war strategy
+base building
+city building game
+city builder
+empire game
+kingdom game
+idle strategy
+# SIMULATION
+simulator game
+simulation game
+life simulator
+farming game
+farm game
+farm simulator
+restaurant game
+cooking simulator
+city builder game
+driving simulator
+flight simulator
+train simulator
+plane game
+car game
+driving game
+truck game
+bus game
+fishing simulator
+pet simulator
+talking game
+# RACING
+racing game
+racing games
+car racing
+car racing game
+motorcycle racing
+drift game
+moto game
+car stunt
+# PUZZLE
+puzzle game
+puzzle games
+match 3
+match 3 game
+block puzzle
+block game
+brain teaser
+logic game
+logic puzzle
+sudoku game
+merge game
+merge puzzle
+word search game
+bubble game
+bubble shooter
+connect game
+tile game
+jigsaw puzzle
+jigsaw
+# WORD / TRIVIA
+word game
+word games
+crossword
+crossword puzzle
+word search
+word scramble
+trivia game
+trivia games
+quiz game
+guess game
+riddle game
+hangman
+boggle
+spelling game
+# CARD / BOARD
+card game
+card games
+solitaire
+solitaire game
+poker game
+poker
+uno game
+board game
+board games
+monopoly
+ludo game
+dice game
+backgammon
+domino
+mahjong
+mahjong game
+# MUSIC / RHYTHM
+music game
+rhythm game
+dancing game
+dance game
+piano game
+guitar game
+drum game
+singing game
+# CASUAL / HYPER
+casual game
+hyper casual
+relaxing game
+stress relief game
+calm game
+satisfying game
+anti stress game
+water game
+slime game
+pop game
+# SPORTS
+sports game
+sports games
+soccer game
+football game
+basketball game
+baseball game
+cricket game
+hockey game
+rugby game
+volleyball game
+table tennis
+badminton game
+golf game
+tennis game
+pool game
+billiards
+bowling game
+skateboarding game
+skate game
+surf game
+ski game
+snowboard game
+# KIDS / SERIOUS / EDUCATION GAME
+kids game
+kids games
+educational game
+learning game
+serious game
+brain training
+brain training game
+memory game
+memory game for kids
+math game
+math games
+counting game
+alphabet game
+spelling game for kids
+abc game
+puzzle game for kids
+animal game
+animal games for kids
+dinosaur game
+dinosaur game for kids
+car game for kids
+drawing game for kids
+# V2 EDUCATION ADULTE
+language learning
+english learning
+learn english
+learn spanish
+learn french
+learn german
+learn chinese
+learn japanese
+learn korean
+learn italian
+learn arabic
+learn russian
+learn portuguese
+learn hindi
+vocabulary builder
+vocabulary app
+grammar check
+grammar checker
+spelling check
+toefl
+toefl prep
+ielts
+ielts prep
+sat prep
+act prep
+gre prep
+gmat prep
+aptitude test
+exam prep
+test prep
+coding app
+learn programming
+learn python
+learn javascript
+learn coding
+code academy
+programming tutor
+computer science
+science app
+physics app
+physics
+chemistry app
+chemistry
+biology app
+biology
+math app
+math solver
+math practice
+algebra
+calculus
+geometry app
+trigonometry
+homework helper
+homework app
+tutoring
+tutor app
+study buddy
+study app
+note taking app
+flashcards app
+periodic table
+history app
+geography app
+world map app
+atlas
+constellation app
+space app
+astronomy app
+# V2 AUTRES CATEGORIES MANQUANTES
+messaging app
+messenger app
+chat app
+social media app
+news app
+news aggregator
+ebook reader
+book reader
+epub reader
+comic reader
+webtoon
+manga reader
+audiobook player
+podcast player
+podcast app
+streaming app
+video streaming
+movie app
+tv app
+live streaming
+live stream app
+video call app
+video conference
+screen recorder
+screen mirror
+screen cast
+smart home
+home automation
+iot app
+remote control
+tv remote
+wifi remote
+airdrop
+file transfer
+file sharing
+backup app
+cloud storage
+antivirus
+security app
+phone cleaner
+data recovery
+photo recovery
+video recovery
+contact backup
+sms backup
+call recorder
+voice recorder
+dictation app
+transcription app
+subtitles app
+caption app
+video player
+music player
+music streaming
+radio app
+fm radio
+alarm clock app
+timer app
+stopwatch app
+world clock
+time zone app
+currency converter app
+unit converter app
+calculator app
+scientific calculator
+gpa calculator
+age calculator
+love calculator
+name meaning app
+lucky number
+dream dictionary
+birth chart
+kundli
+numerology app
+angel number
+manifestation app
+prayer times
+quran app
+bible app
+torah app
+temple app
+puja app
+meditation app
+breathing app
+sleep sounds app
+white noise app
+asmr app
+rain sounds app
+nature sounds
+lullaby app
+baby sleep app
+yoga app
+pilates app
+stretching app
+home workout app
+gym app
+fitness tracker app
+step counter app
+calorie counter app
+water tracker app
+habit tracker app
+period tracker app
+pregnancy tracker app
+baby tracker app
+parenting app
+kids chores app
+screen time app
+family locator app
+find my phone app
+gps tracker app
+location tracker app

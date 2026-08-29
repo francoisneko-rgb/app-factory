@@ -1,0 +1,10 @@
+{
+  "name": "app-factory-scrapers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Store scrapers for market research (Google Play + App Store)",
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "google-play-scraper": "^10.1.3"
+  }
+}

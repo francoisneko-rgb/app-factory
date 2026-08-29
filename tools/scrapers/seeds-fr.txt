@@ -1,0 +1,258 @@
+# SANTE & FITNESS
+entrainement
+fitness
+salle de sport
+entrainement maison
+perte de poids
+maigrir
+compteur de calories
+regime
+jeune
+jeune intermittent
+course a pied
+marche
+podometre
+yoga
+pilates
+etirement
+meditation
+respiration
+sommeil
+suivi du sommeil
+rappel d eau
+suivi des habitudes
+suivi des regles
+ovulation
+grossesse
+renforcement musculaire
+abdos
+musculation
+journal dentrainement
+plan de repas
+recettes saines
+# PRODUCTIVITE
+notes
+a faire
+gestionnaire de taches
+planificateur
+planning journalier
+agenda
+calendrier
+rappel
+concentration
+pomodoro
+minuteur
+chronometre
+journal
+pense journal
+journal de moral
+liste de courses
+suivi d objectifs
+routine
+routine du matin
+etude
+cartes memoire
+scanner
+scan de documents
+signature
+# FINANCE
+budget
+suivi budget
+suivi des depenses
+gestionnaire d argent
+epargne
+epargner de l argent
+dette
+rappels de facture
+investir
+actions
+crypto
+bitcoin
+portefeuille
+calculateur de pourboire
+calculateur de pret
+credit hypothecaire
+convertisseur de devises
+# EDUCATION
+apprendre anglais
+apprendre espagnol
+apprendre le francais
+vocabulaire
+mathematiques
+mathematiques enfants
+multiplication
+piano
+guitare
+dessin
+apprendre a dessiner
+programmation pour enfants
+# BIEN-ETRE
+astrologie
+horoscope
+tarot
+numerologie
+affirmations
+gratitude
+suivi de humeur
+sante mentale
+anxiete
+bien etre
+aide des soins
+soins de la peau
+maquillage
+# PHOTO & VIDEO
+editeur de photos
+editeur video
+collage
+filtre photo
+photo de profil
+effacer l arriere plan
+ameliorer photo
+restaurer anciennes photos
+video reels
+# UTILITAIRES
+scanner qr
+lecteur de code barres
+vpn
+nettoyeur
+calculatrice
+convertisseur
+regle
+boussole
+lampe de poche
+traducteur
+traduction
+clavier
+polices
+fond d ecran
+widgets
+sonnerie
+alarme
+horloge
+gestionnaire de fichiers
+gestionnaire de mots de passe
+authentificateur
+vitesse internet
+batterie
+# IA & DIVERTISSEMENT
+coloriage
+coloriage pour adultes
+peinture
+ia chat
+compagnon ia
+amie ia
+art ia
+image ia
+video ia
+chatbot
+# MUSIQUE & AUDIO
+lecteur musique
+ameliorateur audio
+accordeur guitare
+accorder
+metronome
+machine de beats
+karaoke
+changeur de voix
+editeur audio
+podcast
+sons de sommeil
+bruit blanc
+sons de pluie
+# CUISINE
+recettes
+cuisine
+planificateur de repas
+liste de courses
+recettes air fryer
+keto
+vegan
+vegetarien
+desserts
+cocktails
+cafe
+# VOYAGE
+planificateur de voyage
+planificateur de voyage
+itineraire
+suivi de vol
+liste de bagages
+camping
+randonnee
+# FAMILLE
+suivi bebe
+nouveau ne
+allaitement
+prenoms de bebe
+jeux pour enfants
+jeux tout petit
+planning familial
+# MAISON
+design interieur
+planificateur de pieces
+menage
+trio de plantes
+identifier les plantes
+jardin
+bricolage
+# ANIMAUX
+education chien
+chiot
+chat
+soins animaux
+aute anima
+aquarium
+# SPIRITUALITE
+bible
+versets bibliques
+priere
+devotionnel
+pleine conscience
+manifestation
+journal de reves
+signification des reves
+phases de la lune
+chakra
+# SPORTS
+football
+soccer
+basketball
+golf
+tennis
+velo
+peche
+course
+course à pied
+coach de course
+# BUSINESS
+cv
+creation cv
+lettre de motivation
+createur de logo
+carte de visite
+planning des employes
+suivi du temps
+suivi des heures
+compteur de kilometres
+inventaire
+# AUTO
+entretien voiture
+consommation carburant
+test de conduite
+stationnement
+# METEO
+meteo
+radar de pluie
+qualite de l air
+pollen
+# LECTURE
+suivi de lecture
+resume de livre
+bibliotheque
+# EVENEMENTS
+planificateur de mariage
+organisateur de fete
+decompte anniversaire
+invitation
+# STE METIER
+calculateur de

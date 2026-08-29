@@ -1,0 +1,52 @@
+﻿[
+  {
+    "appId": 341232718,
+    "title": "MyFitnessPal: Calorie Counter",
+    "developer": "MyFitnessPal, Inc.",
+    "developerId": 341232721,
+    "score": 4.71247,
+    "price": 0,
+    "currency": "USD",
+    "free": true
+  },
+  {
+    "appId": 1208224953,
+    "title": "Apple Fitness",
+    "developer": "Apple",
+    "developerId": 284417353,
+    "score": 2.86597,
+    "price": 0,
+    "currency": "USD",
+    "free": true
+  },
+  {
+    "appId": 1313192037,
+    "title": "Home Workout - No Equipments",
+    "developer": "Leap Health",
+    "developerId": 1687598595,
+    "score": 4.88114,
+    "price": 0,
+    "currency": "USD",
+    "free": true
+  },
+  {
+    "appId": 1502936453,
+    "title": "LADDER Strength Training Plans",
+    "developer": "Ladder Technologies, Inc.",
+    "developerId": 1208138697,
+    "score": 4.95005,
+    "price": 0,
+    "currency": "USD",
+    "free": true
+  },
+  {
+    "appId": 1041517543,
+    "title": "Fitbod: Gym & Fitness Planner",
+    "developer": "Fitbod Inc.",
+    "developerId": 980399690,
+    "score": 4.80905,
+    "price": 0,
+    "currency": "USD",
+    "free": true
+  }
+]

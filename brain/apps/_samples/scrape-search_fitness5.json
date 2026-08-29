@@ -1,0 +1,42 @@
+﻿[
+  {
+    "appId": "homeworkout.homeworkouts.noequipment",
+    "title": "Home Workout - No Equipment",
+    "developer": "Leap Fitness Group",
+    "score": 4.86015,
+    "free": true,
+    "price": 0
+  },
+  {
+    "appId": "com.google.android.apps.fitness",
+    "title": "Google Fit: Activity Tracking",
+    "developer": "Google LLC",
+    "score": 3.4482818,
+    "free": true,
+    "price": 0
+  },
+  {
+    "appId": "com.sec.android.app.shealth",
+    "title": "Samsung Health",
+    "developer": "Samsung Electronics Co.,  Ltd.",
+    "score": 3.1666884,
+    "free": true,
+    "price": 0
+  },
+  {
+    "appId": "com.planetfitness",
+    "title": "Planet Fitness",
+    "developer": "Planet Fitness",
+    "score": 4.642073,
+    "free": true,
+    "price": 0
+  },
+  {
+    "appId": "fitness.online.app",
+    "title": "Fitness App: Gym Workout Plan",
+    "developer": "FITNESS ONLINE LLC",
+    "score": 4.5864196,
+    "free": true,
+    "price": 0
+  }
+]
