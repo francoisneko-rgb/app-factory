@@ -1,0 +1,5186 @@
+[
+  {
+    "keyword": "triathlon",
+    "popularity": "18",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "spinning",
+    "popularity": "12",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "longboard",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wilderness",
+    "popularity": "5",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bushcraft",
+    "popularity": "5",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fire starting",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knot",
+    "popularity": "42",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knots",
+    "popularity": "17",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cpr",
+    "popularity": "28",
+    "competitiveness": "64",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "emergency",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "disaster",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "earthquake",
+    "popularity": "56",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tsunami",
+    "popularity": "27",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "flood",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hurricane",
+    "popularity": "5",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tornado",
+    "popularity": "5",
+    "competitiveness": "47",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wildfire",
+    "popularity": "5",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "off grid",
+    "popularity": "6",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "solar",
+    "popularity": "44",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Solar SmashPlanet Destruction Simulator",
+        "rating": "4.78",
+        "ratings_count": "2.3K"
+      },
+      {
+        "rank": "2",
+        "app": "Solar System SimSpace & Planet Physics Sandbox",
+        "rating": "4.52",
+        "ratings_count": "83*"
+      },
+      {
+        "rank": "3",
+        "app": "SkyView® LiteExplore the Universe",
+        "rating": "4.94",
+        "ratings_count": "35*"
+      },
+      {
+        "rank": "4",
+        "app": "mySolarEdge",
+        "rating": "2.50",
+        "ratings_count": "38*"
+      },
+      {
+        "rank": "5",
+        "app": "Enphase Enlighten",
+        "rating": "4.43",
+        "ratings_count": "670*"
+      },
+      {
+        "rank": "6",
+        "app": "Solar System Scope",
+        "rating": "5.00",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "7",
+        "app": "SOLARMAN Smart",
+        "rating": "4.00",
+        "ratings_count": "1*"
+      },
+      {
+        "rank": "8",
+        "app": "Solar Smash 2D: Space GamePlanet Destruction Sandbox",
+        "rating": "4.48",
+        "ratings_count": "39*"
+      },
+      {
+        "rank": "9",
+        "app": "City Smash: Sandbox GameEarth Demolition Simulator",
+        "rating": "4.68",
+        "ratings_count": "298*"
+      },
+      {
+        "rank": "10",
+        "app": "SunStrong Connect",
+        "rating": "1.55",
+        "ratings_count": "16*"
+      }
+    ]
+  },
+  {
+    "keyword": "water filter",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "foraging",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "animal tracks",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "barometer",
+    "popularity": "8",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "topographic",
+    "popularity": "5",
+    "competitiveness": "76",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "topo map",
+    "popularity": "5",
+    "competitiveness": "81",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trail map",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "compass",
+    "popularity": "63",
+    "competitiveness": "65",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Compass",
+        "rating": "3.56",
+        "ratings_count": "43*"
+      },
+      {
+        "rank": "2",
+        "app": "Compass: Real Estate & HomesBuy, Sell, and Rent Properties",
+        "rating": "3",
+        "ratings_count": "1484.9"
+      },
+      {
+        "rank": "3",
+        "app": "myCOMPASS PA",
+        "rating": "4.78",
+        "ratings_count": "1.1K"
+      },
+      {
+        "rank": "4",
+        "app": "Compass & GPSQuick Compass for Directions",
+        "rating": "5",
+        "ratings_count": "2354.5"
+      },
+      {
+        "rank": "5",
+        "app": "Compass TimeTime and Attendance",
+        "rating": "4.61",
+        "ratings_count": "47*"
+      },
+      {
+        "rank": "6",
+        "app": "Compass°Simple Large Display Compass",
+        "rating": "4.79",
+        "ratings_count": "104*"
+      },
+      {
+        "rank": "7",
+        "app": "Precision Compass Pro—Live GPSCompass with GPS & location",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Compass ×#1 design",
+        "rating": "4.00",
+        "ratings_count": "10*"
+      },
+      {
+        "rank": "9",
+        "app": "Compass∞The #1 Compass Navigation App",
+        "rating": "4.50",
+        "ratings_count": "15*"
+      },
+      {
+        "rank": "10",
+        "app": "Offline CompassCompass offline",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "altimeter",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gpx",
+    "popularity": "8",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "waypoint",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "star",
+    "popularity": "57",
+    "competitiveness": "86",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "stargazing",
+    "popularity": "8",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "constellation",
+    "popularity": "46",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aurora",
+    "popularity": "50",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "My Aurora Forecast & AlertsNorthern Lights & Borealis",
+        "rating": "9",
+        "ratings_count": "3924.4"
+      },
+      {
+        "rank": "2",
+        "app": "Aurora Forecast.Northern Lights & Aurora Alert",
+        "rating": "4.45",
+        "ratings_count": "23*"
+      },
+      {
+        "rank": "3",
+        "app": "Aurora Now - Northern LightsAurora alerts and forecast",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "4",
+        "app": "Northern Light Aurora ForecastAurora Forecast and Alerts",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "5",
+        "app": "LiveWell with Advocate AuroraManage your health & wellness",
+        "rating": "4.03",
+        "ratings_count": "217*"
+      },
+      {
+        "rank": "6",
+        "app": "Hello Aurora:Alerts & ForecastNorthern Lights Tracker",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "7",
+        "app": "Aurora Forecast: BorealisNorthern Lights Alerts & Map",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Aurora Forecast & borealisNorthern Lights Alerts & Map",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "My Aurora Forecast ProNorthern Lights Alerts & Map",
+        "rating": "4.20",
+        "ratings_count": "17*"
+      },
+      {
+        "rank": "10",
+        "app": "Aurora Forecast & AlertsNorthern Lights Forecast Alert",
+        "rating": "1",
+        "ratings_count": "74.7"
+      }
+    ]
+  },
+  {
+    "keyword": "geocache",
+    "popularity": "9",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "orienteering",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ham radio",
+    "popularity": "28",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "scanner radio",
+    "popularity": "54",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bug out bag",
+    "popularity": "5",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "edc",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "knife",
+    "popularity": "9",
+    "competitiveness": "64",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "reload",
+    "popularity": "6",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "walkie talkie",
+    "popularity": "58",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": [
+      {
+        "rank": 1,
+        "app": "!!",
+        "rating": "4.58",
+        "ratings_count": "254*"
+      },
+      {
+        "rank": 2,
+        "app": "!!",
+        "rating": "4.25",
+        "ratings_count": "153*"
+      },
+      {
+        "rank": 3,
+        "app": "!!",
+        "rating": "4.11",
+        "ratings_count": "11*"
+      },
+      {
+        "rank": 4,
+        "app": "!!",
+        "rating": "4.00",
+        "ratings_count": "8*"
+      },
+      {
+        "rank": 5,
+        "app": "!!",
+        "rating": "4.66",
+        "ratings_count": "42*"
+      },
+      {
+        "rank": 6,
+        "app": "!!",
+        "rating": "1.00",
+        "ratings_count": "30*"
+      },
+      {
+        "rank": 7,
+        "app": "!!",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 8,
+        "app": "!!",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 9,
+        "app": "!!",
+        "rating": "7",
+        "ratings_count": "454.4"
+      },
+      {
+        "rank": 10,
+        "app": "!!",
+        "rating": "4.67",
+        "ratings_count": "20*"
+      }
+    ]
+  },
+  {
+    "keyword": "morse code",
+    "popularity": "7",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "turtle",
+    "popularity": "6",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hamster",
+    "popularity": "31",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Hamster InnHotel Management with Hamsters",
+        "rating": "4.68",
+        "ratings_count": "78*"
+      },
+      {
+        "rank": "2",
+        "app": "Hamster Jump: Cake Tower!Jump and stack, play anywhere!",
+        "rating": "4.73",
+        "ratings_count": "288*"
+      },
+      {
+        "rank": "3",
+        "app": "Hamster MazeCan you escape the maze?!",
+        "rating": "4.75",
+        "ratings_count": "71*"
+      },
+      {
+        "rank": "4",
+        "app": "Hamster Life",
+        "rating": "7",
+        "ratings_count": "34.6"
+      },
+      {
+        "rank": "5",
+        "app": "Hamster Petかわいいハムスターを育てる放置ゲーム",
+        "rating": "5.00",
+        "ratings_count": "5*"
+      },
+      {
+        "rank": "6",
+        "app": "Hamster House!Spin the wheel with hamsters",
+        "rating": "5.00",
+        "ratings_count": "6*"
+      },
+      {
+        "rank": "7",
+        "app": "Namaham",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Hamster VillageHappy fun time with Hamsters",
+        "rating": "4.83",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "9",
+        "app": "Hamster Life: Fun Puzzle Maze!Cute Hamster Rodent Adventure!",
+        "rating": "4.52",
+        "ratings_count": "32*"
+      },
+      {
+        "rank": "10",
+        "app": "Hamster Townthe cutest drawing puzzle!",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "ferret",
+    "popularity": "6",
+    "competitiveness": "51",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cockatiel",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "budgie",
+    "popularity": "5",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gecko",
+    "popularity": "5",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "guinea pig",
+    "popularity": "5",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rabbit",
+    "popularity": "48",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tarantula",
+    "popularity": "5",
+    "competitiveness": "51",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sheep",
+    "popularity": "9",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cattle",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wildlife rescue",
+    "popularity": "7",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lost pet",
+    "popularity": "5",
+    "competitiveness": "72",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pet medication",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "vet records",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "beehive",
+    "popularity": "39",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "B-hyve",
+        "rating": "4.67",
+        "ratings_count": "7.7K"
+      },
+      {
+        "rank": "2",
+        "app": "b-hive MobileCall, text, video & more",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "3",
+        "app": "Beehive FCU Mobile",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "4",
+        "app": "Beehive: Beekeeping ManagerHive logs & inspections",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "5",
+        "app": "Bee Factory!Honey tycoon idle game!",
+        "rating": "2",
+        "ratings_count": "8794.8"
+      },
+      {
+        "rank": "6",
+        "app": "BeeHive SocialBuild a supportive community",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "7",
+        "app": "Student Adventures Trip App",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Beehive SSC",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "Beehive - AppBeehive Application",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Beehive: AI Personal AssistantAI Calendar, Emails, Tasks",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "pet insurance",
+    "popularity": "25",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "flea",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tick",
+    "popularity": "6",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hermit crab",
+    "popularity": "22",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hedgehog",
+    "popularity": "5",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "chinchilla",
+    "popularity": "5",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "shrimp",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "isopod",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ant farm",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "silkworm",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pigeon racing",
+    "popularity": "5",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wheelchair",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gemini",
+    "popularity": "81",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "diaper log",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "farmers market",
+    "popularity": "27",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "livestock",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "colitis",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rumination",
+    "popularity": "5",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tire pressure",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "secret santa",
+    "popularity": "9",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wardrobe capsule",
+    "popularity": "36",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "peak finder",
+    "popularity": "46",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "just dance",
+    "popularity": "54",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "panic attack",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "car scanner",
+    "popularity": "49",
+    "competitiveness": "79",
+    "related": [],
+    "rankings": [],
+    "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navig"
+  },
+  {
+    "keyword": "gerd",
+    "popularity": "5",
+    "competitiveness": "60",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rsvp",
+    "popularity": "30",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "warranty",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cbt",
+    "popularity": "45",
+    "competitiveness": "80",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "asset tag",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "decision fatigue",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "mileage log",
+    "popularity": "5",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "braces",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "reflux",
+    "popularity": "5",
+    "competitiveness": "60",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tv show",
+    "popularity": "9",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "switch control",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "phonics",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cashback",
+    "popularity": "40",
+    "competitiveness": "85",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ptsd",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sensory",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "binge eating",
+    "popularity": "5",
+    "competitiveness": "80",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "statute",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "live transcribe",
+    "popularity": "9",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "speech delay",
+    "popularity": "5",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "spades",
+    "popularity": "63",
+    "competitiveness": "83",
+    "related": [
+      {
+        "keyword": "spades *",
+        "popularity": "5",
+        "competitiveness": "58"
+      },
+      {
+        "keyword": "spades*",
+        "popularity": "5",
+        "competitiveness": "53"
+      },
+      {
+        "keyword": "spads",
+        "popularity": "5",
+        "competitiveness": "68"
+      },
+      {
+        "keyword": "spades+",
+        "popularity": "5",
+        "competitiveness": "79"
+      },
+      {
+        "keyword": "spades free",
+        "popularity": "50",
+        "competitiveness": "79"
+      },
+      {
+        "keyword": "spades friends",
+        "popularity": "5",
+        "competitiveness": "68"
+      },
+      {
+        "keyword": "beginner spades",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "free spade",
+        "popularity": "5",
+        "competitiveness": "79"
+      },
+      {
+        "keyword": "free spades",
+        "popularity": "5",
+        "competitiveness": "80"
+      },
+      {
+        "keyword": "online spades",
+        "popularity": "5",
+        "competitiveness": "71"
+      },
+      {
+        "keyword": "spades plus",
+        "popularity": "55",
+        "competitiveness": "76"
+      },
+      {
+        "keyword": "spades free card game",
+        "popularity": "5",
+        "competitiveness": "72"
+      },
+      {
+        "keyword": "free spades games",
+        "popularity": "5",
+        "competitiveness": "76"
+      },
+      {
+        "keyword": "fun spades",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "spades classic card game",
+        "popularity": "35",
+        "competitiveness": "79"
+      },
+      {
+        "keyword": "spaced",
+        "popularity": "5",
+        "competitiveness": "84"
+      },
+      {
+        "keyword": "spades game",
+        "popularity": "13",
+        "competitiveness": "80"
+      },
+      {
+        "keyword": "families book spades",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "spades royale",
+        "popularity": "30",
+        "competitiveness": "74"
+      },
+      {
+        "keyword": "spades score",
+        "popularity": "5",
+        "competitiveness": "55"
+      },
+      {
+        "keyword": "spades masters",
+        "popularity": "5",
+        "competitiveness": "58"
+      },
+      {
+        "keyword": "spares",
+        "popularity": "5",
+        "competitiveness": "71"
+      },
+      {
+        "keyword": "bid spades",
+        "popularity": "5",
+        "competitiveness": "60"
+      },
+      {
+        "keyword": "Spades Club",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "spades scorekeeper",
+        "popularity": "5",
+        "competitiveness": "44"
+      }
+    ],
+    "rankings": []
+  },
+  {
+    "keyword": "kidney stones",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "amazon seller",
+    "popularity": "7",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tips calculator",
+    "popularity": "5",
+    "competitiveness": "47",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "catheter",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "peak flow",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "punch clock",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "toll",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "silver",
+    "popularity": "5",
+    "competitiveness": "44",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dialysis",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trauma",
+    "popularity": "5",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aac",
+    "popularity": "6",
+    "competitiveness": "80",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gentle parenting",
+    "popularity": "5",
+    "competitiveness": "46",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "couples",
+    "popularity": "21",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "color filter",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "anxious",
+    "popularity": "5",
+    "competitiveness": "65",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "potty training",
+    "popularity": "20",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "chronic fatigue",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "room scan",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bmi",
+    "popularity": "49",
+    "competitiveness": "60",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "BMI Calculator – Weight LossCalculate your ideal weight",
+        "rating": "4",
+        "ratings_count": "7734.2"
+      },
+      {
+        "rank": "2",
+        "app": "BMI Online ServicesAccount management at any time",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "3",
+        "app": "BMI Calculator ~Weight Loss Tracker",
+        "rating": "6",
+        "ratings_count": "214.8"
+      },
+      {
+        "rank": "4",
+        "app": "BMI Calculator‰Body Mass Index Calculator",
+        "rating": "1.00",
+        "ratings_count": "14*"
+      },
+      {
+        "rank": "5",
+        "app": "BMI Calculator: Weight TrackerBMI & Weight Loss Tracker",
+        "rating": "0",
+        "ratings_count": "25.0"
+      },
+      {
+        "rank": "6",
+        "app": "Model My Diet - WomenMotivation to reach your goal",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "7",
+        "app": "BMI Calculator for Weight LossBody Mass Index & Ideal Weight",
+        "rating": "4.67",
+        "ratings_count": "59*"
+      },
+      {
+        "rank": "8",
+        "app": "BMI Calculator - Healthy & FitBMI Calculator - Weight Loss",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "BMI Calculator ; ideal weightWeighing Scales",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Blood Pressure - Heart Rate",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "net worth",
+    "popularity": "5",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "asthma",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "medication reminder",
+    "popularity": "36",
+    "competitiveness": "65"
+  },
+  {
+    "keyword": "gaslighting",
+    "popularity": "5",
+    "competitiveness": "44",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lock screen",
+    "popularity": "43",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sign language",
+    "popularity": "51",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "potluck",
+    "popularity": "5",
+    "competitiveness": "45",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "seizure",
+    "popularity": "5",
+    "competitiveness": "78",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wedding planner",
+    "popularity": "8",
+    "competitiveness": "65",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "radar",
+    "popularity": "57",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "allergy",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lora",
+    "popularity": "9",
+    "competitiveness": "75",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "body neutral",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tesla",
+    "popularity": "70",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "uti",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "units converter",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hearing test",
+    "popularity": "29",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "chemo",
+    "popularity": "5",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ishihara",
+    "popularity": "5",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "neighborhood",
+    "popularity": "32",
+    "competitiveness": "94",
+    "related": [
+      {
+        "keyword": "nextdoor",
+        "popularity": "62",
+        "competitiveness": "91"
+      },
+      {
+        "keyword": "yik yak",
+        "popularity": "70",
+        "competitiveness": "96"
+      },
+      {
+        "keyword": "neighbor",
+        "popularity": "51",
+        "competitiveness": "73"
+      },
+      {
+        "keyword": "neighbors",
+        "popularity": "5",
+        "competitiveness": "90"
+      }
+    ],
+    "rankings": []
+  },
+  {
+    "keyword": "parking permit",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "na",
+    "popularity": "7",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "resale",
+    "popularity": "5",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "procrastination",
+    "popularity": "5",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tantrums",
+    "popularity": "5",
+    "competitiveness": "49",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "acne",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hajj",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "debt",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "oil change",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fomo",
+    "popularity": "74",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fuel log",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "stuttering",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "noise meter",
+    "popularity": "6",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "vaccine",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "imposter",
+    "popularity": "64",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sign language translator",
+    "popularity": "5",
+    "competitiveness": "70",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ai homework",
+    "popularity": "5",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "shogi",
+    "popularity": "8",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "watch faces",
+    "popularity": "53",
+    "competitiveness": "70"
+  },
+  {
+    "keyword": "breastfeeding",
+    "popularity": "5",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "yoga pose",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "nsr",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lottery",
+    "popularity": "58",
+    "competitiveness": "67",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "CA Lottery Official App",
+        "rating": "1.50",
+        "ratings_count": "58*"
+      },
+      {
+        "rank": "2",
+        "app": "Texas Lottery Official App",
+        "rating": "4.70",
+        "ratings_count": "8K"
+      },
+      {
+        "rank": "3",
+        "app": "Jackpocket Lottery AppMega Millions & Powerball",
+        "rating": "4.86",
+        "ratings_count": "2.9K*"
+      },
+      {
+        "rank": "4",
+        "app": "Florida Lottery",
+        "rating": "4.45",
+        "ratings_count": "139*"
+      },
+      {
+        "rank": "5",
+        "app": "Illinois Lottery Official AppPlay, scan and check results",
+        "rating": "4.70",
+        "ratings_count": "3.3K"
+      },
+      {
+        "rank": "6",
+        "app": "Lotto Results - Lottery in USPowerball Mega Millions States",
+        "rating": "4.35",
+        "ratings_count": "43*"
+      },
+      {
+        "rank": "7",
+        "app": "Lotto.com Lottery AppMega Millions & Powerball",
+        "rating": "4.66",
+        "ratings_count": "2K"
+      },
+      {
+        "rank": "8",
+        "app": "Hoosier Lottery",
+        "rating": "4",
+        "ratings_count": "4904.7"
+      },
+      {
+        "rank": "9",
+        "app": "Michigan Lottery Mobile",
+        "rating": "1.83",
+        "ratings_count": "85*"
+      },
+      {
+        "rank": "10",
+        "app": "PA Lottery Official App",
+        "rating": "3",
+        "ratings_count": "2464.1"
+      }
+    ]
+  },
+  {
+    "keyword": "cancer journal",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "options calculator",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "body scan",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dopamine detox",
+    "popularity": "5",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "movie tracker",
+    "popularity": "8",
+    "competitiveness": "79",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aed",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fertility",
+    "popularity": "5",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "copd",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "inner child",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "public speaking",
+    "popularity": "5",
+    "competitiveness": "75",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "crop",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quit smoking",
+    "popularity": "46",
+    "competitiveness": "79",
+    "related": [],
+    "rankings": [
+      {
+        "rank": 1,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 2,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 3,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 4,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 5,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 6,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 7,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 8,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 9,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": 10,
+        "app": "",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "reflux baby",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "colic",
+    "popularity": "5",
+    "competitiveness": "85",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "asthma kids",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hearts",
+    "popularity": "52",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "scaffolding",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rheumatoid",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "haptic",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cluster headache",
+    "popularity": "5",
+    "competitiveness": "79",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "laundry symbols",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pronouns",
+    "popularity": "5",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "long distance",
+    "popularity": "31",
+    "competitiveness": "79",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Couple Joy - Relationship AppLong Distance & Love Tracker",
+        "rating": "4.79",
+        "ratings_count": "1.6K"
+      },
+      {
+        "rank": "2",
+        "app": "Locket WidgetBest friends first",
+        "rating": "4.78",
+        "ratings_count": "16.5K"
+      },
+      {
+        "rank": "3",
+        "app": "Cozy Couples: Relationship AppHome for love & happy moments",
+        "rating": "4.82",
+        "ratings_count": "1.6K"
+      },
+      {
+        "rank": "4",
+        "app": "Widgetable: Besties & CouplesShare Whatever on BFF's Screen",
+        "rating": "4.86",
+        "ratings_count": "4.1K"
+      },
+      {
+        "rank": "5",
+        "app": "noteit - bff widgetbffs on your home screen",
+        "rating": "4.64",
+        "ratings_count": "378*"
+      },
+      {
+        "rank": "6",
+        "app": "Duoloft: Long Distance Couples3D Room, Games, Widget & Pet",
+        "rating": "0",
+        "ratings_count": "85.0"
+      },
+      {
+        "rank": "7",
+        "app": "Long Distance: Couple & BFFPartner Photo Widget & Doodles",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Candle: Couples & RelationshipGames, Photos, Questions, Date",
+        "rating": "4.77",
+        "ratings_count": "1.5K"
+      },
+      {
+        "rank": "9",
+        "app": "Couple App: Long distance lovelong Distance & Love Tracker",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Booboo - Relationship AppLong Distance & Love Tracker",
+        "rating": "0",
+        "ratings_count": "15.0"
+      }
+    ]
+  },
+  {
+    "keyword": "fridge",
+    "popularity": "7",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "parkinson",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "scooter",
+    "popularity": "50",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Lime - #RideGreenElectric Scooter & Bike Share",
+        "rating": "4.89",
+        "ratings_count": "7.6K*"
+      },
+      {
+        "rank": "2",
+        "app": "Touchgrind ScooterExtreme Scooter Action",
+        "rating": "4.71",
+        "ratings_count": "215*"
+      },
+      {
+        "rank": "3",
+        "app": "Spin — Electric ScootersElectric Scooter & Bike Share",
+        "rating": "4.88",
+        "ratings_count": "952*"
+      },
+      {
+        "rank": "4",
+        "app": "Bird — Ride ElectricShared Electric Vehicles",
+        "rating": "4.85",
+        "ratings_count": "2.2K*"
+      },
+      {
+        "rank": "5",
+        "app": "VeoShared e-scooters & bikes",
+        "rating": "4.87",
+        "ratings_count": "3.3K"
+      },
+      {
+        "rank": "6",
+        "app": "Scooter SpaceMultiplayer Online Session",
+        "rating": "4.86",
+        "ratings_count": "142*"
+      },
+      {
+        "rank": "7",
+        "app": "365Scooter.",
+        "rating": "0",
+        "ratings_count": "142.5"
+      },
+      {
+        "rank": "8",
+        "app": "iScootIndie scooter game",
+        "rating": "5",
+        "ratings_count": "83.2"
+      },
+      {
+        "rank": "9",
+        "app": "Scooter ToolsControl your electric scooter",
+        "rating": "0",
+        "ratings_count": "24.0"
+      },
+      {
+        "rank": "10",
+        "app": "Scooter FE3D 2Freestyle Extreme 3D 2",
+        "rating": "5.00",
+        "ratings_count": "5*"
+      }
+    ]
+  },
+  {
+    "keyword": "codependency",
+    "popularity": "5",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "executive function",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dating safety",
+    "popularity": "5",
+    "competitiveness": "74",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "family location",
+    "popularity": "5",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "nfc",
+    "popularity": "52",
+    "competitiveness": "74",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "NFC ToolsTo read and write NFC tags",
+        "rating": "4.81",
+        "ratings_count": "323*"
+      },
+      {
+        "rank": "2",
+        "app": "NFC.cool Tools Tag ReaderRead and write RFID chip cards",
+        "rating": "4.35",
+        "ratings_count": "49*"
+      },
+      {
+        "rank": "3",
+        "app": "NFC Tools: Reader & ScannerNFC Tag Writer Tool",
+        "rating": "4.67",
+        "ratings_count": "11*"
+      },
+      {
+        "rank": "4",
+        "app": "Apple WalletApple Pay, Apple Card and more",
+        "rating": "4.72",
+        "ratings_count": "78.3K"
+      },
+      {
+        "rank": "5",
+        "app": "Super NFC- Reader & WriteNFC tool can read and write",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "6",
+        "app": "NFC TagInfo by NXPExplore NXP NFC tag details",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "7",
+        "app": "NFC Reader & Writer – NFC ToolScan, Read & Write NFC Tags",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "NFC Tools: Tag Reader,WriterㅤNFC Scanner and Tag Info",
+        "rating": "5.00",
+        "ratings_count": "3*"
+      },
+      {
+        "rank": "9",
+        "app": "NFC21 ToolsRead, write & manage NFC-Tags",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "NFC Reader - Mobile WalletStore NFC Credit Card, eWallet",
+        "rating": "4.64",
+        "ratings_count": "12*"
+      }
+    ]
+  },
+  {
+    "keyword": "lo fi",
+    "popularity": "5",
+    "competitiveness": "49",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "screen time parental",
+    "popularity": "5",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "character card",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "cholesterol",
+    "popularity": "5",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rosacea",
+    "popularity": "5",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "claude artifacts",
+    "popularity": "5",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "teething",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hoa",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "uv index",
+    "popularity": "6",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "bereavement",
+    "popularity": "5",
+    "competitiveness": "49",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "boundaries",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pain scale",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "print on demand",
+    "popularity": "6",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "food truck",
+    "popularity": "6",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "loneliness",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "date ideas",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "airport map",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "floss",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "solids",
+    "popularity": "5",
+    "competitiveness": "85",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fire",
+    "popularity": "54",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "eczema",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "voting",
+    "popularity": "5",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "handwriting",
+    "popularity": "9",
+    "competitiveness": "70",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hsp",
+    "popularity": "7",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "contour",
+    "popularity": "6",
+    "competitiveness": "72",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "liturgy hours",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "color blind",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "obd2",
+    "popularity": "5",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trans",
+    "popularity": "8",
+    "competitiveness": "89",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "small talk",
+    "popularity": "8",
+    "competitiveness": "81",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "receipt ocr",
+    "popularity": "5",
+    "competitiveness": "40",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dividend",
+    "popularity": "5",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "psoriasis",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "overthinking",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "axolotl",
+    "popularity": "5",
+    "competitiveness": "53",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "friend making",
+    "popularity": "5",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "one handed mode",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rfid",
+    "popularity": "8",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "taxi fare",
+    "popularity": "5",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "spelling bee",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "migraine tracker",
+    "popularity": "46",
+    "competitiveness": "67",
+    "related": [
+      {
+        "keyword": "weatherx",
+        "popularity": "5",
+        "competitiveness": "75"
+      },
+      {
+        "keyword": "migrain tracker",
+        "popularity": "5",
+        "competitiveness": "52"
+      },
+      {
+        "keyword": "migraines tracker",
+        "popularity": "5",
+        "competitiveness": "54"
+      },
+      {
+        "keyword": "free migraine tracker",
+        "popularity": "5",
+        "competitiveness": "73"
+      },
+      {
+        "keyword": "migraine tracker.",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "migraine tracker free",
+        "popularity": "5",
+        "competitiveness": "73"
+      },
+      {
+        "keyword": "migraine tracking",
+        "popularity": "5",
+        "competitiveness": "74"
+      },
+      {
+        "keyword": "migraine tracker headache",
+        "popularity": "NA",
+        "competitiveness": "52"
+      },
+      {
+        "keyword": "migraine triggers tracker",
+        "popularity": "5",
+        "competitiveness": "52"
+      },
+      {
+        "keyword": "headache-tracker-migraine",
+        "popularity": "5",
+        "competitiveness": "70"
+      },
+      {
+        "keyword": "migraine buddy",
+        "popularity": "7",
+        "competitiveness": "77"
+      },
+      {
+        "keyword": "migraine track",
+        "popularity": "5",
+        "competitiveness": "80"
+      },
+      {
+        "keyword": "headache tracker: migraine",
+        "popularity": "5",
+        "competitiveness": "76"
+      },
+      {
+        "keyword": "migrain pattern tracker",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "migraine headache tracker",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "migraine forecast",
+        "popularity": "5",
+        "competitiveness": "73"
+      },
+      {
+        "keyword": "track migraine",
+        "popularity": "5",
+        "competitiveness": "77"
+      },
+      {
+        "keyword": "headache tracker migraine pain",
+        "popularity": "5",
+        "competitiveness": "57"
+      },
+      {
+        "keyword": "migrainetracker",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "migraine tracker app",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "headache tracker calendar",
+        "popularity": "NA",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "migraine trigger tracker",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "migraine diary",
+        "popularity": "5",
+        "competitiveness": "78"
+      },
+      {
+        "keyword": "migraines",
+        "popularity": "5",
+        "competitiveness": "77"
+      },
+      {
+        "keyword": "migraine log",
+        "popularity": "5",
+        "competitiveness": "84"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Migraine Buddy: Track HeadacheHeadaches and Migraines Diary",
+        "rating": "3",
+        "ratings_count": "3984.8"
+      },
+      {
+        "rank": "2",
+        "app": "Migraine Tracker & Diary: MiGTrack headache pain, symptoms",
+        "rating": "4.82",
+        "ratings_count": "91*"
+      },
+      {
+        "rank": "3",
+        "app": "Migraine Tracker: Relief AIHeadache Diary, Log & Weather",
+        "rating": "0",
+        "ratings_count": "85.0"
+      },
+      {
+        "rank": "4",
+        "app": "Relief - Migraine TrackerHeadache, symptom, pain diary",
+        "rating": "4.56",
+        "ratings_count": "31*"
+      },
+      {
+        "rank": "5",
+        "app": "Migraine Tracker: HeadachesLog & Analyze Symptoms",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "6",
+        "app": "Bearable - Symptom TrackerMood, Health, Migraine, Period",
+        "rating": "4",
+        "ratings_count": "2264.7"
+      },
+      {
+        "rank": "7",
+        "app": "Migraine Trail: Voice TrackerWeather Forecast & Trigger Log",
+        "rating": "1",
+        "ratings_count": "444.6"
+      },
+      {
+        "rank": "8",
+        "app": "Reprieve: Migraine TrackerHeadache, Barometric Pressure",
+        "rating": "5.00",
+        "ratings_count": "2*"
+      },
+      {
+        "rank": "9",
+        "app": "Migraine Tracker: MigraineCatHeadache Diary & Trigger Log",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Canadian Migraine TrackerThe EASY way to keep a diary!",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "boat nav",
+    "popularity": "5",
+    "competitiveness": "72",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "speed reading",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "mold",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "carplay dashboard",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "etsy seller",
+    "popularity": "57",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "senior phone",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "formula",
+    "popularity": "8",
+    "competitiveness": "81",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sports betting",
+    "popularity": "63",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lux meter",
+    "popularity": "9",
+    "competitiveness": "52",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "love languages",
+    "popularity": "21",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pantry",
+    "popularity": "36",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "The Pantry: Associate AppHome for our Panera Family",
+        "rating": "1.42",
+        "ratings_count": "13*"
+      },
+      {
+        "rank": "2",
+        "app": "Pantry Check - Grocery ListTrack & manage home inventory",
+        "rating": "3.00",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "3",
+        "app": "SuperCook Recipe",
+        "rating": "4.78",
+        "ratings_count": "77*"
+      },
+      {
+        "rank": "4",
+        "app": "Cooklist: Pantry Meals RecipesGrocery List & Dinner Planner",
+        "rating": "7",
+        "ratings_count": "464.3"
+      },
+      {
+        "rank": "5",
+        "app": "Pantry Inventory - PanzyPantry Tracker & Shopping list",
+        "rating": "0",
+        "ratings_count": "25.0"
+      },
+      {
+        "rank": "6",
+        "app": "PlentifulPlentiful for Families",
+        "rating": "1",
+        "ratings_count": "884.8"
+      },
+      {
+        "rank": "7",
+        "app": "Pantry & Fridge: FridgeBuddyTrack food stock & expiration",
+        "rating": "5.00",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "8",
+        "app": "Pantry - cook your videoEveryday food items",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "Pantry: Life Storage OrganizerShareable inventory & grocery",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "PantryVaultPlain simple item tracker",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "emdr",
+    "popularity": "6",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ovulation",
+    "popularity": "6",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wallpaper",
+    "popularity": "58",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "measure ar",
+    "popularity": "5",
+    "competitiveness": "47",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "timesheet",
+    "popularity": "5",
+    "competitiveness": "71",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quit sugar",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "homework",
+    "popularity": "39",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "public transport",
+    "popularity": "16",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "misophonia",
+    "popularity": "5",
+    "competitiveness": "71",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hybrid",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "delivery proof",
+    "popularity": "5",
+    "competitiveness": "45",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "marriage",
+    "popularity": "14",
+    "competitiveness": "72",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "school bus",
+    "popularity": "5",
+    "competitiveness": "78",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gift exchange",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tm timer",
+    "popularity": "5",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "indoor maps",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "magnifier",
+    "popularity": "52",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Magnifier",
+        "rating": "4.80",
+        "ratings_count": "13*"
+      },
+      {
+        "rank": "2",
+        "app": "Magnifying Glass + FlashlightFastest LED Torch Magnifier",
+        "rating": "4.34",
+        "ratings_count": "251*"
+      },
+      {
+        "rank": "3",
+        "app": "Magnifying Glass & MirrorMagnifier with Light",
+        "rating": "7",
+        "ratings_count": "1204.6"
+      },
+      {
+        "rank": "4",
+        "app": "Magnifying Glass With LightLED magnifier and Menu Reader",
+        "rating": "5.00",
+        "ratings_count": "9*"
+      },
+      {
+        "rank": "5",
+        "app": "Magnifying glass ++Magnifier with light",
+        "rating": "4.23",
+        "ratings_count": "68*"
+      },
+      {
+        "rank": "6",
+        "app": "Magnifying Glass / FlashlightMagnifier with Light",
+        "rating": "5.00",
+        "ratings_count": "3*"
+      },
+      {
+        "rank": "7",
+        "app": "Dual Screen MagnifierTwo Screens, One Clear View",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Binoculars 50x zoom50x Zoom & HD Binocular Camera",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "Magnifier + LightReading Magnifier & Zoom Lens",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "ClearCam: Zoom CameraSee Far Objects More Clearly",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "stain remover",
+    "popularity": "5",
+    "competitiveness": "67",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "paper trading",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "always on display",
+    "popularity": "5",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "blood donation",
+    "popularity": "5",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lightning",
+    "popularity": "49",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lupus",
+    "popularity": "27",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "weaning",
+    "popularity": "14",
+    "competitiveness": "74",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "legal timer",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "epipen",
+    "popularity": "10",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ivf",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "coupons",
+    "popularity": "48",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dyslexia",
+    "popularity": "5",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "tremor",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "falconry",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "wattpad",
+    "popularity": "74",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pipe fitting",
+    "popularity": "5",
+    "competitiveness": "65",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quiz",
+    "popularity": "48",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pumping",
+    "popularity": "5",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dry eye",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ebay selling",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "people pleasing",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dance score",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "car maintenance",
+    "popularity": "5",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ev charging",
+    "popularity": "7",
+    "competitiveness": "77",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "grocery list",
+    "popularity": "53",
+    "competitiveness": "68",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "AnyList: Grocery Shopping ListRecipe Keeper & Meal Planner",
+        "rating": "9",
+        "ratings_count": "5514.6"
+      },
+      {
+        "rank": "2",
+        "app": "Our Groceries Shopping ListShare lists easily with family",
+        "rating": "4.70",
+        "ratings_count": "321*"
+      },
+      {
+        "rank": "3",
+        "app": "List Ease: Shared Grocery ListFun & Easy Food Shopping App",
+        "rating": "4.88",
+        "ratings_count": "113*"
+      },
+      {
+        "rank": "4",
+        "app": "Shopping List - Grocery & TodoQuick notes & handy checklists",
+        "rating": "4.96",
+        "ratings_count": "113*"
+      },
+      {
+        "rank": "5",
+        "app": "List Maker ◎Grocery, Shopping, To Do",
+        "rating": "3",
+        "ratings_count": "1054.8"
+      },
+      {
+        "rank": "6",
+        "app": "Shoppylist - Grocery ListEasy to share shopping list",
+        "rating": "3.33",
+        "ratings_count": "3*"
+      },
+      {
+        "rank": "7",
+        "app": "Grocery List: Out of MilkShareable Shopping List Maker",
+        "rating": "5",
+        "ratings_count": "1074.7"
+      },
+      {
+        "rank": "8",
+        "app": "Grocery List - ListonicShared Shopping for the Family",
+        "rating": "2",
+        "ratings_count": "714.5"
+      },
+      {
+        "rank": "9",
+        "app": "Grocery Buddy: Fast ChecklistQuick grocery list w/ pictures",
+        "rating": "4",
+        "ratings_count": "1054.6"
+      },
+      {
+        "rank": "10",
+        "app": "Grocery - Smart Shopping ListPlan, shop, cook, repeat",
+        "rating": "4.41",
+        "ratings_count": "19*"
+      }
+    ]
+  },
+  {
+    "keyword": "bedtime stories",
+    "popularity": "9",
+    "competitiveness": "66",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "polyamory",
+    "popularity": "5",
+    "competitiveness": "69",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "squat form",
+    "popularity": "54",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "timezone",
+    "popularity": "51",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "World Clock Time Zone WidgetTimezone Converter Calculator",
+        "rating": "3.93",
+        "ratings_count": "206*"
+      },
+      {
+        "rank": "2",
+        "app": "World Clock Time Zone WidgetsConvert Dates & Calculate UTC",
+        "rating": "5",
+        "ratings_count": "2764.4"
+      },
+      {
+        "rank": "3",
+        "app": "Overlap: World ClockTime Converter",
+        "rating": "3",
+        "ratings_count": "154.9"
+      },
+      {
+        "rank": "4",
+        "app": "Daylight - Timezone VisualizerBeautiful timezone converter",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "5",
+        "app": "Savvy TimeTime Zone Converter",
+        "rating": "3.00",
+        "ratings_count": "1*"
+      },
+      {
+        "rank": "6",
+        "app": "GlobeTempus Convert Time ZoneWorld Time Clock",
+        "rating": "2.00",
+        "ratings_count": "4*"
+      },
+      {
+        "rank": "7",
+        "app": "World Time Zones ConverterThe Best Time Zone App",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "TimeZone SyncWorld Clock & Time Zones",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "World Clock:Timezone ConverterGlobal Time & Meeting Planner",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "WorldTime: Timezone Scrubber",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "mall map",
+    "popularity": "36",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "night light",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lullaby",
+    "popularity": "5",
+    "competitiveness": "78",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "garage sale",
+    "popularity": "6",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hangman",
+    "popularity": "48",
+    "competitiveness": "84",
+    "related": [
+      {
+        "keyword": "hangman wordstwo",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "hangman word guess",
+        "popularity": "5",
+        "competitiveness": "45"
+      },
+      {
+        "keyword": "hnagman",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "spelling hangman",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "ngman",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "hangman play offline",
+        "popularity": "NA",
+        "competitiveness": "42"
+      },
+      {
+        "keyword": "juego ahorcado",
+        "popularity": "5",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "wortraten",
+        "popularity": "5",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "el ahorcado",
+        "popularity": "10",
+        "competitiveness": "49"
+      },
+      {
+        "keyword": "ahorcado juego",
+        "popularity": "5",
+        "competitiveness": "64"
+      },
+      {
+        "keyword": "forca",
+        "popularity": "5",
+        "competitiveness": "53"
+      },
+      {
+        "keyword": "ahorcado gratis",
+        "popularity": "5",
+        "competitiveness": "34"
+      },
+      {
+        "keyword": "play hang",
+        "popularity": "5",
+        "competitiveness": "80"
+      },
+      {
+        "keyword": "classic words \\",
+        "popularity": "5",
+        "competitiveness": "55"
+      },
+      {
+        "keyword": "words classic",
+        "popularity": "5",
+        "competitiveness": "59"
+      },
+      {
+        "keyword": "classic words 2",
+        "popularity": "5",
+        "competitiveness": "67"
+      },
+      {
+        "keyword": "mute words",
+        "popularity": "5",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "jogo da forca",
+        "popularity": "5",
+        "competitiveness": "51"
+      },
+      {
+        "keyword": "ahorcado en español",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "2 player games",
+        "popularity": "66",
+        "competitiveness": "94"
+      },
+      {
+        "keyword": "two player games",
+        "popularity": "53",
+        "competitiveness": "91"
+      },
+      {
+        "keyword": "two player game",
+        "popularity": "60",
+        "competitiveness": "92"
+      },
+      {
+        "keyword": "2player games",
+        "popularity": "62",
+        "competitiveness": "92"
+      },
+      {
+        "keyword": "classic word",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "google hangiuts",
+        "popularity": "5",
+        "competitiveness": "84"
+      }
+    ],
+    "rankings": []
+  },
+  {
+    "keyword": "tahajjud",
+    "popularity": "7",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "youtube studio",
+    "popularity": "66",
+    "competitiveness": "98",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "heat index",
+    "popularity": "39",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "OSHA-NIOSH Heat Safety Tool",
+        "rating": "0",
+        "ratings_count": "44.5"
+      },
+      {
+        "rank": "2",
+        "app": "Heat SafetyHeat Conditions and Forecasts",
+        "rating": "0",
+        "ratings_count": "4614.8"
+      },
+      {
+        "rank": "3",
+        "app": "Heat Index: NIOSH CalculatorHeat Safety & Risk Level Tool",
+        "rating": "8",
+        "ratings_count": "84.3"
+      },
+      {
+        "rank": "4",
+        "app": "HeatAlert: Heat Stress IndexWBGT Conditions & Monitoring",
+        "rating": "0",
+        "ratings_count": "13.0"
+      },
+      {
+        "rank": "5",
+        "app": "Heat Index: Worksite SafetyLive sensor heat-break alerts",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "6",
+        "app": "Heat Index: Get Heat AlertsFeels Like Temp, WBGT & Risk",
+        "rating": "0",
+        "ratings_count": "35.0"
+      },
+      {
+        "rank": "7",
+        "app": "Heat Index: Wet BulbWBGT & Heat Risk Forecast",
+        "rating": "0",
+        "ratings_count": "15.0"
+      },
+      {
+        "rank": "8",
+        "app": "Heat Index Calculator - CalcFelt Air, Apparent Temperature",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "Heat Index Calculator ProHeat Index & Weather",
+        "rating": "5.00",
+        "ratings_count": "3*"
+      },
+      {
+        "rank": "10",
+        "app": "Swelter: Heat IndexHeat Stress, WBGT & Safety",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "bpd",
+    "popularity": "6",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "big launcher",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ferber",
+    "popularity": "5",
+    "competitiveness": "44",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "due date",
+    "popularity": "5",
+    "competitiveness": "89",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "guestbook",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quit vaping",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "signature",
+    "popularity": "5",
+    "competitiveness": "94",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lecture recorder",
+    "popularity": "36",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "crohns",
+    "popularity": "5",
+    "competitiveness": "48",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "fantasy sports",
+    "popularity": "34",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "anorexia",
+    "popularity": "5",
+    "competitiveness": "80",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "glaucoma",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "autism kids",
+    "popularity": "5",
+    "competitiveness": "70",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "freelance tax",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "asperger",
+    "popularity": "5",
+    "competitiveness": "51",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "kosher",
+    "popularity": "5",
+    "competitiveness": "62",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "time in",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sex tracker",
+    "popularity": "5",
+    "competitiveness": "82",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "anger log",
+    "popularity": "5",
+    "competitiveness": "50",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "seating chart",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "formulas",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "allowance kids",
+    "popularity": "5",
+    "competitiveness": "49",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "basal temperature",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "meeting notes",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "attachment",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "subway",
+    "popularity": "75",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "iep",
+    "popularity": "5",
+    "competitiveness": "42",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "nursing",
+    "popularity": "8",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "phobia",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "red flags",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "gas mileage",
+    "popularity": "5",
+    "competitiveness": "67",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dating journal",
+    "popularity": "5",
+    "competitiveness": "47",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "avoidant",
+    "popularity": "5",
+    "competitiveness": "46",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "retainer",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "open relationship",
+    "popularity": "5",
+    "competitiveness": "76",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "decibel",
+    "popularity": "39",
+    "competitiveness": "61",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Decibel X:dB Sound Level MeterFrequency Spectrum Analyzer",
+        "rating": "4.36",
+        "ratings_count": "1.2K"
+      },
+      {
+        "rank": "2",
+        "app": "NIOSH Sound Level Meter",
+        "rating": "4.67",
+        "ratings_count": "107*"
+      },
+      {
+        "rank": "3",
+        "app": "Decibel Meter Sound DetectorTrack noise around you.",
+        "rating": "3",
+        "ratings_count": "6454.3"
+      },
+      {
+        "rank": "4",
+        "app": "Decibel : dB sound level meterAudio noise Spectrum Analyzer",
+        "rating": "3.41",
+        "ratings_count": "20*"
+      },
+      {
+        "rank": "5",
+        "app": "Sound Meter (Decibel)Measure the noise level",
+        "rating": "4.20",
+        "ratings_count": "68*"
+      },
+      {
+        "rank": "6",
+        "app": "Decibel - sound level meterSpectrum frequency analyzer",
+        "rating": "4.33",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "7",
+        "app": "Noise Meter - Sound & DecibelDecibel sound level meter",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Decibel HRMSHRMS",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "Decibel Meter：Noise DetectordB Sound Level Meter, Spectrum",
+        "rating": "0",
+        "ratings_count": "15.0"
+      },
+      {
+        "rank": "10",
+        "app": "Decibel outdoorLet’s LIVE LOUD!",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "radar detector",
+    "popularity": "34",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "email client",
+    "popularity": "6",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "translate camera",
+    "popularity": "7",
+    "competitiveness": "78",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "yoga nidra",
+    "popularity": "5",
+    "competitiveness": "86",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "perfectionism",
+    "popularity": "5",
+    "competitiveness": "42",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ebike",
+    "popularity": "6",
+    "competitiveness": "67",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "zakat",
+    "popularity": "5",
+    "competitiveness": "71",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "body dysmorphia",
+    "popularity": "5",
+    "competitiveness": "44",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ms",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "funeral",
+    "popularity": "5",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dental",
+    "popularity": "30",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Delta Dental Mobile App",
+        "rating": "1.58",
+        "ratings_count": "21*"
+      },
+      {
+        "rank": "2",
+        "app": "BoneBox™ - Dental Lite",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "3",
+        "app": "Dental MirrorMaster 3.16 Weeks to Mirror Mastery",
+        "rating": "4.80",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "4",
+        "app": "Dental 3D IllustrationsHelps dentists to consult",
+        "rating": "0",
+        "ratings_count": "15.0"
+      },
+      {
+        "rank": "5",
+        "app": "Dental DrugsNo. 01 App for Dentists",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "6",
+        "app": "Dentist SimulationDentist Simulation",
+        "rating": "0",
+        "ratings_count": "15.0"
+      },
+      {
+        "rank": "7",
+        "app": "Dental Assistant Training",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "Dental AnimationsPatient Education DDS GP",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "ToothView™3D Tooth Anatomy",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "NBDE I Dental Boards MasteryDentistry Exam Flashcards",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "ride split",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "medical id",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "white noise baby",
+    "popularity": "7",
+    "competitiveness": "71",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "eating disorder",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "clipboard",
+    "popularity": "58",
+    "competitiveness": "59",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Clipboard - WorkersBook Shifts on Your Schedule",
+        "rating": "4.43",
+        "ratings_count": "980*"
+      },
+      {
+        "rank": "2",
+        "app": "ClipboardYour awaited Clipboard is here",
+        "rating": "3.00",
+        "ratings_count": "4*"
+      },
+      {
+        "rank": "3",
+        "app": "ShiftKey - PRN Healthcare JobsNursing / Therapy / Dentistry",
+        "rating": "6",
+        "ratings_count": "5104.5"
+      },
+      {
+        "rank": "4",
+        "app": "Clipboard - Paste KeyboardAuto Copy and Paste Keyboard",
+        "rating": "4.63",
+        "ratings_count": "36*"
+      },
+      {
+        "rank": "5",
+        "app": "Clipboard - Post ShiftsKeep Your Patients Cared For",
+        "rating": "5",
+        "ratings_count": "1874.2"
+      },
+      {
+        "rank": "6",
+        "app": "Clipboard++",
+        "rating": "7",
+        "ratings_count": "63.6"
+      },
+      {
+        "rank": "7",
+        "app": "IntelyCare - Nursing JobsRN, CNA, LPN & Nurse Staffing",
+        "rating": "3.67",
+        "ratings_count": "7*"
+      },
+      {
+        "rank": "8",
+        "app": "ESHYFT - Per Diem NursingCNA, LPN, & RN shifts near you",
+        "rating": "3.67",
+        "ratings_count": "19*"
+      },
+      {
+        "rank": "9",
+        "app": "Clipboard : Keyboard ManagerCopy, Paste & Organize Data",
+        "rating": "4.19",
+        "ratings_count": "18*"
+      },
+      {
+        "rank": "10",
+        "app": "Paste KeyboardSuper Easy Copy&Paste Keyboard",
+        "rating": "3.87",
+        "ratings_count": "110*"
+      }
+    ]
+  },
+  {
+    "keyword": "speed camera",
+    "popularity": "5",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "jewish calendar",
+    "popularity": "18",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "vision test",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "situationship",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "expiry",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "emf",
+    "popularity": "9",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trivia",
+    "popularity": "59",
+    "competitiveness": "76",
+    "related": [
+      {
+        "keyword": "chase bank",
+        "popularity": "54",
+        "competitiveness": "85"
+      },
+      {
+        "keyword": "travel games",
+        "popularity": "18",
+        "competitiveness": "94"
+      },
+      {
+        "keyword": "finish the lyrics",
+        "popularity": "6",
+        "competitiveness": "63"
+      },
+      {
+        "keyword": "preguntados",
+        "popularity": "42",
+        "competitiveness": "73"
+      },
+      {
+        "keyword": "the chase game",
+        "popularity": "5",
+        "competitiveness": "65"
+      },
+      {
+        "keyword": "pub quiz",
+        "popularity": "28",
+        "competitiveness": "66"
+      },
+      {
+        "keyword": "endless quiz",
+        "popularity": "5",
+        "competitiveness": "56"
+      },
+      {
+        "keyword": "guess the song",
+        "popularity": "48",
+        "competitiveness": "89"
+      },
+      {
+        "keyword": "codycross",
+        "popularity": "6",
+        "competitiveness": "71"
+      },
+      {
+        "keyword": "sporcle",
+        "popularity": "50",
+        "competitiveness": "62"
+      },
+      {
+        "keyword": "trivia crac",
+        "popularity": "38",
+        "competitiveness": "80"
+      },
+      {
+        "keyword": "triviacrack",
+        "popularity": "31",
+        "competitiveness": "74"
+      },
+      {
+        "keyword": "timed trivia",
+        "popularity": "5",
+        "competitiveness": "57"
+      },
+      {
+        "keyword": "trivia games app",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "hq trivia",
+        "popularity": "5",
+        "competitiveness": "69"
+      },
+      {
+        "keyword": "fast trivia",
+        "popularity": "5",
+        "competitiveness": "45"
+      },
+      {
+        "keyword": "trivia questions",
+        "popularity": "7",
+        "competitiveness": "70"
+      },
+      {
+        "keyword": "simple trivia",
+        "popularity": "5",
+        "competitiveness": "61"
+      },
+      {
+        "keyword": "trvia",
+        "popularity": "5",
+        "competitiveness": "69"
+      },
+      {
+        "keyword": "online trivia",
+        "popularity": "5",
+        "competitiveness": "78"
+      },
+      {
+        "keyword": "trivia time",
+        "popularity": "5",
+        "competitiveness": "78"
+      },
+      {
+        "keyword": "trivia every day",
+        "popularity": "5",
+        "competitiveness": "52"
+      },
+      {
+        "keyword": "trivia for money",
+        "popularity": "5",
+        "competitiveness": "58"
+      },
+      {
+        "keyword": "trivia tricky",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "trivia night quiz",
+        "popularity": "5",
+        "competitiveness": "NA"
+      }
+    ],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "Trivia Crack: Brain Quiz GamesPlay live with friends now",
+        "rating": "4.61",
+        "ratings_count": "875*"
+      },
+      {
+        "rank": "2",
+        "app": "General Knowledge Trivia Quiz.GK questions and answers game",
+        "rating": "4.55",
+        "ratings_count": "87*"
+      },
+      {
+        "rank": "3",
+        "app": "Jeopardy! Trivia TV Game ShowAmerica's Favorite Quiz Show®",
+        "rating": "4.33",
+        "ratings_count": "66*"
+      },
+      {
+        "rank": "4",
+        "app": "Trivia Star: Trivia Games QuizFun Quiz Game Trivia Questions",
+        "rating": "4.76",
+        "ratings_count": "474*"
+      },
+      {
+        "rank": "5",
+        "app": "Trivia: Knowledge Trainer QuizThe quiz game for smart people",
+        "rating": "4.40",
+        "ratings_count": "39*"
+      },
+      {
+        "rank": "6",
+        "app": "Trivia Crack Retro Brain GamesDaily Fun Puzzle Games",
+        "rating": "4.61",
+        "ratings_count": "105*"
+      },
+      {
+        "rank": "7",
+        "app": "Trivia Questions and AnswersOriginal Trivia Questions",
+        "rating": "4.82",
+        "ratings_count": "62*"
+      },
+      {
+        "rank": "8",
+        "app": "Millionaire Quiz: Trivia GameAnswer Questions To Win Big",
+        "rating": "3.30",
+        "ratings_count": "28*"
+      },
+      {
+        "rank": "9",
+        "app": "SporcleTrivia Games and Puzzles",
+        "rating": "2",
+        "ratings_count": "604.9"
+      },
+      {
+        "rank": "10",
+        "app": "Logo Quiz 2026: Guess the logoTrivia Quiz Brain Test Puzzle",
+        "rating": "2",
+        "ratings_count": "4704.9"
+      }
+    ]
+  },
+  {
+    "keyword": "greeks",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "social anxiety",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "coming out",
+    "popularity": "5",
+    "competitiveness": "39",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "stutter kids",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "libido",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quit porn",
+    "popularity": "5",
+    "competitiveness": "43",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "organ donor",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "chatgpt wrapper",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hebrew",
+    "popularity": "23",
+    "competitiveness": "93",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "safety inspection",
+    "popularity": "5",
+    "competitiveness": "56",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "osha",
+    "popularity": "30",
+    "competitiveness": "43",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "OSHA-NIOSH Heat Safety Tool",
+        "rating": "0",
+        "ratings_count": "44.5"
+      },
+      {
+        "rank": "2",
+        "app": "OSHA Safety Regulations Guide1910, 1926, 1904, 1928, 1915",
+        "rating": "4",
+        "ratings_count": "114.6"
+      },
+      {
+        "rank": "3",
+        "app": "OSHA Safety StandardsAll regulations and guidelines",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "4",
+        "app": "OSHA 10 & 30 Exam 2026Construction Safety Test Coach",
+        "rating": "0",
+        "ratings_count": "55.0"
+      },
+      {
+        "rank": "5",
+        "app": "OSHA Ready: Safety ComplianceRegulations: 1910, 1926, 1904",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "6",
+        "app": "NIOSH Sound Level Meter",
+        "rating": "4.67",
+        "ratings_count": "107*"
+      },
+      {
+        "rank": "7",
+        "app": "OSHA Safety Regulations1904,1915, 1910,1926, 1928",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "8",
+        "app": "OSHA Forklift CertPowered Industrial Truck Test",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "9",
+        "app": "OSHA DigitalEmployee/ Employer Standards",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Pocket OSHASearch Tool for OSHA 1910&1926",
+        "rating": "—",
+        "ratings_count": "—"
+      }
+    ]
+  },
+  {
+    "keyword": "metal detector",
+    "popularity": "9",
+    "competitiveness": "58",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "icon pack",
+    "popularity": "5",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "launcher",
+    "popularity": "33",
+    "competitiveness": "63"
+  },
+  {
+    "keyword": "exam scanner",
+    "popularity": "5",
+    "competitiveness": "71",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "trash schedule",
+    "popularity": "5",
+    "competitiveness": "35",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "baby proofing",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "live scores",
+    "popularity": "5",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ocd",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rag",
+    "popularity": "13",
+    "competitiveness": "91",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "train times",
+    "popularity": "31",
+    "competitiveness": "96",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lab results",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "dbt",
+    "popularity": "9",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "body type",
+    "popularity": "5",
+    "competitiveness": "54",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "grief",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "sms backup",
+    "popularity": "5",
+    "competitiveness": "64",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "currency converter",
+    "popularity": "54",
+    "competitiveness": "74",
+    "related": [],
+    "rankings": [
+      {
+        "rank": "1",
+        "app": "My Currency Converter & RatesExchange Rates & Converter",
+        "rating": "4.75",
+        "ratings_count": "1.2K"
+      },
+      {
+        "rank": "2",
+        "app": "Currency converter calculator!Exchange rates USD",
+        "rating": "4.63",
+        "ratings_count": "762*"
+      },
+      {
+        "rank": "3",
+        "app": "Xe Money Transfer & CurrencySend Money Abroad in Minutes",
+        "rating": "4.71",
+        "ratings_count": "1.2K*"
+      },
+      {
+        "rank": "4",
+        "app": "CurrencyOffline currency converter",
+        "rating": "4.43",
+        "ratings_count": "103*"
+      },
+      {
+        "rank": "5",
+        "app": "World Currency Converter FOREXConverter for 160+ Currencies",
+        "rating": "4.73",
+        "ratings_count": "133*"
+      },
+      {
+        "rank": "6",
+        "app": "Unit Converter - Best Unit AppConvert All Units and Currency",
+        "rating": "4.60",
+        "ratings_count": "2.7K"
+      },
+      {
+        "rank": "7",
+        "app": "Currency converter: ExchangeConverter for 160+ currencies",
+        "rating": "4.71",
+        "ratings_count": "70*"
+      },
+      {
+        "rank": "8",
+        "app": "GlobeConvert Currency & UnitsConvert Currency and Units",
+        "rating": "4.25",
+        "ratings_count": "258*"
+      },
+      {
+        "rank": "9",
+        "app": "Currency ConverterReliable Exchange Rates",
+        "rating": "—",
+        "ratings_count": "—"
+      },
+      {
+        "rank": "10",
+        "app": "Currency Converter by WiseLive exchange rates, no ads.",
+        "rating": "0",
+        "ratings_count": "44.0"
+      }
+    ]
+  },
+  {
+    "keyword": "tax",
+    "popularity": "5",
+    "competitiveness": "73",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "uno",
+    "popularity": "67",
+    "competitiveness": "88",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "kick counter",
+    "popularity": "6",
+    "competitiveness": "87",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "eczema baby",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "lost found",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aa companion",
+    "popularity": "5",
+    "competitiveness": "46",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "rosary",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "conversation starter",
+    "popularity": "5",
+    "competitiveness": "55",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "jealousy",
+    "popularity": "5",
+    "competitiveness": "40",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "loyalty cards",
+    "popularity": "16",
+    "competitiveness": "81",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "pollen",
+    "popularity": "9",
+    "competitiveness": "60",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "epilepsy",
+    "popularity": "NA",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": [],
+    "error": "page.evaluate: Execution context was destroyed, mo"
+  },
+  {
+    "keyword": "sleep training",
+    "popularity": "5",
+    "competitiveness": "89",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "car seat",
+    "popularity": "5",
+    "competitiveness": "42",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "aura",
+    "popularity": "61",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "thrift",
+    "popularity": "6",
+    "competitiveness": "100",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "quit gambling",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "comics",
+    "popularity": "47",
+    "competitiveness": "86",
+    "related": [
+      {
+        "keyword": "commics",
+        "popularity": "5",
+        "competitiveness": "81"
+      },
+      {
+        "keyword": "comic",
+        "popularity": "49",
+        "competitiveness": "93"
+      },
+      {
+        "keyword": "comic book",
+        "popularity": "29",
+        "competitiveness": "86"
+      },
+      {
+        "keyword": "comico",
+        "popularity": "46",
+        "competitiveness": "79"
+      },
+      {
+        "keyword": "comic geeks",
+        "popularity": "6",
+        "competitiveness": "74"
+      },
+      {
+        "keyword": "comic database",
+        "popularity": "5",
+        "competitiveness": "52"
+      },
+      {
+        "keyword": "comics guide",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "comicbook",
+        "popularity": "5",
+        "competitiveness": "84"
+      },
+      {
+        "keyword": "free comics",
+        "popularity": "5",
+        "competitiveness": "97"
+      },
+      {
+        "keyword": "comic book database",
+        "popularity": "5",
+        "competitiveness": "49"
+      },
+      {
+        "keyword": "read comics",
+        "popularity": "10",
+        "competitiveness": "77"
+      },
+      {
+        "keyword": "comix",
+        "popularity": "19",
+        "competitiveness": "85"
+      },
+      {
+        "keyword": "comics kids",
+        "popularity": "5",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "comics catalog",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "whakoom: organize your comics!",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "comic pricing",
+        "popularity": "5",
+        "competitiveness": "58"
+      },
+      {
+        "keyword": "comic app",
+        "popularity": "5",
+        "competitiveness": "NA"
+      },
+      {
+        "keyword": "comic book price guide",
+        "popularity": "5",
+        "competitiveness": "56"
+      },
+      {
+        "keyword": "league of comic geeks",
+        "popularity": "5",
+        "competitiveness": "61"
+      },
+      {
+        "keyword": "comic inventory",
+        "popularity": "5",
+        "competitiveness": "47"
+      },
+      {
+        "keyword": "comic price",
+        "popularity": "5",
+        "competitiveness": "59"
+      },
+      {
+        "keyword": "comic prices",
+        "popularity": "5",
+        "competitiveness": "56"
+      },
+      {
+        "keyword": "comic book identifier",
+        "popularity": "5",
+        "competitiveness": "55"
+      },
+      {
+        "keyword": "comic book value",
+        "popularity": "5",
+        "competitiveness": "65"
+      },
+      {
+        "keyword": "comic catalog",
+        "popularity": "5",
+        "competitiveness": "52"
+      }
+    ],
+    "rankings": []
+  },
+  {
+    "keyword": "parking meter",
+    "popularity": "5",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "hadith",
+    "popularity": "5",
+    "competitiveness": "44",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ostomy",
+    "popularity": "5",
+    "competitiveness": "90",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "widgets",
+    "popularity": "56",
+    "competitiveness": "91",
+    "related": [
+      {
+        "keyword": "lockscreen",
+        "popularity": "9",
+        "competitiveness": "89"
+      },
+      {
+        "keyword": "widget games",
+        "popularity": "5",
+        "competitiveness": "90"
+      },
+      {
+        "keyword": "wiget",
+        "popularity": "7",
+        "competitiveness": "86"
+      },
+      {
+        "keyword": "widget photo",
+        "popularity": "12",
+        "competitiveness": "83"
+      },
+      {
+        "keyword": "iscreen",
+        "popularity": "63",
+        "competitiveness": "91"
+      },
+      {
+        "keyword": "[widget]",
+        "popularity": "59",
+        "competitiveness": "40"
+      },
+      {
+        "keyword": "shortflow",
+        "popularity": "5",
+        "competitiveness": "39"
+      },
+      {
+        "keyword": "widget",
+        "popularity": "62",
+        "competitiveness": "94"
+      },
+      {
+        "keyword": "widgetsmtih",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "widgetsmith",
+        "popularity": "71",
+        "competitiveness": "86"
+      },
+      {
+        "keyword": "wigit",
+        "popularity": "5",
+        "competitiveness": "85"
+      },
+      {
+        "keyword": "widgettable",
+        "popularity": "7",
+        "competitiveness": "84"
+      },
+      {
+        "keyword": "tap widget",
+        "popularity": "5",
+        "competitiveness": "83"
+      },
+      {
+        "keyword": "widget app free",
+        "popularity": "5",
+        "competitiveness": "83"
+      },
+      {
+        "keyword": "top widgets",
+        "popularity": "54",
+        "competitiveness": "88"
+      },
+      {
+        "keyword": "widgetable",
+        "popularity": "66",
+        "competitiveness": "88"
+      },
+      {
+        "keyword": "widget smith",
+        "popularity": "50",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "cute widgets",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "widgets apps",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "iphone widgets",
+        "popularity": "5",
+        "competitiveness": "87"
+      },
+      {
+        "keyword": "custom widgets",
+        "popularity": "5",
+        "competitiveness": "89"
+      },
+      {
+        "keyword": "widgets app",
+        "popularity": "5",
+        "competitiveness": "76"
+      },
+      {
+        "keyword": "widgets for iphone",
+        "popularity": "5",
+        "competitiveness": "81"
+      },
+      {
+        "keyword": "usefull widgets",
+        "popularity": "5",
+        "competitiveness": "82"
+      },
+      {
+        "keyword": "Top Widgets⁺",
+        "popularity": "5",
+        "competitiveness": "44"
+      }
+    ],
+    "rankings": []
+  },
+  {
+    "keyword": "sun surveyor",
+    "popularity": "9",
+    "competitiveness": "74",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "epi pen",
+    "popularity": "5",
+    "competitiveness": "NA",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "evp",
+    "popularity": "5",
+    "competitiveness": "57",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "mockup",
+    "popularity": "5",
+    "competitiveness": "63",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "farm",
+    "popularity": "58",
+    "competitiveness": "97",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "times tables",
+    "popularity": "33",
+    "competitiveness": "83",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "contraction timer",
+    "popularity": "60",
+    "competitiveness": "84",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "memorial",
+    "popularity": "5",
+    "competitiveness": "92",
+    "related": [],
+    "rankings": []
+  },
+  {
+    "keyword": "ttc",
+    "popularity": "7",
+    "competitiveness": "95",
+    "related": [],
+    "rankings": []
+  }
+]

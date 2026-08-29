@@ -14,8 +14,9 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 >   Ne PAS créer d'autre fichier CSV qui duplique ces données.
 > - Les apps leaders + liens App Store vivent dans `appfigures_raw/rankings_*.csv` et `references/<niche>/`
 >   (PAS dans le fichier de mots-clés).
-> - Le fichier contient aujourd'hui **1182 mots-clés propres** (reconstruction 2026-08-29).
->   Un `.bak` existe à côté (appfigures-insights.csv.bak).
+> - Le fichier contient aujourd'hui **1182 mots-clés propres** (reconstruction 2026-08-29
+>   depuis scored_all.json + localstorage_scrape.json + les lignes valides de l'ancien insights).
+>   Format strict `keyword,popularity,competitiveness`. Un `.bak` existe à côté.
 > - **NE JAMAIS SUPPRIMER de fichier de données** sans validation. Toujours faire un .bak avant toute fusion.
 > - FOURNIR de la DATA brute pour que l'utilisateur tranche LUI-MÊME. Donner ~30+ niches, pas un top 3 fermé.
 > - Seuils élargis : ne pas écarter une piste juste parce qu'elle n'est pas "top 3".
