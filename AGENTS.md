@@ -60,6 +60,25 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
    après chaque étape significative. Le `.gitignore` exclut images/audio/vidéo, APK/IPA/archives,
    secrets (`.env`, `config/api-keys.env`), snapshots `.playwright-mcp/`, `brain/logs/`.
    Les fichiers texte/CSV/MD/JSON de recherche ne doivent jamais être perdus.
+15. MÉTHODE DE VALIDATION DES NICHES (décision utilisateur 2026-08-29, VALIDÉE) : le fichier
+   `appfigures-insights.csv` ne montre que des mots génériques à forte concurrence (inutilisables).
+   La vraie matière est dans les POOLS D'AUTOCOMPLÉTION (intacts) :
+   `brain/marche/autocomplete-en-us.csv` (60k, 353 seeds), `brain/marche/v2/autocomplete-gaming-en-us.csv`
+   (53k, 393 seeds), `brain/marche/v3/autocomplete-v3-en-us.csv` (11k, 281 seeds),
+   `brain/marche/v4/autocomplete-v4-en-us.csv` (63k, 682 seeds). ~188 000 mots-clés, format keyword,seed.
+   PROCESSUS (à suivre à la reprise) :
+   - ÉTAPE 1 : L'UTILISATEUR choisit 30-50 thèmes/seeds (jamais 3-5). Lui montrer la liste des seeds
+     classés par thème (depuis les pools ci-dessus), PAS de choix fait par l'agent.
+   - ÉTAPE 2 : pour chaque thème choisi, creuser les déclinaisons longue traîne depuis les pools
+     (ex. yoga -> yoga for seniors, chair yoga, yoga nidra...) et les SCORER sur AppFigures
+     (popularité + compétitivité).
+   - ÉTAPE 3 : tracer chaque requête (mot, résultat, statut "scoré"/"pas continué"). Si 3-4 requêtes
+     d'un thème ne sont pas concluantes, passer au thème suivant (ne pas boucler).
+   - ÉTAPE 4 : remonter les données scorées à l'utilisateur ; LUI valide, pas l'agent.
+   STRUCTURE : dossier `brain/marche/longue-traine/` : `seeds-a-explorer.csv` (thèmes choisis),
+   `requetes-scorees.csv` (fichier de travail des requêtes scorées), ajouter les nouveaux mots EN FIN
+   d'appfigures-insights.csv (sans toucher l'existant ni le coloriage).
+   AppRadar ne sert pas au workflow (utilisateur va se désabonner).
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
 G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →

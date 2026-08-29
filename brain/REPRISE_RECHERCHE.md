@@ -20,6 +20,27 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 > - **NE JAMAIS SUPPRIMER de fichier de données** sans validation. Toujours faire un .bak avant toute fusion.
 > - FOURNIR de la DATA brute pour que l'utilisateur tranche LUI-MÊME. Donner ~30+ niches, pas un top 3 fermé.
 > - Seuils élargis : ne pas écarter une piste juste parce qu'elle n'est pas "top 3".
+> - **JAMAIS de libellé inventé** : les noms de dossiers/niches doivent être le mot-clé EXACT de la data
+>   (ex. "chores" et "chores tracker", PAS "chores-kids" que j'avais inventé). Ne pas ajouter d'intention
+>   ("pour enfants", "pour seniors"...) sans que la data ne la montre.
+> - **Méthode de tri** : la popularité brute MENT (les géants gemini/subway/tesla sont en haut mais
+>   inutilisables, comp 90-100). Utiliser la colonne `score` (pop - comp) ou le filtre pop≥30 ET comp<80.
+>   209 mots-clés sont de vraies opportunités dans le fichier.
+> - Présenter TOUTES les opportunités à l'utilisateur (209), pas seulement 5 "validés".
+> - **NE PAS RÉÉCRIRE appfigures-insights.csv** : l'utilisateur le colorie/l'organise. N'ajouter que
+>   de nouvelles lignes en FIN de fichier. Ne jamais remplacer les lignes existantes (perte de coloriage).
+> - **SEUILS APFIGURES** (règle empirique, standards ASO) :
+>   - Popularité ≥ 40 = demande réelle · ≥ 30 = minimum intéressant · < 25 = trop faible.
+>   - Compétitivité < 60 = très battable · 60-75 = modéré (battable en spécialisant) ·
+>     > 75 = dur · > 85 = quasi impossible (géants).
+>   - **CIBLE : Popularité ≥ 40 ET Compétitivité ≤ 60** (demande réelle + pas de géant).
+> - **LACUNE CONFIRMÉE (2026-08-29)** : je n'ai pas assez creusé les MOTS-CLÉS LONGUE TRAÎNE
+>   (ex. "journaling for seniors", "meditation for women") avec AppFigures. Le fichier a surtout
+>   des mots génériques (546 mots à 1 terme). C'EST le travail prioritaire que AppFigures doit
+>   servir à faire avant expiration (~5 jours). Funnel longue traîne : mot générique → déclinaisons
+>   (audience, usage, objet) → scorer chaque déclinaison sur AppFigures.
+> - **SAUVEGARDER à chaque validation/étape importante** : git commit + push après chaque
+>   décision validée par l'utilisateur.
 > - **ÉCHEC À NE PAS RÉPÉTER (2026-08-29)** : j'ai supprimé consolidation_mots_cles.csv (doublon perçu)
 >   alors que l'utilisateur y voyait des infos utiles. RÈGLE : avant toute fusion/suppression,
 >   garder un .bak, et TOUJOURS conserver le fichier le plus riche. Ne supprimer que sur validation
@@ -73,6 +94,30 @@ dans VUE_ELARGIE_45_NICHES.md.
    sélectionné trop peu de pistes).
 2. Approfondir les niches choisies (rankings + revenue Appfigures + fiche analyse-globale).
 3. Décision finale → PRD (G3).
+
+## ✅ REPRISE DEMAIN (2026-08-29 au coucher) — MÉTHODE VALIDÉE LONGUE TRAÎNE
+**Ce que l'utilisateur veut (règle 15 AGENTS.md) :**
+- **L'utilisateur choisit 30-50 thèmes/seeds** (jamais 3-5). L'agent ne choisit PAS pour lui.
+- La vraie matière = les POOLS d'autocomplétion intacts (188k mots) : v1 60k/353 seeds,
+  v2 53k/393, v3 11k/281, v4 63k/682. Format keyword,seed.
+- **Liste des seeds à montrer à l'utilisateur** : `brain/marche/longue-traine/seeds-complets.csv`
+  (1597 seeds uniques, colonne seed+pool). C'est LA source pour l'ÉTAPE 1.
+- **ÉTAPE 1** : montrer les seeds classés par thème → l'utilisateur en choisit 30-50.
+- **ÉTAPE 2** : pour chaque thème, creuser les déclinaisons longue traîne depuis les pools +
+  scorer sur AppFigures (pop/comp).
+- **ÉTAPE 3** : tracer chaque requête (mot, résultat, "scoré"/"pas continué"). 3-4 échecs → passer
+  au thème suivant (pas de boucle).
+- **ÉTAPE 4** : remonter les données scorées, L'UTILISATEUR valide.
+- **STRUCTURE** : dossier `brain/marche/longue-traine/` (seeds-a-explorer.csv, requetes-scorees.csv),
+  ajouter les mots en FIN d'appfigures-insights.csv (sans toucher l'existant ni le coloriage).
+- **AppRadar = à désabonner** (ne sert pas au workflow).
+- **Fichier de travail protégé** : ne jamais réécrire les lignes existantes de appfigures-insights.csv
+  (l'utilisateur le colorie).
+
+## À VÉRIFIER À LA REPRISE
+- Session Appfigures toujours active (~5 jours restants). Si expirée → informer l'utilisateur.
+- Le fichier `appfigures-insights.csv` contient 1182 mots + colonne score. 209 vraies opportunités
+  (pop>=30 & comp<80).
 
 ## OUTILS
 - Scrapers : tools/scrapers/. Template re-scrape safe : brain/marche/v4/batches/chunks/recheck_na_v2.js.
