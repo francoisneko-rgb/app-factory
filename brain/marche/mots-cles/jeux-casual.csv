@@ -1,0 +1,3511 @@
+cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance
+jeux-casual,Chess,chess,70,80,248,6,17.29
+jeux-casual,Chess,将棋,69,52,250,13,12.86
+jeux-casual,Chess,lichess,57,82,247,8,12.56
+jeux-casual,Chess,echec,53,74,246,5,14.18
+jeux-casual,Chess,شطرنج,52,68,247,2,23.86
+jeux-casual,Chess,шахматы,50,68,247,11,9.84
+jeux-casual,Chess,magic chess go go,47,96,247,7,10.90
+jeux-casual,Chess,chess online,45,80,249,12,8.61
+jeux-casual,Chess,متجر,40,91,248,246,3.86
+jeux-casual,Chess,chess offline,39,88,249,6,9.63
+jeux-casual,Chess,schach online,35,88,241,8,7.71
+jeux-casual,Chess,solv,34,88,250,134,3.64
+jeux-casual,Chess,off,32,98,244,212,3.16
+jeux-casual,Chess,chess trainer,24,78,250,11,4.72
+jeux-casual,Chess,chess practice,23,81,249,12,4.40
+jeux-casual,Chess,chess dr wolf,20,,201,6,4.94
+jeux-casual,Chess,cờ vua,18,,249,70,2.19
+jeux-casual,Chess,chessly,14,91,248,19,2.33
+jeux-casual,Chess,chess game,9,89,249,5,2.41
+jeux-casual,Chess,really bad chess,9,,203,14,1.64
+jeux-casual,Chess,satranç,9,,246,6,2.22
+jeux-casual,Chess,chess kids,9,,203,10,1.83
+jeux-casual,Chess,chess with friends,9,73,250,10,1.83
+jeux-casual,Chess,chessable,9,86,250,10,1.83
+jeux-casual,Chess,chess universe,9,,222,13,1.68
+jeux-casual,Chess,pocket chess,9,83,249,4,2.68
+jeux-casual,Chess,lotus chess,9,,250,5,2.41
+jeux-casual,Chess,free chess games,8,69,250,7,1.86
+jeux-casual,Chess,shogi,8,92,249,13,1.49
+jeux-casual,Chess,magic chess,8,,207,11,1.57
+jeux-casual,Chess,scacchi,8,84,198,2,3.67
+jeux-casual,Chess,chessclock,8,,201,95,0.91
+jeux-casual,Chess,duolingo chess,8,96,248,5,2.14
+jeux-casual,Chess,chest,7,87,246,3,2.44
+jeux-casual,Chess,chess for kids,7,86,249,10,1.42
+jeux-casual,Chess,chess 2 player,7,74,248,18,1.18
+jeux-casual,Chess,chess puzzles,7,92,249,9,1.48
+jeux-casual,Chess,offline chess,7,98,250,7,1.62
+jeux-casual,Chess,dr wolf,7,66,62,37,0.98
+jeux-casual,Chess,chess clash,7,,216,21,1.13
+jeux-casual,Chess,gambit,7,56,154,114,0.77
+jeux-casual,Chess,ches,6,82,248,6,1.48
+jeux-casual,Chess,battle chess,6,85,249,17,1.03
+jeux-casual,Chess,checkmate,6,92,249,56,0.76
+jeux-casual,Chess,chess timer clock,6,40,243,60,0.75
+jeux-casual,Chess,chess ai,6,86,250,11,1.18
+jeux-casual,Chess,matte,5,94,247,215,0.49
+jeux-casual,Chess,chess games,5,90,247,8,1.10
+jeux-casual,Chess,chess free,5,84,250,7,1.16
+jeux-casual,Chess,play jeux,5,81,246,230,0.49
+jeux-casual,Chess,auto chess,5,61,243,14,0.91
+jeux-casual,Chess,chess tutor,5,79,248,18,0.84
+jeux-casual,Chess,chess multiplayer,5,70,250,10,1.02
+jeux-casual,Chess,multiplayer chess,5,87,250,13,0.93
+jeux-casual,Chess,chess learn,5,73,245,12,0.96
+jeux-casual,Chess,play chess,5,88,245,2,2.29
+jeux-casual,Chess,free online chess,5,68,246,6,1.24
+jeux-casual,Chess,chess friends,5,68,202,11,0.98
+jeux-casual,Chess,chess time,5,89,249,6,1.24
+jeux-casual,Chess,chess time multiplayer chess,5,32,243,5,1.34
+jeux-casual,Chess,live chess,5,74,247,6,1.24
+jeux-casual,Chess,chess pro,5,87,223,9,1.06
+jeux-casual,Chess,real chess,5,90,246,13,0.93
+jeux-casual,Chess,chess live,5,74,248,5,1.34
+jeux-casual,Chess,i play,5,90,243,130,0.54
+jeux-casual,Chess,chess tactics,5,55,249,7,1.16
+jeux-casual,Chess,xadrez,5,68,243,2,2.29
+jeux-casual,Chess,chess classic,5,70,248,1,5.00
+jeux-casual,Chess,simple chess,5,,250,6,1.24
+jeux-casual,Chess,chess master,5,83,249,7,1.16
+jeux-casual,Chess,chess online multiplayer,5,69,235,11,0.98
+jeux-casual,Chess,board games online,5,63,246,164,0.52
+jeux-casual,Chess,chess openings,5,58,249,66,0.62
+jeux-casual,Chess,chase games,5,89,218,85,0.58
+jeux-casual,Chess,learn chess for kids,5,75,247,13,0.93
+jeux-casual,Chess,chess board game,5,,224,5,1.34
+jeux-casual,Chess,chess engine,5,44,249,9,1.06
+jeux-casual,Chess,play spiele app,5,83,243,73,0.60
+jeux-casual,Chess,chess king,5,90,244,40,0.69
+jeux-casual,Chess,play spiele,5,97,245,161,0.52
+jeux-casual,Chess,chess analysis,5,55,250,36,0.70
+jeux-casual,Chess,chess for beginners,5,57,221,11,0.98
+jeux-casual,Chess,auto chest,5,,195,19,0.83
+jeux-casual,Chess,play line,5,76,232,81,0.59
+jeux-casual,Chess,chessify,5,75,202,27,0.76
+jeux-casual,Chess,chess rule,5,32,246,1,5.00
+jeux-casual,Chess,visualization board,5,40,246,158,0.52
+jeux-casual,Chess,chess online free,5,,233,14,0.91
+jeux-casual,Chess,chess analyze,5,,238,5,1.34
+jeux-casual,Chess,online chess games,5,68,248,9,1.06
+jeux-casual,Chess,chess cheat,5,,221,10,1.02
+jeux-casual,Chess,schachspiel,5,83,235,11,0.98
+jeux-casual,Chess,chess online with friends,5,70,248,12,0.96
+jeux-casual,Chess,chess friends online,5,46,232,8,1.10
+jeux-casual,Chess,play chess with friends,5,82,249,13,0.93
+jeux-casual,Chess,chess teacher,5,74,249,9,1.06
+jeux-casual,Chess,chess puzzle,5,93,249,37,0.70
+jeux-casual,Chess,chess lessons,5,79,247,9,1.06
+jeux-casual,Chess,beginner chess,5,,220,15,0.89
+jeux-casual,Chess,chess social,5,49,248,14,0.91
+jeux-casual,Chess,shack,5,73,238,153,0.52
+jeux-casual,Chess,satanic,5,43,248,163,0.52
+jeux-casual,Chess,chess blitz,5,88,249,6,1.24
+jeux-casual,Chess,master chess,5,84,249,3,1.74
+jeux-casual,Chess,chess opening,5,91,248,42,0.68
+jeux-casual,Chess,chess strategy,5,75,249,24,0.78
+jeux-casual,Chess,chess computer,5,,249,9,1.06
+jeux-casual,Chess,chess clock app,5,87,220,20,0.82
+jeux-casual,Chess,blitz chess,5,88,249,7,1.16
+jeux-casual,Chess,chess beginners,5,,208,11,0.98
+jeux-casual,Chess,plae,5,92,246,246,0.48
+jeux-casual,Chess,local chess,5,,248,5,1.34
+jeux-casual,Chess,chess two player,5,,214,8,1.10
+jeux-casual,Chess,chess board,5,89,249,5,1.34
+jeux-casual,Chess,szachy,5,80,246,23,0.79
+jeux-casual,Chess,real chess master 3d,5,27,199,4,1.49
+jeux-casual,Chess,cest,5,81,248,6,1.24
+jeux-casual,Chess,chess premium,5,91,216,3,1.74
+jeux-casual,Chess,teach chess,5,,249,9,1.06
+jeux-casual,Chess,chess pgn,5,32,229,12,0.96
+jeux-casual,Chess,chess play,5,,247,2,2.29
+jeux-casual,Chess,mat game,5,83,248,169,0.51
+jeux-casual,Chess,liches,5,49,108,5,1.34
+jeux-casual,Chess,chess royale,5,,198,15,0.89
+jeux-casual,Chess,chess.com,5,94,248,7,1.16
+jeux-casual,Chess,bad chess,5,54,250,9,1.06
+jeux-casual,Chess,chess rules,5,71,246,4,1.49
+jeux-casual,Chess,chess book,5,54,248,7,1.16
+jeux-casual,Chess,chess base,5,81,245,16,0.87
+jeux-casual,Chess,chess online +,5,70,245,14,0.91
+jeux-casual,Chess,chess online∙,5,40,237,3,1.74
+jeux-casual,Chess,chess time live,5,84,250,3,1.74
+jeux-casual,Chess,play live online chess,5,68,232,3,1.74
+jeux-casual,Chess,live online chess,5,46,232,3,1.74
+jeux-casual,Chess,play online chess,5,68,229,5,1.34
+jeux-casual,Chess,play chess online,5,74,248,9,1.06
+jeux-casual,Chess,chess track,5,,248,2,2.29
+jeux-casual,Chess,chess com play and learn,5,71,237,9,1.06
+jeux-casual,Chess,chess960,5,89,247,6,1.24
+jeux-casual,Chess,animated chess,5,,233,20,0.82
+jeux-casual,Chess,strategy number game,5,42,243,194,0.50
+jeux-casual,Chess,online chess with friends,5,69,241,10,1.02
+jeux-casual,Chess,speed chess timer,5,79,210,15,0.89
+jeux-casual,Chess,chess timer app,5,,246,33,0.72
+jeux-casual,Chess,échecs,5,84,242,5,1.34
+jeux-casual,Chess,chess stars,5,93,248,4,1.49
+jeux-casual,Chess,chez,5,80,249,2,2.29
+jeux-casual,Chess,chess hd,5,86,243,3,1.74
+jeux-casual,Chess,free chess game,5,86,247,12,0.96
+jeux-casual,Chess,chess opening trainer,5,48,249,77,0.60
+jeux-casual,Chess,chess openings pro,5,,247,28,0.75
+jeux-casual,Chess,spiele strategie,5,60,248,242,0.48
+jeux-casual,Chess,interent,5,91,250,237,0.49
+jeux-casual,Chess,chess vs computer,5,,234,3,1.74
+jeux-casual,Chess,chess hotel,5,51,242,3,1.74
+jeux-casual,Chess,Chess guide,5,72,250,12,0.96
+jeux-casual,Chess,classic chess,5,,228,5,1.34
+jeux-casual,Chess,chaw,5,98,248,168,0.51
+jeux-casual,Chess,play puzzel,5,42,244,145,0.53
+jeux-casual,Chess,app maken,5,88,241,175,0.51
+jeux-casual,Chess,r compute,5,50,151,41,0.68
+jeux-casual,Chess,chess for chromecast and more,5,46,242,5,1.34
+jeux-casual,Chess,on/off,5,57,246,223,0.49
+jeux-casual,Chess,online mat,5,85,241,61,0.63
+jeux-casual,Chess,chess no ads,5,53,213,6,1.24
+jeux-casual,Chess,schaken,5,,14,1,5.00
+jeux-casual,Chess,Vison board maker,5,100,248,230,0.49
+jeux-casual,Chess,j p morgan chase,5,66,36,35,0.71
+jeux-casual,Chess,chess money,5,46,248,26,0.76
+jeux-casual,Chess,chess adventure for kids,5,,201,9,1.06
+jeux-casual,Chess,clock chess,5,76,223,55,0.64
+jeux-casual,Chess,catur,5,74,31,6,1.24
+jeux-casual,Chess,chess\,5,66,230,5,1.34
+jeux-casual,Chess,Chess ∙,5,84,241,2,2.29
+jeux-casual,Chess,Chess∙,5,81,243,6,1.24
+jeux-casual,Chess,board chess,5,56,241,2,2.29
+jeux-casual,Chess,on and off,5,82,247,157,0.52
+jeux-casual,Chess,solve the,5,53,243,204,0.50
+jeux-casual,Chess,chess helper,5,91,221,8,1.10
+jeux-casual,Chess,체스,5,80,242,196,0.50
+jeux-casual,Chess,plar,5,78,240,152,0.52
+jeux-casual,Chess,best cooperative board games for couples,5,42,247,83,0.59
+jeux-casual,Chess,best new 2 player board games,5,42,249,240,0.48
+jeux-casual,Chess,kingdom chess,5,89,229,5,1.34
+jeux-casual,Chess,mini chess,5,85,224,10,1.02
+jeux-casual,Chess,chess game free,5,81,249,5,1.34
+jeux-casual,Chess,chess stockfish,5,,233,8,1.10
+jeux-casual,Chess,chess theory,5,84,250,11,0.98
+jeux-casual,Chess,gotham chess,5,78,249,9,1.06
+jeux-casual,Chess,pass and play chess,5,,248,6,1.24
+jeux-casual,Chess,blindfold chess,5,94,249,12,0.96
+jeux-casual,Chess,tlt,5,72,227,91,0.58
+jeux-casual,Chess,chess bot,5,89,248,7,1.16
+jeux-casual,Chess,stratag,5,40,240,197,0.50
+jeux-casual,Chess,chess clock timer,5,50,248,140,0.53
+jeux-casual,Chess,freer ltd.,5,89,250,130,0.54
+jeux-casual,Chess,chess move pro,5,46,250,14,0.91
+jeux-casual,Chess,chess move,5,89,249,12,0.96
+jeux-casual,Chess,master chess wallpapers,5,43,248,4,1.49
+jeux-casual,Chess,cheek,5,89,240,2,2.29
+jeux-casual,Chess,chess guess,5,84,245,6,1.24
+jeux-casual,Chess,i have a board games,5,55,246,174,0.51
+jeux-casual,Chess,infinite chess,5,90,230,6,1.24
+jeux-casual,Chess,chess square,5,90,233,2,2.29
+jeux-casual,Chess,chess blind,5,90,230,4,1.49
+jeux-casual,Chess,blind chess trainer,5,43,246,23,0.79
+jeux-casual,Chess,chessboard,5,86,210,9,1.06
+jeux-casual,Chess,chess rating,5,92,248,7,1.16
+jeux-casual,Chess,chess elo,5,77,234,6,1.24
+jeux-casual,Chess,chess mastery,5,45,247,3,1.74
+jeux-casual,Chess,chess vision,5,95,226,6,1.24
+jeux-casual,Chess,chess GM,5,58,234,10,1.02
+jeux-casual,Chess,chess cheating,5,85,235,8,1.10
+jeux-casual,Chess,chess knight,5,82,248,8,1.10
+jeux-casual,Chess,chess pawn,5,83,242,5,1.34
+jeux-casual,Chess,chess pieces,5,92,231,3,1.74
+jeux-casual,Chess,chess notation trainer,5,40,249,34,0.71
+jeux-casual,Chess,improve chess,5,87,246,3,1.74
+jeux-casual,Chess,chess train,5,88,250,42,0.68
+jeux-casual,Chess,train chess,5,50,247,33,0.72
+jeux-casual,Chess,trainer chess,5,43,246,19,0.83
+jeux-casual,Chess,chess variants,5,91,248,19,0.83
+jeux-casual,Chess,puzzle rush,5,65,248,1,5.00
+jeux-casual,Chess,chess visualize,5,90,245,1,5.00
+jeux-casual,Chess,chess notation,5,86,250,9,1.06
+jeux-casual,Chess,chess variant,5,91,246,15,0.89
+jeux-casual,Chess,chess exercise,5,67,238,3,1.74
+jeux-casual,Chess,premium chess,5,89,229,4,1.49
+jeux-casual,Chess,chess rank,5,89,234,5,1.34
+jeux-casual,Chess,chess ranking,5,82,228,1,5.00
+jeux-casual,Chess,chess basics,5,81,232,1,5.00
+jeux-casual,Chess,chess +,5,75,247,5,1.34
+jeux-casual,Chess,chess timed,5,82,247,55,0.64
+jeux-casual,Chess,Chess bullet,5,90,245,2,2.29
+jeux-casual,Chess,Chess lite,5,96,233,5,1.34
+jeux-casual,Chess,chess friend,5,69,204,24,0.78
+jeux-casual,Chess,chess utilities,5,37,226,1,5.00
+jeux-casual,Chess,chess utility,5,,248,1,5.00
+jeux-casual,Chess,chess lesson,5,59,245,11,0.98
+jeux-casual,Chess,blind chess,5,90,224,8,1.10
+jeux-casual,Chess,chess blindfold,5,81,235,1,5.00
+jeux-casual,Chess,chess piece,5,92,250,1,5.00
+jeux-casual,Chess,chess books,5,53,248,14,0.91
+jeux-casual,Chess,chess 960,5,81,246,4,1.49
+jeux-casual,Chess,chess calculation,5,83,223,8,1.10
+jeux-casual,Chess,chess calculate,5,69,226,8,1.10
+jeux-casual,Chess,chess fish,5,79,226,31,0.73
+jeux-casual,Chess,chess lab,5,79,228,62,0.62
+jeux-casual,Chess,Makruk,5,,115,17,0.86
+jeux-casual,Chess,chess repertoire,5,87,239,4,1.49
+jeux-casual,Chess,chesseble,5,81,250,12,0.96
+jeux-casual,Chess,chessible,5,71,249,10,1.02
+jeux-casual,Chess,chess queen,5,38,240,5,1.34
+jeux-casual,Chess,chess mania,5,85,231,1,5.00
+jeux-casual,Chess,chess timer-clock,5,72,240,10,1.02
+jeux-casual,Chess,clock for chess,5,76,227,10,1.02
+jeux-casual,Chess,chess game timer,5,81,240,4,1.49
+jeux-casual,Chess,the chess clock app,5,78,229,20,0.82
+jeux-casual,Chess,checss,5,77,242,4,1.49
+jeux-casual,Chess,chess visual,5,87,232,1,5.00
+jeux-casual,Chess,rapid chess,5,84,250,7,1.16
+jeux-casual,Chess,chess timer - turn clock,5,40,244,31,0.73
+jeux-casual,Chess,chess clock - turn timer,5,40,240,39,0.69
+jeux-casual,Chess,strategy number,5,44,248,156,0.52
+jeux-casual,Chess,chessbook,5,,213,14,0.91
+jeux-casual,Chess,chess imessage,5,,218,5,1.34
+jeux-casual,Chess,chess solver,5,91,212,16,0.87
+jeux-casual,Chess,phone mate,5,86,248,80,0.59
+jeux-casual,Chess,checkman,5,40,234,37,0.70
+jeux-casual,Chess,3 man chess,5,76,228,5,1.34
+jeux-casual,Chess,check clean,5,87,249,235,0.49
+jeux-casual,Chess,heckmate,5,91,247,72,0.60
+jeux-casual,Chess,ai chess,5,71,234,12,0.96
+jeux-casual,Chess,chess learner,5,74,247,10,1.02
+jeux-casual,Chess,chess not checkers,5,77,220,86,0.58
+jeux-casual,Chess,solve a,5,52,246,145,0.53
+jeux-casual,Chess,mate in 2 chess puzzles,5,,241,9,1.06
+jeux-casual,Chess,chess kings,5,,249,8,1.10
+jeux-casual,Chess,memory chess,5,,237,4,1.49
+jeux-casual,Chess,chess app for kids,5,63,224,13,0.93
+jeux-casual,Chess,chess assistant,5,,233,3,1.74
+jeux-casual,Chess,stockfish chess analysis,5,,219,9,1.06
+jeux-casual,Chess,auto%20chess,5,69,223,2,2.29
+jeux-casual,Chess,chess%20clock,5,78,224,2,2.29
+jeux-casual,Chess,chess%20time,5,73,219,2,2.29
+jeux-casual,Chess,offline%20chess,5,49,222,2,2.29
+jeux-casual,Chess,free%20vision%20board%20app,5,53,247,217,0.49
+jeux-casual,Chess,chess%20timer,5,64,247,3,1.74
+jeux-casual,Chess,chess next move,5,80,250,15,0.89
+jeux-casual,Chess,chess background,5,,208,4,1.49
+jeux-casual,Chess,chess wallpaper,5,,219,2,2.29
+jeux-casual,Chess,chess diary,5,49,218,1,5.00
+jeux-casual,Chess,chess score,5,,221,4,1.49
+jeux-casual,Chess,chess scoreboard,5,,202,6,1.24
+jeux-casual,Chess,custom chess,5,87,232,9,1.06
+jeux-casual,Chess,learn chess daily,5,,243,4,1.49
+jeux-casual,Chess,chess 2d,5,66,229,6,1.24
+jeux-casual,Chess,chee,5,97,248,3,1.74
+jeux-casual,Chess,vision boardard,5,,243,223,0.49
+jeux-casual,Chess,stockfish  chess,5,,231,15,0.89
+jeux-casual,Chess,card chess,5,,203,6,1.24
+jeux-casual,Chess,pawns.app,5,,195,79,0.59
+jeux-casual,Chess,chain triangle,5,,248,7,1.16
+jeux-casual,Chess,chessreps,5,88,250,7,1.16
+jeux-casual,Chess,chess reps,5,82,250,10,1.02
+jeux-casual,Chess,chess opening training practice lesson c,5,,248,4,1.49
+jeux-casual,Chess,chess for dummies,5,,238,8,1.10
+jeux-casual,Chess,chess universe - play online,5,,199,8,1.10
+jeux-casual,Chess,chess not checkers llc,5,,205,9,1.06
+jeux-casual,Chess,chess places,5,,247,2,2.29
+jeux-casual,Chess,chess widget,5,74,249,9,1.06
+jeux-casual,Chess,practice chess,5,,249,16,0.87
+jeux-casual,Chess,chess suggestion,5,,249,1,5.00
+jeux-casual,Chess,chech,5,,221,20,0.82
+jeux-casual,Chess,checkoff,5,,224,113,0.55
+jeux-casual,Chess,vision check,5,47,235,193,0.50
+jeux-casual,Chess,chess vs ai,5,,226,4,1.49
+jeux-casual,Chess,chess predictor,5,,247,2,2.29
+jeux-casual,Chess,text chess ratings,5,,226,2,2.29
+jeux-casual,Chess,chess ratings,5,,232,1,5.00
+jeux-casual,Chess,chess addiction,5,,210,2,2.29
+jeux-casual,Chess,chess think ahead,5,,250,2,2.29
+jeux-casual,Chess,ai super chinese chess xiangqi,5,,208,4,1.49
+jeux-casual,Chess,chess database,5,,241,10,1.02
+jeux-casual,Chess,chess how to,5,,225,7,1.16
+jeux-casual,Chess,chess instruction,5,,249,3,1.74
+jeux-casual,Chess,chess jester,5,,223,2,2.29
+jeux-casual,Chess,chess journal,5,,246,3,1.74
+jeux-casual,Chess,chess kids free,5,,248,15,0.89
+jeux-casual,Chess,chess netflix,5,,249,4,1.49
+jeux-casual,Chess,chess quiz,5,,235,5,1.34
+jeux-casual,Chess,chess ultimate,5,,204,4,1.49
+jeux-casual,Chess,chinese chess offline: xiangqi,5,,211,3,1.74
+jeux-casual,Chess,iknight: a chess game,5,,214,3,1.74
+jeux-casual,Chess,lichess • online chess,5,,220,18,0.84
+jeux-casual,Chess,lite check,5,,243,234,0.49
+jeux-casual,Chess,new in chess yearbook,5,,250,4,1.49
+jeux-casual,Chess,strategy mobile for phone,5,54,248,174,0.51
+jeux-casual,Chess,chess hooda,5,,225,1,5.00
+jeux-casual,Chess,play lines,5,,242,113,0.55
+jeux-casual,Chess,chess puzzles offline,5,,226,5,1.34
+jeux-casual,Chess,chess hints,5,,233,2,2.29
+jeux-casual,Chess,chess maker,5,,221,3,1.74
+jeux-casual,Chess,chess scorer,5,,227,1,5.00
+jeux-casual,Chess,chess catalog,5,,224,1,5.00
+jeux-casual,Chess,chess finder,5,,231,1,5.00
+jeux-casual,Chess,chess list,5,,218,1,5.00
+jeux-casual,Chess,chess log,5,,228,3,1.74
+jeux-casual,Chess,chess planner,5,,227,1,5.00
+jeux-casual,Chess,cảplay,5,89,250,141,0.53
+jeux-casual,Chess,chess tracker,5,74,250,5,1.34
+jeux-casual,Chess,chess clock pro tournament,5,42,243,8,1.10
+jeux-casual,Chess,double chess,5,,247,2,2.29
+jeux-casual,Chess,premium subgame perfect equilibrium calc,5,45,250,167,0.52
+jeux-casual,Chess,niranchy,5,,208,30,0.74
+jeux-casual,Chess,capture chess,5,48,250,3,1.74
+jeux-casual,Chess,chess giveaway,5,,216,1,5.00
+jeux-casual,Chess,different chess,5,82,250,3,1.74
+jeux-casual,Chess,chess brain teaser,5,47,249,1,5.00
+jeux-casual,Chess,fun chess,5,,232,18,0.84
+jeux-casual,Chess,anti chess,5,,229,3,1.74
+jeux-casual,Chess,chess matching,5,,245,1,5.00
+jeux-casual,Chess,unique chess,5,,235,1,5.00
+jeux-casual,Chess,chess with a twist,5,,217,1,5.00
+jeux-casual,Chess,chess risk,5,,245,1,5.00
+jeux-casual,Chess,alternatives chess game variant,5,,224,2,2.29
+jeux-casual,Chess,chess game variant alternatives,5,,223,2,2.29
+jeux-casual,Chess,chess variant board game,5,,244,1,5.00
+jeux-casual,Chess,chess variant board games,5,,207,2,2.29
+jeux-casual,Chess,chess variant boards game,5,,246,1,5.00
+jeux-casual,Chess,chess variants board game,5,,245,4,1.49
+jeux-casual,Chess,alternative chess variant,5,,225,1,5.00
+jeux-casual,Chess,alternative chess variants,5,,225,1,5.00
+jeux-casual,Chess,alternatives chess variants,5,,223,1,5.00
+jeux-casual,Chess,chess matching puzzle,5,,247,1,5.00
+jeux-casual,Chess,chess matchings puzzle,5,,247,1,5.00
+jeux-casual,Chess,chess rule twist,5,,221,2,2.29
+jeux-casual,Chess,chess rule twists,5,,222,2,2.29
+jeux-casual,Chess,chess rules twist,5,,224,2,2.29
+jeux-casual,Chess,custom chess puzzle,5,,224,1,5.00
+jeux-casual,Chess,custom chess puzzles,5,,220,1,5.00
+jeux-casual,Chess,customs chess puzzle,5,,214,1,5.00
+jeux-casual,Chess,equal capture chess,5,,249,2,2.29
+jeux-casual,Chess,equal captures chess,5,,249,8,1.10
+jeux-casual,Chess,equals capture chess,5,,249,2,2.29
+jeux-casual,Chess,identical capture chess,5,,249,2,2.29
+jeux-casual,Chess,identical captures chess,5,,249,2,2.29
+jeux-casual,Chess,identicals capture chess,5,,249,2,2.29
+jeux-casual,Chess,logic chess puzzle,5,,247,2,2.29
+jeux-casual,Chess,logic chess puzzles,5,,228,2,2.29
+jeux-casual,Chess,match piece chess,5,,247,1,5.00
+jeux-casual,Chess,match pieces chess,5,,247,1,5.00
+jeux-casual,Chess,matches piece chess,5,,247,1,5.00
+jeux-casual,Chess,mirror chess variant,5,,224,1,5.00
+jeux-casual,Chess,mirror chess variants,5,,225,1,5.00
+jeux-casual,Chess,mirrors chess variant,5,,246,2,2.29
+jeux-casual,Chess,modified chess rule,5,,224,2,2.29
+jeux-casual,Chess,modified chess rules,5,38,249,2,2.29
+jeux-casual,Chess,modifieds chess rules,5,,223,2,2.29
+jeux-casual,Chess,news chess mechanics,5,,226,1,5.00
+jeux-casual,Chess,non standard chess,5,,228,1,5.00
+jeux-casual,Chess,non standards chess,5,,226,1,5.00
+jeux-casual,Chess,nons standard chess,5,,227,1,5.00
+jeux-casual,Chess,offlines chess variants,5,,248,2,2.29
+jeux-casual,Chess,unique chess rule,5,,226,2,2.29
+jeux-casual,Chess,unique chess rules,5,,247,3,1.74
+jeux-casual,Chess,uniques chess rules,5,,247,3,1.74
+jeux-casual,Chess,weird chess puzzle,5,,246,2,2.29
+jeux-casual,Chess,weird chess puzzles,5,,247,3,1.74
+jeux-casual,Chess,weirds chess puzzles,5,,231,1,5.00
+jeux-casual,Chess,variant chess rule alternatives,5,,249,2,2.29
+jeux-casual,Chess,alternatives variant chess rule,5,,248,2,2.29
+jeux-casual,Chess,chess capture variant,5,,248,7,1.16
+jeux-casual,Chess,identical piece chess,5,,249,2,2.29
+jeux-casual,Chess,matching chess board,5,,240,1,5.00
+jeux-casual,Chess,anti chess puzzle,5,,218,1,5.00
+jeux-casual,Chess,offline chess variants,5,,247,2,2.29
+jeux-casual,Chess,chess game variant for beginners,5,,221,2,2.29
+jeux-casual,Chess,chess game variant no ads,5,,239,3,1.74
+jeux-casual,Chess,no ads chess game variant,5,,239,3,1.74
+jeux-casual,Chess,ads chess game variant,5,,239,2,2.29
+jeux-casual,Chess,android chess game variant,5,,246,1,5.00
+jeux-casual,Chess,chess game variant ads,5,,241,4,1.49
+jeux-casual,Chess,chess game variant beginners,5,,223,5,1.34
+jeux-casual,Chess,chess game variant download,5,,244,2,2.29
+jeux-casual,Chess,chess game variant guide,5,,243,1,5.00
+jeux-casual,Chess,chess game variant homescreen,5,,225,1,5.00
+jeux-casual,Chess,chess game variant ios,5,,224,1,5.00
+jeux-casual,Chess,chess game variant ipad,5,,243,4,1.49
+jeux-casual,Chess,chess game variant iphone,5,,243,3,1.74
+jeux-casual,Chess,chess game variant notification,5,,249,2,2.29
+jeux-casual,Chess,chess game variant offline,5,,245,2,2.29
+jeux-casual,Chess,chess game variant premium,5,,241,3,1.74
+jeux-casual,Chess,chess game variant review,5,,245,2,2.29
+jeux-casual,Chess,chess game variant shortcut,5,,248,2,2.29
+jeux-casual,Chess,chess game variant subscription,5,,220,2,2.29
+jeux-casual,Chess,chess game variant widget,5,,225,1,5.00
+jeux-casual,Chess,homescreen chess game variant,5,,225,1,5.00
+jeux-casual,Chess,ios chess game variant,5,,226,2,2.29
+jeux-casual,Chess,ipad chess game variant,5,,243,4,1.49
+jeux-casual,Chess,iphone chess game variant,5,,244,3,1.74
+jeux-casual,Chess,notification chess game variant,5,,224,2,2.29
+jeux-casual,Chess,offline chess game variant,5,,246,2,2.29
+jeux-casual,Chess,premium chess game variant,5,,239,3,1.74
+jeux-casual,Chess,review chess game variant,5,,244,2,2.29
+jeux-casual,Chess,reviews chess game variant,5,,242,2,2.29
+jeux-casual,Chess,shortcut chess game variant,5,,227,2,2.29
+jeux-casual,Chess,subscription chess game variant,5,,220,2,2.29
+jeux-casual,Chess,widget chess game variant,5,,227,2,2.29
+jeux-casual,Chess,chess game variant,5,,245,3,1.74
+jeux-casual,Chess,piece type capturing,5,,214,16,0.87
+jeux-casual,Chess,customs chess,5,,211,2,2.29
+jeux-casual,Chess,differents chess,5,,249,2,2.29
+jeux-casual,Chess,uniques chess,5,,241,2,2.29
+jeux-casual,Chess,weird chess,5,,249,3,1.74
+jeux-casual,Chess,weirds chess,5,,245,2,2.29
+jeux-casual,Chess,piece type capturing notification,5,,211,16,0.87
+jeux-casual,Chess,piece type capturing alternatives,5,32,250,9,1.06
+jeux-casual,Chess,alternatives piece type capturing,5,,212,22,0.80
+jeux-casual,Chess,chess capture,5,42,246,4,1.49
+jeux-casual,Chess,blunder chess,5,,218,2,2.29
+jeux-casual,Chess,chess blunder,5,,216,1,5.00
+jeux-casual,Chess,chess tclock,5,,223,2,2.29
+jeux-casual,Chess,vision boar,5,,250,87,0.58
+jeux-casual,Chess,weird chess game,5,44,244,4,1.49
+jeux-casual,Chess,chess variant where for anxiety,5,,225,1,5.00
+jeux-casual,Chess,chess variant where for beginners,5,,222,2,2.29
+jeux-casual,Chess,chess variant where for couples,5,,218,2,2.29
+jeux-casual,Chess,chess variant where for kids,5,,202,2,2.29
+jeux-casual,Chess,chess variant where for sleep,5,,217,1,5.00
+jeux-casual,Chess,chess variant where for students,5,,221,2,2.29
+jeux-casual,Chess,chess variant where for work,5,,221,2,2.29
+jeux-casual,Chess,chess variant where free trial,5,,239,10,1.02
+jeux-casual,Chess,chess variant where no ads,5,,218,2,2.29
+jeux-casual,Chess,free trial chess variant where,5,,219,3,1.74
+jeux-casual,Chess,no ads chess variant where,5,,219,3,1.74
+jeux-casual,Chess,top chess variant where app,5,,224,2,2.29
+jeux-casual,Chess,alternatives chess variant where,5,,226,1,5.00
+jeux-casual,Chess,android chess variant where,5,,223,1,5.00
+jeux-casual,Chess,cheap chess variant where,5,,226,1,5.00
+jeux-casual,Chess,chess variant free trial,5,,247,4,1.49
+jeux-casual,Chess,chess variant where alternatives,5,,223,1,5.00
+jeux-casual,Chess,chess variant where android,5,,245,2,2.29
+jeux-casual,Chess,chess variant where download,5,,223,1,5.00
+jeux-casual,Chess,chess variant where guide,5,,224,1,5.00
+jeux-casual,Chess,chess variant where homescreen,5,,225,1,5.00
+jeux-casual,Chess,chess variant where ios,5,,225,1,5.00
+jeux-casual,Chess,chess variant where ipad,5,,199,2,2.29
+jeux-casual,Chess,chess variant where iphone,5,,199,2,2.29
+jeux-casual,Chess,chess variant where like,5,,221,2,2.29
+jeux-casual,Chess,chess variant where notification,5,,225,1,5.00
+jeux-casual,Chess,chess variant where offline,5,,246,2,2.29
+jeux-casual,Chess,chess variant where premium,5,,227,1,5.00
+jeux-casual,Chess,chess variant where review,5,,250,6,1.24
+jeux-casual,Chess,chess variant where reviews,5,,223,2,2.29
+jeux-casual,Chess,chess variant where shortcut,5,,226,1,5.00
+jeux-casual,Chess,chess variant where subscription,5,,221,1,5.00
+jeux-casual,Chess,chess variant where vs,5,,224,1,5.00
+jeux-casual,Chess,chess variant where widget,5,,225,1,5.00
+jeux-casual,Chess,free trial chess variant,5,,225,1,5.00
+jeux-casual,Chess,homescreen chess variant where,5,,225,1,5.00
+jeux-casual,Chess,ios chess variant where,5,,225,1,5.00
+jeux-casual,Chess,ipad chess variant where,5,,202,2,2.29
+jeux-casual,Chess,iphone chess variant where,5,,201,2,2.29
+jeux-casual,Chess,notification chess variant where,5,,221,1,5.00
+jeux-casual,Chess,offline chess variant where,5,,245,3,1.74
+jeux-casual,Chess,premium chess variant where,5,,247,3,1.74
+jeux-casual,Chess,review chess variant where,5,,223,1,5.00
+jeux-casual,Chess,reviews chess variant where,5,,226,1,5.00
+jeux-casual,Chess,shortcut chess variant where,5,,227,1,5.00
+jeux-casual,Chess,subscription chess variant where,5,,248,2,2.29
+jeux-casual,Chess,top chess variant where,5,,226,1,5.00
+jeux-casual,Chess,vs chess variant where,5,,220,1,5.00
+jeux-casual,Chess,widget chess variant where,5,,224,1,5.00
+jeux-casual,Chess,ads chess variant,5,,221,1,5.00
+jeux-casual,Chess,alternatives chess variant,5,,222,1,5.00
+jeux-casual,Chess,android chess variant,5,,248,2,2.29
+jeux-casual,Chess,cheap chess variant,5,,223,2,2.29
+jeux-casual,Chess,chess variant ads,5,,224,1,5.00
+jeux-casual,Chess,chess variant alternatives,5,,227,1,5.00
+jeux-casual,Chess,chess variant android,5,,223,1,5.00
+jeux-casual,Chess,chess variant anxiety,5,,223,1,5.00
+jeux-casual,Chess,chess variant beginners,5,,224,2,2.29
+jeux-casual,Chess,chess variant couples,5,,249,2,2.29
+jeux-casual,Chess,chess variant download,5,,223,1,5.00
+jeux-casual,Chess,chess variant guide,5,,228,1,5.00
+jeux-casual,Chess,chess variant homescreen,5,,223,1,5.00
+jeux-casual,Chess,chess variant ios,5,,222,1,5.00
+jeux-casual,Chess,chess variant ipad,5,,240,4,1.49
+jeux-casual,Chess,chess variant iphone,5,,242,3,1.74
+jeux-casual,Chess,chess variant kids,5,,207,1,5.00
+jeux-casual,Chess,chess variant notification,5,,225,1,5.00
+jeux-casual,Chess,chess variant offline,5,,248,2,2.29
+jeux-casual,Chess,chess variant premium,5,,216,1,5.00
+jeux-casual,Chess,chess variant review,5,,224,1,5.00
+jeux-casual,Chess,chess variant reviews,5,,221,1,5.00
+jeux-casual,Chess,chess variant shortcut,5,,227,1,5.00
+jeux-casual,Chess,chess variant sleep,5,,249,2,2.29
+jeux-casual,Chess,chess variant students,5,,223,2,2.29
+jeux-casual,Chess,chess variant subscription,5,,221,1,5.00
+jeux-casual,Chess,chess variant where,5,,225,1,5.00
+jeux-casual,Chess,chess variant widget,5,,246,3,1.74
+jeux-casual,Chess,chess variant work,5,,248,2,2.29
+jeux-casual,Chess,homescreen chess variant,5,,223,2,2.29
+jeux-casual,Chess,ios chess variant,5,,220,1,5.00
+jeux-casual,Chess,ipad chess variant,5,,203,2,2.29
+jeux-casual,Chess,iphone chess variant,5,,205,2,2.29
+jeux-casual,Chess,notification chess variant,5,,216,1,5.00
+jeux-casual,Chess,offline chess variant,5,,212,1,5.00
+jeux-casual,Chess,premium chess variant,5,,223,2,2.29
+jeux-casual,Chess,review chess variant,5,,226,1,5.00
+jeux-casual,Chess,reviews chess variant,5,,223,1,5.00
+jeux-casual,Chess,shortcut chess variant,5,,219,1,5.00
+jeux-casual,Chess,subscription chess variant,5,,221,2,2.29
+jeux-casual,Chess,top chess variant,5,,225,1,5.00
+jeux-casual,Chess,widget chess variant,5,,223,1,5.00
+jeux-casual,Chess,chess variant where you try to lose,5,,244,3,1.74
+jeux-casual,Chess,rook chess,5,,221,2,2.29
+jeux-casual,Chess,chess change only,5,,222,1,5.00
+jeux-casual,Chess,chess change,5,,217,1,5.00
+jeux-casual,Chess,chess variant wiki,5,,220,1,5.00
+jeux-casual,Chess,chess variants on chess app,5,,212,2,2.29
+jeux-casual,Chess,chess rules wiki,5,,223,2,2.29
+jeux-casual,Chess,chess rules quick,5,,249,3,1.74
+jeux-casual,Chess,viral chess change only app,5,,216,2,2.29
+jeux-casual,Chess,chess change only trend,5,,223,1,5.00
+jeux-casual,Chess,chess change only review,5,,224,1,5.00
+jeux-casual,Chess,review chess change only,5,,223,1,5.00
+jeux-casual,Chess,chess change only reviews,5,,223,1,5.00
+jeux-casual,Chess,reviews chess change only,5,,225,1,5.00
+jeux-casual,Chess,cheap chess variant where app,5,,224,2,2.29
+jeux-casual,Chess,good chess variant where,5,,249,1,5.00
+jeux-casual,Chess,good chess variant where app,5,,221,2,2.29
+jeux-casual,Chess,easy chess variant where,5,,220,1,5.00
+jeux-casual,Chess,easy chess variant where app,5,,221,2,2.29
+jeux-casual,Chess,chess variant where app store,5,,245,5,1.34
+jeux-casual,Chess,chess rule change,5,,249,2,2.29
+jeux-casual,Chess,chess rule variant,5,,246,2,2.29
+jeux-casual,Chess,alternative chess,5,,250,1,5.00
+jeux-casual,Chess,unusual chess,5,,249,1,5.00
+jeux-casual,Chess,chess twist,5,,217,2,2.29
+jeux-casual,Chess,custom chess rules,5,,225,2,2.29
+jeux-casual,Chess,chess with new rules,5,,249,1,5.00
+jeux-casual,Chess,chess capture rules,5,,249,2,2.29
+jeux-casual,Chess,capture same piece,5,,213,21,0.81
+jeux-casual,Chess,review where rules chess,5,,222,2,2.29
+jeux-casual,Chess,chess capture only,5,,249,4,1.49
+jeux-casual,Chess,reviews where rules chess,5,,222,2,2.29
+jeux-casual,Chess,chess puzzle game,5,,230,4,1.49
+jeux-casual,Chess,premium where rules chess,5,,224,2,2.29
+jeux-casual,Chess,subscription where rules chess,5,,219,2,2.29
+jeux-casual,Chess,chess strategy game,5,,223,2,2.29
+jeux-casual,Chess,chess logic game,5,,213,1,5.00
+jeux-casual,Chess,chess brain game,5,,246,1,5.00
+jeux-casual,Chess,chess ai opponent,5,,216,1,5.00
+jeux-casual,Chess,chess variant game,5,,242,2,2.29
+jeux-casual,Chess,chess puzzle variant,5,,247,1,5.00
+jeux-casual,Chess,chess strategy puzzle,5,,247,1,5.00
+jeux-casual,Chess,widget where rules chess,5,,248,1,5.00
+jeux-casual,Chess,chess logic puzzle,5,,224,1,5.00
+jeux-casual,Chess,shortcut where rules chess,5,,223,3,1.74
+jeux-casual,Chess,chess local multiplayer,5,,228,3,1.74
+jeux-casual,Chess,chess same device,5,,232,1,5.00
+jeux-casual,Chess,play chess offline,5,,215,3,1.74
+jeux-casual,Chess,chess match game,5,,207,2,2.29
+jeux-casual,Chess,chess tactics puzzle,5,,248,4,1.49
+jeux-casual,Chess,chess learning game,5,,228,85,0.58
+jeux-casual,Chess,chess innovation,5,,248,1,5.00
+jeux-casual,Chess,chess rule modification,5,,225,2,2.29
+jeux-casual,Chess,homescreen where rules chess,5,,248,2,2.29
+jeux-casual,Chess,notification where rules chess,5,,214,1,5.00
+jeux-casual,Chess,iphone where rules chess,5,,240,4,1.49
+jeux-casual,Chess,ipad where rules chess,5,,239,4,1.49
+jeux-casual,Chess,ios where rules chess,5,,224,2,2.29
+jeux-casual,Chess,android where rules chess,5,,221,2,2.29
+jeux-casual,Chess,no ads where rules chess,5,,201,4,1.49
+jeux-casual,Chess,offline where rules chess,5,,243,2,2.29
+jeux-casual,Chess,free trial where rules chess,5,,221,2,2.29
+jeux-casual,Chess,alternatives where rules chess,5,,249,2,2.29
+jeux-casual,Chess,vs where rules chess,5,,224,2,2.29
+jeux-casual,Chess,top where rules chess,5,,224,2,2.29
+jeux-casual,Chess,top where rules chess app,5,,221,2,2.29
+jeux-casual,Chess,cheap where rules chess,5,,248,1,5.00
+jeux-casual,Chess,cheap where rules chess app,5,,217,2,2.29
+jeux-casual,Chess,good where rules chess,5,,249,4,1.49
+jeux-casual,Chess,good where rules chess app,5,,221,2,2.29
+jeux-casual,Chess,easy where rules chess,5,,248,1,5.00
+jeux-casual,Chess,easy where rules chess app,5,,246,5,1.34
+jeux-casual,Chess,chess change only guide,5,,223,1,5.00
+jeux-casual,Chess,chess change only premium,5,,224,1,5.00
+jeux-casual,Chess,premium chess change only,5,,222,1,5.00
+jeux-casual,Chess,chess change only widget,5,,229,1,5.00
+jeux-casual,Chess,widget chess change only,5,,228,1,5.00
+jeux-casual,Chess,chess change only shortcut,5,,227,1,5.00
+jeux-casual,Chess,shortcut chess change only,5,,227,1,5.00
+jeux-casual,Chess,chess change only homescreen,5,,218,1,5.00
+jeux-casual,Chess,homescreen chess change only,5,,248,2,2.29
+jeux-casual,Chess,chess change only notification,5,,222,1,5.00
+jeux-casual,Chess,chess change only download,5,,225,1,5.00
+jeux-casual,Chess,variant chess,5,,244,4,1.49
+jeux-casual,Chess,chess change only iphone,5,,239,3,1.74
+jeux-casual,Chess,modified chess,5,,224,1,5.00
+jeux-casual,Chess,changing chess rules,5,,248,3,1.74
+jeux-casual,Chess,chess rule variants,5,,248,2,2.29
+jeux-casual,Chess,chess rules game,5,,242,1,5.00
+jeux-casual,Chess,chess captures,5,,248,1,5.00
+jeux-casual,Chess,matching capture chess,5,,249,6,1.24
+jeux-casual,Chess,iphone chess change only,5,,200,2,2.29
+jeux-casual,Chess,chess change only ipad,5,,203,2,2.29
+jeux-casual,Chess,ipad chess change only,5,,205,2,2.29
+jeux-casual,Chess,chess change only ios,5,,224,1,5.00
+jeux-casual,Chess,5d chess,5,,214,11,0.98
+jeux-casual,Chess,chess opening trainer offline,5,,246,6,1.24
+jeux-casual,Chess,chess tactics trainer offline,5,,249,4,1.49
+jeux-casual,Chess,chess puzzle solver offline,5,,241,2,2.29
+jeux-casual,Chess,chess endgame trainer offline,5,,247,4,1.49
+jeux-casual,Chess,smart chess,5,,238,2,2.29
+jeux-casual,Chess,stock fish chess,5,,250,34,0.71
+jeux-casual,Chess,chess for toddlers,5,78,249,5,1.34
+jeux-casual,Chess,music chess,5,,247,1,5.00
+jeux-casual,Chess,chess lessons for kids,5,,246,1,5.00
+jeux-casual,Chess,number strategy,5,80,243,202,0.50
+jeux-casual,Chess,chess rating calculator,,,210,10,
+jeux-casual,Chess,solve],,43,231,229,
+jeux-casual,Chess,chess triner,,,243,3,
+jeux-casual,Chess,[chess trainer],,,245,29,
+jeux-casual,Chess,chess against computer,,81,250,4,
+jeux-casual,Chess,logics chess puzzle,,,226,1,
+jeux-casual,Chess,notification piece type capturing,,,213,15,
+jeux-casual,Chess,chess change only subscription,,,222,1,
+jeux-casual,Chess,notification chess change only,,,222,1,
+jeux-casual,Chess,chess improvement,,,246,10,
+jeux-casual,Chess,satin,,,249,195,
+jeux-casual,Mahjong,يوتيوب,69,93,244,165,7.12
+jeux-casual,Mahjong,m,62,100,247,229,6.05
+jeux-casual,Mahjong,majong,60,86,249,6,14.82
+jeux-casual,Mahjong,mahjong 4 friends,59,87,250,33,8.49
+jeux-casual,Mahjong,mahjong blast,56,86,250,29,8.32
+jeux-casual,Mahjong,یوتیوب,55,,248,137,5.87
+jeux-casual,Mahjong,마작,54,84,248,172,5.53
+jeux-casual,Mahjong,vita,53,91,250,144,5.61
+jeux-casual,Mahjong,board games,52,93,248,143,5.51
+jeux-casual,Mahjong,gg,52,98,250,183,5.27
+jeux-casual,Mahjong,puzzle games for adults,51,90,248,23,8.05
+jeux-casual,Mahjong,mahjong solitaire,51,93,249,6,12.60
+jeux-casual,Mahjong,تابي,50,74,247,176,5.10
+jeux-casual,Mahjong,spiele kostenlos,45,94,250,148,4.74
+jeux-casual,Mahjong,majong games,45,86,247,27,6.81
+jeux-casual,Mahjong,mahjong free,41,88,250,4,12.21
+jeux-casual,Mahjong,작혼,41,74,76,66,5.04
+jeux-casual,Mahjong,vita mahjong free,41,83,250,9,8.65
+jeux-casual,Mahjong,majhong,40,70,250,5,10.70
+jeux-casual,Mahjong,majong classic,34,82,212,11,6.69
+jeux-casual,Mahjong,vita mahjong for seniors free,33,81,250,41,4.51
+jeux-casual,Mahjong,fun mahjong match,28,,229,5,7.49
+jeux-casual,Mahjong,majong tiles,27,84,248,7,6.26
+jeux-casual,Mahjong,kostenlose spiele,25,,249,57,3.17
+jeux-casual,Mahjong,free vita mahjong,25,83,250,7,5.80
+jeux-casual,Mahjong,daily mahjong,25,78,250,152,2.62
+jeux-casual,Mahjong,vita mahjong for seniors,22,81,250,30,3.24
+jeux-casual,Mahjong,mahjong games for beginners,21,86,250,78,2.50
+jeux-casual,Mahjong,tile match games,20,67,247,20,3.28
+jeux-casual,Mahjong,vita majong,16,87,166,17,2.75
+jeux-casual,Mahjong,麻雀,9,62,242,12,1.72
+jeux-casual,Mahjong,riichi mahjong,9,65,250,13,1.68
+jeux-casual,Mahjong,majong games free,9,81,248,13,1.68
+jeux-casual,Mahjong,patchwork,9,51,109,11,1.77
+jeux-casual,Mahjong,vitamahjong,9,81,249,29,1.34
+jeux-casual,Mahjong,sorry,7,95,250,143,0.74
+jeux-casual,Mahjong,mahjong no ads,7,83,250,10,1.42
+jeux-casual,Mahjong,mahjong 13 tiles,7,67,246,34,1.00
+jeux-casual,Mahjong,mahjong trails,7,90,248,147,0.74
+jeux-casual,Mahjong,mojang,7,81,249,3,2.44
+jeux-casual,Mahjong,moonlight mahjong,7,42,247,3,2.44
+jeux-casual,Mahjong,mahjong city tours,6,56,248,2,2.75
+jeux-casual,Mahjong,shanghai mahjong,6,90,250,9,1.27
+jeux-casual,Mahjong,free mahjong tiles solitaire,6,87,249,40,0.82
+jeux-casual,Mahjong,mahjong soul,6,87,250,40,0.82
+jeux-casual,Mahjong,mahjong vita,6,81,250,122,0.65
+jeux-casual,Mahjong,boardgames,5,68,245,166,0.52
+jeux-casual,Mahjong,puzzels,5,61,238,157,0.52
+jeux-casual,Mahjong,tile games,5,90,250,13,0.93
+jeux-casual,Mahjong,mahjong free games,5,84,250,8,1.10
+jeux-casual,Mahjong,free mahjong games,5,81,250,17,0.86
+jeux-casual,Mahjong,mahjong classic,5,82,248,5,1.34
+jeux-casual,Mahjong,mahjong 3d,5,36,248,13,0.93
+jeux-casual,Mahjong,mahjong journey,5,84,249,46,0.67
+jeux-casual,Mahjong,mahjong deluxe free,5,76,247,1,5.00
+jeux-casual,Mahjong,mahjong solitaire classic,5,75,248,14,0.91
+jeux-casual,Mahjong,mahjong epic,5,93,248,16,0.87
+jeux-casual,Mahjong,mahong,5,82,248,6,1.24
+jeux-casual,Mahjong,hong kong mahjong,5,59,249,13,0.93
+jeux-casual,Mahjong,mahjong online,5,91,248,79,0.59
+jeux-casual,Mahjong,free majhong,5,82,248,9,1.06
+jeux-casual,Mahjong,mahjong deluxe,5,91,248,8,1.10
+jeux-casual,Mahjong,Mahjong Titan,5,89,248,8,1.10
+jeux-casual,Mahjong,taipei,5,66,244,1,5.00
+jeux-casual,Mahjong,tiles mahjong,5,86,250,18,0.84
+jeux-casual,Mahjong,mahjong match pairs,5,55,248,2,2.29
+jeux-casual,Mahjong,tiles game,5,86,247,62,0.62
+jeux-casual,Mahjong,mahjong solitaire games,5,32,243,5,1.34
+jeux-casual,Mahjong,american mahjong,5,95,250,144,0.53
+jeux-casual,Mahjong,free majong,5,80,249,20,0.82
+jeux-casual,Mahjong,mahogany,5,88,250,3,1.74
+jeux-casual,Mahjong,mahjong tiles,5,86,250,4,1.49
+jeux-casual,Mahjong,traditional mahjong,5,59,250,25,0.77
+jeux-casual,Mahjong,mah jongg,5,89,250,11,0.98
+jeux-casual,Mahjong,matching tiles,5,66,249,206,0.50
+jeux-casual,Mahjong,mahjong unlimited,5,53,249,3,1.74
+jeux-casual,Mahjong,pair matching puzzle,5,42,241,86,0.58
+jeux-casual,Mahjong,classic mahjong,5,90,248,4,1.49
+jeux-casual,Mahjong,mahj,5,94,248,6,1.24
+jeux-casual,Mahjong,epic mahjong,5,63,248,3,1.74
+jeux-casual,Mahjong,tile matching games,5,61,249,2,2.29
+jeux-casual,Mahjong,247 mahjong games,5,46,244,2,2.29
+jeux-casual,Mahjong,majong solitaire,5,82,248,94,0.57
+jeux-casual,Mahjong,the river,5,59,244,13,0.93
+jeux-casual,Mahjong,mahjong solitaire free,5,82,250,6,1.24
+jeux-casual,Mahjong,orienteering game,5,40,226,53,0.64
+jeux-casual,Mahjong,spiele app,5,95,245,193,0.50
+jeux-casual,Mahjong,easy mahjong,5,83,250,98,0.57
+jeux-casual,Mahjong,easy majong,5,82,250,68,0.61
+jeux-casual,Mahjong,mahjong game,5,86,250,10,1.02
+jeux-casual,Mahjong,Mahjon‪g‬,5,54,228,1,5.00
+jeux-casual,Mahjong,match tiles,5,71,248,147,0.53
+jeux-casual,Mahjong,matching tiles game,5,61,249,3,1.74
+jeux-casual,Mahjong,mahjong traditional,5,85,250,6,1.24
+jeux-casual,Mahjong,solitare 2020 ad free,5,73,243,219,0.49
+jeux-casual,Mahjong,mahjong : world's biggest mahjongg solitaire,5,57,250,2,2.29
+jeux-casual,Mahjong,mahjong solitaire - master,5,52,241,3,1.74
+jeux-casual,Mahjong,mahjong connect delux,5,46,249,2,2.29
+jeux-casual,Mahjong,mahjong triple 3d tile match,5,66,249,7,1.16
+jeux-casual,Mahjong,matching mahjong,5,90,250,130,0.54
+jeux-casual,Mahjong,majong solitaire tile game,5,86,249,4,1.49
+jeux-casual,Mahjong,two player board games,5,72,249,79,0.59
+jeux-casual,Mahjong,home of tiles,5,40,249,185,0.51
+jeux-casual,Mahjong,beautiful mahjong,5,51,250,235,0.49
+jeux-casual,Mahjong,classic majong,5,64,248,2,2.29
+jeux-casual,Mahjong,best board game for 4 adults,5,42,245,164,0.52
+jeux-casual,Mahjong,best board games for 4 adults,5,42,242,230,0.49
+jeux-casual,Mahjong,best classic board games for adults,5,57,248,236,0.49
+jeux-casual,Mahjong,best clean board games for adults,5,54,247,242,0.48
+jeux-casual,Mahjong,board games for 2 adults,5,50,247,210,0.50
+jeux-casual,Mahjong,board games for 3 adults,5,46,246,121,0.55
+jeux-casual,Mahjong,board games for 4 adults,5,42,245,104,0.56
+jeux-casual,Mahjong,game of love board game,5,54,241,234,0.49
+jeux-casual,Mahjong,good board games for 4 adults,5,42,246,183,0.51
+jeux-casual,Mahjong,i love board games,5,54,247,200,0.50
+jeux-casual,Mahjong,maghong app,5,84,248,160,0.52
+jeux-casual,Mahjong,tile buster,5,,211,67,0.61
+jeux-casual,Mahjong,piele,5,95,250,217,0.49
+jeux-casual,Mahjong,mahjong nines,5,54,250,191,0.50
+jeux-casual,Mahjong,i have a board games,5,55,246,186,0.51
+jeux-casual,Mahjong,soft classic,5,64,99,26,0.76
+jeux-casual,Mahjong,mahjong for seniors,5,91,250,14,0.91
+jeux-casual,Mahjong,mahjong tile game,5,84,250,3,1.74
+jeux-casual,Mahjong,american mahjong free,5,82,248,36,0.70
+jeux-casual,Mahjong,hexagonal tile,5,90,246,174,0.51
+jeux-casual,Mahjong,mahjong free for seniors,5,89,250,38,0.70
+jeux-casual,Mahjong,senior mahjong,5,,226,34,0.71
+jeux-casual,Mahjong,ad free mahjong,5,83,250,5,1.34
+jeux-casual,Mahjong,mahjong free no ads,5,81,249,13,0.93
+jeux-casual,Mahjong,tile mahjong,5,85,250,57,0.63
+jeux-casual,Mahjong,adult tiles,5,49,247,166,0.52
+jeux-casual,Mahjong,three tiles matching game,5,62,245,45,0.67
+jeux-casual,Mahjong,arcadia mahjong,5,86,250,61,0.63
+jeux-casual,Mahjong,magia puzzle,5,52,244,85,0.58
+jeux-casual,Mahjong,shang-chi,5,62,230,2,2.29
+jeux-casual,Mahjong,mahjong club - solitaire game,5,62,250,2,2.29
+jeux-casual,Mahjong,pad puzzle,5,88,246,133,0.54
+jeux-casual,Mahjong,magjong,5,83,248,6,1.24
+jeux-casual,Mahjong,memory board,5,,220,124,0.54
+jeux-casual,Mahjong,mahjong tripple,5,60,249,9,1.06
+jeux-casual,Mahjong,moji game,5,82,221,33,0.72
+jeux-casual,Mahjong,noads game,5,80,211,57,0.63
+jeux-casual,Mahjong,mahjong tile match,5,90,247,4,1.49
+jeux-casual,Mahjong,mahsang,5,37,247,6,1.24
+jeux-casual,Mahjong,matchingham games,5,,204,37,0.70
+jeux-casual,Mahjong,magic%20tiles%202,5,82,240,73,0.60
+jeux-casual,Mahjong,(mahjong,5,74,247,5,1.34
+jeux-casual,Mahjong,tiles clear,5,,214,77,0.60
+jeux-casual,Mahjong,mahjongg puzzle,5,,235,10,1.02
+jeux-casual,Mahjong,shanghai mahjongg,5,,204,3,1.74
+jeux-casual,Mahjong,christmas mahjong match game,5,,221,10,1.02
+jeux-casual,Mahjong,tile laying game,5,61,241,72,0.60
+jeux-casual,Mahjong,kakuro tiles,5,,170,28,0.75
+jeux-casual,Mahjong,tileset,5,72,216,185,0.51
+jeux-casual,Mahjong,number tile games,5,76,213,34,0.71
+jeux-casual,Mahjong,tiles family,5,,213,99,0.57
+jeux-casual,Mahjong,math tiles,5,,219,124,0.54
+jeux-casual,Mahjong,tile mahjong match,5,,250,4,1.49
+jeux-casual,Mahjong,vida mahjong,5,81,250,62,0.62
+jeux-casual,Mahjong,marjon,5,81,249,5,1.34
+jeux-casual,Mahjong,pyramid mahjong,5,90,250,130,0.54
+jeux-casual,Mahjong,vital mahjong,5,81,250,82,0.59
+jeux-casual,Mahjong,mahjong titan: majong,5,61,241,9,1.06
+jeux-casual,Mahjong,play mahjong online,5,53,247,1,5.00
+jeux-casual,Mahjong,free mahjong connect,5,78,243,1,5.00
+jeux-casual,Mahjong,play free mahjong games,5,73,243,2,2.29
+jeux-casual,Mahjong,free classic mahjong,5,80,249,4,1.49
+jeux-casual,Mahjong,majhong game,5,83,249,13,0.93
+jeux-casual,Mahjong,how to play mahjong,5,58,249,7,1.16
+jeux-casual,Mahjong,mahjongg deluxe free,5,44,245,115,0.55
+jeux-casual,Mahjong,win mahjong,5,57,249,11,0.98
+jeux-casual,Mahjong,cash mahjong,5,68,250,39,0.69
+jeux-casual,Mahjong,mahjong mania,5,86,246,4,1.49
+jeux-casual,Mahjong,classic tile,5,57,237,108,0.56
+jeux-casual,Mahjong,mahjong rules,5,86,247,21,0.81
+jeux-casual,Mahjong,tilegame,5,,248,178,0.51
+jeux-casual,Mahjong,beginner american mahjong,5,,215,5,1.34
+jeux-casual,Mahjong,beginner mahjong,5,,249,6,1.24
+jeux-casual,Mahjong,mah push direction,5,,223,19,0.83
+jeux-casual,Mahjong,mahjong beginner free,5,,225,6,1.24
+jeux-casual,Mahjong,mahjong unlimited hd,5,,213,5,1.34
+jeux-casual,Mahjong,match tiles eliminate,5,70,236,134,0.54
+jeux-casual,Mahjong,match tiles eliminate reddit,5,,239,120,0.55
+jeux-casual,Mahjong,reddit match tiles eliminate,5,,240,105,0.56
+jeux-casual,Mahjong,match tiles eliminate review,5,,234,135,0.54
+jeux-casual,Mahjong,review match tiles eliminate,5,,250,230,0.49
+jeux-casual,Mahjong,match tiles eliminate reviews,5,,234,136,0.53
+jeux-casual,Mahjong,reviews match tiles eliminate,5,,233,101,0.56
+jeux-casual,Mahjong,match tiles eliminate guide,5,,235,137,0.53
+jeux-casual,Mahjong,match tiles eliminate premium,5,,250,136,0.53
+jeux-casual,Mahjong,premium match tiles eliminate,5,,250,136,0.53
+jeux-casual,Mahjong,clears tiles,5,55,193,69,0.61
+jeux-casual,Mahjong,offline mahjong,5,70,223,6,1.24
+jeux-casual,Mahjong,kg plates game tracker game,5,,232,166,0.52
+jeux-casual,Mahjong,plates game,5,42,204,142,0.53
+jeux-casual,Mahjong,mahjong helper,5,,250,100,0.57
+jeux-casual,Mahjong,mahjong hints,5,,225,4,1.49
+jeux-casual,Mahjong,mahjong maker,5,,222,4,1.49
+jeux-casual,Mahjong,mahjong scorer,5,,211,21,0.81
+jeux-casual,Mahjong,mahjong solver,5,,245,1,5.00
+jeux-casual,Mahjong,brown game,5,,216,115,0.55
+jeux-casual,Mahjong,reviews reddit my reddit construction ca,5,,205,46,0.67
+jeux-casual,Mahjong,Chaos Mahjong,5,,215,3,1.74
+jeux-casual,Mahjong,family wall game,5,,193,71,0.61
+jeux-casual,Mahjong,my family wall game,5,,198,82,0.59
+jeux-casual,Mahjong,mahjong game tracker,5,,210,3,1.74
+jeux-casual,Mahjong,tiling layout,5,,201,42,0.68
+jeux-casual,Mahjong,tiles fortune,5,,192,28,0.75
+jeux-casual,Mahjong,jade tiles,5,,201,23,0.79
+jeux-casual,Mahjong,play mahjong,5,72,215,12,0.96
+jeux-casual,Mahjong,mahjong compete,5,74,232,2,2.29
+jeux-casual,Mahjong,tile board,5,,233,157,0.52
+jeux-casual,Mahjong,reddit effacer tiles,5,,212,38,0.70
+jeux-casual,Mahjong,best mahjong,5,69,250,17,0.86
+jeux-casual,Mahjong,mahjong score keeper,5,,220,1,5.00
+jeux-casual,Mahjong,mancala rules,5,,226,62,0.62
+jeux-casual,Mahjong,carousel tiles,5,,246,235,0.49
+jeux-casual,Mahjong,add tiles,5,,245,216,0.49
+jeux-casual,Mahjong,number strategy puzzle game,5,48,250,236,0.49
+jeux-casual,Mahjong,connect mahjong games,,49,246,4,
+jeux-casual,Mahjong,family reassurance tracker game,,,236,216,
+jeux-casual,Mahjong,mahjong coach,,,224,7,
+jeux-casual,Mahjong,vita mahjong for seniors',,,217,28,
+jeux-casual,Mahjong,free mahjong solitaire,,75,250,3,
+jeux-casual,Mahjong,mahjong stat,,,214,3,
+jeux-casual,Mahjong,mahjong scoring,,,249,155,
+jeux-casual,Mahjong,tilescells,,,249,83,
+jeux-casual,Mahjong,. zen tiles,,,242,43,
+jeux-casual,Solitaire,게임,78,89,247,55,9.98
+jeux-casual,Solitaire,games,77,100,242,31,11.25
+jeux-casual,Solitaire,game,71,98,240,21,11.49
+jeux-casual,Solitaire,solitaire,70,98,247,1,70.00
+jeux-casual,Solitaire,microsoft,68,98,244,188,6.86
+jeux-casual,Solitaire,free games,65,92,248,10,13.22
+jeux-casual,Solitaire,app,63,98,242,171,6.46
+jeux-casual,Solitaire,juegos sin internet,63,90,246,190,6.35
+jeux-casual,Solitaire,fun games,61,94,239,77,7.27
+jeux-casual,Solitaire,سيارات,61,68,246,183,6.18
+jeux-casual,Solitaire,balatro,61,88,116,45,8.16
+jeux-casual,Solitaire,solitaire associations words,61,86,247,136,6.52
+jeux-casual,Solitaire,free,60,97,246,42,8.15
+jeux-casual,Solitaire,spider solitaire,60,70,249,12,11.48
+jeux-casual,Solitaire,solitaire cash,60,64,250,113,6.64
+jeux-casual,Solitaire,gboard,59,94,248,182,5.99
+jeux-casual,Solitaire,offline,59,96,246,218,5.81
+jeux-casual,Solitaire,дурак,59,63,249,54,7.58
+jeux-casual,Solitaire,card games,58,94,247,2,26.61
+jeux-casual,Solitaire,juegos gratis,58,90,248,234,5.64
+jeux-casual,Solitaire,ソリティア,58,88,245,1,58.00
+jeux-casual,Solitaire,message,56,98,248,235,5.44
+jeux-casual,Solitaire,no,56,97,244,212,5.54
+jeux-casual,Solitaire,games without wifi,56,92,250,65,6.91
+jeux-casual,Solitaire,lose it,56,80,248,119,6.13
+jeux-casual,Solitaire,ماشین بازی,56,69,249,118,6.14
+jeux-casual,Solitaire,لعبة سيارات,56,69,250,129,6.04
+jeux-casual,Solitaire,plane,55,90,246,233,5.35
+jeux-casual,Solitaire,airplay,55,93,249,206,5.46
+jeux-casual,Solitaire,libre,55,91,247,210,5.45
+jeux-casual,Solitaire,to,54,100,247,243,5.22
+jeux-casual,Solitaire,belote gratuit,54,40,243,67,6.62
+jeux-casual,Solitaire,لعبة,54,93,248,220,5.31
+jeux-casual,Solitaire,me,53,100,247,166,5.47
+jeux-casual,Solitaire,cards,53,97,248,3,18.47
+jeux-casual,Solitaire,судоку,53,94,249,226,5.18
+jeux-casual,Solitaire,pok pok,53,96,292,192,5.33
+jeux-casual,Solitaire,board games,52,93,248,53,6.71
+jeux-casual,Solitaire,game center,52,95,246,201,5.19
+jeux-casual,Solitaire,solitär,52,86,248,3,18.12
+jeux-casual,Solitaire,游戏,52,89,245,61,6.51
+jeux-casual,Solitaire,زين كاش,52,,112,38,7.23
+jeux-casual,Solitaire,lit,51,67,249,225,4.99
+jeux-casual,Solitaire,игра,51,94,241,114,5.63
+jeux-casual,Solitaire,free solitaire card game,50,69,277,3,17.43
+jeux-casual,Solitaire,du,50,95,249,203,4.98
+jeux-casual,Solitaire,카드게임,50,93,246,113,5.53
+jeux-casual,Solitaire,free games for seniors,50,92,246,91,5.76
+jeux-casual,Solitaire,solitare free game,50,87,248,2,22.94
+jeux-casual,Solitaire,unity,49,59,249,142,5.20
+jeux-casual,Solitaire,솔리테어,49,82,244,1,49.00
+jeux-casual,Solitaire,7ds,48,97,121,74,5.77
+jeux-casual,Solitaire,klondike,45,80,249,145,4.75
+jeux-casual,Solitaire,spiele kostenlos,45,94,250,32,6.53
+jeux-casual,Solitaire,ماك,45,,249,220,4.42
+jeux-casual,Solitaire,اذان,44,60,250,126,4.77
+jeux-casual,Solitaire,広告なし,44,86,244,61,5.50
+jeux-casual,Solitaire,games for free,43,95,248,15,7.67
+jeux-casual,Solitaire,لعبه سيارات,41,89,250,221,4.03
+jeux-casual,Solitaire,cool games,40,94,233,70,4.86
+jeux-casual,Solitaire,solitär klassisch,40,46,236,3,13.94
+jeux-casual,Solitaire,card games for free,39,86,249,11,7.68
+jeux-casual,Solitaire,tasso,39,51,237,71,4.73
+jeux-casual,Solitaire,пасьянс,39,87,248,4,11.61
+jeux-casual,Solitaire,popular games,38,96,236,22,6.07
+jeux-casual,Solitaire,phone app,38,97,244,170,3.90
+jeux-casual,Solitaire,romme,37,49,125,99,4.20
+jeux-casual,Solitaire,belote multijoueur,37,40,242,136,3.95
+jeux-casual,Solitaire,funny games,36,93,232,66,4.43
+jeux-casual,Solitaire,mobile games,36,96,231,31,5.26
+jeux-casual,Solitaire,best games,35,94,232,75,4.19
+jeux-casual,Solitaire,good games,35,94,231,69,4.27
+jeux-casual,Solitaire,Solin,35,37,36,35,4.97
+jeux-casual,Solitaire,soluna,34,63,66,65,4.20
+jeux-casual,Solitaire,games free,33,95,248,15,5.89
+jeux-casual,Solitaire,all games,33,95,236,25,5.10
+jeux-casual,Solitaire,baltro,33,78,112,71,4.00
+jeux-casual,Solitaire,top games,32,97,232,117,3.52
+jeux-casual,Solitaire,solitaire card games,32,92,247,4,9.53
+jeux-casual,Solitaire,varaq,32,55,54,49,4.20
+jeux-casual,Solitaire,free card games,31,87,248,24,4.84
+jeux-casual,Solitaire,phone games,31,95,235,22,4.95
+jeux-casual,Solitaire,solitaire no ads,31,75,247,9,6.54
+jeux-casual,Solitaire,editor's choice games,30,,229,76,3.59
+jeux-casual,Solitaire,free app,30,97,248,168,3.09
+jeux-casual,Solitaire,mobilityware,30,70,249,1,30.00
+jeux-casual,Solitaire,solitare classic,29,63,250,1,29.00
+jeux-casual,Solitaire,free game,29,93,248,9,6.12
+jeux-casual,Solitaire,tap games,29,96,237,26,4.43
+jeux-casual,Solitaire,jeux de cartes,29,,247,32,4.21
+jeux-casual,Solitaire,game game,28,95,231,23,4.42
+jeux-casual,Solitaire,games to play,27,95,237,23,4.26
+jeux-casual,Solitaire,juegos de cartas,27,90,248,13,5.03
+jeux-casual,Solitaire,クロンダイク,27,71,248,40,3.71
+jeux-casual,Solitaire,klondike solitaire free,27,61,250,1,27.00
+jeux-casual,Solitaire,classic solitaire games free,26,61,246,3,9.06
+jeux-casual,Solitaire,kostenlose spiele,25,,249,65,3.09
+jeux-casual,Solitaire,ree,25,100,244,201,2.49
+jeux-casual,Solitaire,solitaire stash: win real cash,25,,232,111,2.77
+jeux-casual,Solitaire,classic solitaire no ads,24,65,248,6,5.93
+jeux-casual,Solitaire,blatro,24,,125,34,3.43
+jeux-casual,Solitaire,cards game,23,87,245,1,23.00
+jeux-casual,Solitaire,freecell solitaire,23,56,239,209,2.28
+jeux-casual,Solitaire,fun game,22,96,230,69,2.68
+jeux-casual,Solitaire,jeu carte,20,84,248,2,9.18
+jeux-casual,Solitaire,freecell solitaire card game,20,51,246,61,2.50
+jeux-casual,Solitaire,solitaire tripeaks,19,67,245,12,3.63
+jeux-casual,Solitaire,top free games,18,97,247,115,1.98
+jeux-casual,Solitaire,popular apps,18,96,242,156,1.88
+jeux-casual,Solitaire,app iphone,16,96,243,157,1.67
+jeux-casual,Solitaire,무료 게임,16,87,248,167,1.65
+jeux-casual,Solitaire,solitari,14,82,245,3,4.88
+jeux-casual,Solitaire,choose app,14,97,242,157,1.46
+jeux-casual,Solitaire,고전,14,80,250,193,1.41
+jeux-casual,Solitaire,brisk,14,83,250,11,2.76
+jeux-casual,Solitaire,more app,12,95,242,156,1.25
+jeux-casual,Solitaire,skyjo score,11,,238,137,1.17
+jeux-casual,Solitaire,loose it,10,59,248,184,1.01
+jeux-casual,Solitaire,solitario español,10,59,250,146,1.06
+jeux-casual,Solitaire,patience card game,10,57,244,19,1.66
+jeux-casual,Solitaire,best games ever,9,84,230,70,1.09
+jeux-casual,Solitaire,thinking games,9,93,247,25,1.39
+jeux-casual,Solitaire,classic,9,96,244,11,1.77
+jeux-casual,Solitaire,gbord,9,87,248,159,0.94
+jeux-casual,Solitaire,solitarie,9,86,248,1,9.00
+jeux-casual,Solitaire,all app,9,97,243,157,0.94
+jeux-casual,Solitaire,monoply,9,94,247,11,1.77
+jeux-casual,Solitaire,free patience,9,57,249,123,0.98
+jeux-casual,Solitaire,apple arcade solitaire,9,,227,2,4.13
+jeux-casual,Solitaire,vita solitaire for seniors,9,90,250,181,0.91
+jeux-casual,Solitaire,microsft,8,,245,226,0.78
+jeux-casual,Solitaire,solitario spider,8,54,245,81,0.94
+jeux-casual,Solitaire,iphone apps,7,97,242,158,0.73
+jeux-casual,Solitaire,sorry,7,95,250,138,0.75
+jeux-casual,Solitaire,fairway solitaire,7,,247,109,0.78
+jeux-casual,Solitaire,free classic solitaire,6,66,247,110,0.67
+jeux-casual,Solitaire,crazy 8,6,86,227,193,0.60
+jeux-casual,Solitaire,color slide,6,87,249,15,1.07
+jeux-casual,Solitaire,solitaire free no ads,6,64,246,5,1.61
+jeux-casual,Solitaire,tiki solitaire tripeaks,6,75,249,204,0.60
+jeux-casual,Solitaire,all free games,5,95,248,21,0.81
+jeux-casual,Solitaire,awesome games,5,93,228,65,0.62
+jeux-casual,Solitaire,amazing games,5,94,229,66,0.62
+jeux-casual,Solitaire,card games free,5,60,248,11,0.98
+jeux-casual,Solitaire,really fun games,5,93,232,67,0.61
+jeux-casual,Solitaire,the best games in the world,5,94,232,77,0.60
+jeux-casual,Solitaire,solitaire zynga,5,44,249,17,0.86
+jeux-casual,Solitaire,one game,5,95,239,12,0.96
+jeux-casual,Solitaire,most popular games,5,97,235,21,0.81
+jeux-casual,Solitaire,popular free games,5,97,248,16,0.87
+jeux-casual,Solitaire,iphone games,5,96,233,18,0.84
+jeux-casual,Solitaire,find games,5,97,235,19,0.83
+jeux-casual,Solitaire,famous games,5,96,236,21,0.81
+jeux-casual,Solitaire,ios games,5,95,233,22,0.80
+jeux-casual,Solitaire,fun apps,5,97,241,227,0.49
+jeux-casual,Solitaire,funny apps,5,96,242,222,0.49
+jeux-casual,Solitaire,fun free games,5,95,246,66,0.62
+jeux-casual,Solitaire,awsome games,5,95,234,148,0.53
+jeux-casual,Solitaire,game for free,5,96,248,22,0.80
+jeux-casual,Solitaire,free iphone games,5,96,248,11,0.98
+jeux-casual,Solitaire,search games,5,96,234,18,0.84
+jeux-casual,Solitaire,best free games,5,94,246,63,0.62
+jeux-casual,Solitaire,free fun games,5,95,247,66,0.62
+jeux-casual,Solitaire,5 star games,5,89,242,74,0.60
+jeux-casual,Solitaire,best game,5,95,229,72,0.60
+jeux-casual,Solitaire,cool game,5,94,229,64,0.62
+jeux-casual,Solitaire,games fun,5,96,233,71,0.61
+jeux-casual,Solitaire,game center games,5,90,247,9,1.06
+jeux-casual,Solitaire,recent,5,94,242,152,0.52
+jeux-casual,Solitaire,fun card games,5,74,248,5,1.34
+jeux-casual,Solitaire,good game,5,95,230,63,0.62
+jeux-casual,Solitaire,fun games to play,5,95,234,69,0.61
+jeux-casual,Solitaire,airplane mode games,5,94,249,35,0.71
+jeux-casual,Solitaire,cards games,5,66,246,5,1.34
+jeux-casual,Solitaire,best rated games,5,96,231,112,0.55
+jeux-casual,Solitaire,editor choice games,5,95,231,68,0.61
+jeux-casual,Solitaire,games for fun,5,97,234,21,0.81
+jeux-casual,Solitaire,best iphone games,5,96,226,75,0.60
+jeux-casual,Solitaire,editors choice games,5,96,231,73,0.60
+jeux-casual,Solitaire,fun cool games,5,96,231,67,0.61
+jeux-casual,Solitaire,cool app,5,96,238,231,0.49
+jeux-casual,Solitaire,newgames,5,96,243,83,0.59
+jeux-casual,Solitaire,free iphone apps,5,97,248,148,0.53
+jeux-casual,Solitaire,apps for free,5,97,248,148,0.53
+jeux-casual,Solitaire,the game,5,96,234,22,0.80
+jeux-casual,Solitaire,i phone apps,5,97,243,159,0.52
+jeux-casual,Solitaire,basic solitaire,5,68,247,7,1.16
+jeux-casual,Solitaire,patience solitaire,5,68,245,5,1.34
+jeux-casual,Solitaire,games to play when bored,5,95,235,21,0.81
+jeux-casual,Solitaire,interesting games,5,95,237,23,0.79
+jeux-casual,Solitaire,top 10 games,5,97,231,127,0.54
+jeux-casual,Solitaire,best solitaire,5,70,248,10,1.02
+jeux-casual,Solitaire,classic solitaire,5,77,249,3,1.74
+jeux-casual,Solitaire,any games,5,96,233,18,0.84
+jeux-casual,Solitaire,gemr,5,,244,26,0.76
+jeux-casual,Solitaire,fun fun games,5,96,235,68,0.61
+jeux-casual,Solitaire,really fun game,5,96,232,66,0.62
+jeux-casual,Solitaire,solitaire spider classic,5,54,248,12,0.96
+jeux-casual,Solitaire,game of,5,97,233,20,0.82
+jeux-casual,Solitaire,gmae,5,88,242,24,0.78
+jeux-casual,Solitaire,phone apps,5,96,245,161,0.52
+jeux-casual,Solitaire,every game,5,96,232,20,0.82
+jeux-casual,Solitaire,all free apps,5,97,248,155,0.52
+jeux-casual,Solitaire,lan games,5,96,242,27,0.76
+jeux-casual,Solitaire,top 10 free games,5,98,247,116,0.55
+jeux-casual,Solitaire,games for,5,96,239,21,0.81
+jeux-casual,Solitaire,games for me,5,97,232,24,0.78
+jeux-casual,Solitaire,monopoly game,5,98,231,11,0.98
+jeux-casual,Solitaire,uno playlink,5,77,210,180,0.51
+jeux-casual,Solitaire,games games,5,96,236,23,0.79
+jeux-casual,Solitaire,kostenlose,5,86,250,127,0.54
+jeux-casual,Solitaire,ios app,5,94,242,155,0.52
+jeux-casual,Solitaire,search app,5,90,243,160,0.52
+jeux-casual,Solitaire,mobile app,5,95,243,167,0.52
+jeux-casual,Solitaire,card games online,5,61,248,12,0.96
+jeux-casual,Solitaire,mode spiele,5,,246,199,0.50
+jeux-casual,Solitaire,download apps,5,96,242,161,0.52
+jeux-casual,Solitaire,random apps,5,96,242,154,0.52
+jeux-casual,Solitaire,solitaire offline games,5,57,250,139,0.53
+jeux-casual,Solitaire,solitaire card games free,5,64,247,6,1.24
+jeux-casual,Solitaire,tap app,5,97,242,154,0.52
+jeux-casual,Solitaire,бесплатная игра,5,88,245,226,0.49
+jeux-casual,Solitaire,mobile game,5,97,229,24,0.78
+jeux-casual,Solitaire,offline solitaire card games free,5,63,249,10,1.02
+jeux-casual,Solitaire,clasic,5,81,245,11,0.98
+jeux-casual,Solitaire,funny app,5,97,239,215,0.49
+jeux-casual,Solitaire,fun app,5,96,240,221,0.49
+jeux-casual,Solitaire,play spiele app,5,83,243,166,0.52
+jeux-casual,Solitaire,game news,5,96,229,23,0.79
+jeux-casual,Solitaire,game board,5,72,247,11,0.98
+jeux-casual,Solitaire,free cell solitaire,5,59,247,7,1.16
+jeux-casual,Solitaire,games games games,5,96,232,25,0.77
+jeux-casual,Solitaire,free games for,5,96,248,16,0.87
+jeux-casual,Solitaire,famous game,5,96,233,24,0.78
+jeux-casual,Solitaire,playing games,5,97,231,21,0.81
+jeux-casual,Solitaire,tap game,5,96,233,24,0.78
+jeux-casual,Solitaire,poker solitaire,5,61,246,2,2.29
+jeux-casual,Solitaire,hot games,5,96,236,23,0.79
+jeux-casual,Solitaire,solitaire classique,5,54,249,114,0.55
+jeux-casual,Solitaire,klondike solitaire,5,64,246,4,1.49
+jeux-casual,Solitaire,aing,5,92,248,163,0.52
+jeux-casual,Solitaire,spider solitaire card game,5,63,245,215,0.49
+jeux-casual,Solitaire,any game,5,95,232,23,0.79
+jeux-casual,Solitaire,phone game,5,95,233,22,0.80
+jeux-casual,Solitaire,download games,5,95,232,24,0.78
+jeux-casual,Solitaire,download app,5,96,242,158,0.52
+jeux-casual,Solitaire,games for kindergarteners,5,96,242,31,0.73
+jeux-casual,Solitaire,essential apps,5,97,247,222,0.49
+jeux-casual,Solitaire,the app,5,97,244,154,0.52
+jeux-casual,Solitaire,hot game,5,95,233,24,0.78
+jeux-casual,Solitaire,messige,5,96,248,246,0.48
+jeux-casual,Solitaire,be apps,5,97,240,217,0.49
+jeux-casual,Solitaire,freecel,5,74,204,7,1.16
+jeux-casual,Solitaire,free solitare,5,66,246,2,2.29
+jeux-casual,Solitaire,solitaire fun,5,81,247,6,1.24
+jeux-casual,Solitaire,basic app,5,89,243,157,0.52
+jeux-casual,Solitaire,iOS apps,5,95,242,157,0.52
+jeux-casual,Solitaire,solaire,5,73,249,3,1.74
+jeux-casual,Solitaire,solitary game free,5,66,250,1,5.00
+jeux-casual,Solitaire,free hames,5,96,248,28,0.75
+jeux-casual,Solitaire,solitaire by solebon,5,54,246,49,0.66
+jeux-casual,Solitaire,recommended game,5,97,230,59,0.63
+jeux-casual,Solitaire,search game,5,98,233,19,0.83
+jeux-casual,Solitaire,app free,5,98,248,151,0.52
+jeux-casual,Solitaire,popular app,5,97,242,156,0.52
+jeux-casual,Solitaire,solitaire tripeaks free,5,65,247,22,0.80
+jeux-casual,Solitaire,siti,5,93,250,130,0.54
+jeux-casual,Solitaire,must have apps,5,97,240,228,0.49
+jeux-casual,Solitaire,soli,5,94,245,1,5.00
+jeux-casual,Solitaire,card solitaire,5,88,246,8,1.10
+jeux-casual,Solitaire,klondike solitaire card games,5,47,248,18,0.84
+jeux-casual,Solitaire,solitaire freecell,5,55,242,181,0.51
+jeux-casual,Solitaire,solitar,5,87,248,1,5.00
+jeux-casual,Solitaire,solebon,5,75,34,34,0.71
+jeux-casual,Solitaire,best ganes,5,96,238,166,0.52
+jeux-casual,Solitaire,card game solitaire,5,58,247,55,0.64
+jeux-casual,Solitaire,cards solitaire,5,62,245,8,1.10
+jeux-casual,Solitaire,daily solitaire,5,,245,3,1.74
+jeux-casual,Solitaire,tongits,5,57,69,56,0.64
+jeux-casual,Solitaire,play time,5,75,243,114,0.55
+jeux-casual,Solitaire,solitaire app,5,,248,4,1.49
+jeux-casual,Solitaire,classic solitaire card game,5,62,246,122,0.55
+jeux-casual,Solitaire,solitario clasico,5,62,248,8,1.10
+jeux-casual,Solitaire,pluck,5,49,66,64,0.62
+jeux-casual,Solitaire,solitaire klondike,5,67,246,3,1.74
+jeux-casual,Solitaire,fun free game,5,97,247,62,0.62
+jeux-casual,Solitaire,spiele app,5,95,245,142,0.53
+jeux-casual,Solitaire,kartei,5,98,247,144,0.53
+jeux-casual,Solitaire,free solitaire card games,5,62,248,5,1.34
+jeux-casual,Solitaire,game card,5,66,247,7,1.16
+jeux-casual,Solitaire,a app,5,95,244,151,0.52
+jeux-casual,Solitaire,klondike solitaire classic,5,50,247,102,0.56
+jeux-casual,Solitaire,klondike solitaire card game,5,58,246,67,0.61
+jeux-casual,Solitaire,solitaire klondike classic,5,71,250,199,0.50
+jeux-casual,Solitaire,games without wi fi,5,97,242,31,0.73
+jeux-casual,Solitaire,cool free apps,5,97,248,218,0.49
+jeux-casual,Solitaire,asshole,5,38,18,8,1.10
+jeux-casual,Solitaire,play free solitaire,5,57,248,22,0.80
+jeux-casual,Solitaire,ادان,5,39,248,108,0.56
+jeux-casual,Solitaire,free cell card games,5,42,241,115,0.55
+jeux-casual,Solitaire,app best,5,97,242,218,0.49
+jeux-casual,Solitaire,app for,5,92,245,155,0.52
+jeux-casual,Solitaire,apps for,5,97,245,157,0.52
+jeux-casual,Solitaire,game for,5,97,236,22,0.80
+jeux-casual,Solitaire,kosten in,5,84,93,41,0.68
+jeux-casual,Solitaire,gamess,5,98,241,73,0.60
+jeux-casual,Solitaire,kaart,5,95,238,22,0.80
+jeux-casual,Solitaire,nplayer plus,5,,112,70,0.61
+jeux-casual,Solitaire,solitare for ipad free,5,42,247,24,0.78
+jeux-casual,Solitaire,solitaire+,5,65,243,3,1.74
+jeux-casual,Solitaire,card games solitaire,5,,248,25,0.77
+jeux-casual,Solitaire,apps free,5,97,248,155,0.52
+jeux-casual,Solitaire,app popular,5,91,242,154,0.52
+jeux-casual,Solitaire,app for iphone,5,91,244,156,0.52
+jeux-casual,Solitaire,recommended apps,5,97,240,230,0.49
+jeux-casual,Solitaire,ios 9 apps,5,96,242,154,0.52
+jeux-casual,Solitaire,most popular app,5,97,242,155,0.52
+jeux-casual,Solitaire,solitare cash,5,55,231,211,0.49
+jeux-casual,Solitaire,solitaire klondike fish,5,,234,205,0.50
+jeux-casual,Solitaire,popular game,5,97,231,22,0.80
+jeux-casual,Solitaire,card number,5,72,238,57,0.63
+jeux-casual,Solitaire,solitaire for free,5,67,247,13,0.93
+jeux-casual,Solitaire,cell phone for cash,5,86,244,167,0.52
+jeux-casual,Solitaire,cell puzzle,5,35,225,115,0.55
+jeux-casual,Solitaire,ازان,5,60,248,168,0.51
+jeux-casual,Solitaire,solitaire for ipad,5,15,245,160,0.52
+jeux-casual,Solitaire,free classic solitare,5,50,249,2,2.29
+jeux-casual,Solitaire,classic solitare,5,49,249,3,1.74
+jeux-casual,Solitaire,aces up,5,68,190,11,0.98
+jeux-casual,Solitaire,duchess solitaire,5,58,248,154,0.52
+jeux-casual,Solitaire,freecell patience,5,42,231,190,0.50
+jeux-casual,Solitaire,klondike patience,5,54,243,169,0.51
+jeux-casual,Solitaire,tripeaks solitare,5,57,220,5,1.34
+jeux-casual,Solitaire,tripeaks solataire,5,60,247,222,0.49
+jeux-casual,Solitaire,game on mobile,5,96,233,21,0.81
+jeux-casual,Solitaire,games on mobile,5,97,233,19,0.83
+jeux-casual,Solitaire,games top,5,98,232,110,0.56
+jeux-casual,Solitaire,interent,5,91,250,125,0.54
+jeux-casual,Solitaire,solitário,5,92,247,1,5.00
+jeux-casual,Solitaire,grand solitaire,5,86,250,114,0.55
+jeux-casual,Solitaire,classico gioco,5,92,126,22,0.80
+jeux-casual,Solitaire,games best,5,94,229,76,0.60
+jeux-casual,Solitaire,карточная игра,5,91,248,204,0.50
+jeux-casual,Solitaire,game funny,5,94,228,59,0.63
+jeux-casual,Solitaire,apps best,5,97,243,226,0.49
+jeux-casual,Solitaire,solatare,5,83,248,1,5.00
+jeux-casual,Solitaire,soltare,5,83,249,2,2.29
+jeux-casual,Solitaire,classic solitary,5,57,248,97,0.57
+jeux-casual,Solitaire,klondike card,5,54,241,75,0.60
+jeux-casual,Solitaire,classic klondike,5,55,236,56,0.64
+jeux-casual,Solitaire,vcar crush,5,40,205,105,0.56
+jeux-casual,Solitaire,solitaire·,5,57,248,11,0.98
+jeux-casual,Solitaire,fan games,5,95,242,27,0.76
+jeux-casual,Solitaire,diplomat solitaire free card game classic solitare solo,5,24,247,10,1.02
+jeux-casual,Solitaire,a solitaire classic free,5,56,250,72,0.60
+jeux-casual,Solitaire,klondike solitaire – free card game,5,56,248,6,1.24
+jeux-casual,Solitaire,solitare 2020 ad free,5,73,243,13,0.93
+jeux-casual,Solitaire,solitaire classic era - classic klondike card game,5,36,249,84,0.59
+jeux-casual,Solitaire,free solitaire +,5,57,249,71,0.61
+jeux-casual,Solitaire,freecell solitaire - classic deck card games,5,44,250,95,0.57
+jeux-casual,Solitaire,freecell solitaire - classic,5,50,247,55,0.64
+jeux-casual,Solitaire,solitaire games offline,5,57,248,166,0.52
+jeux-casual,Solitaire,app of,5,96,244,154,0.52
+jeux-casual,Solitaire,offline card game,5,81,248,132,0.54
+jeux-casual,Solitaire,bingo offline games free 2020,5,69,142,96,0.57
+jeux-casual,Solitaire,game for 7 year olds,5,95,241,21,0.81
+jeux-casual,Solitaire,app cool,5,97,236,220,0.49
+jeux-casual,Solitaire,app cool app,5,96,239,217,0.49
+jeux-casual,Solitaire,games for plane,5,84,246,46,0.67
+jeux-casual,Solitaire,app app,5,97,242,152,0.52
+jeux-casual,Solitaire,offline solitaire card games,5,65,250,6,1.24
+jeux-casual,Solitaire,solitare offline,5,84,248,3,1.74
+jeux-casual,Solitaire,catle solitaire,5,56,246,192,0.50
+jeux-casual,Solitaire,Solitaire Klondike: card games,5,55,249,5,1.34
+jeux-casual,Solitaire,solita,5,96,246,1,5.00
+jeux-casual,Solitaire,juesgos sin internet,5,91,245,203,0.50
+jeux-casual,Solitaire,solitaire free gmaes,5,57,247,36,0.70
+jeux-casual,Solitaire,offline games solitaire,5,62,249,11,0.98
+jeux-casual,Solitaire,game for fun,5,95,233,21,0.81
+jeux-casual,Solitaire,awesome game,5,94,229,64,0.62
+jeux-casual,Solitaire,spielen ohne internet,5,97,249,118,0.55
+jeux-casual,Solitaire,games for kid,5,95,235,21,0.81
+jeux-casual,Solitaire,fun games for four-year-olds,5,98,243,67,0.61
+jeux-casual,Solitaire,solitaire no ads free offline,5,58,242,58,0.63
+jeux-casual,Solitaire,fun game without wifi,5,97,241,61,0.63
+jeux-casual,Solitaire,klassische spiele,5,37,242,24,0.78
+jeux-casual,Solitaire,solitario clásico,5,54,246,52,0.65
+jeux-casual,Solitaire,sporer,5,61,249,165,0.52
+jeux-casual,Solitaire,super cool,5,98,243,151,0.52
+jeux-casual,Solitaire,games amazing,5,95,232,62,0.62
+jeux-casual,Solitaire,solitaire cards,5,86,249,7,1.16
+jeux-casual,Solitaire,ソリティアゲーム,5,45,200,41,0.68
+jeux-casual,Solitaire,ソリティアクラシック,5,54,217,9,1.06
+jeux-casual,Solitaire,best games to play,5,94,234,69,0.61
+jeux-casual,Solitaire,freecell solitaire - card game,5,55,247,23,0.79
+jeux-casual,Solitaire,popular card game,5,54,232,27,0.76
+jeux-casual,Solitaire,app games,5,96,234,19,0.83
+jeux-casual,Solitaire,newganes,5,97,244,156,0.52
+jeux-casual,Solitaire,free games app,5,94,248,18,0.84
+jeux-casual,Solitaire,ورق,5,62,247,123,0.54
+jeux-casual,Solitaire,jojoy,5,90,248,101,0.56
+jeux-casual,Solitaire,play with me,5,92,229,211,0.49
+jeux-casual,Solitaire,懸賞ソリティア,5,77,216,42,0.68
+jeux-casual,Solitaire,best news app,5,97,240,224,0.49
+jeux-casual,Solitaire,classic solitaire klondike,5,64,247,2,2.29
+jeux-casual,Solitaire,best mobile games,5,94,227,71,0.61
+jeux-casual,Solitaire,Pyramid Solitare,5,42,201,25,0.77
+jeux-casual,Solitaire,tripeaks free,5,46,245,122,0.55
+jeux-casual,Solitaire,bestgames,5,97,239,92,0.58
+jeux-casual,Solitaire,cool fun game,5,95,230,66,0.62
+jeux-casual,Solitaire,awsome game,5,95,235,145,0.53
+jeux-casual,Solitaire,monipoly,5,92,247,11,0.98
+jeux-casual,Solitaire,solitaires,5,75,245,1,5.00
+jeux-casual,Solitaire,card gaem,5,91,248,1,5.00
+jeux-casual,Solitaire,solitário clássico,5,57,247,76,0.60
+jeux-casual,Solitaire,gamer game,5,95,235,69,0.61
+jeux-casual,Solitaire,no wifi solitaire,5,,248,1,5.00
+jeux-casual,Solitaire,pasjans,5,52,83,11,0.98
+jeux-casual,Solitaire,varag,5,49,71,68,0.61
+jeux-casual,Solitaire,varagh,5,79,212,39,0.69
+jeux-casual,Solitaire,caed games,5,88,247,2,2.29
+jeux-casual,Solitaire,j2me,5,98,245,27,0.76
+jeux-casual,Solitaire,باصرة,5,61,130,14,0.91
+jeux-casual,Solitaire,باصره,5,61,218,9,1.06
+jeux-casual,Solitaire,عشرة كوتشينة,5,42,32,24,0.78
+jeux-casual,Solitaire,patience game,5,57,246,246,0.48
+jeux-casual,Solitaire,game solitaire classic nartech,5,59,249,15,0.89
+jeux-casual,Solitaire,app all,5,,243,162,0.52
+jeux-casual,Solitaire,games news,5,97,235,23,0.79
+jeux-casual,Solitaire,spider solitary,5,54,249,12,0.96
+jeux-casual,Solitaire,games. for free,5,72,246,227,0.49
+jeux-casual,Solitaire,no wifi card games,5,82,247,7,1.16
+jeux-casual,Solitaire,iphone game,5,96,233,19,0.83
+jeux-casual,Solitaire,free apple games,5,83,247,4,1.49
+jeux-casual,Solitaire,no wifi fun board games,5,76,245,152,0.52
+jeux-casual,Solitaire,drunk games for couples,5,97,241,30,0.74
+jeux-casual,Solitaire,games to buy,5,95,233,20,0.82
+jeux-casual,Solitaire,top 100 games,5,98,230,115,0.55
+jeux-casual,Solitaire,drunk games couples,5,94,240,70,0.61
+jeux-casual,Solitaire,fun two players game,5,96,243,61,0.63
+jeux-casual,Solitaire,games for three yr olds,5,96,242,32,0.73
+jeux-casual,Solitaire,apples to apples type game for adults,5,41,237,187,0.51
+jeux-casual,Solitaire,apples to apples card game for adults,5,53,243,101,0.56
+jeux-casual,Solitaire,bored games for adults,5,91,242,32,0.73
+jeux-casual,Solitaire,couple dare games,5,97,242,29,0.74
+jeux-casual,Solitaire,intimate couples game,5,97,241,31,0.73
+jeux-casual,Solitaire,21 solitaire cash,5,57,240,174,0.51
+jeux-casual,Solitaire,solitaire 4 smash,5,57,249,249,0.48
+jeux-casual,Solitaire,solitaire 4 cash,5,57,246,112,0.55
+jeux-casual,Solitaire,solitaire cash Md,5,2,245,166,0.52
+jeux-casual,Solitaire,CASH GAME CA,5,55,242,204,0.50
+jeux-casual,Solitaire,message without phone number,5,2,42,34,0.71
+jeux-casual,Solitaire,free app app,5,97,248,147,0.53
+jeux-casual,Solitaire,app for free,5,95,248,147,0.53
+jeux-casual,Solitaire,app app for free,5,93,248,40,0.69
+jeux-casual,Solitaire,free iphone app,5,97,248,145,0.53
+jeux-casual,Solitaire,iphone free app,5,97,248,149,0.53
+jeux-casual,Solitaire,pok ppk,5,90,248,98,0.57
+jeux-casual,Solitaire,solitér,5,91,247,1,5.00
+jeux-casual,Solitaire,πασιέντζα,5,45,6,5,1.34
+jeux-casual,Solitaire,klondike solitaire spades,5,45,245,188,0.50
+jeux-casual,Solitaire,klondike solitaire deluxe,5,51,247,108,0.56
+jeux-casual,Solitaire,klondike deluxe,5,53,139,66,0.62
+jeux-casual,Solitaire,deluxe klondike,5,50,129,63,0.62
+jeux-casual,Solitaire,klondike fun,5,44,245,80,0.59
+jeux-casual,Solitaire,solitairy,5,85,241,1,5.00
+jeux-casual,Solitaire,Classic Solitaire •,5,57,239,113,0.55
+jeux-casual,Solitaire,Solitude Solitaire,5,40,250,182,0.51
+jeux-casual,Solitaire,Solace Solitaire,5,58,249,31,0.73
+jeux-casual,Solitaire,clássico solitário,5,57,247,100,0.57
+jeux-casual,Solitaire,classique solitaire,5,58,248,184,0.51
+jeux-casual,Solitaire,solitaire klassisch,5,47,247,22,0.80
+jeux-casual,Solitaire,classico solitario,5,55,245,138,0.53
+jeux-casual,Solitaire,classico gioco di carte,5,42,84,20,0.82
+jeux-casual,Solitaire,solitaire klasik,5,42,247,224,0.49
+jeux-casual,Solitaire,klasik solitaire,5,27,248,142,0.53
+jeux-casual,Solitaire,고전 게임,5,83,243,78,0.59
+jeux-casual,Solitaire,공짜,5,74,79,7,1.16
+jeux-casual,Solitaire,spider solitair,5,69,233,13,0.93
+jeux-casual,Solitaire,board gmes,5,93,247,69,0.61
+jeux-casual,Solitaire,all game,5,96,232,21,0.81
+jeux-casual,Solitaire,piele,5,95,250,210,0.50
+jeux-casual,Solitaire,senior solitaire,5,59,250,12,0.96
+jeux-casual,Solitaire,xwrd,5,92,248,7,1.16
+jeux-casual,Solitaire,cash classic,5,59,240,161,0.52
+jeux-casual,Solitaire,games for iphone,5,96,237,16,0.87
+jeux-casual,Solitaire,سوليتير,5,70,248,2,2.29
+jeux-casual,Solitaire,اذان الصلاه في وقتها بدون نت,5,75,269,21,0.81
+jeux-casual,Solitaire,solitaire - classic!,5,54,234,46,0.67
+jeux-casual,Solitaire,solitaire classic cards,5,57,248,188,0.50
+jeux-casual,Solitaire,mobile solitaire,5,47,246,90,0.58
+jeux-casual,Solitaire,brain solitaire,5,61,247,238,0.48
+jeux-casual,Solitaire,cartas soli,5,69,45,24,0.78
+jeux-casual,Solitaire,solitaire°,5,46,248,119,0.55
+jeux-casual,Solitaire,hypercards,5,44,248,48,0.66
+jeux-casual,Solitaire,message crush,5,92,243,23,0.79
+jeux-casual,Solitaire,NEVER AHVE I EVER,5,96,240,91,0.58
+jeux-casual,Solitaire,branium,5,,137,118,0.55
+jeux-casual,Solitaire,لعبه الكوتشينه,5,58,104,13,0.93
+jeux-casual,Solitaire,solitaire classics klondike,5,46,248,82,0.59
+jeux-casual,Solitaire,card game solitaire free,5,62,250,8,1.10
+jeux-casual,Solitaire,card game solitaire easy,5,63,249,34,0.71
+jeux-casual,Solitaire,easy card game solitaire,5,63,249,31,0.73
+jeux-casual,Solitaire,free card game solitaire,5,62,250,8,1.10
+jeux-casual,Solitaire,solitaire card game easy,5,63,249,32,0.73
+jeux-casual,Solitaire,solitaire card game free,5,62,248,4,1.49
+jeux-casual,Solitaire,easy solitaire card game,5,63,249,27,0.76
+jeux-casual,Solitaire,pasians,5,55,13,3,1.74
+jeux-casual,Solitaire,klondike card game,5,62,240,63,0.62
+jeux-casual,Solitaire,card game klondike,5,50,239,136,0.53
+jeux-casual,Solitaire,classic solitiare,5,61,250,3,1.74
+jeux-casual,Solitaire,free solitiare,5,66,246,3,1.74
+jeux-casual,Solitaire,patience card,5,61,243,117,0.55
+jeux-casual,Solitaire,solitaire chash,5,59,250,80,0.59
+jeux-casual,Solitaire,no wifi -,5,87,245,231,0.49
+jeux-casual,Solitaire,vita spider for seniors,5,57,210,197,0.50
+jeux-casual,Solitaire,Pasiáns,5,35,15,4,1.49
+jeux-casual,Solitaire,Solitia,5,91,247,1,5.00
+jeux-casual,Solitaire,Solliteeo,5,57,250,45,0.67
+jeux-casual,Solitaire,classic solitaire FreeCell,5,54,247,74,0.60
+jeux-casual,Solitaire,offiline,5,,247,235,0.49
+jeux-casual,Solitaire,fun solitaire,5,82,246,172,0.51
+jeux-casual,Solitaire,find app,5,98,243,157,0.52
+jeux-casual,Solitaire,solitaire relax,5,68,249,23,0.79
+jeux-casual,Solitaire,paid game,5,86,81,37,0.70
+jeux-casual,Solitaire,game fun,5,95,230,67,0.61
+jeux-casual,Solitaire,new appa,5,98,243,155,0.52
+jeux-casual,Solitaire,solitaire-card,5,63,246,7,1.16
+jeux-casual,Solitaire,witt solitaire-card,5,58,244,35,0.71
+jeux-casual,Solitaire,solitaire-card games,5,59,245,18,0.84
+jeux-casual,Solitaire,offlien,5,88,243,233,0.49
+jeux-casual,Solitaire,60 second games,5,97,242,31,0.73
+jeux-casual,Solitaire,games for sleep overs,5,97,241,31,0.73
+jeux-casual,Solitaire,games for teenager girls,5,97,241,32,0.73
+jeux-casual,Solitaire,sleep over games,5,96,240,30,0.74
+jeux-casual,Solitaire,a good app,5,97,243,227,0.49
+jeux-casual,Solitaire,cards game for kids,5,87,243,1,5.00
+jeux-casual,Solitaire,collection fun,5,56,241,239,0.48
+jeux-casual,Solitaire,year game,5,95,236,19,0.83
+jeux-casual,Solitaire,game year,5,95,235,19,0.83
+jeux-casual,Solitaire,Grand Harvest,5,61,203,10,1.02
+jeux-casual,Solitaire,nostal solitaire,5,43,250,16,0.87
+jeux-casual,Solitaire,game associations,5,49,218,132,0.54
+jeux-casual,Solitaire,best free game,5,94,246,63,0.62
+jeux-casual,Solitaire,interet,5,88,250,135,0.54
+jeux-casual,Solitaire,cozy solitaire,5,85,234,9,1.06
+jeux-casual,Solitaire,solitare for cash app,5,58,246,124,0.54
+jeux-casual,Solitaire,play nonopoly,5,96,182,63,0.62
+jeux-casual,Solitaire,Solitaire - Classic Card Games,5,59,249,34,0.71
+jeux-casual,Solitaire,solitaire smash: real cash!,5,72,37,27,0.76
+jeux-casual,Solitaire,vit c,5,66,80,65,0.62
+jeux-casual,Solitaire,solitiaire,5,92,247,1,5.00
+jeux-casual,Solitaire,card games sol,5,61,232,20,0.82
+jeux-casual,Solitaire,solitaire no ad,5,63,245,7,1.16
+jeux-casual,Solitaire,senior messaging,5,32,248,148,0.53
+jeux-casual,Solitaire,. Solitaire Slam,5,40,19,4,1.49
+jeux-casual,Solitaire,soli master,5,25,227,13,0.93
+jeux-casual,Solitaire,Spades-cash,5,51,84,79,0.59
+jeux-casual,Solitaire,fo loose,5,95,222,92,0.58
+jeux-casual,Solitaire,Soliraire Games Free,5,89,248,3,1.74
+jeux-casual,Solitaire,you are beautiful,5,31,197,182,0.51
+jeux-casual,Solitaire,spider ▻ solitaire,5,,233,5,1.34
+jeux-casual,Solitaire,∙ solitaire ∙,5,59,248,15,0.89
+jeux-casual,Solitaire,∙solitaire∙,5,79,250,17,0.86
+jeux-casual,Solitaire,solitaire∙,5,82,250,18,0.84
+jeux-casual,Solitaire,free of ad,5,70,241,185,0.51
+jeux-casual,Solitaire,益智游戏,5,82,247,207,0.50
+jeux-casual,Solitaire,中国游戏,5,91,248,220,0.49
+jeux-casual,Solitaire,offline solataire,5,63,248,2,2.29
+jeux-casual,Solitaire,classic solitaire game,5,63,247,26,0.76
+jeux-casual,Solitaire,spider soliatire,5,54,249,12,0.96
+jeux-casual,Solitaire,copl,5,92,243,174,0.51
+jeux-casual,Solitaire,aapss,5,97,241,162,0.52
+jeux-casual,Solitaire,celebirty,5,79,211,84,0.59
+jeux-casual,Solitaire,my crush like me,5,88,82,59,0.63
+jeux-casual,Solitaire,alaska solitaire,5,61,248,116,0.55
+jeux-casual,Solitaire,solitaire ace,5,57,243,189,0.50
+jeux-casual,Solitaire,classic solitaire cash,5,65,102,13,0.93
+jeux-casual,Solitaire,solitarie real money,5,64,246,2,2.29
+jeux-casual,Solitaire,games that dont need wi fi,5,97,241,31,0.73
+jeux-casual,Solitaire,5 star solitaire,5,69,247,153,0.52
+jeux-casual,Solitaire,bored card games,5,86,248,2,2.29
+jeux-casual,Solitaire,5 star solitaire card game,5,59,248,16,0.87
+jeux-casual,Solitaire,best solitaire card game,5,54,248,26,0.76
+jeux-casual,Solitaire,large card game,5,55,250,239,0.48
+jeux-casual,Solitaire,solo card game,5,66,230,83,0.59
+jeux-casual,Solitaire,without wifi play classic solitaire,5,67,245,26,0.76
+jeux-casual,Solitaire,emerald solitaire,5,58,248,126,0.54
+jeux-casual,Solitaire,app fun,5,96,240,215,0.49
+jeux-casual,Solitaire,solitaire-classic,5,56,246,17,0.86
+jeux-casual,Solitaire,airplane message,5,46,247,42,0.68
+jeux-casual,Solitaire,airplane messaging,5,46,65,16,0.87
+jeux-casual,Solitaire,games without cards,5,52,229,81,0.59
+jeux-casual,Solitaire,fun gamz,5,91,245,106,0.56
+jeux-casual,Solitaire,neww game,5,97,243,99,0.57
+jeux-casual,Solitaire,top10 games,5,97,245,188,0.50
+jeux-casual,Solitaire,pasjans pająk,5,46,27,11,0.98
+jeux-casual,Solitaire,ds r1,5,21,114,50,0.65
+jeux-casual,Solitaire,ios game,5,96,231,23,0.79
+jeux-casual,Solitaire,soliaire,5,87,245,1,5.00
+jeux-casual,Solitaire,solitaireclassic,5,56,245,12,0.96
+jeux-casual,Solitaire,solitaire⋆⋆,5,81,250,15,0.89
+jeux-casual,Solitaire,two player gmaes,5,97,243,34,0.71
+jeux-casual,Solitaire,coolest,5,100,243,154,0.52
+jeux-casual,Solitaire,senior center,5,,45,24,0.78
+jeux-casual,Solitaire,monopoly solitaire: card games,5,,68,14,0.91
+jeux-casual,Solitaire,car fight games,5,96,243,29,0.74
+jeux-casual,Solitaire,forfree,5,,246,222,0.49
+jeux-casual,Solitaire,cate games,5,89,248,2,2.29
+jeux-casual,Solitaire,ألعاب الورق,5,50,142,25,0.77
+jeux-casual,Solitaire,post apocalypse game,5,97,242,29,0.74
+jeux-casual,Solitaire,ألعاب ورق,5,52,233,8,1.10
+jeux-casual,Solitaire,patai,5,55,244,237,0.49
+jeux-casual,Solitaire,cardq,5,93,247,3,1.74
+jeux-casual,Solitaire,x.com,5,98,248,215,0.49
+jeux-casual,Solitaire,goog game,5,95,232,25,0.77
+jeux-casual,Solitaire,too game,5,92,240,69,0.61
+jeux-casual,Solitaire,gsames,5,97,239,37,0.70
+jeux-casual,Solitaire,solitaire.com: classic cards,5,62,250,18,0.84
+jeux-casual,Solitaire,adult cards games,5,89,248,2,2.29
+jeux-casual,Solitaire,solitaire tycoon-win cash app,5,,231,6,1.24
+jeux-casual,Solitaire,iphone solitaire,5,86,245,1,5.00
+jeux-casual,Solitaire,best solitaire app,5,,228,3,1.74
+jeux-casual,Solitaire,buy sol,5,,237,20,0.82
+jeux-casual,Solitaire,ow to train your dragon,5,,242,33,0.72
+jeux-casual,Solitaire,free%20wifi%20game,5,86,242,79,0.59
+jeux-casual,Solitaire,apple%20airplay%20for%20ipad,5,87,245,199,0.50
+jeux-casual,Solitaire,i%20am%20ca,5,98,244,150,0.52
+jeux-casual,Solitaire,%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9,5,88,166,44,0.67
+jeux-casual,Solitaire,city spider,5,47,241,186,0.51
+jeux-casual,Solitaire,games paid,5,,64,47,0.66
+jeux-casual,Solitaire,csrd,5,60,224,2,2.29
+jeux-casual,Solitaire,kbord,5,,238,139,0.53
+jeux-casual,Solitaire,no şd,5,,75,20,0.82
+jeux-casual,Solitaire,龙类,5,,183,2,2.29
+jeux-casual,Solitaire,小龙,5,,233,139,0.53
+jeux-casual,Solitaire,hard solitaire,5,53,239,3,1.74
+jeux-casual,Solitaire,senior mobility,5,48,248,102,0.56
+jeux-casual,Solitaire,color games for baby,5,,243,30,0.74
+jeux-casual,Solitaire,ai-free,5,96,247,35,0.71
+jeux-casual,Solitaire,cards game for couples,5,88,247,1,5.00
+jeux-casual,Solitaire,card solitatire,5,63,245,132,0.54
+jeux-casual,Solitaire,best game ever,5,96,228,66,0.62
+jeux-casual,Solitaire,soliatire,5,86,246,1,5.00
+jeux-casual,Solitaire,solitauire,5,91,248,1,5.00
+jeux-casual,Solitaire,⋆solitaire: classic card games,5,60,247,34,0.71
+jeux-casual,Solitaire,essential app,5,97,239,227,0.49
+jeux-casual,Solitaire,must have app,5,97,238,223,0.49
+jeux-casual,Solitaire,od games,5,97,233,21,0.81
+jeux-casual,Solitaire,solitaire: classic card games,5,63,246,62,0.62
+jeux-casual,Solitaire,fun card game,5,74,248,3,1.74
+jeux-casual,Solitaire,solana card,5,,226,5,1.34
+jeux-casual,Solitaire,?solitaire: classic card games,5,57,247,63,0.62
+jeux-casual,Solitaire,? solitaire ?,5,,248,10,1.02
+jeux-casual,Solitaire,?solitaire?,5,,247,10,1.02
+jeux-casual,Solitaire,solitaire?,5,,247,10,1.02
+jeux-casual,Solitaire,solitare no ads,5,,242,8,1.10
+jeux-casual,Solitaire,multi phone game,5,,217,136,0.53
+jeux-casual,Solitaire,offlie,5,,244,212,0.49
+jeux-casual,Solitaire,solva,5,,28,1,5.00
+jeux-casual,Solitaire,solitaire.,5,79,248,10,1.02
+jeux-casual,Solitaire,classic game no ads,5,74,246,202,0.50
+jeux-casual,Solitaire,every app,5,97,243,157,0.52
+jeux-casual,Solitaire,thinking of you,5,,69,36,0.70
+jeux-casual,Solitaire,thinking os,5,,144,24,0.78
+jeux-casual,Solitaire,no phon,5,,247,185,0.51
+jeux-casual,Solitaire,cards out,5,,239,163,0.52
+jeux-casual,Solitaire,game good,5,96,231,66,0.62
+jeux-casual,Solitaire,card game free,5,,246,146,0.53
+jeux-casual,Solitaire,kanban pro,5,47,240,221,0.49
+jeux-casual,Solitaire,like so,5,,199,148,0.53
+jeux-casual,Solitaire,no ads solitaire game,5,,250,6,1.24
+jeux-casual,Solitaire,solitaire classics card games,5,,250,26,0.76
+jeux-casual,Solitaire,solitaire sprint: win cash,5,,241,216,0.49
+jeux-casual,Solitaire,outline adult,5,,203,138,0.53
+jeux-casual,Solitaire,sol review,5,,195,9,1.06
+jeux-casual,Solitaire,ipad free,5,,234,55,0.64
+jeux-casual,Solitaire,adults share daily no ads,5,48,173,106,0.56
+jeux-casual,Solitaire,no ads adults share daily,5,49,180,112,0.55
+jeux-casual,Solitaire,adults share daily like,5,79,175,17,0.86
+jeux-casual,Solitaire,good adults share daily,5,70,169,16,0.87
+jeux-casual,Solitaire,good adults share daily app,5,56,193,86,0.58
+jeux-casual,Solitaire,easy fors seniors free game,5,45,247,96,0.57
+jeux-casual,Solitaire,adults share daily download app,5,,175,73,0.60
+jeux-casual,Solitaire,free adults share daily download,5,,125,44,0.67
+jeux-casual,Solitaire,adults share daily download app free,5,,158,74,0.60
+jeux-casual,Solitaire,adults share daily download app best,5,,153,71,0.61
+jeux-casual,Solitaire,adults share daily download app online,5,,170,74,0.60
+jeux-casual,Solitaire,daily card,5,,230,141,0.53
+jeux-casual,Solitaire,free cards board,5,,250,92,0.58
+jeux-casual,Solitaire,classic patience solitaire,5,54,248,101,0.56
+jeux-casual,Solitaire,solitaire block,5,,248,56,0.64
+jeux-casual,Solitaire,picture solitaire,5,,238,129,0.54
+jeux-casual,Solitaire,air messages,5,83,239,115,0.55
+jeux-casual,Solitaire,air messages juego,5,,163,25,0.77
+jeux-casual,Solitaire,solitaire iwatch recordings,5,,247,197,0.50
+jeux-casual,Solitaire,reddit solitaire iwatch recordings,5,,249,157,0.52
+jeux-casual,Solitaire,phone without thinking,5,,160,67,0.61
+jeux-casual,Solitaire,subgame,5,,250,219,0.49
+jeux-casual,Solitaire,solitaire gpt,5,,249,178,0.51
+jeux-casual,Solitaire,balatro card,5,,238,93,0.57
+jeux-casual,Solitaire,solitire cash,5,,228,42,0.68
+jeux-casual,Solitaire,solitiare,5,69,248,2,2.29
+jeux-casual,Solitaire,phone app for iphone fr,5,,242,176,0.51
+jeux-casual,Solitaire,spider solotaire,5,,249,13,0.93
+jeux-casual,Solitaire,spidersolitaire,5,,240,169,0.51
+jeux-casual,Solitaire,patience spider,5,,241,231,0.49
+jeux-casual,Solitaire,klondike spider,5,,243,195,0.50
+jeux-casual,Solitaire,board games solitaire,5,,247,28,0.75
+jeux-casual,Solitaire,solotare,5,,246,1,5.00
+jeux-casual,Solitaire,solitaire spider card,5,,243,162,0.52
+jeux-casual,Solitaire,solitaire star: cards game set,5,,247,81,0.59
+jeux-casual,Solitaire,imessage cards,5,,235,134,0.54
+jeux-casual,Solitaire,preferans,5,,249,13,0.93
+jeux-casual,Solitaire,top rated game,5,93,241,73,0.60
+jeux-casual,Solitaire,solira,5,90,248,1,5.00
+jeux-casual,Solitaire,spiele ohne werbung,,,221,51,
+jeux-casual,Solitaire,ハイキュー,,,218,81,
+jeux-casual,Solitaire,סוליטר,,60,7,6,
+jeux-casual,Solitaire,kostenlose spiele ohne werbung,,,208,31,
+jeux-casual,Solitaire,relax classic,,,237,201,
+jeux-casual,Solitaire,klondike2025 solitaire,,,232,7,
+jeux-casual,Solitaire,classic klondike2025,,,14,13,
+jeux-casual,Solitaire,小游戏,,69,244,24,
+jeux-casual,Solitaire,wifi carplay,,,123,47,
+jeux-casual,Solitaire,classic solitaire �,,,227,32,
+jeux-casual,Solitaire,solitaire�,,75,247,133,
+jeux-casual,Solitaire,solitaire x,,,250,66,
+jeux-casual,Solitaire,earthday,,,210,93,
+jeux-casual,Solitaire,imessage ecards,,,237,79,
+jeux-casual,Solitaire,seniors car,,,246,159,
+jeux-casual,WordCollect,word,74,87,245,84,8.67
+jeux-casual,WordCollect,fetch,73,91,247,59,9.20
+jeux-casual,WordCollect,ワード,72,81,239,87,8.37
+jeux-casual,WordCollect,words with friends,66,95,250,18,11.15
+jeux-casual,WordCollect,nyt games,63,75,234,56,8.03
+jeux-casual,WordCollect,word games,62,59,229,11,12.21
+jeux-casual,WordCollect,crossword puzzle free,59,75,245,75,7.07
+jeux-casual,WordCollect,scrabble,59,87,248,66,7.26
+jeux-casual,WordCollect,imprint,59,96,246,68,7.21
+jeux-casual,WordCollect,scrabble go,56,89,250,65,6.91
+jeux-casual,WordCollect,워드,56,87,249,89,6.48
+jeux-casual,WordCollect,boggle,54,84,249,58,6.83
+jeux-casual,WordCollect,crossplay,54,54,247,106,6.04
+jeux-casual,WordCollect,word games for free,52,75,233,11,10.24
+jeux-casual,WordCollect,word solitaire,51,84,248,115,5.62
+jeux-casual,WordCollect,word search puzzles for adults,51,55,247,38,7.09
+jeux-casual,WordCollect,guess the word,50,83,244,78,5.94
+jeux-casual,WordCollect,cryptogram,50,86,248,134,5.36
+jeux-casual,WordCollect,pictionary,49,74,249,106,5.48
+jeux-casual,WordCollect,كلمات كراش,48,96,249,94,5.50
+jeux-casual,WordCollect,wordfeud,47,96,249,49,6.17
+jeux-casual,WordCollect,crossword master,46,76,250,145,4.86
+jeux-casual,WordCollect,word master,44,80,250,42,5.98
+jeux-casual,WordCollect,ward,43,83,250,40,5.91
+jeux-casual,WordCollect,wordsearch,42,85,250,56,5.35
+jeux-casual,WordCollect,word cookies,41,96,249,13,7.64
+jeux-casual,WordCollect,apalabrados,41,85,246,69,5.00
+jeux-casual,WordCollect,parole,40,58,249,90,4.62
+jeux-casual,WordCollect,adivina la palabra,39,54,246,65,4.81
+jeux-casual,WordCollect,typing games,39,81,250,157,4.06
+jeux-casual,WordCollect,jaco,39,100,250,97,4.44
+jeux-casual,WordCollect,word games for adults,38,75,240,34,5.43
+jeux-casual,WordCollect,words with friends 2,38,77,245,21,6.15
+jeux-casual,WordCollect,word association game,37,64,234,56,4.71
+jeux-casual,WordCollect,word hunt,36,61,248,20,5.90
+jeux-casual,WordCollect,coin identifier free app,36,49,249,185,3.64
+jeux-casual,WordCollect,gba,35,100,250,220,3.44
+jeux-casual,WordCollect,free word games,34,78,229,3,11.85
+jeux-casual,WordCollect,free word games for adults,34,76,238,7,7.89
+jeux-casual,WordCollect,yatzee free,34,73,245,179,3.46
+jeux-casual,WordCollect,word trip,33,90,247,17,5.67
+jeux-casual,WordCollect,word finder,33,72,243,35,4.68
+jeux-casual,WordCollect,connections word game,33,76,249,138,3.52
+jeux-casual,WordCollect,puzzle page,32,73,221,105,3.59
+jeux-casual,WordCollect,jeu de mot,32,94,250,12,6.12
+jeux-casual,WordCollect,word search free,31,86,246,42,4.21
+jeux-casual,WordCollect,find a word,31,75,241,26,4.74
+jeux-casual,WordCollect,wordscapes free,30,89,250,8,6.61
+jeux-casual,WordCollect,wort,29,98,250,17,4.98
+jeux-casual,WordCollect,bible word puzzle,29,65,242,73,3.49
+jeux-casual,WordCollect,strands word game,27,84,250,23,4.26
+jeux-casual,WordCollect,collection,26,97,249,145,2.75
+jeux-casual,WordCollect,bible word search,26,78,250,131,2.80
+jeux-casual,WordCollect,games without ads,26,77,243,57,3.30
+jeux-casual,WordCollect,plinko game,26,56,249,92,2.99
+jeux-casual,WordCollect,nfl collect,26,92,250,58,3.29
+jeux-casual,WordCollect,word bubbles,25,82,249,142,2.65
+jeux-casual,WordCollect,wordgo,25,86,250,64,3.10
+jeux-casual,WordCollect,free crossword puzzles,24,75,245,58,3.03
+jeux-casual,WordCollect,hello millions,24,74,250,85,2.80
+jeux-casual,WordCollect,association game,24,81,247,43,3.24
+jeux-casual,WordCollect,word cross,23,78,238,101,2.60
+jeux-casual,WordCollect,cryptogramme,23,72,249,163,2.38
+jeux-casual,WordCollect,игра в слова,23,70,242,27,3.48
+jeux-casual,WordCollect,unscramble words,23,89,248,16,4.02
+jeux-casual,WordCollect,jeux famille,22,79,227,181,2.23
+jeux-casual,WordCollect,woord,22,96,236,51,2.86
+jeux-casual,WordCollect,free thesaurus,22,70,250,93,2.53
+jeux-casual,WordCollect,canuckle,22,88,249,112,2.44
+jeux-casual,WordCollect,learn new words every day,21,49,250,100,2.38
+jeux-casual,WordCollect,more games,20,46,191,7,4.64
+jeux-casual,WordCollect,points,19,95,250,182,1.93
+jeux-casual,WordCollect,wordless,19,97,247,36,2.68
+jeux-casual,WordCollect,beste spiele,18,80,236,235,1.75
+jeux-casual,WordCollect,7 wonders,18,97,250,147,1.90
+jeux-casual,WordCollect,words with friends word game,17,79,238,9,3.59
+jeux-casual,WordCollect,lettere,17,79,250,138,1.81
+jeux-casual,WordCollect,word life,16,,249,6,3.95
+jeux-casual,WordCollect,boggle free,16,82,250,54,2.05
+jeux-casual,WordCollect,times games,16,59,249,18,2.70
+jeux-casual,WordCollect,letter games,15,50,239,68,1.83
+jeux-casual,WordCollect,connect the words,15,,250,20,2.46
+jeux-casual,WordCollect,sky word,15,82,249,56,1.91
+jeux-casual,WordCollect,free crossword games,14,64,237,40,1.92
+jeux-casual,WordCollect,connect now,14,97,249,144,1.48
+jeux-casual,WordCollect,games new,13,61,247,43,1.76
+jeux-casual,WordCollect,presentacion,13,89,236,63,1.62
+jeux-casual,WordCollect,word search solver,13,78,250,95,1.49
+jeux-casual,WordCollect,word wheel,13,94,249,65,1.60
+jeux-casual,WordCollect,juegos palabras,12,61,233,15,2.14
+jeux-casual,WordCollect,free bible games,11,52,250,184,1.11
+jeux-casual,WordCollect,figuritas 2026,11,48,249,109,1.22
+jeux-casual,WordCollect,word quest,10,91,250,96,1.14
+jeux-casual,WordCollect,cruciverba italiano gratis,10,70,228,138,1.07
+jeux-casual,WordCollect,figuritas panini,10,60,250,63,1.24
+jeux-casual,WordCollect,word story,9,90,250,53,1.16
+jeux-casual,WordCollect,connect dots game,9,77,242,199,0.90
+jeux-casual,WordCollect,bookworm,9,65,250,38,1.25
+jeux-casual,WordCollect,word wow,9,84,249,57,1.14
+jeux-casual,WordCollect,sight words,9,67,249,118,0.99
+jeux-casual,WordCollect,juegos sin conexión,9,22,250,144,0.95
+jeux-casual,WordCollect,random word generator,9,80,199,55,1.15
+jeux-casual,WordCollect,word of the day,9,67,249,32,1.31
+jeux-casual,WordCollect,wwf,9,83,247,115,0.99
+jeux-casual,WordCollect,find the word,9,75,246,58,1.14
+jeux-casual,WordCollect,daily games,9,46,189,81,1.06
+jeux-casual,WordCollect,vocabulario,9,78,250,138,0.96
+jeux-casual,WordCollect,boogle,9,92,250,112,1.00
+jeux-casual,WordCollect,wordl,9,49,242,41,1.23
+jeux-casual,WordCollect,contexto,9,98,231,92,1.04
+jeux-casual,WordCollect,panini collection,9,,248,77,1.07
+jeux-casual,WordCollect,super 73,9,85,249,143,0.95
+jeux-casual,WordCollect,connect word,9,94,250,43,1.22
+jeux-casual,WordCollect,bubble word,9,47,248,45,1.20
+jeux-casual,WordCollect,word puzzles,8,82,238,64,0.99
+jeux-casual,WordCollect,word association,8,45,244,102,0.90
+jeux-casual,WordCollect,words with friends cheat,8,86,250,35,1.13
+jeux-casual,WordCollect,word connect,8,91,249,52,1.04
+jeux-casual,WordCollect,scattergories,8,59,244,73,0.96
+jeux-casual,WordCollect,easy connect,8,77,250,138,0.85
+jeux-casual,WordCollect,word of the day vocabulary,8,75,250,127,0.87
+jeux-casual,WordCollect,knotwords,8,77,239,51,1.04
+jeux-casual,WordCollect,crossword challenge,8,91,245,131,0.86
+jeux-casual,WordCollect,say the word,8,69,250,16,1.40
+jeux-casual,WordCollect,easycast,7,80,250,54,0.90
+jeux-casual,WordCollect,fetch rewards,7,79,248,108,0.78
+jeux-casual,WordCollect,answers,7,91,233,142,0.74
+jeux-casual,WordCollect,daily crossword,7,72,244,122,0.76
+jeux-casual,WordCollect,vocabulary com,7,30,222,95,0.80
+jeux-casual,WordCollect,mini word,7,94,250,108,0.78
+jeux-casual,WordCollect,wortsuche,7,82,250,178,0.71
+jeux-casual,WordCollect,word stacks,7,95,248,44,0.94
+jeux-casual,WordCollect,bible games,7,75,250,193,0.70
+jeux-casual,WordCollect,worldle,7,83,250,23,1.11
+jeux-casual,WordCollect,vocabulary daily words,7,36,248,60,0.88
+jeux-casual,WordCollect,free coin identifier,7,74,250,188,0.71
+jeux-casual,WordCollect,word roll,7,82,250,6,1.73
+jeux-casual,WordCollect,speech game,7,16,234,92,0.81
+jeux-casual,WordCollect,word oasis,7,57,243,87,0.81
+jeux-casual,WordCollect,say the word on beat challenge,7,85,248,43,0.95
+jeux-casual,WordCollect,say the word on beat,7,90,250,58,0.89
+jeux-casual,WordCollect,secret word game,7,59,249,10,1.42
+jeux-casual,WordCollect,word search games,6,89,250,66,0.74
+jeux-casual,WordCollect,word perfect,6,75,249,15,1.07
+jeux-casual,WordCollect,addicted,6,90,250,123,0.65
+jeux-casual,WordCollect,dumb ways,6,70,250,106,0.67
+jeux-casual,WordCollect,spelling games for kids,6,46,241,53,0.77
+jeux-casual,WordCollect,word a day,6,61,248,22,0.96
+jeux-casual,WordCollect,word crush,6,88,247,13,1.12
+jeux-casual,WordCollect,pictoword,6,93,250,5,1.61
+jeux-casual,WordCollect,codycross,6,79,231,127,0.65
+jeux-casual,WordCollect,daily word,6,62,249,70,0.73
+jeux-casual,WordCollect,scrabble cheat,6,75,246,38,0.83
+jeux-casual,WordCollect,christian games,6,77,250,216,0.59
+jeux-casual,WordCollect,word crossy,6,74,249,18,1.01
+jeux-casual,WordCollect,word collect,6,75,247,1,6.00
+jeux-casual,WordCollect,super simple,6,63,247,125,0.65
+jeux-casual,WordCollect,through the word app,6,50,250,114,0.66
+jeux-casual,WordCollect,who would rather,6,20,249,159,0.62
+jeux-casual,WordCollect,neal fun,6,92,250,39,0.83
+jeux-casual,WordCollect,word blast,6,83,249,131,0.65
+jeux-casual,WordCollect,word shatter,6,,250,17,1.03
+jeux-casual,WordCollect,wordel,6,73,245,47,0.79
+jeux-casual,WordCollect,worde,6,81,245,81,0.71
+jeux-casual,WordCollect,crostic,6,67,234,79,0.71
+jeux-casual,WordCollect,gimica,6,25,239,111,0.67
+jeux-casual,WordCollect,connect word association game,6,71,250,76,0.72
+jeux-casual,WordCollect,solitaire word,6,74,240,97,0.68
+jeux-casual,WordCollect,byword,5,61,250,79,0.59
+jeux-casual,WordCollect,games word,5,73,234,27,0.76
+jeux-casual,WordCollect,trivia crack kids,5,78,249,149,0.53
+jeux-casual,WordCollect,free words with friends,5,67,234,10,1.02
+jeux-casual,WordCollect,iphone games,5,80,212,168,0.51
+jeux-casual,WordCollect,word document for ipad free,5,78,247,152,0.52
+jeux-casual,WordCollect,word puzzle games,5,78,234,49,0.66
+jeux-casual,WordCollect,free cool games,5,84,248,172,0.51
+jeux-casual,WordCollect,word problem solver,5,67,250,135,0.54
+jeux-casual,WordCollect,best new games,5,88,247,80,0.59
+jeux-casual,WordCollect,vocabulary games,5,70,246,27,0.76
+jeux-casual,WordCollect,sentence diagrammer,5,97,250,43,0.68
+jeux-casual,WordCollect,addicting,5,87,250,68,0.61
+jeux-casual,WordCollect,name wheel,5,8,238,116,0.55
+jeux-casual,WordCollect,learn english words,5,89,250,136,0.53
+jeux-casual,WordCollect,word merge,5,76,241,5,1.34
+jeux-casual,WordCollect,the word dictionary,5,61,250,109,0.56
+jeux-casual,WordCollect,scatter,5,93,250,139,0.53
+jeux-casual,WordCollect,word play,5,82,248,19,0.83
+jeux-casual,WordCollect,word drop,5,72,249,48,0.66
+jeux-casual,WordCollect,wordgames,5,85,250,7,1.16
+jeux-casual,WordCollect,free word puzzles,5,69,227,14,0.91
+jeux-casual,WordCollect,word games free,5,75,232,8,1.10
+jeux-casual,WordCollect,heads up deutsch,5,55,240,177,0.51
+jeux-casual,WordCollect,word with friends,5,84,249,23,0.79
+jeux-casual,WordCollect,words with friends 2 word game,5,73,239,5,1.34
+jeux-casual,WordCollect,wordswithfriends,5,82,245,52,0.65
+jeux-casual,WordCollect,classic words,5,81,237,25,0.77
+jeux-casual,WordCollect,letter quiz,5,,233,27,0.76
+jeux-casual,WordCollect,guess the pokemon,5,87,249,117,0.55
+jeux-casual,WordCollect,vocabulary spelling city,5,75,248,67,0.61
+jeux-casual,WordCollect,esl play,5,100,250,56,0.64
+jeux-casual,WordCollect,scrabble kids,5,86,249,84,0.59
+jeux-casual,WordCollect,scrabble for kids,5,84,248,74,0.60
+jeux-casual,WordCollect,scrable,5,82,250,26,0.76
+jeux-casual,WordCollect,word web,5,78,249,16,0.87
+jeux-casual,WordCollect,free word,5,73,224,21,0.81
+jeux-casual,WordCollect,wörter,5,67,242,27,0.76
+jeux-casual,WordCollect,kreuzworträt,5,72,249,195,0.50
+jeux-casual,WordCollect,wordplay,5,90,250,12,0.96
+jeux-casual,WordCollect,words games,5,76,241,4,1.49
+jeux-casual,WordCollect,cross word games,5,63,236,29,0.74
+jeux-casual,WordCollect,cross word puzzle,5,57,240,64,0.62
+jeux-casual,WordCollect,easy crossword,5,80,247,159,0.52
+jeux-casual,WordCollect,crossword puzzle,5,83,245,76,0.60
+jeux-casual,WordCollect,spelling games,5,82,238,47,0.66
+jeux-casual,WordCollect,spelling test,5,61,249,129,0.54
+jeux-casual,WordCollect,spelling words,5,50,246,107,0.56
+jeux-casual,WordCollect,spelling city,5,80,244,42,0.68
+jeux-casual,WordCollect,crossword puzzle games,5,87,250,41,0.68
+jeux-casual,WordCollect,cross word,5,64,242,144,0.53
+jeux-casual,WordCollect,wordcross,5,67,250,133,0.54
+jeux-casual,WordCollect,words game,5,64,229,3,1.74
+jeux-casual,WordCollect,puzzle words,5,81,245,27,0.76
+jeux-casual,WordCollect,free word games for ipad,5,83,250,3,1.74
+jeux-casual,WordCollect,free games words,5,74,229,5,1.34
+jeux-casual,WordCollect,lettres,5,90,250,53,0.64
+jeux-casual,WordCollect,word processing for iphone,5,96,249,83,0.59
+jeux-casual,WordCollect,word processing iphone,5,96,249,119,0.55
+jeux-casual,WordCollect,worte,5,76,248,54,0.64
+jeux-casual,WordCollect,super fun,5,84,249,170,0.51
+jeux-casual,WordCollect,vocab builder,5,53,250,109,0.56
+jeux-casual,WordCollect,vocab games,5,64,245,9,1.06
+jeux-casual,WordCollect,dictionary game,5,63,233,8,1.10
+jeux-casual,WordCollect,core word,5,83,248,68,0.61
+jeux-casual,WordCollect,classified ads,5,,226,136,0.53
+jeux-casual,WordCollect,hashtag search,5,70,250,123,0.54
+jeux-casual,WordCollect,word spot,5,93,249,7,1.16
+jeux-casual,WordCollect,4 pics one word,5,72,250,15,0.89
+jeux-casual,WordCollect,alpha betty,5,55,243,111,0.55
+jeux-casual,WordCollect,word reader,5,96,249,108,0.56
+jeux-casual,WordCollect,word stack,5,93,249,44,0.67
+jeux-casual,WordCollect,word town,5,79,248,7,1.16
+jeux-casual,WordCollect,word link,5,80,241,73,0.60
+jeux-casual,WordCollect,word brain,5,89,247,19,0.83
+jeux-casual,WordCollect,offline crossword,5,90,250,35,0.71
+jeux-casual,WordCollect,cross words,5,71,246,141,0.53
+jeux-casual,WordCollect,word cross puzzles,5,75,250,24,0.78
+jeux-casual,WordCollect,cross word puzzles,5,66,236,39,0.69
+jeux-casual,WordCollect,connect words,5,96,250,52,0.65
+jeux-casual,WordCollect,world search,5,66,238,193,0.50
+jeux-casual,WordCollect,word unscrambler,5,80,249,9,1.06
+jeux-casual,WordCollect,english words,5,86,250,51,0.65
+jeux-casual,WordCollect,wordboard,5,96,250,63,0.62
+jeux-casual,WordCollect,rhyming words,5,75,250,92,0.58
+jeux-casual,WordCollect,pas parole,5,81,247,119,0.55
+jeux-casual,WordCollect,bonza word puzzle,5,63,242,8,1.10
+jeux-casual,WordCollect,best word games,5,82,237,3,1.74
+jeux-casual,WordCollect,offline word games,5,77,234,2,2.29
+jeux-casual,WordCollect,word chef,5,79,240,121,0.55
+jeux-casual,WordCollect,free word puzzle,5,72,230,11,0.98
+jeux-casual,WordCollect,a word a day,5,35,240,27,0.76
+jeux-casual,WordCollect,first words,5,70,247,136,0.53
+jeux-casual,WordCollect,kids scrabble,5,94,250,80,0.59
+jeux-casual,WordCollect,the daily word,5,35,239,73,0.60
+jeux-casual,WordCollect,word search puzzles,5,95,247,145,0.53
+jeux-casual,WordCollect,free letter games,5,70,243,65,0.62
+jeux-casual,WordCollect,collecting,5,95,250,153,0.52
+jeux-casual,WordCollect,words search,5,72,247,33,0.72
+jeux-casual,WordCollect,time game,5,33,249,36,0.70
+jeux-casual,WordCollect,fun addicting games,5,86,218,183,0.51
+jeux-casual,WordCollect,juegos gratis sin internet,5,76,237,91,0.58
+jeux-casual,WordCollect,word puzzles games free,5,73,225,39,0.69
+jeux-casual,WordCollect,spelling game,5,83,237,47,0.66
+jeux-casual,WordCollect,word swipe games,5,73,242,50,0.65
+jeux-casual,WordCollect,english words game,5,74,233,10,1.02
+jeux-casual,WordCollect,sight word,5,86,247,77,0.60
+jeux-casual,WordCollect,game collection,5,78,240,91,0.58
+jeux-casual,WordCollect,word games offline,5,73,234,5,1.34
+jeux-casual,WordCollect,vocabulary builder game,5,58,248,8,1.10
+jeux-casual,WordCollect,picture crossword,5,,248,136,0.53
+jeux-casual,WordCollect,communication games,5,89,250,168,0.51
+jeux-casual,WordCollect,spelling bee games,5,95,250,131,0.54
+jeux-casual,WordCollect,scrabble dictionary,5,79,247,32,0.73
+jeux-casual,WordCollect,puzzle word,5,77,237,54,0.64
+jeux-casual,WordCollect,inglés para niños,5,89,217,205,0.50
+jeux-casual,WordCollect,word find games,5,82,232,35,0.71
+jeux-casual,WordCollect,free games without wifi or internet,5,35,184,19,0.83
+jeux-casual,WordCollect,kids word games,5,70,239,4,1.49
+jeux-casual,WordCollect,20 questions game,5,76,250,150,0.52
+jeux-casual,WordCollect,remember names,5,82,250,95,0.57
+jeux-casual,WordCollect,word puzzle games for adults,5,74,234,47,0.66
+jeux-casual,WordCollect,collect links,5,20,203,66,0.62
+jeux-casual,WordCollect,word swipe,5,94,250,49,0.66
+jeux-casual,WordCollect,english spelling,5,45,245,128,0.54
+jeux-casual,WordCollect,daily vocabulary words,5,74,248,60,0.63
+jeux-casual,WordCollect,игра слова,5,72,245,66,0.62
+jeux-casual,WordCollect,new words,5,58,249,49,0.66
+jeux-casual,WordCollect,letters game,5,54,235,60,0.63
+jeux-casual,WordCollect,crossword offline,5,36,250,32,0.73
+jeux-casual,WordCollect,game collection tracker,5,86,250,160,0.52
+jeux-casual,WordCollect,free word search games,5,76,239,30,0.74
+jeux-casual,WordCollect,free word search,5,80,242,38,0.70
+jeux-casual,WordCollect,hidden words,5,70,247,28,0.75
+jeux-casual,WordCollect,word search offline,5,53,247,17,0.86
+jeux-casual,WordCollect,word search puzzle free,5,57,242,153,0.52
+jeux-casual,WordCollect,search word,5,59,245,162,0.52
+jeux-casual,WordCollect,word cross games,5,82,250,9,1.06
+jeux-casual,WordCollect,simple word search,5,60,249,168,0.51
+jeux-casual,WordCollect,daily word search,5,66,249,111,0.55
+jeux-casual,WordCollect,Quick time events,5,3,250,164,0.52
+jeux-casual,WordCollect,word journey,5,81,250,13,0.93
+jeux-casual,WordCollect,nerd,5,86,247,108,0.56
+jeux-casual,WordCollect,kangaroo games,5,77,249,129,0.54
+jeux-casual,WordCollect,word bit,5,70,247,67,0.61
+jeux-casual,WordCollect,word counter,5,85,250,72,0.60
+jeux-casual,WordCollect,wortsuche spiel deutsch,5,55,236,126,0.54
+jeux-casual,WordCollect,lucky spin,5,63,235,145,0.53
+jeux-casual,WordCollect,слова из слова,5,47,216,99,0.57
+jeux-casual,WordCollect,word coach,5,1,20,12,0.96
+jeux-casual,WordCollect,giochi delle parole,5,72,236,82,0.59
+jeux-casual,WordCollect,word with friends 2,5,79,247,17,0.86
+jeux-casual,WordCollect,word cloud,5,74,250,51,0.65
+jeux-casual,WordCollect,wordcloud,5,52,245,59,0.63
+jeux-casual,WordCollect,fun and easy,5,92,240,81,0.59
+jeux-casual,WordCollect,feud,5,92,246,64,0.62
+jeux-casual,WordCollect,word up vocabulary,5,75,250,65,0.62
+jeux-casual,WordCollect,collect game,5,50,197,19,0.83
+jeux-casual,WordCollect,image to word,5,93,211,88,0.58
+jeux-casual,WordCollect,letter game,5,56,232,46,0.67
+jeux-casual,WordCollect,juegos de palabras para niños,5,78,240,35,0.71
+jeux-casual,WordCollect,угадай слова,5,86,250,125,0.54
+jeux-casual,WordCollect,word escape,5,63,236,23,0.79
+jeux-casual,WordCollect,wordable,5,76,247,23,0.79
+jeux-casual,WordCollect,word search games free for adults,5,77,250,143,0.53
+jeux-casual,WordCollect,crossword search,5,67,250,131,0.54
+jeux-casual,WordCollect,kbc quiz game,5,93,250,27,0.76
+jeux-casual,WordCollect,bible game,5,85,250,165,0.52
+jeux-casual,WordCollect,scrabble word,5,74,250,20,0.82
+jeux-casual,WordCollect,passport game,5,98,249,78,0.59
+jeux-casual,WordCollect,word up,5,79,248,54,0.64
+jeux-casual,WordCollect,vocabulary game,5,82,249,9,1.06
+jeux-casual,WordCollect,text express,5,100,250,53,0.64
+jeux-casual,WordCollect,first grade games,5,68,215,181,0.51
+jeux-casual,WordCollect,big words english,5,76,250,67,0.61
+jeux-casual,WordCollect,forca,5,54,238,134,0.54
+jeux-casual,WordCollect,monster words,5,69,237,9,1.06
+jeux-casual,WordCollect,wonster,5,76,242,71,0.61
+jeux-casual,WordCollect,spelling quiz,5,88,240,90,0.58
+jeux-casual,WordCollect,spelling list,5,18,245,39,0.69
+jeux-casual,WordCollect,囲碁,5,44,244,206,0.50
+jeux-casual,WordCollect,app super,5,57,249,111,0.55
+jeux-casual,WordCollect,word play game,5,37,224,8,1.10
+jeux-casual,WordCollect,english fun,5,23,214,105,0.56
+jeux-casual,WordCollect,通貨変換,5,71,244,120,0.55
+jeux-casual,WordCollect,connect the dots free,5,86,250,131,0.54
+jeux-casual,WordCollect,world escape,5,,214,65,0.62
+jeux-casual,WordCollect,message games,5,45,221,121,0.55
+jeux-casual,WordCollect,word meaning,5,66,247,43,0.68
+jeux-casual,WordCollect,words inc,5,87,249,13,0.93
+jeux-casual,WordCollect,learn words vocabulary builder,5,75,250,110,0.56
+jeux-casual,WordCollect,learn new words,5,75,249,100,0.57
+jeux-casual,WordCollect,new word a day,5,73,250,29,0.74
+jeux-casual,WordCollect,20 questions free,5,87,250,126,0.54
+jeux-casual,WordCollect,letter soup,5,69,246,5,1.34
+jeux-casual,WordCollect,one word,5,81,244,86,0.58
+jeux-casual,WordCollect,games for first grade,5,70,230,186,0.51
+jeux-casual,WordCollect,palabra,5,72,225,51,0.65
+jeux-casual,WordCollect,найди слово,5,66,248,137,0.53
+jeux-casual,WordCollect,pic game,5,36,171,170,0.51
+jeux-casual,WordCollect,guess the pokemon picture,5,95,250,55,0.64
+jeux-casual,WordCollect,goplay,5,74,247,137,0.53
+jeux-casual,WordCollect,найди слова,5,90,247,145,0.53
+jeux-casual,WordCollect,juegos sin internet grátis,5,63,249,48,0.66
+jeux-casual,WordCollect,juegos familiares,5,58,233,57,0.63
+jeux-casual,WordCollect,word surf,5,83,244,109,0.56
+jeux-casual,WordCollect,word cross puzzle,5,69,236,59,0.63
+jeux-casual,WordCollect,word search world,5,74,248,164,0.52
+jeux-casual,WordCollect,find words game,5,69,242,69,0.61
+jeux-casual,WordCollect,find words games,5,71,231,72,0.60
+jeux-casual,WordCollect,top word games,5,77,241,3,1.74
+jeux-casual,WordCollect,free word puzzle games,5,72,230,32,0.73
+jeux-casual,WordCollect,free word search hard,5,57,250,122,0.55
+jeux-casual,WordCollect,revolting,5,50,249,127,0.54
+jeux-casual,WordCollect,stop word,5,63,220,143,0.53
+jeux-casual,WordCollect,cross puzzle,5,62,238,78,0.59
+jeux-casual,WordCollect,scramble words,5,80,246,18,0.84
+jeux-casual,WordCollect,squabble,5,67,245,114,0.55
+jeux-casual,WordCollect,pokemon quiz games,5,80,248,152,0.52
+jeux-casual,WordCollect,bible word games,5,59,237,16,0.87
+jeux-casual,WordCollect,free points,5,57,249,204,0.50
+jeux-casual,WordCollect,addictions,5,70,245,112,0.55
+jeux-casual,WordCollect,word games free for adults single player,5,76,244,27,0.76
+jeux-casual,WordCollect,wordfinder,5,85,249,45,0.67
+jeux-casual,WordCollect,activity game,5,71,233,99,0.57
+jeux-casual,WordCollect,wordtower,5,32,240,64,0.62
+jeux-casual,WordCollect,puzzle collection,5,49,238,101,0.56
+jeux-casual,WordCollect,am i ugly,5,87,250,59,0.63
+jeux-casual,WordCollect,lucky block,5,58,249,247,0.48
+jeux-casual,WordCollect,funs,5,35,238,88,0.58
+jeux-casual,WordCollect,word villas,5,92,249,63,0.62
+jeux-casual,WordCollect,emoji charades,5,89,250,78,0.59
+jeux-casual,WordCollect,pictionary game,5,72,250,92,0.58
+jeux-casual,WordCollect,timepass games,5,,175,38,0.70
+jeux-casual,WordCollect,word collect game,5,72,242,1,5.00
+jeux-casual,WordCollect,anagram solver,5,75,250,51,0.65
+jeux-casual,WordCollect,wordscapes search,5,87,250,88,0.58
+jeux-casual,WordCollect,word search game with levels,5,89,249,144,0.53
+jeux-casual,WordCollect,wordlist,5,70,250,10,1.02
+jeux-casual,WordCollect,1 mb game,5,89,230,58,0.63
+jeux-casual,WordCollect,words for toddlers,5,51,248,94,0.57
+jeux-casual,WordCollect,words learning,5,86,250,85,0.58
+jeux-casual,WordCollect,word solver,5,80,249,4,1.49
+jeux-casual,WordCollect,reading words,5,55,231,130,0.54
+jeux-casual,WordCollect,pieceword,5,,250,77,0.60
+jeux-casual,WordCollect,aha games,5,95,248,228,0.49
+jeux-casual,WordCollect,word connect puzzle,5,64,249,6,1.24
+jeux-casual,WordCollect,spelling practice for kids,5,33,249,67,0.61
+jeux-casual,WordCollect,free crossword puzzle games,5,62,238,46,0.67
+jeux-casual,WordCollect,letter scramble,5,,246,14,0.91
+jeux-casual,WordCollect,c more,5,74,234,149,0.53
+jeux-casual,WordCollect,brain boom,5,94,250,46,0.67
+jeux-casual,WordCollect,wod game,5,59,230,42,0.68
+jeux-casual,WordCollect,games hub,5,100,248,183,0.51
+jeux-casual,WordCollect,英语单词,5,72,248,89,0.58
+jeux-casual,WordCollect,memorizar palabras,5,33,250,26,0.76
+jeux-casual,WordCollect,playsimple,5,82,250,71,0.61
+jeux-casual,WordCollect,free word games for kids,5,70,233,1,5.00
+jeux-casual,WordCollect,Word Mind Games,5,70,226,42,0.68
+jeux-casual,WordCollect,preschool word games,5,86,245,25,0.77
+jeux-casual,WordCollect,Fun word games,5,75,238,1,5.00
+jeux-casual,WordCollect,Word Games No WIfi,5,76,235,4,1.49
+jeux-casual,WordCollect,Word Finder Games,5,79,241,51,0.65
+jeux-casual,WordCollect,Word Maker,5,95,250,6,1.24
+jeux-casual,WordCollect,learning new words,5,95,250,76,0.60
+jeux-casual,WordCollect,learn big words,5,48,247,77,0.60
+jeux-casual,WordCollect,Free Learning Word Games,5,71,236,8,1.10
+jeux-casual,WordCollect,Letter Games Free No Wifi,5,61,233,52,0.65
+jeux-casual,WordCollect,Letters link game,5,73,245,72,0.60
+jeux-casual,WordCollect,Free Scrabble Kids,5,93,250,91,0.58
+jeux-casual,WordCollect,Free Scrabble for Kids,5,62,250,86,0.58
+jeux-casual,WordCollect,Scrabble words,5,74,249,19,0.83
+jeux-casual,WordCollect,Word Frenzy,5,78,250,87,0.58
+jeux-casual,WordCollect,word world,5,95,250,17,0.86
+jeux-casual,WordCollect,Word Apps,5,82,228,36,0.70
+jeux-casual,WordCollect,Word Apps Free,5,84,226,54,0.64
+jeux-casual,WordCollect,Children Word Games,5,67,223,7,1.16
+jeux-casual,WordCollect,New Word Games,5,70,239,10,1.02
+jeux-casual,WordCollect,-learning fun,5,54,161,49,0.66
+jeux-casual,WordCollect,scrabble word checker,5,77,250,50,0.65
+jeux-casual,WordCollect,word scape,5,68,238,55,0.64
+jeux-casual,WordCollect,word finding,5,86,247,26,0.76
+jeux-casual,WordCollect,word jam,5,84,246,23,0.79
+jeux-casual,WordCollect,best ganes,5,72,240,77,0.60
+jeux-casual,WordCollect,crossword app,5,77,246,168,0.51
+jeux-casual,WordCollect,crossword puzzles free,5,73,242,53,0.64
+jeux-casual,WordCollect,the word finder,5,89,249,41,0.68
+jeux-casual,WordCollect,picture word puzzle,5,,224,83,0.59
+jeux-casual,WordCollect,word jumble,5,95,248,28,0.75
+jeux-casual,WordCollect,wordfind,5,93,250,42,0.68
+jeux-casual,WordCollect,bible crossword,5,78,249,132,0.54
+jeux-casual,WordCollect,bible word,5,78,250,121,0.55
+jeux-casual,WordCollect,fideuram,5,75,245,47,0.66
+jeux-casual,WordCollect,newspaper games,5,24,210,34,0.71
+jeux-casual,WordCollect,sat words,5,60,248,147,0.53
+jeux-casual,WordCollect,3000,5,92,250,88,0.58
+jeux-casual,WordCollect,word mind,5,76,240,118,0.55
+jeux-casual,WordCollect,word tile,5,,245,169,0.51
+jeux-casual,WordCollect,wordsup,5,70,249,113,0.55
+jeux-casual,WordCollect,otak,5,93,250,125,0.54
+jeux-casual,WordCollect,wonderword,5,79,248,52,0.65
+jeux-casual,WordCollect,word problems,5,72,242,78,0.59
+jeux-casual,WordCollect,wordapp,5,97,248,97,0.57
+jeux-casual,WordCollect,word tour,5,76,248,6,1.24
+jeux-casual,WordCollect,word list,5,84,249,9,1.06
+jeux-casual,WordCollect,word guess game,5,50,239,21,0.81
+jeux-casual,WordCollect,palabra del dia,5,49,238,49,0.66
+jeux-casual,WordCollect,game of words,5,82,234,14,0.91
+jeux-casual,WordCollect,christmas quiz,5,83,246,161,0.52
+jeux-casual,WordCollect,word flash cards,5,63,249,75,0.60
+jeux-casual,WordCollect,chain reaction word game,5,92,250,124,0.54
+jeux-casual,WordCollect,free bird simple,5,91,249,44,0.67
+jeux-casual,WordCollect,fun questions,5,74,249,161,0.52
+jeux-casual,WordCollect,recent contacts,5,61,249,239,0.48
+jeux-casual,WordCollect,and the truth comes out,5,90,250,73,0.60
+jeux-casual,WordCollect,word cards,5,68,248,31,0.73
+jeux-casual,WordCollect,word scapes,5,89,249,51,0.65
+jeux-casual,WordCollect,free gaems,5,63,250,6,1.24
+jeux-casual,WordCollect,one direction,5,84,250,65,0.62
+jeux-casual,WordCollect,learn english word,5,97,249,79,0.59
+jeux-casual,WordCollect,free fun game,5,85,181,29,0.74
+jeux-casual,WordCollect,7wonders,5,77,243,56,0.64
+jeux-casual,WordCollect,unscramble,5,86,250,26,0.76
+jeux-casual,WordCollect,word boggle,5,77,242,53,0.64
+jeux-casual,WordCollect,free vocabulary games,5,58,231,11,0.98
+jeux-casual,WordCollect,through the word,5,59,245,97,0.57
+jeux-casual,WordCollect,ztype,5,96,250,26,0.76
+jeux-casual,WordCollect,kelime gezmece,5,76,244,35,0.71
+jeux-casual,WordCollect,free brain game,5,64,205,141,0.53
+jeux-casual,WordCollect,find word,5,77,240,59,0.63
+jeux-casual,WordCollect,connect four games,5,1,247,117,0.55
+jeux-casual,WordCollect,würdest du eher,5,92,250,38,0.70
+jeux-casual,WordCollect,world of word,5,81,249,16,0.87
+jeux-casual,WordCollect,words booster,5,78,250,5,1.34
+jeux-casual,WordCollect,crypto word,5,65,248,39,0.69
+jeux-casual,WordCollect,idea game,5,80,250,123,0.54
+jeux-casual,WordCollect,cryptograms,5,80,249,134,0.54
+jeux-casual,WordCollect,word to jpg,5,,249,44,0.67
+jeux-casual,WordCollect,adivinanza,5,93,250,168,0.51
+jeux-casual,WordCollect,word guessing game,5,88,249,30,0.74
+jeux-casual,WordCollect,word race,5,60,235,4,1.49
+jeux-casual,WordCollect,adult word games,5,71,232,14,0.91
+jeux-casual,WordCollect,words swipe game,5,83,243,18,0.84
+jeux-casual,WordCollect,wordhunt,5,59,247,18,0.84
+jeux-casual,WordCollect,word creator,5,91,248,31,0.73
+jeux-casual,WordCollect,free hints,5,75,249,45,0.67
+jeux-casual,WordCollect,words swipe,5,83,249,83,0.59
+jeux-casual,WordCollect,play for free,5,91,246,116,0.55
+jeux-casual,WordCollect,21 game,5,59,225,178,0.51
+jeux-casual,WordCollect,word of the day kids,5,71,247,25,0.77
+jeux-casual,WordCollect,vocab game,5,64,241,8,1.10
+jeux-casual,WordCollect,word searching,5,72,242,61,0.63
+jeux-casual,WordCollect,word builder,5,88,249,7,1.16
+jeux-casual,WordCollect,the word of the day,5,85,249,14,0.91
+jeux-casual,WordCollect,wizard quiz,5,47,241,122,0.55
+jeux-casual,WordCollect,word processer,5,96,250,91,0.58
+jeux-casual,WordCollect,addict,5,76,247,131,0.54
+jeux-casual,WordCollect,puzzle page - daily puzzles!,5,61,242,112,0.55
+jeux-casual,WordCollect,word cash,5,95,250,8,1.10
+jeux-casual,WordCollect,wordedout,5,24,223,22,0.80
+jeux-casual,WordCollect,sendit games on snapchat,5,100,249,35,0.71
+jeux-casual,WordCollect,word challenge,5,78,243,17,0.86
+jeux-casual,WordCollect,21 games,5,49,221,189,0.50
+jeux-casual,WordCollect,propose,5,72,249,140,0.53
+jeux-casual,WordCollect,superletter,5,30,231,67,0.61
+jeux-casual,WordCollect,chain out,5,76,249,70,0.61
+jeux-casual,WordCollect,word generator,5,45,241,59,0.63
+jeux-casual,WordCollect,thank you cards,5,69,249,104,0.56
+jeux-casual,WordCollect,christian game,5,65,250,181,0.51
+jeux-casual,WordCollect,Flash Word 4+,5,73,250,124,0.54
+jeux-casual,WordCollect,plinko games,5,80,250,82,0.59
+jeux-casual,WordCollect,category game,5,79,250,92,0.58
+jeux-casual,WordCollect,get to know you,5,80,234,105,0.56
+jeux-casual,WordCollect,game widgets,5,93,249,131,0.54
+jeux-casual,WordCollect,snack crate,5,79,221,99,0.57
+jeux-casual,WordCollect,xword,5,100,248,84,0.59
+jeux-casual,WordCollect,mojo sports,5,82,240,74,0.60
+jeux-casual,WordCollect,big words,5,53,250,47,0.66
+jeux-casual,WordCollect,big word,5,76,248,45,0.67
+jeux-casual,WordCollect,bible  games,5,79,250,191,0.50
+jeux-casual,WordCollect,languinis word puzzle game,5,89,250,51,0.65
+jeux-casual,WordCollect,word stream,5,88,249,11,0.98
+jeux-casual,WordCollect,word trivia,5,68,248,23,0.79
+jeux-casual,WordCollect,ahorcado gratis,5,53,249,115,0.55
+jeux-casual,WordCollect,word knowledge,5,60,248,36,0.70
+jeux-casual,WordCollect,game funny,5,29,229,64,0.62
+jeux-casual,WordCollect,take a picture everyday,5,80,225,135,0.54
+jeux-casual,WordCollect,spille,5,95,227,149,0.53
+jeux-casual,WordCollect,wordpuzzle,5,57,247,43,0.68
+jeux-casual,WordCollect,young people,5,92,249,72,0.60
+jeux-casual,WordCollect,nyt spelling bee,5,85,242,127,0.54
+jeux-casual,WordCollect,Letter grid,5,,249,58,0.63
+jeux-casual,WordCollect,free word game,5,72,234,2,2.29
+jeux-casual,WordCollect,free speech games,5,75,234,117,0.55
+jeux-casual,WordCollect,aplasta palabras,5,77,227,129,0.54
+jeux-casual,WordCollect,juegos para niño,5,48,197,196,0.50
+jeux-casual,WordCollect,god’s word,5,68,249,105,0.56
+jeux-casual,WordCollect,one word caption,5,80,248,34,0.71
+jeux-casual,WordCollect,collecting game,5,70,203,75,0.60
+jeux-casual,WordCollect,a word game,5,43,228,5,1.34
+jeux-casual,WordCollect,word mix,5,70,239,11,0.98
+jeux-casual,WordCollect,word guessing,5,74,243,88,0.58
+jeux-casual,WordCollect,euro women,5,53,249,106,0.56
+jeux-casual,WordCollect,women world,5,96,249,173,0.51
+jeux-casual,WordCollect,game fa,5,86,230,89,0.58
+jeux-casual,WordCollect,women euro,5,53,249,113,0.55
+jeux-casual,WordCollect,kia ora,5,95,249,111,0.55
+jeux-casual,WordCollect,collectables,5,89,250,62,0.62
+jeux-casual,WordCollect,word party,5,93,250,72,0.60
+jeux-casual,WordCollect,word charade,5,85,249,102,0.56
+jeux-casual,WordCollect,helix stack,5,6,250,15,0.89
+jeux-casual,WordCollect,online activities,5,64,177,145,0.53
+jeux-casual,WordCollect,connect letters,5,85,246,19,0.83
+jeux-casual,WordCollect,crosswordword game,5,80,250,87,0.58
+jeux-casual,WordCollect,crossword game,5,52,244,46,0.67
+jeux-casual,WordCollect,word riddle,5,80,250,6,1.24
+jeux-casual,WordCollect,lære ord,5,70,249,69,0.61
+jeux-casual,WordCollect,basic english words,5,58,250,105,0.56
+jeux-casual,WordCollect,word search: magical lands - hidden words puzzle,5,39,250,103,0.56
+jeux-casual,WordCollect,dots game free,5,69,229,214,0.49
+jeux-casual,WordCollect,connect gamers,5,21,206,154,0.52
+jeux-casual,WordCollect,connect game game,5,53,202,154,0.52
+jeux-casual,WordCollect,addictive brain games,5,63,222,163,0.52
+jeux-casual,WordCollect,addictive cute games,5,58,238,125,0.54
+jeux-casual,WordCollect,connect game level,5,57,209,68,0.61
+jeux-casual,WordCollect,word twist,5,81,250,43,0.68
+jeux-casual,WordCollect,star search,5,54,223,152,0.52
+jeux-casual,WordCollect,3000 kelime,5,70,250,33,0.72
+jeux-casual,WordCollect,online thank you cards,5,45,247,156,0.52
+jeux-casual,WordCollect,free thank you cards online,5,49,247,151,0.52
+jeux-casual,WordCollect,advanced words,5,75,250,84,0.59
+jeux-casual,WordCollect,jumble,5,86,249,54,0.64
+jeux-casual,WordCollect,kids star spelling game - word spelling game for children with a holiday theme,5,51,226,5,1.34
+jeux-casual,WordCollect,letter & spelling fun! for preschoolers and early readers,5,84,249,123,0.54
+jeux-casual,WordCollect,mult mania free,5,48,232,129,0.54
+jeux-casual,WordCollect,teach elementary math (for kindle  tablet & phone),5,21,244,28,0.75
+jeux-casual,WordCollect,hangdroid hangman game,5,1,247,122,0.55
+jeux-casual,WordCollect,candy run - puzzle game,5,90,250,111,0.55
+jeux-casual,WordCollect,simple games free,5,7,180,7,1.16
+jeux-casual,WordCollect,albanian app,5,95,250,132,0.54
+jeux-casual,WordCollect,crossword solver cs,5,82,249,104,0.56
+jeux-casual,WordCollect,early words - fast foods free,5,68,249,165,0.52
+jeux-casual,WordCollect,theatre words ge,5,77,249,50,0.65
+jeux-casual,WordCollect,english malay hangman,5,47,243,104,0.56
+jeux-casual,WordCollect,words & ladders,5,48,245,26,0.76
+jeux-casual,WordCollect,kids word search - language - have fun while learning to spell,5,0,235,96,0.57
+jeux-casual,WordCollect,10 game collections,5,68,191,60,0.63
+jeux-casual,WordCollect,seven wonders tv,5,0,229,156,0.52
+jeux-casual,WordCollect,flying word : uçan söz,5,14,250,70,0.61
+jeux-casual,WordCollect,daily millionaire advice,5,95,250,87,0.58
+jeux-casual,WordCollect,bird pairs linker,5,10,166,112,0.55
+jeux-casual,WordCollect,kids star spelling game,5,47,244,92,0.58
+jeux-casual,WordCollect,english idioms dictionary with sound - 100% free and full version,5,14,250,141,0.53
+jeux-casual,WordCollect,yatzee offline,5,1,227,170,0.51
+jeux-casual,WordCollect,free games without wifi of internet,5,1,190,52,0.65
+jeux-casual,WordCollect,juego de palabras en español,5,86,249,42,0.68
+jeux-casual,WordCollect,letterspel,5,74,241,53,0.64
+jeux-casual,WordCollect,Jogo de palavras,5,81,244,30,0.74
+jeux-casual,WordCollect,word. ofthe day,5,29,218,131,0.54
+jeux-casual,WordCollect,quotes player,5,78,250,138,0.53
+jeux-casual,WordCollect,quotes player:,5,78,250,138,0.53
+jeux-casual,WordCollect,kelime oyunları,5,76,242,42,0.68
+jeux-casual,WordCollect,phrase board,5,75,249,64,0.62
+jeux-casual,WordCollect,word tag,5,94,250,12,0.96
+jeux-casual,WordCollect,rs1,5,90,250,11,0.98
+jeux-casual,WordCollect,brain out -tricky riddle games,5,93,250,39,0.69
+jeux-casual,WordCollect,track words,5,45,249,29,0.74
+jeux-casual,WordCollect,bridge bidding,5,85,250,100,0.57
+jeux-casual,WordCollect,كلمات انجليزي,5,87,250,117,0.55
+jeux-casual,WordCollect,كلمات انكليزية,5,87,250,113,0.55
+jeux-casual,WordCollect,hafıza oyunları büyükler için,5,65,238,126,0.54
+jeux-casual,WordCollect,hafıza güçlendirici oyunlar,5,93,250,135,0.54
+jeux-casual,WordCollect,8 offline games,5,75,249,141,0.53
+jeux-casual,WordCollect,popular games 2021,5,82,250,125,0.54
+jeux-casual,WordCollect,letter puzzles,5,73,233,163,0.52
+jeux-casual,WordCollect,vocabulary puzzle,5,65,234,42,0.68
+jeux-casual,WordCollect,crossword vocabulary,5,62,245,57,0.63
+jeux-casual,WordCollect,dictionary games,5,71,240,1,5.00
+jeux-casual,WordCollect,common words,5,62,250,121,0.55
+jeux-casual,WordCollect,learn vocabulary game,5,15,249,19,0.83
+jeux-casual,WordCollect,free crossword,5,94,250,32,0.73
+jeux-casual,WordCollect,free crossword puzzle,5,19,240,41,0.68
+jeux-casual,WordCollect,letter games crossword,5,64,238,35,0.71
+jeux-casual,WordCollect,crossword puzzles games,5,72,242,70,0.61
+jeux-casual,WordCollect,vocabulary puzzles,5,67,233,31,0.73
+jeux-casual,WordCollect,vocabulary puzzle game,5,65,231,17,0.86
+jeux-casual,WordCollect,vocabulary puzzle games,5,80,237,27,0.76
+jeux-casual,WordCollect,vocab puzzles,5,60,230,134,0.54
+jeux-casual,WordCollect,vocab puzzle games,5,75,237,29,0.74
+jeux-casual,WordCollect,letter puzzle game,5,36,250,15,0.89
+jeux-casual,WordCollect,letter puzzle games,5,80,250,16,0.87
+jeux-casual,WordCollect,words puzzle,5,68,232,72,0.60
+jeux-casual,WordCollect,words puzzle game,5,67,234,43,0.68
+jeux-casual,WordCollect,words puzzle games,5,67,233,79,0.59
+jeux-casual,WordCollect,free crossword game,5,56,235,128,0.54
+jeux-casual,WordCollect,free crossword puzzle game,5,17,237,144,0.53
+jeux-casual,WordCollect,free vocabulary game,5,61,239,115,0.55
+jeux-casual,WordCollect,free vocab game,5,60,250,2,2.29
+jeux-casual,WordCollect,free vocab games,5,25,226,7,1.16
+jeux-casual,WordCollect,free vocabulary puzzle,5,87,232,35,0.71
+jeux-casual,WordCollect,free vocabulary puzzles,5,59,229,41,0.68
+jeux-casual,WordCollect,free vocabulary puzzle game,5,68,231,47,0.66
+jeux-casual,WordCollect,free vocabulary puzzle games,5,76,237,25,0.77
+jeux-casual,WordCollect,free vocab puzzle,5,69,247,19,0.83
+jeux-casual,WordCollect,free vocab puzzles,5,57,224,24,0.78
+jeux-casual,WordCollect,free vocab puzzle games,5,70,199,26,0.76
+jeux-casual,WordCollect,free letter,5,57,250,142,0.53
+jeux-casual,WordCollect,free letter game,5,66,242,70,0.61
+jeux-casual,WordCollect,free letter puzzle,5,90,250,53,0.64
+jeux-casual,WordCollect,free letter puzzles,5,62,232,89,0.58
+jeux-casual,WordCollect,free letter puzzle game,5,71,227,46,0.67
+jeux-casual,WordCollect,free letter puzzle games,5,76,239,8,1.10
+jeux-casual,WordCollect,free word puzzle game,5,72,230,142,0.53
+jeux-casual,WordCollect,free words,5,92,243,4,1.49
+jeux-casual,WordCollect,free words game,5,71,231,1,5.00
+jeux-casual,WordCollect,free words games,5,74,236,3,1.74
+jeux-casual,WordCollect,free words puzzle,5,65,230,98,0.57
+jeux-casual,WordCollect,free words puzzle game,5,69,231,146,0.53
+jeux-casual,WordCollect,free words puzzle games,5,57,230,34,0.71
+jeux-casual,WordCollect,letters puzzle,5,75,240,18,0.84
+jeux-casual,WordCollect,letters puzzles,5,62,238,83,0.59
+jeux-casual,WordCollect,letters puzzle game,5,95,250,18,0.84
+jeux-casual,WordCollect,letters puzzle games,5,52,244,30,0.74
+jeux-casual,WordCollect,guess words,5,63,242,72,0.60
+jeux-casual,WordCollect,guessing word,5,63,242,20,0.82
+jeux-casual,WordCollect,guessing words,5,74,246,47,0.66
+jeux-casual,WordCollect,guess word game,5,70,241,25,0.77
+jeux-casual,WordCollect,guess word games,5,52,233,4,1.49
+jeux-casual,WordCollect,guessing word games,5,70,243,17,0.86
+jeux-casual,WordCollect,guessing word game,5,44,250,14,0.91
+jeux-casual,WordCollect,guessing words games,5,71,235,15,0.89
+jeux-casual,WordCollect,guess vocabulary,5,76,248,22,0.80
+jeux-casual,WordCollect,crossword puzzles offline,5,67,250,37,0.70
+jeux-casual,WordCollect,offline crossword game,5,89,249,140,0.53
+jeux-casual,WordCollect,adult crossword game,5,55,242,116,0.55
+jeux-casual,WordCollect,offline vocabulary game,5,69,250,3,1.74
+jeux-casual,WordCollect,vocabulary word game,5,31,241,14,0.91
+jeux-casual,WordCollect,online puzzle games,5,38,250,128,0.54
+jeux-casual,WordCollect,word game solver,5,63,235,13,0.93
+jeux-casual,WordCollect,puzzword,5,91,249,47,0.66
+jeux-casual,WordCollect,wordex,5,86,249,46,0.67
+jeux-casual,WordCollect,Word chain,5,62,249,58,0.63
+jeux-casual,WordCollect,wordsmith,5,75,246,111,0.55
+jeux-casual,WordCollect,fill the words,5,75,246,19,0.83
+jeux-casual,WordCollect,wordler,5,50,234,16,0.87
+jeux-casual,WordCollect,database collection,5,70,250,90,0.58
+jeux-casual,WordCollect,words wonder,5,50,246,132,0.54
+jeux-casual,WordCollect,build words,5,85,250,8,1.10
+jeux-casual,WordCollect,easy word game,5,77,240,12,0.96
+jeux-casual,WordCollect,fantastic crossword game,5,88,244,104,0.56
+jeux-casual,WordCollect,connect the dots classic 2022,5,86,249,123,0.54
+jeux-casual,WordCollect,dot to dot: connect the dots,5,93,250,124,0.54
+jeux-casual,WordCollect,dot connect puzzle 2021,5,93,250,87,0.58
+jeux-casual,WordCollect,fill one line puzzle games,5,70,250,83,0.59
+jeux-casual,WordCollect,word puzzle brain game,5,53,229,33,0.72
+jeux-casual,WordCollect,taboo word,5,42,248,73,0.60
+jeux-casual,WordCollect,word puzzl,5,84,234,62,0.62
+jeux-casual,WordCollect,word search world puzzle game,5,72,241,126,0.54
+jeux-casual,WordCollect,wordlet,5,45,248,51,0.65
+jeux-casual,WordCollect,훈련,5,34,244,195,0.50
+jeux-casual,WordCollect,kelime kartı,5,69,249,23,0.79
+jeux-casual,WordCollect,kelime ustası,5,73,248,64,0.62
+jeux-casual,WordCollect,güncel kelime,5,58,250,61,0.63
+jeux-casual,WordCollect,groß,5,88,245,56,0.64
+jeux-casual,WordCollect,5 letter,5,86,250,36,0.70
+jeux-casual,WordCollect,forbidden word,5,66,245,106,0.56
+jeux-casual,WordCollect,get it free now,5,79,182,168,0.51
+jeux-casual,WordCollect,leer woordjes,5,70,248,22,0.80
+jeux-casual,WordCollect,kinder woordspelletjes,5,74,250,111,0.55
+jeux-casual,WordCollect,geniet van,5,93,248,124,0.54
+jeux-casual,WordCollect,wordle helper,5,91,250,76,0.60
+jeux-casual,WordCollect,wordle solver,5,93,250,58,0.63
+jeux-casual,WordCollect,daily word notification,5,61,245,39,0.69
+jeux-casual,WordCollect,word reminder,5,78,250,94,0.57
+jeux-casual,WordCollect,puzzle game word,5,76,236,57,0.63
+jeux-casual,WordCollect,brain word game,5,66,227,57,0.63
+jeux-casual,WordCollect,puzzles word,5,72,236,85,0.58
+jeux-casual,WordCollect,words puzzles,5,72,235,52,0.65
+jeux-casual,WordCollect,word game brain,5,59,231,47,0.66
+jeux-casual,WordCollect,word connect game,5,77,241,16,0.87
+jeux-casual,WordCollect,textspiel,5,92,250,10,1.02
+jeux-casual,WordCollect,trivia games for adults,5,92,250,231,0.49
+jeux-casual,WordCollect,facebook game,5,95,248,201,0.50
+jeux-casual,WordCollect,senior brain,5,91,250,115,0.55
+jeux-casual,WordCollect,word brain games,5,93,250,12,0.96
+jeux-casual,WordCollect,unscrambler,5,87,249,37,0.70
+jeux-casual,WordCollect,word tetris,5,,250,117,0.55
+jeux-casual,WordCollect,word grid,5,76,249,10,1.02
+jeux-casual,WordCollect,crazygames app,5,0,249,48,0.66
+jeux-casual,WordCollect,funny connecting games,5,5,241,110,0.56
+jeux-casual,WordCollect,houseparty game,5,92,250,135,0.54
+jeux-casual,WordCollect,games clever,5,90,249,70,0.61
+jeux-casual,WordCollect,games genius,5,70,250,171,0.51
+jeux-casual,WordCollect,thinking genius,5,93,250,105,0.56
+jeux-casual,WordCollect,kangaroo simple,5,0,246,164,0.52
+jeux-casual,WordCollect,ordspel,5,66,242,4,1.49
+jeux-casual,WordCollect,calming word,5,,245,66,0.62
+jeux-casual,WordCollect,Crossword Game For Seniors,5,73,236,122,0.55
+jeux-casual,WordCollect,unlimited word game,5,93,250,22,0.80
+jeux-casual,WordCollect,unlimited word puzzle,5,77,242,8,1.10
+jeux-casual,WordCollect,unlimited word,5,86,250,15,0.89
+jeux-casual,WordCollect,wodle,5,,249,6,1.24
+jeux-casual,WordCollect,new gmae,5,43,243,90,0.58
+jeux-casual,WordCollect,gather clues,5,71,249,55,0.64
+jeux-casual,WordCollect,4000,5,36,248,62,0.62
+jeux-casual,WordCollect,top gams,5,42,233,134,0.54
+jeux-casual,WordCollect,teka-teki kata,5,77,247,91,0.58
+jeux-casual,WordCollect,trace word,5,65,240,128,0.54
+jeux-casual,WordCollect,wordld,5,,249,20,0.82
+jeux-casual,WordCollect,toefl word,5,46,244,94,0.57
+jeux-casual,WordCollect,new gmaes,5,48,176,32,0.73
+jeux-casual,WordCollect,free top,5,89,180,120,0.55
+jeux-casual,WordCollect,مُسلّية,5,60,198,141,0.53
+jeux-casual,WordCollect,لعبة مُسلّية,5,43,193,167,0.52
+jeux-casual,WordCollect,real puzzle,5,25,204,122,0.55
+jeux-casual,WordCollect,โชคดี,5,85,247,69,0.61
+jeux-casual,WordCollect,words',5,92,235,26,0.76
+jeux-casual,WordCollect,consonantes,5,76,247,105,0.56
+jeux-casual,WordCollect,super star),5,68,244,74,0.60
+jeux-casual,WordCollect,wordle unlimited,5,83,249,18,0.84
+jeux-casual,WordCollect,collect books,5,72,248,195,0.50
+jeux-casual,WordCollect,игра в слова с друзьями,5,77,249,77,0.60
+jeux-casual,WordCollect,сканворды дня,5,91,250,67,0.61
+jeux-casual,WordCollect,the daily puzzle,5,70,247,37,0.70
+jeux-casual,WordCollect,new vocabulary builder,5,57,250,129,0.54
+jeux-casual,WordCollect,play word connect,5,92,241,6,1.24
+jeux-casual,WordCollect,daily word puzzle,5,76,235,19,0.83
+jeux-casual,WordCollect,find letter,5,70,243,6,1.24
+jeux-casual,WordCollect,starters,5,100,250,94,0.57
+jeux-casual,WordCollect,word serenity,5,92,250,49,0.66
+jeux-casual,WordCollect,deez nuts,5,77,250,133,0.54
+jeux-casual,WordCollect,maker word,5,82,30,26,0.76
+jeux-casual,WordCollect,collect awesome,5,63,250,108,0.56
+jeux-casual,WordCollect,make spelling,5,35,244,99,0.57
+jeux-casual,WordCollect,feud trivia,5,93,250,173,0.51
+jeux-casual,WordCollect,gaming laptop,5,95,249,67,0.61
+jeux-casual,WordCollect,wordgrams,5,94,237,63,0.62
+jeux-casual,WordCollect,Crytogram,5,78,250,132,0.54
+jeux-casual,WordCollect,Crytograms,5,63,249,130,0.54
+jeux-casual,WordCollect,positive words,5,58,250,31,0.73
+jeux-casual,WordCollect,hard word games,5,79,245,9,1.06
+jeux-casual,WordCollect,word pics,5,87,248,77,0.60
+jeux-casual,WordCollect,combo trivia,5,87,250,113,0.55
+jeux-casual,WordCollect,offline age,5,3,245,151,0.52
+jeux-casual,WordCollect,Word game free,5,69,236,1,5.00
+jeux-casual,WordCollect,word ga,5,97,218,7,1.16
+jeux-casual,WordCollect,Words linking,5,70,243,215,0.49
+jeux-casual,WordCollect,crossword daily,5,,248,104,0.56
+jeux-casual,WordCollect,tts dunia,5,89,248,34,0.71
+jeux-casual,WordCollect,adivinhar palavras,5,46,238,76,0.60
+jeux-casual,WordCollect,adivinhar,5,68,237,71,0.61
+jeux-casual,WordCollect,scrabble go-classic,5,76,246,52,0.65
+jeux-casual,WordCollect,go-classic word,5,70,237,23,0.79
+jeux-casual,WordCollect,daily crossword puzzles,5,69,242,134,0.54
+jeux-casual,WordCollect,Bible Word Cross Puzzle,5,76,250,54,0.64
+jeux-casual,WordCollect,crypto match game,5,61,242,163,0.52
+jeux-casual,WordCollect,free cryptograms,5,61,239,109,0.56
+jeux-casual,WordCollect,game translate,5,82,248,86,0.58
+jeux-casual,WordCollect,word masters,5,86,250,127,0.54
+jeux-casual,WordCollect,abc spellings,5,55,249,73,0.60
+jeux-casual,WordCollect,كلمة اليوم,5,92,249,76,0.60
+jeux-casual,WordCollect,maze fun,5,52,250,160,0.52
+jeux-casual,WordCollect,word runner,5,74,250,26,0.76
+jeux-casual,WordCollect,max 30,5,97,250,178,0.51
+jeux-casual,WordCollect,entraînez,5,89,242,82,0.59
+jeux-casual,WordCollect,palavra,5,70,231,34,0.71
+jeux-casual,WordCollect,crypto words,5,68,250,50,0.65
+jeux-casual,WordCollect,words with enemies,5,85,250,27,0.76
+jeux-casual,WordCollect,word seaching,5,76,246,135,0.54
+jeux-casual,WordCollect,mêlés,5,84,248,91,0.58
+jeux-casual,WordCollect,frê,5,42,203,110,0.56
+jeux-casual,WordCollect,ใบ้คำ,5,76,239,86,0.58
+jeux-casual,WordCollect,opinião,5,27,233,149,0.53
+jeux-casual,WordCollect,wwf cheat,5,77,249,43,0.68
+jeux-casual,WordCollect,crop crush,5,81,249,175,0.51
+jeux-casual,WordCollect,game collesction,5,29,237,46,0.67
+jeux-casual,WordCollect,block words,5,58,242,57,0.63
+jeux-casual,WordCollect,เกมทายคำ,5,59,236,82,0.59
+jeux-casual,WordCollect,learn new words everyday,5,74,250,65,0.62
+jeux-casual,WordCollect,learn new words every,5,63,250,109,0.56
+jeux-casual,WordCollect,useful words,5,61,250,98,0.57
+jeux-casual,WordCollect,vocabulary building,5,79,250,92,0.58
+jeux-casual,WordCollect,offline vocabulary builder,5,59,250,51,0.65
+jeux-casual,WordCollect,italia 2023,5,100,250,29,0.74
+jeux-casual,WordCollect,vocabulary builder - wordpal,5,56,246,120,0.55
+jeux-casual,WordCollect,synonym game,5,91,250,139,0.53
+jeux-casual,WordCollect,word of the daty,5,75,233,211,0.49
+jeux-casual,WordCollect,word combo,5,81,246,26,0.76
+jeux-casual,WordCollect,Word Universe,5,89,250,4,1.49
+jeux-casual,WordCollect,per kata,5,63,225,75,0.60
+jeux-casual,WordCollect,wordpal - vocabulary builder,5,53,250,124,0.54
+jeux-casual,WordCollect,witty words,5,80,249,38,0.70
+jeux-casual,WordCollect,scrabble dictionary free,5,69,248,40,0.69
+jeux-casual,WordCollect,rate spiel,5,72,232,69,0.61
+jeux-casual,WordCollect,bible word search kids,5,44,238,90,0.58
+jeux-casual,WordCollect,word tag word learning game,5,90,250,12,0.96
+jeux-casual,WordCollect,classify game,5,24,249,128,0.54
+jeux-casual,WordCollect,topfreegames,5,83,250,143,0.53
+jeux-casual,WordCollect,Word Lord,5,70,214,83,0.59
+jeux-casual,WordCollect,word games cheat,5,75,239,4,1.49
+jeux-casual,WordCollect,phrase game,5,76,242,6,1.24
+jeux-casual,WordCollect,word solving,5,69,234,9,1.06
+jeux-casual,WordCollect,palabras respuesta,5,87,250,28,0.75
+jeux-casual,WordCollect,word craze,5,82,247,10,1.02
+jeux-casual,WordCollect,drop word,5,87,250,27,0.76
+jeux-casual,WordCollect,vocabulary builder wordpal,5,48,247,118,0.55
+jeux-casual,WordCollect,vocabulary word,5,74,244,47,0.66
+jeux-casual,WordCollect,fill out,5,97,244,44,0.67
+jeux-casual,WordCollect,free new vocabulary builder,5,74,250,114,0.55
+jeux-casual,WordCollect,word games!,5,77,227,11,0.98
+jeux-casual,WordCollect,word game!,5,77,234,19,0.83
+jeux-casual,WordCollect,word play !,5,92,248,18,0.84
+jeux-casual,WordCollect,word games - free,5,74,229,8,1.10
+jeux-casual,WordCollect,catagories,5,68,249,15,0.89
+jeux-casual,WordCollect,iphone game,5,91,207,161,0.52
+jeux-casual,WordCollect,puzzle on word games inc.,5,69,242,39,0.69
+jeux-casual,WordCollect,word games for adults free,5,86,247,45,0.67
+jeux-casual,WordCollect,2 player trivia games,5,94,250,167,0.52
+jeux-casual,WordCollect,all word games,5,79,242,4,1.49
+jeux-casual,WordCollect,find word games,5,76,234,50,0.65
+jeux-casual,WordCollect,fun cases,5,53,249,159,0.52
+jeux-casual,WordCollect,pictionary games,5,70,249,105,0.56
+jeux-casual,WordCollect,20 questions for couples funny,5,53,249,132,0.54
+jeux-casual,WordCollect,adult loaded question game,5,83,249,92,0.58
+jeux-casual,WordCollect,adult pictionary list,5,31,250,78,0.59
+jeux-casual,WordCollect,adult pictionary game,5,35,249,145,0.53
+jeux-casual,WordCollect,best android couple games,5,35,244,170,0.51
+jeux-casual,WordCollect,best apple tv games for couples,5,94,248,39,0.69
+jeux-casual,WordCollect,best couple games android,5,31,245,129,0.54
+jeux-casual,WordCollect,best couple games iphone,5,70,248,126,0.54
+jeux-casual,WordCollect,best couple games on iphone,5,70,249,137,0.53
+jeux-casual,WordCollect,best ipad games for couples,5,72,249,174,0.51
+jeux-casual,WordCollect,best tabletop games for adults,5,79,250,161,0.52
+jeux-casual,WordCollect,bonding games for couples,5,68,248,147,0.53
+jeux-casual,WordCollect,couple games ios,5,36,248,100,0.57
+jeux-casual,WordCollect,couple games on android,5,35,248,149,0.53
+jeux-casual,WordCollect,couple games on iphone,5,34,249,110,0.56
+jeux-casual,WordCollect,diy game night ideas for adults,5,77,247,83,0.59
+jeux-casual,WordCollect,free adult flash games,5,76,248,56,0.64
+jeux-casual,WordCollect,fun android games for couples,5,47,249,199,0.50
+jeux-casual,WordCollect,fun app games for couples,5,26,233,201,0.50
+jeux-casual,WordCollect,fun iphone games for couples,5,73,249,164,0.52
+jeux-casual,WordCollect,fun picnic games for couples,5,53,250,95,0.57
+jeux-casual,WordCollect,fun verbal games for couples,5,70,250,109,0.56
+jeux-casual,WordCollect,game apps for couples to play together,5,36,225,183,0.51
+jeux-casual,WordCollect,game couple android,5,35,242,194,0.50
+jeux-casual,WordCollect,game for couple ios,5,35,249,85,0.58
+jeux-casual,WordCollect,games on iphone for couples,5,53,249,95,0.57
+jeux-casual,WordCollect,games to play at a picnic for couples,5,69,250,99,0.57
+jeux-casual,WordCollect,beach picnic,5,18,232,136,0.53
+jeux-casual,WordCollect,word flash,5,30,213,23,0.79
+jeux-casual,WordCollect,good games for couples to play,5,36,239,169,0.51
+jeux-casual,WordCollect,great games for couples to play together,5,52,235,148,0.53
+jeux-casual,WordCollect,group game ideas adults,5,83,242,117,0.55
+jeux-casual,WordCollect,hilarious adult games,5,52,230,104,0.56
+jeux-casual,WordCollect,intellectual games for couples,5,45,242,192,0.50
+jeux-casual,WordCollect,ios couple games,5,47,250,82,0.59
+jeux-casual,WordCollect,ipad games for couples,5,70,250,153,0.52
+jeux-casual,WordCollect,iphone couple games,5,33,246,125,0.54
+jeux-casual,WordCollect,iphone games for couples,5,70,250,59,0.63
+jeux-casual,WordCollect,Game no ads,5,57,189,51,0.65
+jeux-casual,WordCollect,upword,5,70,246,64,0.62
+jeux-casual,WordCollect,uy christian dating friend app,5,68,247,47,0.66
+jeux-casual,WordCollect,uy christian dating friend,5,87,250,131,0.54
+jeux-casual,WordCollect,word game for free,5,76,236,2,2.29
+jeux-casual,WordCollect,having fun,5,96,242,121,0.55
+jeux-casual,WordCollect,casual word game,5,73,234,12,0.96
+jeux-casual,WordCollect,spot the word,5,83,239,17,0.86
+jeux-casual,WordCollect,1 pic many words,5,55,242,82,0.59
+jeux-casual,WordCollect,word cross pics,5,59,240,52,0.65
+jeux-casual,WordCollect,image word puzzle,5,53,206,103,0.56
+jeux-casual,WordCollect,guess the words,5,95,250,18,0.84
+jeux-casual,WordCollect,words scramble,5,79,242,18,0.84
+jeux-casual,WordCollect,pay & collect,5,93,249,170,0.51
+jeux-casual,WordCollect,connect super,5,96,250,89,0.58
+jeux-casual,WordCollect,associations word,5,83,250,43,0.68
+jeux-casual,WordCollect,count words,5,67,250,23,0.79
+jeux-casual,WordCollect,hurdles,5,96,250,16,0.87
+jeux-casual,WordCollect,Game releases,5,81,246,238,0.48
+jeux-casual,WordCollect,keyword puzzle,5,71,248,83,0.59
+jeux-casual,WordCollect,the worlds easyest game,5,31,249,37,0.70
+jeux-casual,WordCollect,wordpal vocabulary builder,5,76,250,124,0.54
+jeux-casual,WordCollect,Lucky Call,5,34,249,170,0.51
+jeux-casual,WordCollect,coin identifier free,5,83,250,190,0.50
+jeux-casual,WordCollect,collection of 2,5,82,239,61,0.63
+jeux-casual,WordCollect,extract words,5,45,236,62,0.62
+jeux-casual,WordCollect,adult phrase,5,53,242,109,0.56
+jeux-casual,WordCollect,гра в слова,5,77,248,74,0.60
+jeux-casual,WordCollect,знайти слова,5,76,246,63,0.62
+jeux-casual,WordCollect,Word Sreach,5,60,250,105,0.56
+jeux-casual,WordCollect,speeling word engilish,5,47,248,36,0.70
+jeux-casual,WordCollect,word run,5,79,249,30,0.74
+jeux-casual,WordCollect,letter collect,5,57,235,1,5.00
+jeux-casual,WordCollect,popular words,5,77,196,30,0.74
+jeux-casual,WordCollect,Vocab list,5,74,250,90,0.58
+jeux-casual,WordCollect,coincidencia,5,90,250,94,0.57
+jeux-casual,WordCollect,daily quizzes,5,80,249,197,0.50
+jeux-casual,WordCollect,creativity activity,5,90,250,185,0.51
+jeux-casual,WordCollect,free point,5,98,231,110,0.56
+jeux-casual,WordCollect,wordscan,5,50,249,119,0.55
+jeux-casual,WordCollect,کلمه بازی,5,10,232,16,0.87
+jeux-casual,WordCollect,brain trainig,5,64,235,108,0.56
+jeux-casual,WordCollect,lettergrid,5,92,250,8,1.10
+jeux-casual,WordCollect,quick crossword,5,93,250,126,0.54
+jeux-casual,WordCollect,woordspelletjes,5,72,240,8,1.10
+jeux-casual,WordCollect,glued letters,5,34,248,116,0.55
+jeux-casual,WordCollect,letter-sound correspondence,5,19,248,115,0.55
+jeux-casual,WordCollect,word families,5,92,250,24,0.78
+jeux-casual,WordCollect,POP Wordz,5,59,249,26,0.76
+jeux-casual,WordCollect,work offline,5,35,224,20,0.82
+jeux-casual,WordCollect,Crossword Fill,5,92,250,108,0.56
+jeux-casual,WordCollect,daily crossword puzzle,5,88,250,133,0.54
+jeux-casual,WordCollect,best games 2023,5,95,250,57,0.63
+jeux-casual,WordCollect,new games 2023 free,5,94,250,103,0.56
+jeux-casual,WordCollect,adsfree game,5,67,203,84,0.59
+jeux-casual,WordCollect,do you konw me?,5,87,224,26,0.76
+jeux-casual,WordCollect,encuentra la palabra,5,64,238,45,0.67
+jeux-casual,WordCollect,word hike,5,80,243,17,0.86
+jeux-casual,WordCollect,wordtag,5,80,249,2,2.29
+jeux-casual,WordCollect,words of the day,5,75,250,91,0.58
+jeux-casual,WordCollect,advaned games,5,92,246,134,0.54
+jeux-casual,WordCollect,word nooster,5,80,248,45,0.67
+jeux-casual,WordCollect,wors booster,5,97,248,150,0.52
+jeux-casual,WordCollect,vocabulary ckm,5,50,239,134,0.54
+jeux-casual,WordCollect,vocabulary xom,5,36,246,140,0.53
+jeux-casual,WordCollect,new free quiz games,5,92,248,223,0.49
+jeux-casual,WordCollect,worrds challange,5,47,244,158,0.52
+jeux-casual,WordCollect,word new,5,82,232,20,0.82
+jeux-casual,WordCollect,wordle art,5,90,250,107,0.56
+jeux-casual,WordCollect,kid word hames,5,59,225,10,1.02
+jeux-casual,WordCollect,kids tivia games,5,76,241,42,0.68
+jeux-casual,WordCollect,wordoftheday,5,56,249,42,0.68
+jeux-casual,WordCollect,word gamea kids,5,60,190,43,0.68
+jeux-casual,WordCollect,word kf the day,5,95,241,26,0.76
+jeux-casual,WordCollect,wordpower,5,45,247,37,0.70
+jeux-casual,WordCollect,dictionary word of the day,5,75,250,106,0.56
+jeux-casual,WordCollect,word of the day game,5,83,235,30,0.74
+jeux-casual,WordCollect,word game dictionary,5,72,240,5,1.34
+jeux-casual,WordCollect,word of the day for kids,5,53,249,27,0.76
+jeux-casual,WordCollect,expand vocabulary game,5,32,240,24,0.78
+jeux-casual,WordCollect,new vocabulary game,5,61,236,23,0.79
+jeux-casual,WordCollect,corre ct word,5,87,250,8,1.10
+jeux-casual,WordCollect,a vocabulary builder challenge,5,75,250,46,0.67
+jeux-casual,WordCollect,wordpal vocabulary,5,75,250,212,0.49
+jeux-casual,WordCollect,act word,5,86,249,8,1.10
+jeux-casual,WordCollect,expand vocabulary games,5,62,239,10,1.02
+jeux-casual,WordCollect,free expand vocab word,5,32,250,56,0.64
+jeux-casual,WordCollect,gre word vocabulary games,5,53,250,40,0.69
+jeux-casual,WordCollect,the word of the day quiz,5,81,248,116,0.55
+jeux-casual,WordCollect,sat word game,5,70,232,15,0.89
+jeux-casual,WordCollect,emglish word booster,5,74,250,2,2.29
+jeux-casual,WordCollect,definitions word game,5,66,232,6,1.24
+jeux-casual,WordCollect,new vocabulary builder quiz,5,74,250,105,0.56
+jeux-casual,WordCollect,daily word enrichment,5,75,250,31,0.73
+jeux-casual,WordCollect,english vocabulary word builder quiz,5,75,250,56,0.64
+jeux-casual,WordCollect,sat vocabulary words quiz prep,5,47,248,107,0.56
+jeux-casual,WordCollect,advanced vocabulary game,5,54,248,44,0.67
+jeux-casual,WordCollect,childrens vocab games,5,58,204,43,0.68
+jeux-casual,WordCollect,kids vocab game,5,20,201,40,0.69
+jeux-casual,WordCollect,builder daily words,5,54,249,41,0.68
+jeux-casual,WordCollect,improve vocab builder,5,74,250,118,0.55
+jeux-casual,WordCollect,words expand,5,60,249,26,0.76
+jeux-casual,WordCollect,word game 2023,5,95,250,5,1.34
+jeux-casual,WordCollect,games vocabulary expand,5,20,247,30,0.74
+jeux-casual,WordCollect,vocabulary builder word a day,5,48,249,93,0.57
+jeux-casual,WordCollect,correct word,5,74,250,24,0.78
+jeux-casual,WordCollect,word of the day vocab builder,5,54,249,92,0.58
+jeux-casual,WordCollect,word of the day vocabulary bulider,5,27,249,115,0.55
+jeux-casual,WordCollect,english vocabulary learning for kids,5,88,249,121,0.55
+jeux-casual,WordCollect,advance english words,5,54,249,127,0.54
+jeux-casual,WordCollect,vocabulary games for sat,5,73,249,53,0.64
+jeux-casual,WordCollect,word of the day builder,5,53,249,31,0.73
+jeux-casual,WordCollect,vocabulary easily,5,62,244,152,0.52
+jeux-casual,WordCollect,guess vocabulary word,5,87,246,6,1.24
+jeux-casual,WordCollect,the day vocab builder,5,59,250,115,0.55
+jeux-casual,WordCollect,builder new words,5,56,250,30,0.74
+jeux-casual,WordCollect,new vocabulary word,5,53,250,80,0.59
+jeux-casual,WordCollect,vocabulary kids free,5,74,247,81,0.59
+jeux-casual,WordCollect,english daily word,5,19,249,59,0.63
+jeux-casual,WordCollect,english word booster,5,61,249,53,0.64
+jeux-casual,WordCollect,daily english word app,5,17,245,47,0.66
+jeux-casual,WordCollect,word boooster,5,79,249,2,2.29
+jeux-casual,WordCollect,worder boosters,5,78,248,2,2.29
+jeux-casual,WordCollect,worfd booster,5,96,250,130,0.54
+jeux-casual,WordCollect,new words size,5,60,249,94,0.57
+jeux-casual,WordCollect,vocabulary builder vocab word,5,45,250,79,0.59
+jeux-casual,WordCollect,advance words,5,60,250,67,0.61
+jeux-casual,WordCollect,advanced word games,5,92,250,7,1.16
+jeux-casual,WordCollect,words boosters,5,77,250,14,0.91
+jeux-casual,WordCollect,words vocabulary builder,5,75,250,106,0.56
+jeux-casual,WordCollect,word boostet,5,90,250,3,1.74
+jeux-casual,WordCollect,woord booster,5,83,250,4,1.49
+jeux-casual,WordCollect,woords booster,5,83,249,8,1.10
+jeux-casual,WordCollect,wprds booster,5,88,250,78,0.59
+jeux-casual,WordCollect,a app for learning new words,5,36,241,151,0.52
+jeux-casual,WordCollect,wrod booster,5,90,247,227,0.49
+jeux-casual,WordCollect,worsd booste,5,73,245,32,0.73
+jeux-casual,WordCollect,worsd boosters,5,72,211,59,0.63
+jeux-casual,WordCollect,woords boster,5,62,250,81,0.59
+jeux-casual,WordCollect,worts booster,5,68,249,6,1.24
+jeux-casual,WordCollect,words booter,5,73,249,66,0.62
+jeux-casual,WordCollect,woords bosster,5,91,250,221,0.49
+jeux-casual,WordCollect,word boostdr,5,85,250,6,1.24
+jeux-casual,WordCollect,learn english words for kida,5,84,247,123,0.54
+jeux-casual,WordCollect,word booster words,5,90,248,2,2.29
+jeux-casual,WordCollect,words bwooster,5,69,234,88,0.58
+jeux-casual,WordCollect,word boosted,5,84,250,58,0.63
+jeux-casual,WordCollect,booster app word,5,86,246,9,1.06
+jeux-casual,WordCollect,words boomster,5,81,249,28,0.75
+jeux-casual,WordCollect,words boomter,5,85,247,31,0.73
+jeux-casual,WordCollect,words bossyer,5,86,246,32,0.73
+jeux-casual,WordCollect,woords pooster,5,83,245,198,0.50
+jeux-casual,WordCollect,woords bostet,5,98,249,143,0.53
+jeux-casual,WordCollect,wordss boster,5,69,247,161,0.52
+jeux-casual,WordCollect,woords booter,5,79,248,155,0.52
+jeux-casual,WordCollect,words boosterer,5,35,228,146,0.53
+jeux-casual,WordCollect,words borster,5,88,250,33,0.72
+jeux-casual,WordCollect,words boosteer,5,34,221,147,0.53
+jeux-casual,WordCollect,word pals,5,93,250,38,0.70
+jeux-casual,WordCollect,weords booster,5,71,248,101,0.56
+jeux-casual,WordCollect,wordd boister,5,53,219,56,0.64
+jeux-casual,WordCollect,new word size,5,53,250,31,0.73
+jeux-casual,WordCollect,vocabulary word day,5,75,249,19,0.83
+jeux-casual,WordCollect,vocabulary day word,5,75,248,25,0.77
+jeux-casual,WordCollect,learn the word of the day,5,75,247,56,0.64
+jeux-casual,WordCollect,cocabulary builder,5,47,248,109,0.56
+jeux-casual,WordCollect,new words a day,5,54,248,75,0.60
+jeux-casual,WordCollect,word boost,5,87,247,23,0.79
+jeux-casual,WordCollect,a new word a day,5,75,249,29,0.74
+jeux-casual,WordCollect,new english words everyday,5,75,250,134,0.54
+jeux-casual,WordCollect,words booster gratis,5,88,244,1,5.00
+jeux-casual,WordCollect,gratis words booster,5,84,240,2,2.29
+jeux-casual,WordCollect,word of the day vocbulary,5,75,250,121,0.55
+jeux-casual,WordCollect,new day word,5,51,242,26,0.76
+jeux-casual,WordCollect,booster word,5,89,249,2,2.29
+jeux-casual,WordCollect,vocabulart builder,5,60,248,118,0.55
+jeux-casual,WordCollect,vovabulary builder,5,50,248,121,0.55
+jeux-casual,WordCollect,new word a day for,5,75,250,164,0.52
+jeux-casual,WordCollect,word booster games,5,78,241,12,0.96
+jeux-casual,WordCollect,word improve,5,73,250,34,0.71
+jeux-casual,WordCollect,gre wods,5,70,250,137,0.53
+jeux-casual,WordCollect,grow words,5,88,247,74,0.60
+jeux-casual,WordCollect,advance word,5,75,249,32,0.73
+jeux-casual,WordCollect,vocabe games,5,64,241,6,1.24
+jeux-casual,WordCollect,vacabulary word for the day,5,75,250,111,0.55
+jeux-casual,WordCollect,wards booster,5,86,246,91,0.58
+jeux-casual,WordCollect,vocabulary 2023,5,35,240,111,0.55
+jeux-casual,WordCollect,abc vocabulary game,5,76,249,76,0.60
+jeux-casual,WordCollect,Vocabluary,5,58,249,123,0.54
+jeux-casual,WordCollect,Wrds,5,32,233,133,0.54
+jeux-casual,WordCollect,yak libs,5,93,250,30,0.74
+jeux-casual,WordCollect,word sprints,5,47,247,70,0.61
+jeux-casual,WordCollect,crossword sprints,5,88,248,118,0.55
+jeux-casual,WordCollect,crossword sprint,5,72,247,92,0.58
+jeux-casual,WordCollect,mad words,5,66,250,64,0.62
+jeux-casual,WordCollect,言い換える,5,90,250,7,1.16
+jeux-casual,WordCollect,vocabualry,5,72,250,109,0.56
+jeux-casual,WordCollect,word formation,5,83,249,71,0.61
+jeux-casual,WordCollect,letter linking,5,61,243,178,0.51
+jeux-casual,WordCollect,word linking,5,89,248,134,0.54
+jeux-casual,WordCollect,letter connection,5,92,244,31,0.73
+jeux-casual,WordCollect,wordpal-vocabulary builder,5,70,249,114,0.55
+jeux-casual,WordCollect,word-pal,5,90,250,25,0.77
+jeux-casual,WordCollect,Word adventure,5,73,239,141,0.53
+jeux-casual,WordCollect,couple gamez,5,92,232,129,0.54
+jeux-casual,WordCollect,password games,5,78,249,47,0.66
+jeux-casual,WordCollect,juego de pasapalabra,5,72,244,33,0.72
+jeux-casual,WordCollect,pasapalabra 2,5,91,250,42,0.68
+jeux-casual,WordCollect,pasapalabra gratis en español,5,94,250,51,0.65
+jeux-casual,WordCollect,pasapalabra gratis,5,86,249,32,0.73
+jeux-casual,WordCollect,pasapalabra el rosco,5,80,246,29,0.74
+jeux-casual,WordCollect,pasapalabra online,5,80,249,32,0.73
+jeux-casual,WordCollect,el rosco,5,91,249,26,0.76
+jeux-casual,WordCollect,word quizzes,5,46,233,12,0.96
+jeux-casual,WordCollect,word collections,5,69,250,1,5.00
+jeux-casual,WordCollect,enjoy games,5,95,248,110,0.56
+jeux-casual,WordCollect,word buddy,5,75,248,64,0.62
+jeux-casual,WordCollect,fast crossword,5,25,250,73,0.60
+jeux-casual,WordCollect,fill in the letter,5,87,246,15,0.89
+jeux-casual,WordCollect,cross word game,5,68,238,52,0.65
+jeux-casual,WordCollect,cross word type,5,69,238,82,0.59
+jeux-casual,WordCollect,find letters,5,76,238,43,0.68
+jeux-casual,WordCollect,crostic crossworddaily,5,11,250,37,0.70
+jeux-casual,WordCollect,app oficial pasapalabra,5,76,244,69,0.61
+jeux-casual,WordCollect,solve letter,5,80,243,2,2.29
+jeux-casual,WordCollect,play quick,5,96,249,235,0.49
+jeux-casual,WordCollect,clever crossword,5,86,250,137,0.53
+jeux-casual,WordCollect,crossword play,5,11,250,107,0.56
+jeux-casual,WordCollect,free xword,5,,249,205,0.50
+jeux-casual,WordCollect,جایزه,5,90,250,161,0.52
+jeux-casual,WordCollect,reversle,5,89,245,118,0.55
+jeux-casual,WordCollect,get instant answers,5,93,250,103,0.56
+jeux-casual,WordCollect,word games puzzle,5,82,247,13,0.93
+jeux-casual,WordCollect,word hit,5,6,249,29,0.74
+jeux-casual,WordCollect,memorize words,5,69,244,58,0.63
+jeux-casual,WordCollect,over 150000 levels,5,77,250,36,0.70
+jeux-casual,WordCollect,oh my word,5,72,247,69,0.61
+jeux-casual,WordCollect,Vocabulary for adults,5,83,250,62,0.62
+jeux-casual,WordCollect,mystery word game,5,49,228,24,0.78
+jeux-casual,WordCollect,word game mystery,5,88,250,2,2.29
+jeux-casual,WordCollect,caca palavras,5,74,250,58,0.63
+jeux-casual,WordCollect,Inglês para crianças,5,88,222,202,0.50
+jeux-casual,WordCollect,mad lib game,5,76,249,34,0.71
+jeux-casual,WordCollect,mad lib word game,5,79,248,69,0.61
+jeux-casual,WordCollect,jogos de idiomas,5,88,236,229,0.49
+jeux-casual,WordCollect,spelling puzzle,5,70,224,38,0.70
+jeux-casual,WordCollect,λέξη,5,78,237,25,0.77
+jeux-casual,WordCollect,αναζήτηση λέξεων,5,86,250,40,0.69
+jeux-casual,WordCollect,boost infinite,5,74,250,129,0.54
+jeux-casual,WordCollect,word arcade,5,85,245,4,1.49
+jeux-casual,WordCollect,word danger,5,98,247,169,0.51
+jeux-casual,WordCollect,word level,5,72,237,1,5.00
+jeux-casual,WordCollect,word monster,5,74,249,26,0.76
+jeux-casual,WordCollect,word build,5,73,250,6,1.24
+jeux-casual,WordCollect,word gather,5,35,246,29,0.74
+jeux-casual,WordCollect,ad free gaming,5,56,183,39,0.69
+jeux-casual,WordCollect,one win aviator game,5,97,243,81,0.59
+jeux-casual,WordCollect,word synonym,5,70,250,81,0.59
+jeux-casual,WordCollect,search daily,5,67,223,157,0.52
+jeux-casual,WordCollect,easy offline,5,44,206,35,0.71
+jeux-casual,WordCollect,sanapeli,5,70,240,37,0.70
+jeux-casual,WordCollect,word brain teaser,5,49,198,12,0.96
+jeux-casual,WordCollect,Word Connect fun,5,74,250,17,0.86
+jeux-casual,WordCollect,word scales,5,74,240,35,0.71
+jeux-casual,WordCollect,question solve,5,59,246,156,0.52
+jeux-casual,WordCollect,Bogle,5,97,241,52,0.65
+jeux-casual,WordCollect,vocabulery,5,30,250,131,0.54
+jeux-casual,WordCollect,sliding word game,5,77,234,36,0.70
+jeux-casual,WordCollect,hard word game,5,66,204,24,0.78
+jeux-casual,WordCollect,word relaxing,5,94,250,99,0.57
+jeux-casual,WordCollect,collect prizes,5,85,250,204,0.50
+jeux-casual,WordCollect,dilemo,5,81,244,61,0.63
+jeux-casual,WordCollect,word connect - brain puzzle,5,,242,106,0.56
+jeux-casual,WordCollect,word connect - fun puzzle,5,73,233,31,0.73
+jeux-casual,WordCollect,word connect 2023,5,77,243,2,2.29
+jeux-casual,WordCollect,bible games family,5,78,250,113,0.55
+jeux-casual,WordCollect,Quick tap game,5,45,249,178,0.51
+jeux-casual,WordCollect,multiplayer word games,5,68,235,161,0.52
+jeux-casual,WordCollect,competitive word games,5,92,250,3,1.74
+jeux-casual,WordCollect,simple words english,5,80,250,57,0.63
+jeux-casual,WordCollect,daily word games,5,77,231,6,1.24
+jeux-casual,WordCollect,social word game,5,81,235,19,0.83
+jeux-casual,WordCollect,Word glow,5,57,20,6,1.24
+jeux-casual,WordCollect,word game no ads,5,66,234,10,1.02
+jeux-casual,WordCollect,Word Swipe and Connect,5,64,250,71,0.61
+jeux-casual,WordCollect,word connect - train brain,5,61,245,6,1.24
+jeux-casual,WordCollect,fun word game,5,79,247,9,1.06
+jeux-casual,WordCollect,Devinez le mot,5,90,241,85,0.58
+jeux-casual,WordCollect,spotlight words,5,85,242,9,1.06
+jeux-casual,WordCollect,超级app,5,98,250,171,0.51
+jeux-casual,WordCollect,游戏中心下载,5,52,206,12,0.96
+jeux-casual,WordCollect,word connect 203,5,7,20,11,0.98
+jeux-casual,WordCollect,quote collect,5,51,249,58,0.63
+jeux-casual,WordCollect,word connect game 2023,5,85,249,32,0.73
+jeux-casual,WordCollect,cryptogram word,5,90,250,69,0.61
+jeux-casual,WordCollect,crostic crosswordword,5,82,249,88,0.58
+jeux-casual,WordCollect,crosswordword,5,59,248,28,0.75
+jeux-casual,WordCollect,crosswordword puzzles,5,67,246,17,0.86
+jeux-casual,WordCollect,vlak,5,36,213,188,0.50
+jeux-casual,WordCollect,rizz game,5,76,249,74,0.60
+jeux-casual,WordCollect,vocab word search,5,85,245,96,0.57
+jeux-casual,WordCollect,方向,5,85,243,49,0.66
+jeux-casual,WordCollect,gamesmake friends,5,73,250,135,0.54
+jeux-casual,WordCollect,puzzelwoordenboek,5,93,249,120,0.55
+jeux-casual,WordCollect,challenge funny,5,,250,95,0.57
+jeux-casual,WordCollect,collect ganes,5,32,214,21,0.81
+jeux-casual,WordCollect,tabu spiel,5,47,244,139,0.53
+jeux-casual,WordCollect,erraten word,5,61,217,136,0.53
+jeux-casual,WordCollect,jeu mot de passe,5,74,245,69,0.61
+jeux-casual,WordCollect,ассоциации,5,46,240,66,0.62
+jeux-casual,WordCollect,crossword answers,5,73,247,123,0.54
+jeux-casual,WordCollect,formar,5,94,240,103,0.56
+jeux-casual,WordCollect,Fun Questions Game,5,87,249,170,0.51
+jeux-casual,WordCollect,jeu du dictionnaire,5,82,245,32,0.73
+jeux-casual,WordCollect,word search daily,5,68,244,20,0.82
+jeux-casual,WordCollect,vocubulary,5,6,243,104,0.56
+jeux-casual,WordCollect,capire,5,96,240,32,0.73
+jeux-casual,WordCollect,spelling test\,5,66,250,127,0.54
+jeux-casual,WordCollect,online kelime oyunu,5,70,241,172,0.51
+jeux-casual,WordCollect,kelime tahmin oyunu,5,49,235,27,0.76
+jeux-casual,WordCollect,kelimelik hile,5,92,249,44,0.67
+jeux-casual,WordCollect,cryptogram letters,5,32,250,78,0.59
+jeux-casual,WordCollect,brain test 3: tricky quests wallpapers,5,83,247,98,0.57
+jeux-casual,WordCollect,brain test 3: tricky quests,5,90,247,125,0.54
+jeux-casual,WordCollect,çaça palavras,5,91,250,122,0.55
+jeux-casual,WordCollect,important words:,5,56,250,30,0.74
+jeux-casual,WordCollect,word wisdom,5,74,250,75,0.60
+jeux-casual,WordCollect,games skill-based,5,93,250,148,0.53
+jeux-casual,WordCollect,in a row,5,66,250,226,0.49
+jeux-casual,WordCollect,scribble journey,5,70,244,68,0.61
+jeux-casual,WordCollect,connections word,5,64,244,93,0.57
+jeux-casual,WordCollect,jeu de vocabulaire,5,72,231,7,1.16
+jeux-casual,WordCollect,语,5,92,245,223,0.49
+jeux-casual,WordCollect,name chooser wheel,5,47,250,137,0.53
+jeux-casual,WordCollect,Pictoword: Fun Brain Word Game,5,79,245,9,1.06
+jeux-casual,WordCollect,word connect world,5,69,248,8,1.10
+jeux-casual,WordCollect,word quest game,5,84,248,6,1.24
+jeux-casual,WordCollect,word vocabulary,5,25,249,45,0.67
+jeux-casual,WordCollect,words search game,5,82,249,11,0.98
+jeux-casual,WordCollect,報酬,5,94,250,158,0.52
+jeux-casual,WordCollect,Mind growing game - Guess the picture,5,58,250,100,0.57
+jeux-casual,WordCollect,t20 world cup 2024 schedule,5,82,250,48,0.66
+jeux-casual,WordCollect,búsqueda de palabra,5,36,228,20,0.82
+jeux-casual,WordCollect,búsqueda de palabras,5,52,230,28,0.75
+jeux-casual,WordCollect,palabra búsqueda,5,59,229,71,0.61
+jeux-casual,WordCollect,adivina palabras,5,81,249,23,0.79
+jeux-casual,WordCollect,encontrar la palabra,5,64,232,62,0.62
+jeux-casual,WordCollect,word party adult party game,5,59,235,90,0.58
+jeux-casual,WordCollect,charades word,5,84,248,117,0.55
+jeux-casual,WordCollect,party word charades,5,68,250,136,0.53
+jeux-casual,WordCollect,charades word party,5,70,249,130,0.54
+jeux-casual,WordCollect,party charades word,5,85,247,102,0.56
+jeux-casual,WordCollect,word charades party,5,85,250,102,0.56
+jeux-casual,WordCollect,charades party word,5,83,250,70,0.61
+jeux-casual,WordCollect,word charades,5,82,250,112,0.55
+jeux-casual,WordCollect,jogo do trivia,5,93,250,201,0.50
+jeux-casual,WordCollect,perhepeli,5,91,250,37,0.70
+jeux-casual,WordCollect,disabled game,5,100,250,176,0.51
+jeux-casual,WordCollect,juegos gratis de palabra,5,64,247,17,0.86
+jeux-casual,WordCollect,juego de formar palabras,5,66,245,20,0.82
+jeux-casual,WordCollect,juegos de palabras en español,5,71,243,16,0.87
+jeux-casual,WordCollect,busqueda de palabras,5,70,247,25,0.77
+jeux-casual,WordCollect,charades words,5,73,249,59,0.63
+jeux-casual,WordCollect,hry pro více hráčů,5,34,239,222,0.49
+jeux-casual,WordCollect,word multiplayer,5,92,250,11,0.98
+jeux-casual,WordCollect,feud game,5,93,250,29,0.74
+jeux-casual,WordCollect,phone charades,5,83,250,197,0.50
+jeux-casual,WordCollect,friends 2 wortspiel,5,74,248,79,0.59
+jeux-casual,WordCollect,charaders game,5,84,250,107,0.56
+jeux-casual,WordCollect,räts spiel,5,84,249,41,0.68
+jeux-casual,WordCollect,guessing 2,5,83,250,136,0.53
+jeux-casual,WordCollect,words up,5,70,249,70,0.61
+jeux-casual,WordCollect,búsqueda de palabras gratis,5,74,248,9,1.06
+jeux-casual,WordCollect,charades adivina,5,84,250,114,0.55
+jeux-casual,WordCollect,juego words con amigos,5,92,248,26,0.76
+jeux-casual,WordCollect,juegos con palabras,5,73,238,15,0.89
+jeux-casual,WordCollect,jeux de devinettes,5,55,240,183,0.51
+jeux-casual,WordCollect,mot avec des amis,5,75,247,40,0.69
+jeux-casual,WordCollect,word adult phrase,5,73,248,37,0.70
+jeux-casual,WordCollect,adult phrase game,5,73,242,20,0.82
+jeux-casual,WordCollect,cosmicode,5,77,246,53,0.64
+jeux-casual,WordCollect,cards words,5,81,248,10,1.02
+jeux-casual,WordCollect,enter word,5,94,248,23,0.79
+jeux-casual,WordCollect,adult charades guess words,5,84,249,110,0.56
+jeux-casual,WordCollect,paid game,5,96,249,146,0.53
+jeux-casual,WordCollect,taboo wordgame,5,68,247,16,0.87
+jeux-casual,WordCollect,juego en familia,5,54,227,202,0.50
+jeux-casual,WordCollect,ordfest familiespill,5,68,250,14,0.91
+jeux-casual,WordCollect,czolko words,5,72,245,22,0.80
+jeux-casual,WordCollect,słówko,5,73,246,15,0.89
+jeux-casual,WordCollect,śmieszne zagadki,5,67,220,62,0.62
+jeux-casual,WordCollect,scrable pl,5,94,248,51,0.65
+jeux-casual,WordCollect,najlepsza gra,5,90,244,148,0.53
+jeux-casual,WordCollect,adivinhar a palavra,5,78,250,79,0.59
+jeux-casual,WordCollect,jogos com palavras,5,67,225,30,0.74
+jeux-casual,WordCollect,mai multe parole,5,62,244,33,0.72
+jeux-casual,WordCollect,parola mai buna,5,70,247,21,0.81
+jeux-casual,WordCollect,aplicatia de parole,5,77,250,123,0.54
+jeux-casual,WordCollect,parole actualizate,5,97,248,35,0.71
+jeux-casual,WordCollect,parola gratuit,5,70,249,159,0.52
+jeux-casual,WordCollect,gissa ord,5,81,245,34,0.71
+jeux-casual,WordCollect,เกมส์ใบ้คำ,5,59,243,72,0.60
+jeux-casual,WordCollect,เกมตอบคำถาม,5,79,248,80,0.59
+jeux-casual,WordCollect,การ์ดคำถาม,5,56,250,155,0.52
+jeux-casual,WordCollect,เดาคำศัพท์,5,78,250,5,1.34
+jeux-casual,WordCollect,player descubra,5,83,250,148,0.53
+jeux-casual,WordCollect,guess right online games,5,83,250,155,0.52
+jeux-casual,WordCollect,vänner spel,5,86,249,134,0.54
+jeux-casual,WordCollect,palabras com amigos,5,76,250,50,0.65
+jeux-casual,WordCollect,adivinar la palabra correcta,5,64,249,19,0.83
+jeux-casual,WordCollect,enjoy puzzle,5,15,248,180,0.51
+jeux-casual,WordCollect,fibbage!,5,91,250,93,0.57
+jeux-casual,WordCollect,citizens cup,5,78,249,53,0.64
+jeux-casual,WordCollect,pick-up lines,5,82,250,77,0.60
+jeux-casual,WordCollect,Grammar Hero,5,20,247,38,0.70
+jeux-casual,WordCollect,word find game,5,61,245,6,1.24
+jeux-casual,WordCollect,letter boxed,5,58,249,28,0.75
+jeux-casual,WordCollect,lexilogic,5,90,248,116,0.55
+jeux-casual,WordCollect,Word Crush - Fun Puzzle Game,5,83,237,4,1.49
+jeux-casual,WordCollect,GamesMela,5,87,242,134,0.54
+jeux-casual,WordCollect,seek word,5,67,249,11,0.98
+jeux-casual,WordCollect,Cryptogram master,5,77,248,66,0.62
+jeux-casual,WordCollect,colorwood,5,92,222,144,0.53
+jeux-casual,WordCollect,connect freely,5,93,250,230,0.49
+jeux-casual,WordCollect,Millionaire - Quiz & Trivia,5,,249,68,0.61
+jeux-casual,WordCollect,wordwide,5,100,245,118,0.55
+jeux-casual,WordCollect,offline word game,5,82,231,1,5.00
+jeux-casual,WordCollect,word stock,5,,250,11,0.98
+jeux-casual,WordCollect,Word Joruney,5,,250,7,1.16
+jeux-casual,WordCollect,Word Search Connect,5,,250,6,1.24
+jeux-casual,WordCollect,Word Explorer,5,,250,8,1.10
+jeux-casual,WordCollect,english word puzzle,5,79,250,2,2.29
+jeux-casual,WordCollect,learn english word puzzle,5,,249,9,1.06
+jeux-casual,WordCollect,seniors large,5,73,250,202,0.50
+jeux-casual,WordCollect,game associations,5,30,249,99,0.57
+jeux-casual,WordCollect,associations connect,5,30,249,122,0.55
+jeux-casual,WordCollect,blockgames,5,84,250,73,0.60
+jeux-casual,WordCollect,tough puzzle,5,,245,107,0.56
+jeux-casual,WordCollect,solutions easy,5,72,249,95,0.57
+jeux-casual,WordCollect,spellin,5,63,249,170,0.51
+jeux-casual,WordCollect,best wordgames,5,77,239,3,1.74
+jeux-casual,WordCollect,ogoo,5,100,250,9,1.06
+jeux-casual,WordCollect,multiplayer boggle,5,72,250,41,0.68
+jeux-casual,WordCollect,GameStart,5,,249,158,0.52
+jeux-casual,WordCollect,connect 8,5,75,249,7,1.16
+jeux-casual,WordCollect,multiple carousel,5,54,250,30,0.74
+jeux-casual,WordCollect,adults adult,5,52,250,179,0.51
+jeux-casual,WordCollect,secret fans,5,91,250,244,0.48
+jeux-casual,WordCollect,think words,5,,250,53,0.64
+jeux-casual,WordCollect,comprehensive input,5,72,250,150,0.52
+jeux-casual,WordCollect,levelup,5,28,247,104,0.56
+jeux-casual,WordCollect,words buster,5,45,248,34,0.71
+jeux-casual,WordCollect,Communication Game,5,84,250,173,0.51
+jeux-casual,WordCollect,brain games no wifi,5,72,250,51,0.65
+jeux-casual,WordCollect,dictionary learn words,5,51,250,140,0.53
+jeux-casual,WordCollect,juegos de palabras gratuitos para niños,5,72,242,37,0.70
+jeux-casual,WordCollect,juegos de palabras gratis para niños,5,68,238,44,0.67
+jeux-casual,WordCollect,games finder,5,29,209,20,0.82
+jeux-casual,WordCollect,Tic tac toe  emoji,5,36,250,97,0.57
+jeux-casual,WordCollect,Psycho world,5,97,248,84,0.59
+jeux-casual,WordCollect,wordwall play,5,63,249,14,0.91
+jeux-casual,WordCollect,press scroll,5,36,250,95,0.57
+jeux-casual,WordCollect,master your vocabulary,5,48,250,96,0.57
+jeux-casual,WordCollect,World Insights,5,78,250,49,0.66
+jeux-casual,WordCollect,strands words game,5,87,245,76,0.60
+jeux-casual,WordCollect,gets harder,5,74,248,180,0.51
+jeux-casual,WordCollect,wordles unlimited,5,67,249,21,0.81
+jeux-casual,WordCollect,brain speed,5,53,249,194,0.50
+jeux-casual,WordCollect,riddles games,5,63,249,207,0.50
+jeux-casual,WordCollect,unscramble word,5,81,250,1,5.00
+jeux-casual,WordCollect,Word Scrambly,5,47,250,137,0.53
+jeux-casual,WordCollect,chuxie,5,76,250,171,0.51
+jeux-casual,WordCollect,connect 8 words,5,83,250,6,1.24
+jeux-casual,WordCollect,hide contact number,5,70,248,175,0.51
+jeux-casual,WordCollect,lake games,5,16,245,205,0.50
+jeux-casual,WordCollect,Hide contacts app,5,15,248,136,0.53
+jeux-casual,WordCollect,word games to improve vocabulary,5,31,242,3,1.74
+jeux-casual,WordCollect,clear grid,5,78,250,62,0.62
+jeux-casual,WordCollect,solve word,5,30,237,9,1.06
+jeux-casual,WordCollect,wordscapes solitaire,5,62,250,7,1.16
+jeux-casual,WordCollect,10MB GAMES OFFLINE,5,44,248,202,0.50
+jeux-casual,WordCollect,com.cleverapps.english,5,75,250,33,0.72
+jeux-casual,WordCollect,word-games,5,95,239,2,2.29
+jeux-casual,WordCollect,word-game,5,94,237,10,1.02
+jeux-casual,WordCollect,word_games,5,58,238,4,1.49
+jeux-casual,WordCollect,seek and find word,5,34,235,12,0.96
+jeux-casual,WordCollect,wow word puzzle game,5,68,242,32,0.73
+jeux-casual,WordCollect,spell words game,5,93,250,3,1.74
+jeux-casual,WordCollect,color word puzzle,5,61,224,6,1.24
+jeux-casual,WordCollect,word hint,5,76,246,27,0.76
+jeux-casual,WordCollect,crossword games free,5,75,250,17,0.86
+jeux-casual,WordCollect,word search],5,89,250,40,0.69
+jeux-casual,WordCollect,jumble sale,5,60,250,23,0.79
+jeux-casual,WordCollect,one@work,5,60,222,92,0.58
+jeux-casual,WordCollect,بازی های افلاین,5,82,245,159,0.52
+jeux-casual,WordCollect,5star games,5,75,250,13,0.93
+jeux-casual,WordCollect,truth or dare friends games,5,36,250,173,0.51
+jeux-casual,WordCollect,word number,5,36,250,45,0.67
+jeux-casual,WordCollect,boxed letters,5,25,249,15,0.89
+jeux-casual,WordCollect,word to,5,90,208,58,0.63
+jeux-casual,WordCollect,game wifi,5,76,249,97,0.57
+jeux-casual,WordCollect,game internet,5,91,243,170,0.51
+jeux-casual,WordCollect,Multıple Intelligence Test,5,67,250,145,0.53
+jeux-casual,WordCollect,brain freeze,5,89,242,41,0.68
+jeux-casual,WordCollect,find the answer,5,75,237,142,0.53
+jeux-casual,WordCollect,mind blow,5,78,250,52,0.65
+jeux-casual,WordCollect,guess the word. word games,5,68,247,6,1.24
+jeux-casual,WordCollect,chill all-in-one,5,33,219,60,0.63
+jeux-casual,WordCollect,xxvi downloader,5,47,248,162,0.52
+jeux-casual,WordCollect,rewardreef,5,70,230,36,0.70
+jeux-casual,WordCollect,words and maths game,5,62,222,50,0.65
+jeux-casual,WordCollect,arrange letters,5,83,248,28,0.75
+jeux-casual,WordCollect,games everyday,5,31,198,33,0.72
+jeux-casual,WordCollect,app addiction,5,82,249,117,0.55
+jeux-casual,WordCollect,serenity coach,5,7,233,42,0.68
+jeux-casual,WordCollect,mindfulness mastery,5,66,238,160,0.52
+jeux-casual,WordCollect,serenity techniques,5,5,227,33,0.72
+jeux-casual,WordCollect,family-friendly puzzlesoffline games,5,70,250,69,0.61
+jeux-casual,WordCollect,educational games for 10,5,94,247,141,0.53
+jeux-casual,WordCollect,get answer,5,91,245,155,0.52
+jeux-casual,WordCollect,decode food,5,91,250,116,0.55
+jeux-casual,WordCollect,decoded food,5,36,250,134,0.54
+jeux-casual,WordCollect,word scramble challenge,5,77,244,12,0.96
+jeux-casual,WordCollect,find names,5,30,249,174,0.51
+jeux-casual,WordCollect,spelling words test,5,36,249,74,0.60
+jeux-casual,WordCollect,word & math games for adults,5,30,241,86,0.58
+jeux-casual,WordCollect,word & math games,5,72,234,54,0.64
+jeux-casual,WordCollect,word path,5,71,214,24,0.78
+jeux-casual,WordCollect,word ladder,5,70,247,29,0.74
+jeux-casual,WordCollect,vocabulary building apps,5,46,249,101,0.56
+jeux-casual,WordCollect,décrire facilement,5,82,250,73,0.60
+jeux-casual,WordCollect,relaxing word game,5,73,225,13,0.93
+jeux-casual,WordCollect,kid word game,5,50,245,13,0.93
+jeux-casual,WordCollect,adults word games,5,83,225,4,1.49
+jeux-casual,WordCollect,crush finder,5,36,250,87,0.58
+jeux-casual,WordCollect,genuine connections,5,81,250,218,0.49
+jeux-casual,WordCollect,lingo discover,5,90,250,149,0.53
+jeux-casual,WordCollect,daily random information,5,56,250,46,0.67
+jeux-casual,WordCollect,tap jam,5,95,250,153,0.52
+jeux-casual,WordCollect,competitive word,5,72,238,2,2.29
+jeux-casual,WordCollect,word kingdom,5,89,250,21,0.81
+jeux-casual,WordCollect,gae name,5,70,249,201,0.50
+jeux-casual,WordCollect,21 quistion,5,97,250,41,0.68
+jeux-casual,WordCollect,word definitions,5,54,250,48,0.66
+jeux-casual,WordCollect,everyday joy,5,86,249,39,0.69
+jeux-casual,WordCollect,collect data,5,69,248,205,0.50
+jeux-casual,WordCollect,search serenity,5,,242,46,0.67
+jeux-casual,WordCollect,crossword solver plus,5,92,250,123,0.54
+jeux-casual,WordCollect,bright words,5,27,247,49,0.66
+jeux-casual,WordCollect,search the word,5,33,249,49,0.66
+jeux-casual,WordCollect,crosswordsolver,5,70,249,111,0.55
+jeux-casual,WordCollect,count match,5,43,239,174,0.51
+jeux-casual,WordCollect,levels up,5,62,239,153,0.52
+jeux-casual,WordCollect,fast lands,5,66,238,187,0.51
+jeux-casual,WordCollect,plinko color fun,5,49,250,74,0.60
+jeux-casual,WordCollect,english (worksheets),5,56,246,115,0.55
+jeux-casual,WordCollect,pearls smarter,5,32,249,64,0.62
+jeux-casual,WordCollect,hoop stack color sort,5,49,250,62,0.62
+jeux-casual,WordCollect,chain link word game,5,57,231,32,0.73
+jeux-casual,WordCollect,connect 8 word game,5,79,250,6,1.24
+jeux-casual,WordCollect,word bridge,5,72,228,21,0.81
+jeux-casual,WordCollect,word flow,5,69,250,14,0.91
+jeux-casual,WordCollect,blend words,5,3,233,49,0.66
+jeux-casual,WordCollect,word pairing,5,75,250,30,0.74
+jeux-casual,WordCollect,word fusion,5,67,250,153,0.52
+jeux-casual,WordCollect,word relations,5,58,197,167,0.52
+jeux-casual,WordCollect,word bond,5,77,222,20,0.82
+jeux-casual,WordCollect,word clues,5,74,250,12,0.96
+jeux-casual,WordCollect,logical words,5,68,233,32,0.73
+jeux-casual,WordCollect,word network,5,59,249,43,0.68
+jeux-casual,WordCollect,quick words,5,63,247,42,0.68
+jeux-casual,WordCollect,daily word challenge,5,60,230,51,0.65
+jeux-casual,WordCollect,word scramble connect,5,91,249,48,0.66
+jeux-casual,WordCollect,string of words,5,76,250,10,1.02
+jeux-casual,WordCollect,wordle solution,5,73,249,84,0.59
+jeux-casual,WordCollect,bonding games,5,83,250,10,1.02
+jeux-casual,WordCollect,nut stack,5,44,250,119,0.55
+jeux-casual,WordCollect,wise words,5,50,250,63,0.62
+jeux-casual,WordCollect,good morning images 2025,5,52,250,186,0.51
+jeux-casual,WordCollect,wordsmith stories,5,55,245,222,0.49
+jeux-casual,WordCollect,games2,5,48,250,200,0.50
+jeux-casual,WordCollect,chainlink game,5,36,250,28,0.75
+jeux-casual,WordCollect,wordcord,5,78,210,1,5.00
+jeux-casual,WordCollect,four word link game,5,65,250,19,0.83
+jeux-casual,WordCollect,word chains,5,73,248,27,0.76
+jeux-casual,WordCollect,letter connecting games,5,76,250,6,1.24
+jeux-casual,WordCollect,crosswordmania,5,,213,18,0.84
+jeux-casual,WordCollect,super brain cognitive games,5,80,250,133,0.54
+jeux-casual,WordCollect,letter matching game,5,,238,6,1.24
+jeux-casual,WordCollect,letter matching games,5,,243,14,0.91
+jeux-casual,WordCollect,palabras en español,5,,247,143,0.53
+jeux-casual,WordCollect,morning stacking,5,,244,110,0.56
+jeux-casual,WordCollect,tesk stacking,5,,250,160,0.52
+jeux-casual,WordCollect,track scrabble,5,86,250,70,0.61
+jeux-casual,WordCollect,day games,5,,249,28,0.75
+jeux-casual,WordCollect,gamr soft,5,35,242,12,0.96
+jeux-casual,WordCollect,tricky viral,5,,237,144,0.53
+jeux-casual,WordCollect,picker spin,5,36,250,123,0.54
+jeux-casual,WordCollect,entertainment superapp,5,,248,28,0.75
+jeux-casual,WordCollect,contest real,5,,180,170,0.51
+jeux-casual,WordCollect,letter slide,5,68,243,79,0.59
+jeux-casual,WordCollect,download best spelling app on google pla,5,,250,59,0.63
+jeux-casual,WordCollect,download best spelling app,5,92,250,142,0.53
+jeux-casual,WordCollect,block word game,5,,250,148,0.53
+jeux-casual,WordCollect,block letter,5,87,250,142,0.53
+jeux-casual,WordCollect,slide scramble,5,,232,49,0.66
+jeux-casual,WordCollect,letter tetris,5,85,250,58,0.63
+jeux-casual,WordCollect,word duel game,5,,248,118,0.55
+jeux-casual,WordCollect,ألعاب فكرية,5,,200,140,0.53
+jeux-casual,WordCollect,لعبة فكرية,5,,201,144,0.53
+jeux-casual,WordCollect,bigbrain games,5,,250,8,1.10
+jeux-casual,WordCollect,scrambler,5,,249,35,0.71
+jeux-casual,WordCollect,ztype typing game,5,81,250,36,0.70
+jeux-casual,WordCollect,friends word quiz,5,50,238,60,0.63
+jeux-casual,WordCollect,kelime oyunu bulmaca,5,,236,54,0.64
+jeux-casual,WordCollect,wordrift,5,,232,9,1.06
+jeux-casual,WordCollect,wordbound,5,,250,24,0.78
+jeux-casual,WordCollect,wordune,5,,247,4,1.49
+jeux-casual,WordCollect,dog behavior decoder,5,36,250,42,0.68
+jeux-casual,WordCollect,direction game,5,,249,54,0.64
+jeux-casual,WordCollect,scrabble%20score%20keeper,5,82,224,45,0.67
+jeux-casual,WordCollect,cryptogram number & word game,5,73,249,67,0.61
+jeux-casual,WordCollect,quiz words,5,89,246,40,0.69
+jeux-casual,WordCollect,earn rewards game,5,,217,68,0.61
+jeux-casual,WordCollect,snap spelling,5,50,241,99,0.57
+jeux-casual,WordCollect,word association games,5,,244,13,0.93
+jeux-casual,WordCollect,word connect word,5,,250,48,0.66
+jeux-casual,WordCollect,words jam,5,,250,21,0.81
+jeux-casual,WordCollect,word swap,5,,249,8,1.10
+jeux-casual,WordCollect,word tile jam,5,,240,69,0.61
+jeux-casual,WordCollect,games wordle,5,,239,16,0.87
+jeux-casual,WordCollect,countdown letters game,5,92,248,12,0.96
+jeux-casual,WordCollect,grade booster,5,94,249,42,0.68
+jeux-casual,WordCollect,twopics,5,,250,59,0.63
+jeux-casual,WordCollect,cipher cryptograms,5,,246,89,0.58
+jeux-casual,WordCollect,moxie: relaxing word game,5,,249,96,0.57
+jeux-casual,WordCollect,offline categorization,5,,250,37,0.70
+jeux-casual,WordCollect,nlp-based word detection,5,53,249,61,0.63
+jeux-casual,WordCollect,instant word meaning,5,75,248,25,0.77
+jeux-casual,WordCollect,complex word,5,,250,57,0.63
+jeux-casual,WordCollect,complex vocab,5,76,249,88,0.58
+jeux-casual,WordCollect,word complexity,5,72,248,20,0.82
+jeux-casual,WordCollect,colorwood game,5,60,234,76,0.60
+jeux-casual,WordCollect,impostor word,5,36,248,74,0.60
+jeux-casual,WordCollect,braingrid: word puzzle game,5,,250,105,0.56
+jeux-casual,WordCollect,quran word search,5,75,250,175,0.51
+jeux-casual,WordCollect,cred coins,5,54,249,64,0.62
+jeux-casual,WordCollect,kelime bulucu,5,,250,117,0.55
+jeux-casual,WordCollect,playsimple cryptogram,5,,249,64,0.62
+jeux-casual,WordCollect,word scramble quiz,5,96,249,5,1.34
+jeux-casual,WordCollect,game usa trend,5,,225,124,0.54
+jeux-casual,WordCollect,game trend,5,28,193,109,0.56
+jeux-casual,WordCollect,word on beat,5,56,249,30,0.74
+jeux-casual,WordCollect,word on beaty,5,,249,10,1.02
+jeux-casual,WordCollect,words order,5,,250,8,1.10
+jeux-casual,WordCollect,word guess – daily puzzle,5,47,233,15,0.89
+jeux-casual,WordCollect,wordstwo,5,50,250,104,0.56
+jeux-casual,WordCollect,hangman wordstwo,5,,248,108,0.56
+jeux-casual,WordCollect,wordscapes word,5,,248,27,0.76
+jeux-casual,WordCollect,word on the beat,5,60,248,63,0.62
+jeux-casual,WordCollect,daily word guess,5,61,237,59,0.63
+jeux-casual,WordCollect,daily word finde,5,53,238,8,1.10
+jeux-casual,WordCollect,word seal,5,,249,57,0.63
+jeux-casual,WordCollect,word guess puzzle,5,,228,31,0.73
+jeux-casual,WordCollect,word logic game,5,,225,24,0.78
+jeux-casual,WordCollect,think words puzzle,5,,243,17,0.86
+jeux-casual,WordCollect,think word,5,,246,21,0.81
+jeux-casual,WordCollect,word think,5,,243,31,0.73
+jeux-casual,WordCollect,say the word on beat game,5,36,250,34,0.71
+jeux-casual,WordCollect,kannada games,5,,249,116,0.55
+jeux-casual,WordCollect,word search kannada,5,,250,126,0.54
+jeux-casual,WordCollect,journey word,5,13,247,60,0.63
+jeux-casual,WordCollect,word retention,5,,248,46,0.67
+jeux-casual,WordCollect,calm word finder,5,73,250,28,0.75
+jeux-casual,WordCollect,monedas gratis,5,26,241,148,0.53
+jeux-casual,WordCollect,collect class,5,,250,159,0.52
+jeux-casual,WordCollect,guess the word offline game,5,82,250,5,1.34
+jeux-casual,WordCollect,link letters,5,81,250,144,0.53
+jeux-casual,WordCollect,spelling homework helper,5,66,249,164,0.52
+jeux-casual,WordCollect,spelling test & homework,5,69,249,134,0.54
+jeux-casual,WordCollect,spelling test & practice,5,73,249,149,0.53
+jeux-casual,WordCollect,spelling words & tests,5,70,249,102,0.56
+jeux-casual,WordCollect,spelling homework app,5,36,245,157,0.52
+jeux-casual,WordCollect,help with spelling homework,5,52,249,150,0.52
+jeux-casual,WordCollect,spelling tests for kids,5,44,248,125,0.54
+jeux-casual,WordCollect,create spelling tests,5,53,249,95,0.57
+jeux-casual,WordCollect,levels rewards,5,70,249,177,0.51
+jeux-casual,WordCollect,pics to word,5,,246,142,0.53
+jeux-casual,WordCollect,word puzle,5,,230,35,0.71
+jeux-casual,WordCollect,guess the word for kids,5,,241,22,0.80
+jeux-casual,WordCollect,test brain word,5,,234,164,0.52
+jeux-casual,WordCollect,daily word puzzle: 5 letter,5,14,241,16,0.87
+jeux-casual,WordCollect,daily word puzzle: 5-letter,5,,240,16,0.87
+jeux-casual,WordCollect,daily word puzzle – guess it,5,,242,26,0.76
+jeux-casual,WordCollect,code word game,5,,248,53,0.64
+jeux-casual,WordCollect,code word,5,,250,64,0.62
+jeux-casual,WordCollect,guess the word: offline game,5,74,250,5,1.34
+jeux-casual,WordCollect,figuritas mundial,5,57,250,65,0.62
+jeux-casual,WordCollect,easy word search free,5,,244,99,0.57
+jeux-casual,WordCollect,collection collect,5,,248,55,0.64
+jeux-casual,WordCollect,quiz palabras,5,68,249,15,0.89
+jeux-casual,WordCollect,no points,5,61,242,194,0.50
+jeux-casual,WordCollect,your promise,5,,242,178,0.51
+jeux-casual,WordCollect,football word game,5,72,237,109,0.56
+jeux-casual,WordCollect,word lover,5,62,248,12,0.96
+jeux-casual,WordCollect,mots-c,5,95,249,11,0.98
+jeux-casual,WordCollect,block super,5,,249,178,0.51
+jeux-casual,WordCollect,block addict,5,,243,236,0.49
+jeux-casual,WordCollect,unscramble letter,5,85,250,11,0.98
+jeux-casual,WordCollect,word srambling,5,,250,43,0.68
+jeux-casual,WordCollect,word scrambling,5,,243,15,0.89
+jeux-casual,WordCollect,word clue,5,,235,77,0.60
+jeux-casual,WordCollect,bekids reading - word games,5,,238,119,0.55
+jeux-casual,WordCollect,unscramble game,5,91,246,14,0.91
+jeux-casual,WordCollect,so much fun,5,,230,113,0.55
+jeux-casual,WordCollect,anagram solver pro,5,58,248,78,0.59
+jeux-casual,WordCollect,word finder for scrabble,5,75,249,16,0.87
+jeux-casual,WordCollect,scrabble word helper,5,86,250,17,0.86
+jeux-casual,WordCollect,word search for seniors,5,,246,73,0.60
+jeux-casual,WordCollect,letterboxd for games,5,,248,57,0.63
+jeux-casual,WordCollect,advance parole,5,,249,150,0.52
+jeux-casual,WordCollect,kataloop — game sambung kata,5,,248,20,0.82
+jeux-casual,WordCollect,szójáték,5,,232,67,0.61
+jeux-casual,WordCollect,oops world fun card game,5,,249,67,0.61
+jeux-casual,WordCollect,extract text offline,5,,250,98,0.57
+jeux-casual,WordCollect,pasapalabra para niños,,72,228,37,
+jeux-casual,WordCollect,spelling practice for adults,,,249,45,
+jeux-casual,WordCollect,adivina la palabra correcta,,76,244,33,
+jeux-casual,WordCollect,charades malay,,83,250,46,
+jeux-casual,WordCollect,funnier,,75,245,26,
+jeux-casual,WordCollect,6 yaş dikkat geliştirme oyunları,,85,250,91,
+jeux-casual,WordCollect,damenmode preis,,77,242,160,
+jeux-casual,WordCollect,damenmode tipps,,36,237,236,
+jeux-casual,WordCollect,herren mode look,,70,241,160,
+jeux-casual,WordCollect,top herren mode,,72,250,197,
+jeux-casual,WordCollect,cute games offline small mb,,70,250,78,
+jeux-casual,WordCollect,leerspellen,,86,249,82,
+jeux-casual,WordCollect,worms connect,,97,250,69,
+jeux-casual,WordCollect,familienwortspiel,,93,250,32,
+jeux-casual,WordCollect,training progressez,,44,247,164,
+jeux-casual,WordCollect,ersten wörter,,35,245,49,
+jeux-casual,WordCollect,forme semplici,,91,250,45,
+jeux-casual,WordCollect,elevspel,,91,250,81,
+jeux-casual,WordCollect,मुक्त करने के लिए,,55,199,161,
+jeux-casual,WordCollect,secara percuma,,85,217,40,
+jeux-casual,WordCollect,immediate connect,,80,242,198,
+jeux-casual,WordCollect,pasapalabra futbol,,83,250,56,
+jeux-casual,WordCollect,pasapalabra con amigos,,80,249,27,
+jeux-casual,WordCollect,pasapalabra easy,,93,250,46,
+jeux-casual,WordCollect,sorteios em ingles,,33,243,119,
+jeux-casual,WordCollect,caça-palavras,,90,250,44,
+jeux-casual,WordCollect,fragen mit freunden,,70,250,176,
+jeux-casual,WordCollect,level.redeme link,,83,220,105,
+jeux-casual,WordCollect,första person,,81,231,48,
+jeux-casual,WordCollect,günlük kelime oyunu,,85,240,115,
+jeux-casual,WordCollect,günlük kelime oyunları,,91,250,38,
+jeux-casual,WordCollect,daily lucky numbers,,,245,218,
+jeux-casual,WordCollect,Super paisa,,,246,147,
+jeux-casual,WordCollect,armar palabras,,69,247,11,
+jeux-casual,WordCollect,arvaa sana,,95,250,83,
+jeux-casual,WordCollect,il miglior gioco di parole,,73,242,40,
+jeux-casual,WordCollect,charade italiano,,58,243,62,
+jeux-casual,WordCollect,indovinare le parole,,60,232,30,
+jeux-casual,WordCollect,odgadnij słowa po polsku,,78,243,105,
+jeux-casual,WordCollect,słowa po polsku dla dzieci,,69,229,125,
+jeux-casual,WordCollect,kalambury słowne,,36,240,67,
+jeux-casual,WordCollect,gry w słowa po polsku,,70,246,153,
+jeux-casual,WordCollect,charader barn,,71,249,133,
+jeux-casual,WordCollect,roliga spel att spela,,96,250,192,
+jeux-casual,WordCollect,เกมเดาคำ,,66,249,87,
+jeux-casual,WordCollect,ทายคําบนหัวภาษาไทย,,78,250,116,
+jeux-casual,WordCollect,เกมทายคําบนหัวภาษาไทย,,58,248,134,
+jeux-casual,WordCollect,figgerits adivinhe palavra,,81,250,47,
+jeux-casual,WordCollect,figgerits adivinhe,,82,250,66,
+jeux-casual,WordCollect,tente adivinhar a palavra,,85,250,90,
+jeux-casual,WordCollect,guess right online game,,83,250,178,
+jeux-casual,WordCollect,devine tête français,,59,248,99,
+jeux-casual,WordCollect,pour deviner,,83,250,132,
+jeux-casual,WordCollect,devinne tête,,72,249,105,
+jeux-casual,WordCollect,guess reto diario,,59,244,163,
+jeux-casual,WordCollect,gioco sciarade,,72,249,71,
+jeux-casual,WordCollect,juego de identificar,,63,242,181,
+jeux-casual,WordCollect,program gimica,,,250,97,
+jeux-casual,WordCollect,fun weekend games,,77,249,63,
+jeux-casual,WordCollect,aivojasi,,57,239,70,
+jeux-casual,WordCollect,คำศัพท์ภาษาอังกฤษ,,67,247,59,
+jeux-casual,WordCollect,영어 단어,,92,250,90,
+jeux-casual,WordCollect,madness addictive,,,229,73,
+jeux-casual,WordCollect,brain-training letter,,,250,52,
+jeux-casual,WordCollect,tricky twist,,,243,97,
+jeux-casual,WordCollect,highly-rated classic,,,250,150,
+jeux-casual,WordCollect,slova,,74,250,64,
+jeux-casual,WordCollect,conexiones verdaderas,,93,250,238,
+jeux-casual,WordCollect,juego diario,,70,250,65,
+jeux-casual,WordCollect,juegos diarios,,72,249,14,
+jeux-casual,WordCollect,reto diario,,75,250,48,
+jeux-casual,WordCollect,bonding game,,75,250,24,
+jeux-casual,WordCollect,fun question,,93,186,118,
+jeux-casual,WordCollect,i̇ngilizce kelime oyunu,,89,250,30,
+jeux-casual,WordCollect,fun juicy game,,,239,68,
+jeux-casual,WordCollect,daly hikr,,,250,168,
+jeux-casual,WordCollect,word mint,,,250,65,
+jeux-casual,WordCollect,construir vocabulario,,75,250,73,
+jeux-casual,WordCollect,palabras nuevas,,85,250,76,
+jeux-casual,WordCollect,fichas vocabulario,,74,250,80,
+jeux-casual,WordCollect,palabras vocabulario,,60,250,89,
+jeux-casual,WordCollect,palabras del dia,,62,250,38,
+jeux-casual,WordCollect,palabras dia,,76,250,62,
+jeux-casual,WordCollect,juegos vocabulario,,54,244,31,
+jeux-casual,WordCollect,trivia palabras,,86,250,37,
+jeux-casual,WordCollect,como recordar palabras,,60,247,29,
+jeux-casual,WordCollect,como memorizar palabras,,69,250,21,
+jeux-casual,WordCollect,como ampliar vocabulario,,75,249,100,
+jeux-casual,WordCollect,เกม ภาษาอังกฤษ,,71,236,65,
+jeux-casual,WordCollect,spelling be,,,247,89,
+jeux-casual,WordCollect,number to word,,,250,115,
+jeux-casual,WordCollect,collect remember,,,249,103,
+jeux-casual,WordCollect,write collect,,,249,58,
+jeux-casual,WordCollect,form complete offline,,,250,179,
+jeux-casual,Sudoku,sudoku,68,44,250,50,8.88
+jeux-casual,Sudoku,juegos gratis,58,76,182,171,5.95
+jeux-casual,Sudoku,sudoku free no ads,56,46,248,53,7.22
+jeux-casual,Sudoku,sodoku,54,66,248,149,5.68
+jeux-casual,Sudoku,soduko,49,84,250,184,4.96
+jeux-casual,Sudoku,suduko,49,80,250,81,5.78
+jeux-casual,Sudoku,killer sudoku,47,75,249,213,4.64
+jeux-casual,Sudoku,sudoku no ads,43,71,250,92,4.95
+jeux-casual,Sudoku,soduku,42,72,250,177,4.28
+jeux-casual,Sudoku,sudoku free,40,76,249,44,5.38
+jeux-casual,Sudoku,free sudoku games,28,72,250,137,2.99
+jeux-casual,Sudoku,murder sudoku,28,26,247,220,2.75
+jeux-casual,Sudoku,imagen,23,94,242,210,2.28
+jeux-casual,Sudoku,binoxxo,20,45,247,171,2.05
+jeux-casual,Sudoku,color sudoku,20,57,232,215,1.97
+jeux-casual,Sudoku,sedoku,12,70,250,177,1.22
+jeux-casual,Sudoku,sudoko,9,85,250,196,0.90
+jeux-casual,Sudoku,sudoku offline,9,76,248,142,0.95
+jeux-casual,Sudoku,cat sudoku,9,13,245,17,1.55
+jeux-casual,Sudoku,free sudoku puzzle games,8,73,250,145,0.85
+jeux-casual,Sudoku,samurai sudoku,7,85,249,52,0.91
+jeux-casual,Sudoku,pencil,6,85,250,175,0.61
+jeux-casual,Sudoku,me again,6,95,250,198,0.60
+jeux-casual,Sudoku,sudoku free games,5,53,249,133,0.54
+jeux-casual,Sudoku,sudoku free puzzles,5,61,249,104,0.56
+jeux-casual,Sudoku,suduku,5,82,250,117,0.55
+jeux-casual,Sudoku,ever,5,100,250,203,0.50
+jeux-casual,Sudoku,sudoku solver,5,85,250,167,0.52
+jeux-casual,Sudoku,sudoku 2,5,80,250,98,0.57
+jeux-casual,Sudoku,hanjie,5,78,250,222,0.49
+jeux-casual,Sudoku,sudoku master,5,78,249,85,0.58
+jeux-casual,Sudoku,sudoku online,5,62,250,124,0.54
+jeux-casual,Sudoku,sudoku classic,5,75,248,130,0.54
+jeux-casual,Sudoku,option,5,91,248,213,0.49
+jeux-casual,Sudoku,sudo,5,89,246,199,0.50
+jeux-casual,Sudoku,ナンプレ,5,66,250,245,0.48
+jeux-casual,Sudoku,sudoku puzzles,5,83,250,147,0.53
+jeux-casual,Sudoku,sodoko,5,72,250,190,0.50
+jeux-casual,Sudoku,sudoku easy,5,62,250,85,0.58
+jeux-casual,Sudoku,daily sudoku,5,70,250,197,0.50
+jeux-casual,Sudoku,sudoku game,5,78,250,154,0.52
+jeux-casual,Sudoku,jenna,5,51,250,172,0.51
+jeux-casual,Sudoku,sudoku :),5,21,218,2,2.29
+jeux-casual,Sudoku,sandwich sudoku,5,53,248,92,0.58
+jeux-casual,Sudoku,futoshiki,5,70,250,159,0.52
+jeux-casual,Sudoku,sudoku ad free,5,69,249,70,0.61
+jeux-casual,Sudoku,free sudoku,5,73,250,131,0.54
+jeux-casual,Sudoku,enjoy sudoku,5,83,248,92,0.58
+jeux-casual,Sudoku,offline sudoku,5,81,250,139,0.53
+jeux-casual,Sudoku,games like sudoku,5,97,245,194,0.50
+jeux-casual,Sudoku,different sudoku,5,28,203,99,0.57
+jeux-casual,Sudoku,games such as sudoku,5,78,249,75,0.60
+jeux-casual,Sudoku,sudoku variations,5,83,250,99,0.57
+jeux-casual,Sudoku,sudoku alternative,5,72,250,63,0.62
+jeux-casual,Sudoku,sudoku puzzle,5,72,250,155,0.52
+jeux-casual,Sudoku,sudoku logic,5,53,250,133,0.54
+jeux-casual,Sudoku,sudoku brain,5,74,250,112,0.55
+jeux-casual,Sudoku,sudoku free puzzle,5,61,250,104,0.56
+jeux-casual,Sudoku,sudoku free without ads,5,43,250,71,0.61
+jeux-casual,Sudoku,sudoku free ad free,5,47,249,16,0.87
+jeux-casual,Sudoku,sudoku 9x9 pro games no ads - best sudoku game,5,34,250,110,0.56
+jeux-casual,Sudoku,sudoku trainer free,5,53,249,20,0.82
+jeux-casual,Sudoku,zadarmo,5,93,230,158,0.52
+jeux-casual,Sudoku,sudoku simple,5,68,250,172,0.51
+jeux-casual,Sudoku,sudoku AI factory,5,19,250,18,0.84
+jeux-casual,Sudoku,Sudoku.com - Classic Sudoku,5,3,250,64,0.62
+jeux-casual,Sudoku,Killer Sudoku - Sudoku Puzzle,5,2,233,71,0.61
+jeux-casual,Sudoku,oyunlar internetsiz,5,71,179,171,0.51
+jeux-casual,Sudoku,ajee,5,94,231,140,0.53
+jeux-casual,Sudoku,sudoj,5,8,250,159,0.52
+jeux-casual,Sudoku,number offline,5,35,238,233,0.49
+jeux-casual,Sudoku,ad free sudoku,5,70,249,46,0.67
+jeux-casual,Sudoku,sudoku super,5,1,250,227,0.49
+jeux-casual,Sudoku,sudoku Brain Game,5,46,30,27,0.76
+jeux-casual,Sudoku,キラーナンプレ,5,28,236,177,0.51
+jeux-casual,Sudoku,サムナンプレ,5,69,250,183,0.51
+jeux-casual,Sudoku,sudoku variants,5,66,250,57,0.63
+jeux-casual,Sudoku,windoku,5,32,249,189,0.50
+jeux-casual,Sudoku,greater-than sudoku,5,15,249,29,0.74
+jeux-casual,Sudoku,diagonal sudoku,5,51,249,45,0.67
+jeux-casual,Sudoku,logic wiz sudoku,5,75,249,70,0.61
+jeux-casual,Sudoku,the best sudoku game,5,53,250,23,0.79
+jeux-casual,Sudoku,the best sudoku app,5,74,250,10,1.02
+jeux-casual,Sudoku,arrow sudoku,5,76,249,42,0.68
+jeux-casual,Sudoku,math sudoku,5,46,250,108,0.56
+jeux-casual,Sudoku,no ad sudoku,5,58,249,50,0.65
+jeux-casual,Sudoku,samurai kakuro,5,49,250,219,0.49
+jeux-casual,Sudoku,sudoku cat,5,12,244,22,0.80
+jeux-casual,Sudoku,連結ナンプレ,5,30,239,181,0.51
+jeux-casual,Sudoku,dave green sudoku,5,7,250,15,0.89
+jeux-casual,Sudoku,Sudoku by Dave Green,5,51,248,33,0.72
+jeux-casual,Sudoku,sudoku dave green,5,57,248,11,0.98
+jeux-casual,Sudoku,Miinaharava,5,21,210,138,0.53
+jeux-casual,Sudoku,Beyond Sudoku,5,53,250,65,0.62
+jeux-casual,Sudoku,Better than Sudoku,5,60,250,42,0.68
+jeux-casual,Sudoku,campominato,5,53,249,197,0.50
+jeux-casual,Sudoku,miina harava,5,70,250,131,0.54
+jeux-casual,Sudoku,minesweeper solvable,5,20,190,161,0.52
+jeux-casual,Sudoku,sudoku like,5,70,250,92,0.58
+jeux-casual,Sudoku,sudoku-like,5,28,236,192,0.50
+jeux-casual,Sudoku,sudoku mechanics,5,,250,43,0.68
+jeux-casual,Sudoku,sodoku game,5,79,250,162,0.52
+jeux-casual,Sudoku,sodoku offline,5,36,250,156,0.52
+jeux-casual,Sudoku,soduko solver,5,30,239,185,0.51
+jeux-casual,Sudoku,رقم,5,91,234,206,0.50
+jeux-casual,Sudoku,greater than sudoku,5,71,247,27,0.76
+jeux-casual,Sudoku,strategy sudoku,5,45,248,52,0.65
+jeux-casual,Sudoku,sudoku variant,5,75,250,89,0.58
+jeux-casual,Sudoku,suoku,5,31,250,174,0.51
+jeux-casual,Sudoku,quit sodium,5,70,250,148,0.53
+jeux-casual,Sudoku,penpa;,5,23,248,136,0.53
+jeux-casual,Sudoku,sudoku solve,5,86,249,121,0.55
+jeux-casual,Sudoku,sudoku binary,5,76,248,79,0.59
+jeux-casual,Sudoku,wordoku,5,83,250,85,0.58
+jeux-casual,Sudoku,skko,5,25,217,140,0.53
+jeux-casual,Sudoku,masyu puzzle,5,,232,152,0.52
+jeux-casual,Sudoku,1193508329,5,,229,66,0.62
+jeux-casual,Sudoku,brain sudoku,5,65,250,152,0.52
+jeux-casual,Sudoku,classic sudoku offline,5,70,249,102,0.56
+jeux-casual,Sudoku,sudoku official,5,79,249,14,0.91
+jeux-casual,Sudoku,sudoku number master,5,56,250,177,0.51
+jeux-casual,Sudoku,sudoko no ads,5,79,250,82,0.59
+jeux-casual,Sudoku,addoku,5,,249,109,0.56
+jeux-casual,Sudoku,sudoku battle,5,76,248,101,0.56
+jeux-casual,Sudoku,mobile sudoku,5,,250,20,0.82
+jeux-casual,Sudoku,sudoku puzzle daily,5,,250,80,0.59
+jeux-casual,Sudoku,sudoku hard rules,5,,236,181,0.51
+jeux-casual,Sudoku,smart sudoku,5,55,250,215,0.49
+jeux-casual,Sudoku,sudoku for free,5,72,250,63,0.62
+jeux-casual,Sudoku,crime sudoku,5,,250,220,0.49
+jeux-casual,Sudoku,ubanku,,84,248,223,

@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (20 clusters, ~105 000 mots-clés)
+## Clusters sondés (28 clusters, ~147 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -35,6 +35,20 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 | watch-faces | `watch-faces.csv` | 1 999 | watch faces | 🟢 Déjà approfondi |
 | peche-pleinair | `peche-pleinair.csv` | 910 | fishing | 🟡 |
 | challenges-75j | `challenges-75j.csv` | 640 | 75 hard | 🟢 Déjà validé |
+
+### Nouveaux clusters sondés le 30/08 (8 ajoutés)
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| psychologie-mental | `psychologie-mental.csv` | 10 777 | ADHD planner, anxiety, CBT | 🟢 À approfondir |
+| langues-apprentissage | `langues-apprentissage.csv` | 6 997 | learn spanish, japanese, duolingo | 🟢 À approfondir |
+| femmes-sante | `femmes-sante.csv` | 6 819 | pregnancy, period, menopause | 🟢 À approfondir |
+| regimes-specifiques | `regimes-specifiques.csv` | 6 327 | keto, carnivore, paleo, fasting | 🟢 À approfondir |
+| outils-telephone | `outils-telephone.csv` | 5 190 | TV remote, screen mirror, connect PC | 🟡 |
+| jeux-casual | `jeux-casual.csv` | 3 510 | chess, mahjong, solitaire, word, sudoku | 🟢 À approfondir |
+| seniors-sante | `seniors-sante.csv` | 2 432 | brain training, senior fitness | 🟢 À approfondir |
+| motion-games | `motion-games.csv` | 269 | Just Dance like | 🟡 |
+
+**TOTAL : 28 clusters sondés, ~147 000 mots-clés bruts.**
 
 ## Lecture des scores
 - **Popularity** : demande réelle. ≥40 = forte, ≥30 = minimum intéressant, <25 = faible.
