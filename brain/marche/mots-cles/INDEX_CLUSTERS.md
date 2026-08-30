@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (56 clusters, ~276 000 mots-clés)
+## Clusters sondés (60 clusters, ~340 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -133,6 +133,27 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 - **La vraie opportunité = l'IA math (résolveur de devoirs)** : demande réelle (53-57), comp
   modérée (54-63), stack RN + IA faisable, marché en croissance (Photon/Gauth/studdy).
 - Best-seller : Brainly (aide devoirs, très gros), Photomath (IA math, géant), Gauth (IA, croissance).
+
+### Nouveaux clusters sondés le 30/08 (vague 12) — création contenu / DIY / hobbies / jeux société
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| creation-contenu-rs | `creation-contenu-rs.csv` | 58 953 | faceapp (65/65), pic collage (64/71), inShot/capcut/canva | 🟢⭐ À approfondir |
+| jeux-societe | `jeux-societe.csv` | 2 479 | heads up (68/59), free games for adults (60/53), word games (62/58) | 🟢 À approfondir |
+| diy-design | `diy-design.csv` | 2 668 | logo maker, mockup, interior design | 🟡 |
+| hobbies-depense | `hobbies-depense.csv` | 1 536 | dji fly (62/53), vivino (48/72), total wine | 🟡 |
+
+**TOTAL : 60 clusters sondés, ~340 000 mots-clés bruts.**
+
+## 🎨 ANALYSE RAPIDE — création contenu / DIY / hobbies
+- **creation-contenu-rs — Note 7/10** : marché ÉNORME (CapCut/Canva/Picsart géants), 241 pépites.
+  Sous-niches battables : faceapp, pic collage, texter, reels editor, emoji/stickers. RN faisable.
+  Inconvénients : éditeurs vidéo = techniques ; concurrence massive des géants ; monétisation
+  freemium/abonnement.
+- **jeux-societe — Note 7/10** : heads up, word games, crossword, party games. Dépense réelle
+  (Scrabble, Kahoot, NYT). RN 2D faisable.
+- **diy-design — Note 5/10** : petits volumes (5 pépites). Logo maker/mockup = outil de niche.
+- **hobbies-depense — Note 6/10** : drones (DJI), vin (Vivino/Total Wine), whisky. Budget élevé
+  chez l'utilisateur mais apps leaders établies.
 
 **TOTAL : 51 clusters sondés, ~230 000 mots-clés bruts.**
 
