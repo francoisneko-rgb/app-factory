@@ -1,17 +1,17 @@
 {
-  "id": 6746784659,
-  "appId": "com.her75.app",
-  "title": "Her 75",
-  "url": "https://apps.apple.com/us/app/her-75/id6746784659?uo=4",
-  "description": "Her 75: the app to complete a 75-day challenge with your friends and see your friends to-do lists in real time.\n\nBegin your transformation through challenges such as: \n\n- 75 Soft \n- 75 Medium\n- 75 Day Hard\n- Glow Within\n-  Better Me\n- Sugar Free\n- Mental Wellness\n\n\nYou can also create your own custom challenge.\n\nEach day, you can track your water intake, check off your personalized to-do list, and your tasks are fully customizable.\n\nHer 75 Subscription Plan :\n\n- Weekly: $7.99\n- Monthly: $14.99\n- Yearly: $49.99\n\nPayments and Renewal: \n\n* Payment will be charged to your Apple ID account at the confirmation of purchase.\n* Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.\n* Your account will be charged for renewal within 24 hours before the end of the current period.\n* You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase.\n* No cancellation of the current subscription is allowed during the active subscription period.\n\nPrivacy Policy – https://defiant-price-541.notion.site/Privacy-Policy-2175c452c61a80af9976c080a6ecdd8c?source=copy_link\n\nSubscription Terms – https://defiant-price-541.notion.site/Subscription-Terms-2175c452c61a809bbec7e9943ae4a4bd?source=copy_link\n\nTerms of Use – https://defiant-price-541.notion.site/Terms-of-Service-2175c452c61a80b48e3bf74493783ed3",
-  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/50/99/3a50997d-370c-b060-de25-d8d8799c8505/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "id": 6450723685,
+  "appId": "com.impact.apps.BeHard",
+  "title": "75 Days Challenge Tough & Soft",
+  "url": "https://apps.apple.com/us/app/75-days-challenge-tough-soft/id6450723685?uo=4",
+  "description": "BeHard is the app for the 75 Days Challenge, a self-improvement and fitness program that requires participants to complete specific tasks for 75 consecutive days. The app helps you stay on track with your challenge by tracking your progress, providing motivation, and connecting you with other participants.\n\nBeHard is free to download. Some features—such as reminders, insights, unlimited AI coach, and other premium tools—require a paid BeHard Pro subscription.\n\nBeHard Pro subscription plan:\n* Monthly: $12.99\n* Annual: $39.99\n\nPayments and Renewal:\n* Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n* Account will be charged for renewal within 24-hours prior to the end of the current period.\n* You can manage or turn off auto-renew in your Account settings at any time after purchase\n* No cancellation of the current subscription is allowed during the active period.\n\n\nPrivacy Policy - https://firebasestorage.googleapis.com/v0/b/behard-39e84.appspot.com/o/legal-docs%2FBeHard-privacy-policy.html?alt=media&token=e05e95a4-b8e3-4f75-abb2-9fca8bff000e\n\nSubscription terms - https://firebasestorage.googleapis.com/v0/b/behard-39e84.appspot.com/o/legal-docs%2FBeHard-subscription-terms.html?alt=media&token=a8e15fb3-7794-4187-bb66-242c0ca7b8d8\n\nTerms of service - https://firebasestorage.googleapis.com/v0/b/behard-39e84.appspot.com/o/legal-docs%2FBeHard-terms-of-use.html?alt=media&token=d1548142-e991-4ce7-af86-849f8e4a2a4e",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/55/06/865506d6-3025-2e45-b76b-d0eeef702795/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
   "genres": [
     "Health & Fitness",
-    "Social Networking"
+    "Productivity"
   ],
   "genreIds": [
     "6013",
-    "6005"
+    "6007"
   ],
   "primaryGenre": "Health & Fitness",
   "primaryGenreId": 6013,
@@ -19,36 +19,36 @@
   "languages": [
     "EN"
   ],
-  "size": "131811328",
-  "requiredOsVersion": "15.1",
-  "released": "2025-06-27T07:00:00Z",
-  "updated": "2026-07-07T05:37:58Z",
-  "releaseNotes": "fix minor bugs and design",
-  "version": "1.0.29",
+  "size": "357431296",
+  "requiredOsVersion": "15.0",
+  "released": "2023-07-07T07:00:00Z",
+  "updated": "2026-06-30T17:37:17Z",
+  "releaseNotes": "Thanks for using BeHard, the #1 life-reset app to get your life together, with a range of tools and features designed to help you build better habits, stay productive, and transform your daily routine for a healthier, more focused life.\n\nWhat’s New\n• Bug fixes and performance enhancements & Minor UI updates for a better experience",
+  "version": "2.14.50",
   "price": 0,
   "currency": "USD",
   "free": true,
-  "developerId": 1847389319,
-  "developer": "My Viral Agent",
-  "developerUrl": "https://apps.apple.com/us/developer/my-viral-agent/id1847389319?uo=4",
-  "score": 4.81673,
-  "reviews": 4938,
-  "currentVersionScore": 4.81673,
-  "currentVersionReviews": 4938,
+  "developerId": 1694620657,
+  "developer": "BeHard, Inc.",
+  "developerUrl": "https://apps.apple.com/us/developer/behard-inc/id1694620657?uo=4",
+  "developerWebsite": "https://www.behard.co",
+  "score": 4.82458,
+  "reviews": 8625,
+  "currentVersionScore": 4.82458,
+  "currentVersionReviews": 8625,
   "screenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/48/70/06487086-7270-69c2-72e2-49e11f0cc973/App_Store_Her_75__U00282_U0029.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/8b/3f/8c8b3f74-ba47-5128-a35e-c47a6a8d478d/2.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/ab/dc/21abdc07-1ea7-ca13-2072-b7fa2cc5db12/7.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/b2/65/c9b2658d-cb36-6c92-2429-385498613cba/8.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/b0/24/34b0242c-e62a-3065-75cb-bbc2eb1df089/5.png/320x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/42/f8/ea42f8d0-8c02-9def-f359-6c5ad8a160d2/9.png/320x480bb.jpg"
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/b6/2e/17b62e31-8023-fb1e-1005-5ffa88f3ea78/624812c2-dbf0-43b1-ad95-df0aa4f116e2_Frame_1976.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/1d/29/291d2909-ad06-8e32-22fd-eb1cf9bf11e8/6b2cb847-28d1-43a4-9cbe-6688fdaf3d8b_Frame_1966.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/d1/52/1bd152a2-7bde-c32f-e264-41c8b4b5e319/a8e11d2c-1113-41ac-84f8-b7c4ff82861e_Frame_1968.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/45/78/b34578c3-2a70-cb8b-2a52-4bec414050b4/f03df8c0-5a89-40c7-aa57-203e6aa7e622_Frame_1969.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/7e/1e/107e1eae-9243-cb9f-8b7c-837ede7a8ad1/a75ac64e-31a0-4849-8d53-6d9d22e8e1ad_Frame_37115.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/0e/b2/960eb2e6-00ad-8dea-8a10-45c91d69a198/0fb15315-d48c-4045-9b6d-1bcbe829c8cf_Frame_37117.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/20/47/ae2047d9-2905-6b0e-1fe4-76f4e5aa0552/9ba21293-6da8-4f1e-bbc9-e68f61211d9c_Frame_1971.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/fb/90/c7fb904c-dbcd-016a-c55c-5e318cba7987/a09ed802-e864-4aae-be59-aac5cd09a0b1_Frame_37116.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/25/1d/01251da7-0097-9fd1-30ee-67fc3d0a8a9f/9cc02020-56d1-4d17-abe5-182e6ee83a25_Frame_1970.png/392x696bb.png",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/37/11/f8371194-f548-b82b-b8ec-a5a1cd138dc0/46885110-cb6c-4ed6-8fb3-126dc3b2701c_Frame_1972.png/392x696bb.png"
   ],
-  "ipadScreenshots": [
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/4e/39/c34e397d-30f2-d668-f57a-5eee191a1cf7/1.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/16/1f/b2161fc9-388a-e9b4-018d-1cbeaec27ee0/2.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/5d/4d/d05d4d54-cf9c-bc5e-d58e-360a3c9f9212/3.png/360x480bb.jpg",
-    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/0c/2f/ad0c2fba-548a-6710-44a5-a78fe81e3cb2/4.png/360x480bb.jpg"
-  ],
+  "ipadScreenshots": [],
   "appletvScreenshots": [],
   "supportedDevices": [
     "iPhone5s-iPhone5s",

@@ -68,3 +68,97 @@ Sur les 164 pépites du cluster, voici celles où on peut RÉELLEMENT entrer :
 
 > Prochaine étape si validé : récupérer les données Appfigures (revenus/sources) des apps leaders
 > de LA sous-niche choisie (ex. les 5 top "girl games" / "coloring kids"), comme fait pour meal-prep.
+
+---
+
+## 8. ANALYSE APPROFONDIE (2026-08-30) — My Princess Coloring & Toca Boca World
+
+### Données récupérées (dossier `references/jeux-educatifs-enfant/`)
+| App | Metadata | Screenshots | Avis | Revenus Appfigures (juil. 2026) |
+|---|---|---|---|---|
+| My Princess: Coloring Book 2+ (id 1172682750, KIDEO) | ✅ | 9 (8 + icône) | 3 | **$5K/mois**, 5K dl — **IAPs** |
+| Toca Boca World (id 1208138685, Toca Boca AB) | ✅ | 9 (8 + icône) | 11 | **$8M/mois**, 6M dl — **IAPs, Ads** |
+
+> ⚠️ L'ID fourni 296657045 n'existe pas (404). Toca Boca World = **1208138685**.
+> ⚠️ My Princess Coloring n'a que 3 avis visibles (peu de reviews US) — signal de faible traction
+> sur iOS US malgré un catalogue présent.
+
+### My Princess: Coloring Book 2+ — ce qu'il fait exactement
+- **Coloring book de princesses** (50+ pages) + activités : dress-up, art nails, puzzles,
+  lavage de vaisselle/vêtements, gâteaux d'anniversaire. 25 langues. Sorti 2016 (dernière MAJ
+  2023 = **quasi abandonné**). Note 4.15 (faible).
+- Monétisation : IAPs (packs de déblocage).
+
+### Toca Boca World — ce qu'il fait exactement
+- **Monde ouvert de jeu libre** (open-ended play) : personnaliser bâtiments, personnages,
+  vêtements, animaux ; 40+ mini-mondes (Toca Life fusionnés). Aucune règle, imagination libre.
+- Sorti 2018, mis à jour 2026-08 (très actif). Note 4.28. 21 langues. **6M dl/mois, $8M/mois**.
+- Monétisation : **IAPs (packs de contenu, maisons, vêtements) + Ads**.
+
+### Voix des utilisateurs — My Princess Coloring (ce qui fait rêver)
+1. **"Best game ever, we can draw, dress up and lots more"** — le combo coloriage+dress-up plaît
+   aux petites filles (vocabulaire exact de la sous-niche `girl games`).
+2. Cible 2+ ans : adapté tout-petits.
+
+### Voix des utilisateurs — My Princess Coloring (plaintes = opportunités)
+1. **"Paying still doesn't unlock everything"** — l'achat "full access" ne débloque pas tout :
+   **perçu comme un scam** (1 des 3 avis). Leçon : un paywall confus détruit la confiance parentale.
+2. **Trop de choses derrière "PRO"** : "all the good stuff you have to pay for or subscribe".
+3. **App quasi abandonnée** (dernière MAJ 2023) → terrain ouvert pour un produit vivant.
+
+### Voix des utilisateurs — Toca Boca World (ce qui fait rêver)
+1. **Créativité sans limites** : "lets me be really creative", "hours designing houses,
+   roleplaying alone/with people".
+2. **Personnalisation profonde** : piercings, cheveux teints, déco maison, vêtements.
+3. **Joué en famille/entre sœurs** ("my sister and I play 5 hours every week") — social bonding.
+4. Free gifts + customisation de personnages = boucle de récompense.
+5. Énorme loyauté : joueurs depuis l'enfance ("played since I was two or three").
+
+### Voix des utilisateurs — Toca Boca World (plaintes = opportunités)
+1. **BUG DE RESET / perte de progression** — LA plainte massive : "all my progress got deleted",
+   "my world reset, I cried for hours", "limited items, clothes, house accessories GONE".
+   Les achats sont sauvés mais PAS la création → **faille de confiance énorme**.
+2. **Crashes à l'ouverture** : "the app just closes out whenever I tried to open it" (récent).
+3. **Pas de search bar dans Home Designer** : impossible de retrouver un pack spécifique.
+4. **Demandes de features** : bijoux/earrings, changement de couleur des vêtements, maisons
+   gratuites, >5 personnages sans payer, bracelets.
+5. **Prix des packs** : "I don't want to spend money", paywall des packs de contenu.
+
+### Synthèse monétisation
+- **Toca Boca World** : IAPs de contenu massifs (packs maisons/vêtements/mondes) + Ads.
+  **$8M/mois = le mastodonte incontestable** (6M dl, $1.3/dl). Monétisation "cosmétique/extension"
+  très bien acceptée (le jeu de base est gratuit, on achète des extensions).
+- **My Princess** : IAPs de déblocage confus → $5K/mois. Modèle raté.
+- Leçon : dans l'éducatif enfant, les parents paient pour du contenu-extension quand le cœur est
+  gratuit, PAS pour un paywall de fonctionnalités.
+
+### Stack RN + difficulté
+- **Coloring/dress-up pour filles** : RN 2D (dessin = Skia, coloriage remplissage, stickers,
+  habillage). Complexité **2.5/5**. Le coût = les assets (50+ pages de coloriage de qualité).
+- **Toca-like (monde ouvert)** : RN possible en 2D mais Toca = moteur maison + équipe massive.
+  **NE PAS imiter en frontal** — c'est un produit de studio.
+- La difficulté réelle : **contenu enfants de qualité** (illustrations, sons) + **confiance des
+  parents** (pas de paywall trompeur, pas de data kids).
+
+### Ce qu'il faudrait faire (sous-niche précise recommandée)
+1. **Jeu de coloriage/dress-up princesses pour filles 3-6 ans** : reprendre le créneau My Princess
+   (demande `girl games 61/34`, `princess 52/67`) mais avec :
+   - **Paywall honnête** (pack complet one-shot $4.99, tout débloqué — leçon My Princess) ;
+   - **MAJ régulières** (My Princess est abandonné depuis 2023) ;
+   - Zéro pub (parents) ou pub optionnelle récompensée.
+2. **Angle "no wifi / offline"** : `offline games 72/45`, `no wifi games 65/69` — les parents
+   veulent des jeux sans connexion (voyages). Sous-exploité par Toca (exige du réseau pour les
+   achats mais le jeu offline est un argument ASO).
+3. **Éviter** : le monde ouvert façon Toca (impossible à égaler), les plateformes curriculum
+   (Lingokids/ABCmouse).
+4. Monétisation : **freemium + pack one-shot $4.99** ou abo parent $3.99/mois, JAMAIS de paywall
+   trompeur (le plus gros risque réputationnel du marché, prouvé par My Princess).
+
+### Verdict
+- **Note : 7/10** sur la sous-niche **coloriage/dress-up filles** (demande réelle 34-67, produit
+  abandonné chez KIDEO = terrain ouvert, stack RN 2.5/5).
+- **Toca Boca World = 9/10 mais INABATTABLE** : ne pas y toucher frontalement. Ses bugs de reset
+  sont une opportunité indirecte : un produit qui NE PERD JAMAIS la progression des enfants a un
+  argument de confiance parental énorme (à mettre en avant dans l'ASO).
+- Verdict global : la sous-niche princess/coloring est la plus prenable ; le contenu (assets
+  filles 4-7 ans) et la confiance parentale sont les vrais investissements.

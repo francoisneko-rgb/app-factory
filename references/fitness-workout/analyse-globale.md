@@ -52,3 +52,33 @@ progression, programmes, (option) vidéos. Marché MASSIF et très monétisé.
 - **Note : 7.5/10** (demande massive + monétisation prouvée) MAIS **géants très forts**.
 - À faire UNIQUEMENT avec un angle de niche précis, pas en frontal contre Hevy/Fitbod.
 - Stack RN parfaitement adapté.
+
+---
+
+## 9. ANALYSE APPROFONDIE (2026-08-30) — HEVY (la référence à copier)
+
+### Hevy — ce qu'il fait exactement
+- **Tracker d'entraînement poids** : log de séries/reps/poids, routines, historique, graphiques
+  de progression, communauté, exercices avec démo de forme, Apple Watch (complications + input
+  poids/reps sur la montre), création d'exercices personnalisés.
+- **Modèle** : gratuit + Pro. **Lifetime disponible** (très apprécié — "PLEASE don't remove this
+  option, its value is unbelievable") + abo ~$2-6/mois.
+
+### Ce que les avis disent (points forts à copier)
+1. **Simplicité + UI propre** (cité partout : "simple UI", "easy to use").
+2. **Lifetime purchase** = différenciateur ÉNORME vs abonnements forcés.
+3. **Apple Watch** (complications, input sur montre) = très demandé.
+4. **Démo de forme des exercices** (beginner friendly) + création d'exercices custom.
+5. **Label drop sets / failure sets / supersets** — les apps sérieuses le veulent.
+6. **Sync iPhone/iPad + communauté** (engagement).
+7. **Prix bas** ($2/mois) = accessible.
+
+### Les plaintes / opportunités (ce que les concurrents ratent)
+- "Others could easily catch up" → le marché n'est pas fermé si on est meilleur sur UN point.
+- Manque cité (senior user) : certaines fonctionnalités avancées.
+- → **Angle gagnant** : un workout tracker SIMPLE + lifetime + watch, mais ciblé sur UNE
+  sous-niche (femmes, seniors, poids de corps, réhab) plutôt qu'affronter Hevy sur le général.
+
+### Screenshots & avis
+- `references/fitness-workout/screenshots-hevy/` · `screenshots-strong/`
+- `references/fitness-workout/hevy.avis-ios.json` (10 avis détaillés)

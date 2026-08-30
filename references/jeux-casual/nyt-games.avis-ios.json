@@ -1,0 +1,65 @@
+{
+  "count": 10,
+  "reviews": [
+    {
+      "title": "Confessions of an English Opium Eater",
+      "review": "The pleasures of the New York Times crossword do not in fact rival the raptures described by Thomas De Quincey, and they are consequently much less dangerous, but they are considerable, nonetheless, and I fear I spend too much time with them. Besides that, the chief of my confessions is that I routinely turn on autocheck if a puzzle is more than a day old. I also use Google freely. I am strict, however, in doing real searches for the information I need. Any result that includes the word “crosswo",
+      "rating": 23,
+      "updated": "03/31/2022"
+    },
+    {
+      "title": "NY Times online crossword puzzle app",
+      "review": "For $2 or $3, you get access to the archive of the daily puzzle in addition to all the Monday through Sunday puzzles as they come out. A gold star is availablefor each new puzzle that you complete on the day of its issue. It’s an addictive feature that has kept me completing the puzzles each day now for the past two months and counting. Other collections of themed puzzles are available for nominal fees. The included archive alone looks to be enough to keep me occupied for several years to come, ",
+      "rating": 23,
+      "updated": "10/31/2017"
+    },
+    {
+      "title": "Fun and Frustrating!!",
+      "review": "Well, the nature of crossword puzzles is definitely fun but it is definitely frustrating too! I enjoy this app a lot and my only comments are that there are times when there are errors, or maybe they’re built in traps to make you think harder, however I can’t really be sure about that, only the puzzle creator actually knows. When you know you have the right words in the right spaces and some of the words just don’t compute correctly in a way that simply cannot be reconciled, something is going o",
+      "rating": 23,
+      "updated": "02/27/2024"
+    },
+    {
+      "title": "Pipsqueak",
+      "review": "Pips should be a fun game but the UI/UX is terrible. The pieces are at the bottom of the screen, so when you drag them up to the board it’s very easy to trigger an iPhone’s active app browser function. The game makers don’t have iPhones? They didn’t hear that they got rid of home buttons and now you swipe up from the bottom to switch apps?And why have the pieces so far from the board in the first place? It makes the game harder because of another design flaw: if I’ve placed a piece and then want",
+      "rating": 23,
+      "updated": "Apr 18"
+    },
+    {
+      "title": "DON’T BITE",
+      "review": "I used to subscribe to the NYT, I enjoyed playing all of the games they offered.  No doubt that the quality of the game app is great.  I have a problem with transparency in the sales of the app.  I reviewed all the qualifiers which appear in the App Store, I dug deeper into the NYT developer qualifiers as well.  They mentioned no amount to download and play the app.  In fact they go so far as to state that should they decide to charge for the app they will give notice of any pricing changes in a",
+      "rating": 23,
+      "updated": "03/23/2024"
+    },
+    {
+      "title": "A new UI change lessens the experience features-wise.",
+      "review": "The new UI update follows the modern trend of improving aesthetic but ignoring the end user. Interest in a shiny toy fast wears thin. A revamp of app design is sometimes very welcome (possibly even necessary in the interest of security), and would’ve been in this case if some features weren’t removed. The previous UI (of which the screenshots currently on the App Store show) had two excellent features to keep me engaged with the app well beyond the daily crossword. The first was a random selecti",
+      "rating": 23,
+      "updated": "02/09/2024"
+    },
+    {
+      "title": "Good but has a ways to go",
+      "review": "Overall this app is pretty good, and the games within are fun, but there are a handful of annoyances that I really wish they would address, mostly boiling down to how every game feels like a completely isolated/separate experience. 1️⃣ Why is Vertex still not added? It's really annoying having to do all but 1 game in the app, then switch to the browser just to do Vertex. 2️⃣ Why is the friends list/leaderboard only for the Mini crossword? It would be great to see how my friends did in Wordle, th",
+      "rating": 23,
+      "updated": "07/22/2024"
+    },
+    {
+      "title": "Good app; wish I could access all games",
+      "review": "Good app that is best for crossword (which I understand is the primary purpose of said app). I play the Bee a lot and find small glitches. There’s a slight delay in syncing across devices. I usually have to close and re open the app for the bee to reset for the new game the next day. Regarding crosswords, functionality works great. My biggest critique is that when clicking the info button, the app will re route to an in-app page of information and will also re route to a browser page outside of ",
+      "rating": 23,
+      "updated": "02/13/2022"
+    },
+    {
+      "title": "Good puzzles and app, subscription terms are a bold-faced lie",
+      "review": "I bought a subscription for the puzzles in the app, under the impression that the subscription works on the website as well for use on my MacBook. Where did I get that impression? Directly on the sign-up page in the app, where it states that this is possible. There is even a step-by-step guide on the NYT website on how to access your iTunes subscription by linking your account. When I did this, however, I discovered that it does not transfer any information at all to the web. I talked to a NYT c",
+      "rating": 23,
+      "updated": "02/24/2021"
+    },
+    {
+      "title": "This apps bugs are driving me crazy",
+      "review": "I’ll start by saying I love the nyt crossword dearly, I solve it every evening with my partner, sometimes with more of the family sometimes not. I always airplay from my phone to the living room apple TV for the party mode display. Recently, as of this current update, so ~2 weeks or so, the party mode interface is egregiously broken. The across clues display as duplicated down clues, so it is utterly impossible to effectively solve it without an immense amount of tinkering to force the app to ju",
+      "rating": 23,
+      "updated": "10/13/2022"
+    }
+  ]
+}
