@@ -210,3 +210,174 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 
 > Prochaine étape suggérée : choisir 1-2 de ces clusters → analyse concurrentielle approfondie
 > (rankings, revenus, avis, screenshots) → PRD.
+
+---
+
+# 📋 FICHES DÉTAILLÉES PAR CLUSTER — note, faisabilité, inconvénients
+
+> **Note /10** = synthèse (demande × concurrence × monétisation × faisabilité RN).
+> **Best-seller** = leader du marché avec REVENU RÉEL mesuré (Appfigures, si connu) — absent si pas de data fiable.
+> **Stack RN** = modules natifs nécessaires au-delà du RN pur.
+
+## CHALLENGES 75 JOURS — ⭐ Note 8/10
+- **Genre** : tracker d'habitudes/challenge quotidien (checklists, streaks, rappels, calendrier 75 jours).
+- **Stack RN** : pur RN + notifs locales. Complexité 1/5.
+- **Inconvénients** : marché saisonnier/effet de mode ; beaucoup de clones ; monétisation difficile sans
+  contenu premium ; l'utilisateur sature du concept après 1-2 challenges.
+- **Best-seller** : 75 Hard officiel ~$15K/mois (mais noté 2.5★ → ouvert), BeHard 75 Days ~$65K/mois.
+
+## TIMERS SPORT (interval/tabata/boxing/darts/crossfit) — ⭐ Note 8/10
+- **Genre** : minuteurs spécialisés sport (rounds boxe, EMOM, tabata, scorekeepers darts/volley).
+- **Stack RN** : pur RN + audio (cloche). Complexité 1/5.
+- **Inconvénients** : faible valeur perçue → monétisation limitée (freemium/pub) ; concurrence de
+  timers génériques gratuits (Apple) ; marché de niche (pas massif).
+- **Best-seller** : Interval Timer ~$50K/mois.
+
+## WORKOUT PLANNER / FITNESS — ⭐ Note 7.5/10
+- **Genre** : planificateur d'entraînement (plans, séances, progression, logs, vidéos).
+- **Stack RN** : RN + vidéos + éventuellement HealthKit. Complexité 2-3/5.
+- **Inconvénients** : concurrence ÉNORME des géants (Fitbod $2M, Hevy $1M, Strong $510K) ;
+  nécessite contenu de qualité (vidéos/exercices) ; rétention difficile (l'utilisateur arrête).
+- **Best-seller** : Fitbod ~$2M/mois, Hevy ~$1M/mois, Strong ~$510K/mois.
+
+## MEAL PREP PLANNER — ⭐ Note 8/10 (déjà approfondi)
+- **Genre** : planification de repas + recettes + liste de courses + macros.
+- **Stack RN** : RN + API nutrition + éventuellement IA (import recettes). Complexité 3/5.
+- **Inconvénients** : contenu recettes = travail éditorial constant ; leaders établis depuis 7-13 ans ;
+  ReciMe ($3M) impose la barre de l'import IA ; coût d'acquisition des recettes.
+- **Best-seller** : ReciMe ~$3M/mois, eMeals ~$65K, Mealime ~$55K, MealPrepPro ~$50K.
+
+## WATCH FACES — ⭐ Note 7.5/10 (déjà approfondi)
+- **Genre** : galerie de cadrans Apple Watch + créateur de faces (photos, complications).
+- **Stack RN** : RN + module natif watchOS (WatchKit) + WebView/galerie. Complexité 3/5.
+- **Inconvénients** : Apple limite l'installation de faces tierces ; dépendance écosystème Apple Watch ;
+  contenu éditorial (design) à produire ; leaders bien installés.
+- **Best-seller** : Facer ~$100-140K/mois, Clockology ~$35K/mois, WatchMaker ~$25K/mois.
+
+## THEORY TEST / CODE DE LA ROUTE — ⭐ Note 7/10
+- **Genre** : quiz/exam blanc permis de conduire (questions, révisions, tests).
+- **Stack RN** : pur RN. Complexité 1/5.
+- **Inconvénients** : contenu réglementaire à mettre à jour (questions changent) ; marché dominé par
+  les apps officielles par pays ; monétisation surtout payante one-shot ou abonnement faible.
+- **Best-seller** : apps theory test leaders ~$10-30K/mois (estimation, données partielles).
+
+## JEUX RÉFLEXION 2D (word/sudoku/belote/échecs/mahjong) — ⭐ Note 7/10
+- **Genre** : jeux de réflexion 2D (mots, sudoku, cartes, casse-tête).
+- **Stack RN** : RN + logique de jeu + (option) pub/IAP. Complexité 2/5.
+- **Inconvénients** : marché énorme mais ultra concurrentiel (NYT Games, géants) ; monétisation
+  faible (pub) sauf gros volumes ; rétention dépend du contenu/grille quotidienne.
+- **Best-seller** : NYT Games (écosystème abonnement), Word Collect ~fort (données partielles).
+
+## ISLAM (quran/prayer/qibla/azkar) — ⭐ Note 7/10 (déjà validé)
+- **Genre** : suite spirituelle (prières, qibla, coran, azkar, calendrier).
+- **Stack RN** : RN + géoloc + calculs astronomiques. Complexité 2/5.
+- **Inconvénients** : leaders très établis (Muslim Pro ~$110K/mois) ; multi-langues nécessaire pour
+  toucher les grands marchés ; sensibilité religieuse (exactitude prières).
+- **Best-seller** : Muslim Pro ~$110K/mois, Athkar ~$35K/mois.
+
+## BIEN-ÊTRE MENTAL / JOURNALING / AFFIRMATIONS — ⭐ Note 6.5/10
+- **Genre** : journal, gratitude, affirmations, mood tracker, mindfulness.
+- **Stack RN** : pur RN. Complexité 1-2/5.
+- **Inconvénients** : GEANTS (Calm $4M, Headspace $2M, Insight Timer $1M) sur les gros mots ;
+  sous-niches (stoïque, gratitude, self-love) plus libres mais volume moindre ; sujets sensibles
+  (santé mentale = responsabilité) ; monétisation difficile sans contenu/IA différenciante.
+- **Best-seller** : Calm ~$4M/mois, Headspace ~$2M/mois, I Am Affirmations ~$700K/mois.
+
+## PSYCHOLOGIE / NEURODIVERSITÉ (ADHD, HSP, thérapie) — ⭐ Note 6.5/10
+- **Genre** : outils ADHD (planner, timers), suivi humeur/troubles, accès thérapie.
+- **Stack RN** : RN + notifs + (option) IA. Complexité 2-3/5.
+- **Inconvénients** : compétition ADHD naissante mais déjà IA-compet (adhd planner 36/92) ;
+  marché thérapie (BetterHelp) très régulé/sensible ; audience de niche (moins massif) ;
+  responsabilité santé.
+- **Best-seller** : BetterHelp ~très élevé, Tiimo (ADHD) en croissance (données partielles).
+
+## FEMMES-SANTÉ (maternité, cycle, ménopause) — ⭐ Note 6.5/10
+- **Genre** : suivi grossesse, cycle, fertilité, ménopause, baby tracker.
+- **Stack RN** : RN + notifs + (option) HealthKit. Complexité 2/5.
+- **Inconvénients** : Flo/Ovia géants sur les mots génériques ; confidentialité données santé
+  (GDPR/HIPAA, confiance) ; niches battables (menopause, TTC) = volume moindre ; responsabilité médicale.
+- **Best-seller** : Flo ~très élevé (données partielles), Ovia, WTE.
+
+## SOMMEIL / SONS (white noise, décibel, snore) — ⭐ Note 6/10
+- **Genre** : sons de sommeil, bruit blanc, mesure décibels, analyse ronflement.
+- **Stack RN** : RN + audio + micro (analyse son). Complexité 2-3/5.
+- **Inconvénients** : apps de sons faciles à copier (commodité) ; monétisation abonnement difficile ;
+  la mesure décibel = batterie/précision ; BetterSleep/SnoreLab bien installés ($500K+).
+- **Best-seller** : BetterSleep ~$770K/mois, SnoreLab ~$550K/mois.
+
+## ANIMAUX / IDENTIFICATION (oiseaux, insectes, sifflet chien) — ⭐ Note 6/10
+- **Genre** : identification photo/son (oiseaux, insectes, plantes), outils animaux.
+- **Stack RN** : RN + caméra + ML/API identification + audio. Complexité 3/5.
+- **Inconvénients** : l'identification IA précise = backend/API coûteuse ; Merlin (Cornell) gratuit
+  et dominant oiseaux ; niche (pas massif) ; data d'entraînement nécessaire.
+- **Best-seller** : Picture Insect ~$590K/mois, Merlin gratuit (Cornell Lab).
+
+## IMMOBILIER / LOCATION — ⭐ Note 5/10
+- **Genre** : recherche maison/location, calculateur hypothèque, gestion locative.
+- **Stack RN** : RN + API data immo. Complexité 2-3/5.
+- **Inconvénients** : Zillow/Redfin dominent massivement ; data immobilière = coûteuse/API payante ;
+  confiance B2C difficile ; niches (tenant cloud, rental homes) = B2B plus complexe.
+- **Best-seller** : Zillow ~très élevé (géant), niche à trouver.
+
+## OUTDOOR / NATURE (rando, camping, pêche, géocaching) — ⭐ Note 5/10
+- **Genre** : cartes rando, guides camping, identifieurs (champignons), géocaching.
+- **Stack RN** : RN + GPS + cartes offline + (option) ML. Complexité 3/5.
+- **Inconvénients** : AllTrails/Geocaching dominent ; data cartographique (cartes offline) coûteuse ;
+  volume modéré ; monétisation abonnement saisonnière.
+- **Best-seller** : AllTrails ~fort, Geocaching ~gratuit/abonnement (données partielles).
+
+## MUSIQUE-OUTILS (accordeur, métronome, beat) — ⭐ Note 5/10
+- **Genre** : accordeurs, métronomes, théorie musicale, drum machines.
+- **Stack RN** : RN + audio (micro pour accordeur). Complexité 2-3/5.
+- **Inconvénients** : accords/métronomes = bcp d'apps gratuites ; l'audio temps réel = module natif ;
+  monétisation faible ; marché outils = commodité.
+- **Best-seller** : Fender Tune (gratuit, marque), apps accordeur ~petites.
+
+## PÊCHE — ⭐ Note 5/10
+- **Genre** : spots de pêche, marées, licence, logs de prises.
+- **Stack RN** : RN + GPS + données marées. Complexité 2-3/5.
+- **Inconvénients** : Fishbrain leader ($2M) ; données marées/météo = API ; niche (volume modéré) ;
+  monétisation abonnement difficile hors communauté.
+- **Best-seller** : Fishbrain ~$2M/mois.
+
+## OUTILS TÉLÉPHONE / TÉLÉCOMMANDE — ⭐ Note 4/10
+- **Genre** : télécommandes TV, mirroring, connecter au PC, second screen.
+- **Stack RN** : RN + modules natifs (IR, réseau, protocoles TV). Complexité 3-4/5.
+- **Inconvénients** : fragmentation (téléviseurs/protocoles) ; Apple/Google font le mirroring nativement ;
+  niche technique ; monétisation faible.
+- **Best-seller** : télécommandes universelles ~petites (données faibles).
+
+## MOTION GAMES (Just Dance-like) — ⭐ Note 4/10
+- **Genre** : jeu de danse/mouvement (caméra/capteurs).
+- **Stack RN** : RN + caméra/motion tracking natif (lourd). Complexité 4/5.
+- **Inconvénients** : détection mouvement précise = complexe ; demande faible (269 mots) ;
+  licences musicales ; UX dépendante du hardware.
+- **Best-seller** : Just Dance (éditeur, écosystème fermé).
+
+## SENIORS-VIE (non santé) — ⭐ Note 4/10
+- **Genre** : téléphone simplifié senior, généalogie, souvenirs/mémoire.
+- **Stack RN** : RN + (généalogie) API. Complexité 2/5.
+- **Inconvénients** : volume faible (16 pépites) ; les mots sont surtout religieux/mormons (LDS) ;
+  public senior = exigences UX (gros textes) ; monétisation limitée.
+- **Best-seller** : MyHeritage (généalogie, abonnement), FamilySearch gratuit (données partielles).
+
+## RELIGION-AUTRE (hindu/bouddhiste/juif) — ⭐ Note 3/10
+- **Genre** : calendriers religieux, méditation, textes sacrés.
+- **Stack RN** : RN. Complexité 1-2/5.
+- **Inconvénients** : volume très faible (3 pépites) ; niches fines par communauté ; monétisation limitée.
+- **Best-seller** : Hindu Calendar ~petit, Insight Timer (bouddhisme) ~$1M (cross-cluster).
+
+## CHRISTIANISME — ⭐ Note 3/10
+- **Genre** : Bible, dévotions, prières.
+- **Stack RN** : RN. Complexité 1-2/5.
+- **Inconvénients** : 0 pépite battable ; YouVersion domine (comp 93+) ; marché saturé par des apps
+  gratuites massives ; très difficile de ranker.
+- **Best-seller** : YouVersion Bible (gratuit, géant), Hallow ~$? (croissance).
+
+---
+
+## 📌 MÉTHODE DE LECTURE DE LA NOTE
+- **8-10** : fonce (demande + comp battable + monétisation prouvée + faisable).
+- **6-7.5** : bon candidat mais avec un angle différenciant obligatoire.
+- **4-5.5** : niche ou complexe — à faire seulement si intérêt perso fort.
+- **<4** : écarter dans l'état actuel.
