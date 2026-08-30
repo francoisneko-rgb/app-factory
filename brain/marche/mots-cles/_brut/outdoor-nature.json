@@ -1,0 +1,8666 @@
+{
+  "bergfex": [
+    {
+      "kw": "all trails",
+      "pop": 66,
+      "comp": 97,
+      "apps": 248,
+      "rank": 145,
+      "imp": "6.97"
+    },
+    {
+      "kw": "alltrails",
+      "pop": 57,
+      "comp": 97,
+      "apps": 248,
+      "rank": 73,
+      "imp": "6.87"
+    },
+    {
+      "kw": "via",
+      "pop": 55,
+      "comp": 96,
+      "apps": 250,
+      "rank": 97,
+      "imp": "6.26"
+    },
+    {
+      "kw": "trace",
+      "pop": 52,
+      "comp": 91,
+      "apps": 249,
+      "rank": 247,
+      "imp": "5.01"
+    },
+    {
+      "kw": "kaiser",
+      "pop": 52,
+      "comp": 68,
+      "apps": 212,
+      "rank": 103,
+      "imp": "5.85"
+    },
+    {
+      "kw": "17track",
+      "pop": 51,
+      "comp": 97,
+      "apps": 248,
+      "rank": 207,
+      "imp": "5.06"
+    },
+    {
+      "kw": "komoot",
+      "pop": 50,
+      "comp": 98,
+      "apps": 247,
+      "rank": 121,
+      "imp": "5.46"
+    },
+    {
+      "kw": "wetter app kostenlos",
+      "pop": 45,
+      "comp": 90,
+      "apps": 241,
+      "rank": 70,
+      "imp": "5.47"
+    },
+    {
+      "kw": "wandern",
+      "pop": 41,
+      "comp": 68,
+      "apps": 237,
+      "rank": 3,
+      "imp": "14.29"
+    },
+    {
+      "kw": "gmb",
+      "pop": 40,
+      "comp": 89,
+      "apps": 250,
+      "rank": 234,
+      "imp": "3.89"
+    },
+    {
+      "kw": "navigation kostenlos",
+      "pop": 32,
+      "comp": 89,
+      "apps": 213,
+      "rank": 115,
+      "imp": "3.53"
+    },
+    {
+      "kw": "percorsi trekking",
+      "pop": 31,
+      "comp": 87,
+      "apps": 249,
+      "rank": 6,
+      "imp": "7.66"
+    },
+    {
+      "kw": "apple wetter",
+      "pop": 28,
+      "comp": 67,
+      "apps": 238,
+      "rank": 30,
+      "imp": "4.13"
+    },
+    {
+      "kw": "berge erkennen",
+      "pop": 27,
+      "comp": 70,
+      "apps": 77,
+      "rank": 3,
+      "imp": "9.41"
+    },
+    {
+      "kw": "visor",
+      "pop": 24,
+      "comp": 79,
+      "apps": 248,
+      "rank": 225,
+      "imp": "2.35"
+    },
+    {
+      "kw": "wette",
+      "pop": 21,
+      "comp": 60,
+      "apps": 160,
+      "rank": 112,
+      "imp": "2.33"
+    },
+    {
+      "kw": "gos",
+      "pop": 20,
+      "comp": 96,
+      "apps": 247,
+      "rank": 107,
+      "imp": "2.23"
+    },
+    {
+      "kw": "wetterbericht",
+      "pop": 15,
+      "comp": 66,
+      "apps": 238,
+      "rank": 51,
+      "imp": "1.95"
+    },
+    {
+      "kw": "wetteralarm",
+      "pop": 14,
+      "comp": 90,
+      "apps": 233,
+      "rank": 40,
+      "imp": "1.92"
+    },
+    {
+      "kw": "hike route",
+      "pop": 10,
+      "comp": 72,
+      "apps": 244,
+      "rank": 12,
+      "imp": "1.91"
+    },
+    {
+      "kw": "hiking",
+      "pop": 9,
+      "comp": 97,
+      "apps": 246,
+      "rank": 230,
+      "imp": "0.88"
+    },
+    {
+      "kw": "polar steps",
+      "pop": 8,
+      "comp": 86,
+      "apps": 157,
+      "rank": 47,
+      "imp": "1.06"
+    },
+    {
+      "kw": "montagna",
+      "pop": 8,
+      "comp": 49,
+      "apps": 234,
+      "rank": 20,
+      "imp": "1.31"
+    },
+    {
+      "kw": "trailhead",
+      "pop": 8,
+      "comp": 89,
+      "apps": 248,
+      "rank": 220,
+      "imp": "0.79"
+    },
+    {
+      "kw": "avalanche",
+      "pop": 8,
+      "comp": 57,
+      "apps": 244,
+      "rank": 125,
+      "imp": "0.87"
+    },
+    {
+      "kw": "itinéraire",
+      "pop": 7,
+      "comp": 91,
+      "apps": 245,
+      "rank": 134,
+      "imp": "0.75"
+    },
+    {
+      "kw": "peakvisor",
+      "pop": 7,
+      "comp": 69,
+      "apps": 227,
+      "rank": 17,
+      "imp": "1.20"
+    },
+    {
+      "kw": "via ferrata",
+      "pop": 7,
+      "comp": 93,
+      "apps": 204,
+      "rank": 5,
+      "imp": "1.87"
+    },
+    {
+      "kw": "randonnee",
+      "pop": 6,
+      "comp": 49,
+      "apps": 249,
+      "rank": 24,
+      "imp": "0.94"
+    },
+    {
+      "kw": "senderismo",
+      "pop": 6,
+      "comp": 88,
+      "apps": 250,
+      "rank": 35,
+      "imp": "0.85"
+    },
+    {
+      "kw": "wetter pro",
+      "pop": 6,
+      "comp": 56,
+      "apps": 232,
+      "rank": 137,
+      "imp": "0.64"
+    },
+    {
+      "kw": "mountain maps",
+      "pop": 6,
+      "comp": 49,
+      "apps": 248,
+      "rank": 221,
+      "imp": "0.59"
+    },
+    {
+      "kw": "gbs",
+      "pop": 5,
+      "comp": 95,
+      "apps": 247,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "elevation map",
+      "pop": 5,
+      "comp": 68,
+      "apps": 194,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "elevation finder",
+      "pop": 5,
+      "apps": 196,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "ski apple watch",
+      "pop": 5,
+      "comp": 51,
+      "apps": 245,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "gpx trail tracker",
+      "pop": 5,
+      "comp": 76,
+      "apps": 247,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "traking",
+      "pop": 5,
+      "comp": 94,
+      "apps": 231,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "mountain watch",
+      "pop": 5,
+      "apps": 247,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "hikes",
+      "pop": 5,
+      "comp": 85,
+      "apps": 241,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "kayak trails",
+      "pop": 5,
+      "apps": 175,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "walkmeter walking hiking gps",
+      "pop": 5,
+      "comp": 92,
+      "apps": 235,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "wanderrouten",
+      "pop": 5,
+      "comp": 62,
+      "apps": 240,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hiking gps",
+      "pop": 5,
+      "comp": 81,
+      "apps": 247,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "hiking maps",
+      "pop": 5,
+      "comp": 90,
+      "apps": 247,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "motorcycle route planner",
+      "pop": 5,
+      "apps": 224,
+      "rank": 224,
+      "imp": "0.49"
+    },
+    {
+      "kw": "calcul itineraire",
+      "pop": 5,
+      "comp": 91,
+      "apps": 249,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps de randonnée",
+      "pop": 5,
+      "comp": 56,
+      "apps": 242,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "de randonnée",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "randonnée",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "mountain bike tracker",
+      "pop": 5,
+      "apps": 228,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "trail gps",
+      "pop": 5,
+      "apps": 247,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "wetter app",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "erkennen",
+      "pop": 5,
+      "comp": 93,
+      "apps": 245,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "touren",
+      "pop": 5,
+      "comp": 55,
+      "apps": 243,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "bergfex",
+      "pop": 5,
+      "comp": 43,
+      "apps": 36,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "reconnaissance",
+      "pop": 5,
+      "comp": 63,
+      "apps": 215,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "montagne",
+      "pop": 5,
+      "comp": 55,
+      "apps": 247,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "gps route finder",
+      "pop": 5,
+      "comp": 78,
+      "apps": 202,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "slope finder",
+      "pop": 5,
+      "comp": 46,
+      "apps": 198,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "trecking",
+      "pop": 5,
+      "apps": 224,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "gipfel",
+      "pop": 5,
+      "comp": 41,
+      "apps": 42,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "peaks",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "14 tage wetter",
+      "pop": 5,
+      "comp": 66,
+      "apps": 236,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "berge",
+      "pop": 5,
+      "comp": 87,
+      "apps": 129,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "snow track",
+      "pop": 5,
+      "apps": 245,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ski resort trail maps",
+      "pop": 5,
+      "comp": 53,
+      "apps": 230,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "ski gps",
+      "pop": 5,
+      "comp": 44,
+      "apps": 236,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "mountain bike gps",
+      "pop": 5,
+      "comp": 82,
+      "apps": 190,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "hiking trail hk",
+      "pop": 5,
+      "apps": 188,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "ski touring",
+      "pop": 5,
+      "comp": 57,
+      "apps": 244,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "hiking guide",
+      "pop": 5,
+      "comp": 87,
+      "apps": 230,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "mountains",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "wetterdienst",
+      "pop": 5,
+      "comp": 89,
+      "apps": 234,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "hiking tracker free",
+      "pop": 5,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "hiking map",
+      "pop": 5,
+      "comp": 84,
+      "apps": 245,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "hiking trail",
+      "pop": 5,
+      "comp": 85,
+      "apps": 238,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "ski data",
+      "pop": 5,
+      "comp": 48,
+      "apps": 235,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "gps追跡",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hike bike",
+      "pop": 5,
+      "comp": 68,
+      "apps": 240,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ski watch",
+      "pop": 5,
+      "comp": 49,
+      "apps": 238,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "ski tracker app",
+      "pop": 5,
+      "comp": 54,
+      "apps": 236,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "gps轨迹",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "seewetter",
+      "pop": 5,
+      "comp": 70,
+      "apps": 233,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "avalanche forecast",
+      "pop": 5,
+      "comp": 53,
+      "apps": 246,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "snowboard tracking",
+      "pop": 5,
+      "comp": 40,
+      "apps": 221,
+      "rank": 167,
+      "imp": "0.52"
+    },
+    {
+      "kw": "mountain peaks",
+      "pop": 5,
+      "comp": 78,
+      "apps": 248,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "καιρος",
+      "pop": 5,
+      "comp": 95,
+      "apps": 247,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "polarsteps travel tracker",
+      "pop": 5,
+      "comp": 53,
+      "apps": 247,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "gpx creator",
+      "pop": 5,
+      "apps": 226,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "hunt x maps",
+      "pop": 5,
+      "apps": 195,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "wanderung",
+      "pop": 5,
+      "comp": 49,
+      "apps": 231,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "traillink trail",
+      "pop": 5,
+      "comp": 60,
+      "apps": 244,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ski speed tracker",
+      "pop": 5,
+      "comp": 59,
+      "apps": 249,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "track ski",
+      "pop": 5,
+      "comp": 48,
+      "apps": 235,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "best ski tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 237,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "skiing gps",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "skitrax",
+      "pop": 5,
+      "comp": 45,
+      "apps": 247,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "exa ski tracker",
+      "pop": 5,
+      "comp": 58,
+      "apps": 248,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "スキートラック",
+      "pop": 5,
+      "comp": 51,
+      "apps": 239,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "wetter bericht",
+      "pop": 5,
+      "comp": 63,
+      "apps": 238,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "nordic walking tracker",
+      "pop": 5,
+      "comp": 54,
+      "apps": 240,
+      "rank": 213,
+      "imp": "0.49"
+    },
+    {
+      "kw": "gehen km",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 242,
+      "imp": "0.48"
+    },
+    {
+      "kw": "fougeres offline map guide",
+      "pop": 5,
+      "comp": 42,
+      "apps": 249,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "gps კოორდინატები",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps პოზიცია",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps ტრეკერი",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps თვალთვალის",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps ტრეკები",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gps位置",
+      "pop": 5,
+      "comp": 43,
+      "apps": 245,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "hike australia",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "australia hiking",
+      "pop": 5,
+      "comp": 100,
+      "apps": 244,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "hike map",
+      "pop": 5,
+      "comp": 58,
+      "apps": 244,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "hike maps",
+      "pop": 5,
+      "comp": 61,
+      "apps": 242,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hike planner",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "track hike",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "outdoor routes",
+      "pop": 5,
+      "comp": 55,
+      "apps": 248,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "hike gps tracker",
+      "pop": 5,
+      "comp": 42,
+      "apps": 236,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "mountain hiking",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "mountain visualizer",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "mountain trails",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "mål kilometer",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "วัดที่นา",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "cardio trails",
+      "pop": 5,
+      "comp": 55,
+      "apps": 243,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "trail videos",
+      "pop": 5,
+      "comp": 77,
+      "apps": 209,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "nps hiking",
+      "pop": 5,
+      "comp": 51,
+      "apps": 243,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "nps hikes",
+      "pop": 5,
+      "comp": 61,
+      "apps": 246,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "planify",
+      "pop": 5,
+      "comp": 35,
+      "apps": 117,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "climb tracking",
+      "pop": 5,
+      "comp": 43,
+      "apps": 249,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "alpine climb",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "alpine climbing",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 172,
+      "imp": "0.51"
+    },
+    {
+      "kw": "alpine climber",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "activex",
+      "pop": 5,
+      "apps": 248,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "find trails",
+      "pop": 5,
+      "apps": 242,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "nature hikes",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "outdoor trails maps",
+      "pop": 5,
+      "comp": 57,
+      "apps": 238,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "identify kit",
+      "pop": 5,
+      "comp": 73,
+      "apps": 244,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "strava privacy",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hiking trail map",
+      "pop": 5,
+      "comp": 81,
+      "apps": 245,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "Recognitio",
+      "pop": 5,
+      "comp": 56,
+      "apps": 204,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "boulder tracker",
+      "pop": 5,
+      "comp": 46,
+      "apps": 250,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "altitude hiking",
+      "pop": 5,
+      "comp": 44,
+      "apps": 236,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "peak identifier",
+      "pop": 5,
+      "comp": 75,
+      "apps": 209,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "bike hike",
+      "pop": 5,
+      "comp": 68,
+      "apps": 242,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "foyr neo",
+      "pop": 5,
+      "comp": 54,
+      "apps": 250,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "kaisa",
+      "pop": 5,
+      "comp": 67,
+      "apps": 228,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "glacier national park gps tour",
+      "pop": 5,
+      "apps": 250,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "climbing track",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "trip planner & tracker",
+      "pop": 5,
+      "comp": 79,
+      "apps": 247,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "apple watch climb",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "track climbs",
+      "pop": 5,
+      "comp": 40,
+      "apps": 243,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "wanderweg",
+      "pop": 5,
+      "comp": 76,
+      "apps": 240,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "gebirge",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "gps信息",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "identify peaks",
+      "pop": 5,
+      "comp": 82,
+      "apps": 108,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "find peaks",
+      "pop": 5,
+      "comp": 91,
+      "apps": 232,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "hike pack list",
+      "pop": 5,
+      "comp": 87,
+      "apps": 241,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "identify watch",
+      "pop": 5,
+      "comp": 48,
+      "apps": 250,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "routes tracker",
+      "pop": 5,
+      "comp": 48,
+      "apps": 247,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hike mapcaltopo",
+      "pop": 5,
+      "comp": 63,
+      "apps": 242,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "hiking routes",
+      "pop": 5,
+      "comp": 71,
+      "apps": 245,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "hiking planner",
+      "pop": 5,
+      "comp": 83,
+      "apps": 249,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "hiking logs",
+      "pop": 5,
+      "comp": 95,
+      "apps": 246,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "scenic trails",
+      "pop": 5,
+      "comp": 43,
+      "apps": 244,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "hike discovery",
+      "pop": 5,
+      "comp": 62,
+      "apps": 245,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Summit hikes",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "&wetter",
+      "pop": 5,
+      "comp": 79,
+      "apps": 223,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "elevation gain",
+      "pop": 5,
+      "comp": 55,
+      "apps": 215,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "outdoor weather app",
+      "pop": 5,
+      "comp": 42,
+      "apps": 101,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "alpine weather",
+      "pop": 5,
+      "comp": 37,
+      "apps": 203,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "ai for hike",
+      "pop": 5,
+      "comp": 89,
+      "apps": 247,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "Hiking AI",
+      "pop": 5,
+      "comp": 100,
+      "apps": 245,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "lens tracker",
+      "pop": 5,
+      "comp": 55,
+      "apps": 248,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "reisewetter",
+      "pop": 5,
+      "comp": 67,
+      "apps": 202,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hike maker",
+      "pop": 5,
+      "comp": 91,
+      "apps": 247,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "hiking tool",
+      "pop": 5,
+      "comp": 87,
+      "apps": 244,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "large text altimeter",
+      "pop": 5,
+      "comp": 40,
+      "apps": 238,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "find my altitude",
+      "pop": 5,
+      "comp": 41,
+      "apps": 205,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "run,hike,trail,fitness,step,tracker,fit,route,map,cycle,stroll,wander,pedometer,guide,outdoor,gps,go",
+      "pop": 5,
+      "comp": 67,
+      "apps": 234,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "elevation live activity",
+      "pop": 5,
+      "comp": 4,
+      "apps": 245,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "extreme downhill",
+      "pop": 5,
+      "comp": 50,
+      "apps": 228,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hiking adventure",
+      "pop": 5,
+      "comp": 44,
+      "apps": 242,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "adventure hike",
+      "pop": 5,
+      "comp": 42,
+      "apps": 244,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "pferdedecke",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "favorite spot",
+      "pop": 5,
+      "comp": 66,
+      "apps": 158,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "track planner",
+      "pop": 5,
+      "comp": 85,
+      "apps": 245,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "planner tracking",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "hiking trail finder",
+      "pop": 5,
+      "comp": 77,
+      "apps": 242,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "plannif",
+      "pop": 5,
+      "apps": 184,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "lens for finder",
+      "pop": 5,
+      "comp": 55,
+      "apps": 239,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "hike routes",
+      "pop": 5,
+      "comp": 64,
+      "apps": 238,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "hiking tracking",
+      "pop": 5,
+      "comp": 95,
+      "apps": 244,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "hiking & walking planner",
+      "pop": 5,
+      "apps": 60,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "ski workout",
+      "pop": 5,
+      "apps": 204,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "virtual trail",
+      "pop": 5,
+      "comp": 49,
+      "apps": 241,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "hiking and walking",
+      "pop": 5,
+      "comp": 63,
+      "apps": 234,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "walking and hiking",
+      "pop": 5,
+      "apps": 238,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "elite tracker",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "hike gps",
+      "pop": 5,
+      "comp": 67,
+      "apps": 244,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "trail planner",
+      "pop": 5,
+      "comp": 59,
+      "apps": 222,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "ski rides tracker",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "hiking buddy",
+      "pop": 5,
+      "comp": 73,
+      "apps": 240,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "hike plan",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "watches identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "wander planner",
+      "pop": 5,
+      "comp": 62,
+      "apps": 249,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "trail running route mapper",
+      "pop": 5,
+      "comp": 46,
+      "apps": 245,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "track findder",
+      "pop": 5,
+      "apps": 245,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "ski%20tracker",
+      "pop": 5,
+      "comp": 55,
+      "apps": 245,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "biking%20trails",
+      "pop": 5,
+      "comp": 71,
+      "apps": 239,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "focus%20plant",
+      "pop": 5,
+      "comp": 46,
+      "apps": 214,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "trad%C4%B1ng",
+      "pop": 5,
+      "comp": 57,
+      "apps": 228,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "polar%20steps",
+      "pop": 5,
+      "comp": 43,
+      "apps": 249,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "garmin%20messenger",
+      "pop": 5,
+      "comp": 78,
+      "apps": 249,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "garmin%20gps",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "trail%20map",
+      "pop": 5,
+      "comp": 51,
+      "apps": 243,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "trail%20maps",
+      "pop": 5,
+      "comp": 48,
+      "apps": 241,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "running%20map",
+      "pop": 5,
+      "comp": 82,
+      "apps": 235,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "garmin%20connect",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "hiking%20app",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "hiking%20trails",
+      "pop": 5,
+      "comp": 40,
+      "apps": 240,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "oregon%20trail",
+      "pop": 5,
+      "comp": 43,
+      "apps": 235,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "hiking%20tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "ski%20tracks",
+      "pop": 5,
+      "comp": 40,
+      "apps": 236,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "whatch identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "free%20habit%20trackers",
+      "pop": 5,
+      "apps": 240,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "appalachian%20trail",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "onx%20backcountry",
+      "pop": 5,
+      "comp": 62,
+      "apps": 248,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "hike%20tracker",
+      "pop": 5,
+      "comp": 87,
+      "apps": 242,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "trail%20finder",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "tracks identifier",
+      "pop": 5,
+      "apps": 250,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "rush hike",
+      "pop": 5,
+      "comp": 87,
+      "apps": 245,
+      "rank": 245,
+      "imp": "0.48"
+    },
+    {
+      "kw": "hiking speed tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "track n trail",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "börsen tracker",
+      "pop": 5,
+      "apps": 221,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "wplace",
+      "pop": 5,
+      "comp": 89,
+      "apps": 225,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ridepal - find trails, compete",
+      "pop": 5,
+      "comp": 83,
+      "apps": 248,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "elevation chart",
+      "pop": 5,
+      "apps": 212,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "map for hiking",
+      "pop": 5,
+      "comp": 82,
+      "apps": 239,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "mountain biking trail finder",
+      "pop": 5,
+      "comp": 74,
+      "apps": 242,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "hiking speed and altitude tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "hiking speed altitude",
+      "pop": 5,
+      "comp": 40,
+      "apps": 243,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "adventure sports tracking",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "adventure sports gps tracker",
+      "pop": 5,
+      "comp": 42,
+      "apps": 239,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hiking altitude speed tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "horizon explorer",
+      "pop": 5,
+      "comp": 74,
+      "apps": 224,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "gps speedometer for hiking",
+      "pop": 5,
+      "comp": 49,
+      "apps": 238,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "hiking log book",
+      "pop": 5,
+      "comp": 87,
+      "apps": 246,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "watch-identifier",
+      "pop": 5,
+      "comp": 50,
+      "apps": 248,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "climb kit identifier",
+      "pop": 5,
+      "apps": 250,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "trip classification",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "odometer reading",
+      "pop": 5,
+      "comp": 48,
+      "apps": 249,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "backcountry mapping",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "prosthetic tracker",
+      "pop": 5,
+      "apps": 219,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "easy maps",
+      "pop": 5,
+      "apps": 190,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "hiking altitude",
+      "pop": 5,
+      "comp": 40,
+      "apps": 236,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "open map links in apple maps",
+      "pop": 5,
+      "comp": 83,
+      "apps": 243,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "food lolg",
+      "pop": 5,
+      "apps": 225,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "bike hike free",
+      "pop": 5,
+      "comp": 76,
+      "apps": 247,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hike scanner",
+      "pop": 5,
+      "apps": 210,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "run photo - for garmin",
+      "pop": 5,
+      "apps": 190,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "solo hiking",
+      "pop": 5,
+      "apps": 217,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "icebath tracker",
+      "pop": 5,
+      "apps": 217,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "pianifica trekking",
+      "pop": 5,
+      "comp": 62,
+      "apps": 226,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "trekking invernali",
+      "pop": 5,
+      "comp": 75,
+      "apps": 215,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "polarsteps trip tracker",
+      "pop": 5,
+      "comp": 55,
+      "apps": 248,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "polarsteps itinerary",
+      "pop": 5,
+      "comp": 76,
+      "apps": 199,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "anchor calculator climbing",
+      "pop": 5,
+      "apps": 224,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "planner route map",
+      "pop": 5,
+      "apps": 203,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "sentieri trekking",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "oak: ski, climb, run",
+      "pop": 5,
+      "apps": 207,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "mountain trails inspiration",
+      "pop": 5,
+      "apps": 244,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "mountain trail inspiration",
+      "pop": 5,
+      "apps": 243,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "mts trails",
+      "pop": 5,
+      "apps": 246,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "trekking val di fassa",
+      "pop": 5,
+      "apps": 247,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "avalanche calculator app",
+      "pop": 5,
+      "comp": 54,
+      "apps": 242,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mowisnow",
+      "pop": 5,
+      "apps": 177,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "hike planning",
+      "pop": 5,
+      "apps": 244,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "trekking alto adige",
+      "pop": 5,
+      "apps": 249,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "climbing tracking",
+      "pop": 5,
+      "apps": 249,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "@alps_n_apps",
+      "pop": 5,
+      "apps": 250,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "778772892",
+      "pop": 5,
+      "apps": 211,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "compass hiking",
+      "pop": 5,
+      "apps": 233,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gibbon slacklines",
+      "pop": 5,
+      "apps": 249,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "map n tour",
+      "pop": 5,
+      "apps": 245,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "strava map",
+      "pop": 5,
+      "apps": 224,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "gpx follow",
+      "pop": 5,
+      "apps": 223,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mtb-gpx navigator",
+      "pop": 5,
+      "apps": 200,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "trailway: gpx hiking companion",
+      "pop": 5,
+      "apps": 222,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "ai hiking",
+      "pop": 5,
+      "apps": 209,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "packlist plus",
+      "pop": 5,
+      "apps": 215,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "gps route finder: earth map",
+      "pop": 5,
+      "apps": 223,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "hiking & trails",
+      "pop": 5,
+      "apps": 230,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "gps route planner",
+      "pop": 5,
+      "apps": 232,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "climbing route",
+      "pop": 5,
+      "apps": 248,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "single hiking",
+      "pop": 5,
+      "apps": 191,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "safe hiking",
+      "pop": 5,
+      "apps": 196,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "hiking score",
+      "pop": 5,
+      "apps": 244,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "climbing planner",
+      "pop": 5,
+      "apps": 250,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "skiing planner",
+      "pop": 5,
+      "apps": 248,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "climbing finder",
+      "pop": 5,
+      "apps": 249,
+      "rank": 233,
+      "imp": "0.49"
+    },
+    {
+      "kw": "climbing map",
+      "pop": 5,
+      "apps": 250,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "hiking alerts",
+      "pop": 5,
+      "apps": 192,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "hiking diary",
+      "pop": 5,
+      "apps": 247,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "hiking finder",
+      "pop": 5,
+      "apps": 206,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "hiking meter",
+      "pop": 5,
+      "apps": 205,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "trail meter",
+      "pop": 5,
+      "apps": 249,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "trekking piemonte",
+      "pop": 5,
+      "apps": 249,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "skiing checklist",
+      "pop": 5,
+      "apps": 191,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "skiing finder",
+      "pop": 5,
+      "apps": 171,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "skiing guide",
+      "pop": 5,
+      "apps": 164,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "skiing map",
+      "pop": 5,
+      "apps": 204,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "gpx walking routes",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mountain bike trails gps",
+      "pop": 5,
+      "comp": 63,
+      "apps": 226,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "mountaineering tracker",
+      "pop": 5,
+      "apps": 201,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "avalanche tracker",
+      "pop": 5,
+      "apps": 200,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "grader photo rato",
+      "pop": 5,
+      "apps": 203,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "teljesítménytúra",
+      "pop": 5,
+      "apps": 212,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "sea of galilee walk",
+      "pop": 5,
+      "apps": 211,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "gps tours",
+      "pop": 5,
+      "apps": 245,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "planner & tracker",
+      "pop": 5,
+      "apps": 249,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "hiking route planner",
+      "pop": 5,
+      "apps": 211,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "bathroom trail",
+      "pop": 5,
+      "apps": 213,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "routes biking hiking",
+      "pop": 5,
+      "apps": 243,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "trail aid",
+      "pop": 5,
+      "apps": 196,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hike and fly",
+      "pop": 5,
+      "comp": 89,
+      "apps": 242,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "hiking difficulty",
+      "pop": 5,
+      "apps": 219,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "hiking skiing",
+      "pop": 5,
+      "comp": 50,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "identify, value & track cards",
+      "pop": 5,
+      "apps": 244,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "offline mtb trail maps",
+      "pop": 5,
+      "comp": 61,
+      "apps": 198,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "mtb trail map",
+      "pop": 5,
+      "comp": 62,
+      "apps": 193,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "mountain tracker",
+      "pop": 5,
+      "apps": 248,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "wilderness app",
+      "pop": 5,
+      "apps": 250,
+      "rank": 243,
+      "imp": "0.48"
+    },
+    {
+      "kw": "ski trail map",
+      "pop": 5,
+      "apps": 230,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "gps tracker for hiking",
+      "pop": 5,
+      "apps": 236,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "grape video chat",
+      "pop": 5,
+      "comp": 32,
+      "apps": 238,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "onx backcountry trail",
+      "pop": 5,
+      "comp": 70,
+      "apps": 245,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "motion trails",
+      "pop": 5,
+      "apps": 248,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "log hikes",
+      "pop": 5,
+      "apps": 247,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "trail motion",
+      "pop": 5,
+      "apps": 246,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "maps trails",
+      "pop": 5,
+      "apps": 238,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "tours maps",
+      "pop": 5,
+      "apps": 239,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "tours maps trails",
+      "pop": 5,
+      "apps": 242,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "climb job application tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "many glacier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "routene tracker",
+      "pop": 5,
+      "apps": 245,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "tour tracke",
+      "pop": 5,
+      "apps": 242,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "glacier national park gps",
+      "pop": 5,
+      "apps": 224,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "bergfex wandern",
+      "apps": 221,
+      "rank": 1
+    },
+    {
+      "kw": "bergerkennung",
+      "comp": 38,
+      "apps": 169,
+      "rank": 3
+    },
+    {
+      "kw": "riconoscere le montagne",
+      "comp": 54,
+      "apps": 58,
+      "rank": 4
+    },
+    {
+      "kw": "riconoscimento delle cime",
+      "comp": 27,
+      "apps": 249,
+      "rank": 184
+    },
+    {
+      "kw": "downhill race",
+      "apps": 199,
+      "rank": 64
+    },
+    {
+      "kw": "satellite%20tracker",
+      "comp": 62,
+      "apps": 244,
+      "rank": 105
+    },
+    {
+      "kw": "ski length calculator",
+      "apps": 214,
+      "rank": 95
+    },
+    {
+      "kw": "ocation-based itinerary",
+      "apps": 192,
+      "rank": 48
+    },
+    {
+      "kw": "navigate fitness",
+      "apps": 213,
+      "rank": 183
+    },
+    {
+      "kw": "passport trails",
+      "apps": 206,
+      "rank": 110
+    },
+    {
+      "kw": "gpx workout pro",
+      "apps": 209,
+      "rank": 181
+    },
+    {
+      "kw": "hiking trail planner",
+      "comp": 76,
+      "apps": 243,
+      "rank": 13
+    },
+    {
+      "kw": "trail running gps routes",
+      "comp": 64,
+      "apps": 238,
+      "rank": 35
+    },
+    {
+      "kw": "snowboard slope map",
+      "comp": 41,
+      "apps": 241,
+      "rank": 174
+    },
+    {
+      "kw": "mountaineering altimeter",
+      "comp": 40,
+      "apps": 232,
+      "rank": 175
+    },
+    {
+      "kw": "mountain hiking compass",
+      "comp": 42,
+      "apps": 237,
+      "rank": 84
+    },
+    {
+      "kw": "snowshoe walking routes",
+      "comp": 42,
+      "apps": 248,
+      "rank": 13
+    },
+    {
+      "kw": "elevation map data",
+      "comp": 40,
+      "apps": 247,
+      "rank": 237
+    },
+    {
+      "kw": "trail elevation calculator",
+      "comp": 40,
+      "apps": 249,
+      "rank": 76
+    },
+    {
+      "kw": "hike distance tracker",
+      "comp": 94,
+      "apps": 242,
+      "rank": 75
+    },
+    {
+      "kw": "ski slope speedometer",
+      "comp": 48,
+      "apps": 246,
+      "rank": 225
+    },
+    {
+      "kw": "route planner tracking",
+      "apps": 231,
+      "rank": 34
+    },
+    {
+      "kw": "ski tracks & gps",
+      "apps": 192,
+      "rank": 13
+    },
+    {
+      "kw": "hiking tracker app free",
+      "apps": 243,
+      "rank": 8
+    },
+    {
+      "kw": "hiking tracker pro",
+      "apps": 241,
+      "rank": 7
+    },
+    {
+      "kw": "hiking tracker online",
+      "apps": 242,
+      "rank": 6
+    },
+    {
+      "kw": "selected\t  avalanche card",
+      "apps": 248,
+      "rank": 223
+    },
+    {
+      "kw": "identifier tracker",
+      "apps": 249,
+      "rank": 175
+    },
+    {
+      "kw": "mountt lemmon",
+      "apps": 249,
+      "rank": 220
+    }
+  ],
+  "campinginfo": [
+    {
+      "kw": "adac",
+      "pop": 64,
+      "comp": 47,
+      "apps": 109,
+      "rank": 69,
+      "imp": "7.80"
+    },
+    {
+      "kw": "pitch up",
+      "pop": 48,
+      "comp": 45,
+      "apps": 249,
+      "rank": 142,
+      "imp": "5.09"
+    },
+    {
+      "kw": "camping",
+      "pop": 44,
+      "comp": 88,
+      "apps": 249,
+      "rank": 53,
+      "imp": "5.67"
+    },
+    {
+      "kw": "camping app eu",
+      "pop": 40,
+      "comp": 57,
+      "apps": 247,
+      "rank": 2,
+      "imp": "18.35"
+    },
+    {
+      "kw": "campingplätze",
+      "pop": 36,
+      "comp": 54,
+      "apps": 249,
+      "rank": 4,
+      "imp": "10.72"
+    },
+    {
+      "kw": "info",
+      "pop": 34,
+      "comp": 79,
+      "apps": 244,
+      "rank": 154,
+      "imp": "3.55"
+    },
+    {
+      "kw": "campers app",
+      "pop": 34,
+      "comp": 72,
+      "apps": 248,
+      "rank": 11,
+      "imp": "6.69"
+    },
+    {
+      "kw": "camping sites",
+      "pop": 34,
+      "comp": 72,
+      "apps": 248,
+      "rank": 114,
+      "imp": "3.75"
+    },
+    {
+      "kw": "camping world",
+      "pop": 32,
+      "comp": 82,
+      "apps": 246,
+      "rank": 124,
+      "imp": "3.48"
+    },
+    {
+      "kw": "the dyrt tent rv camping app",
+      "pop": 32,
+      "comp": 68,
+      "apps": 245,
+      "rank": 98,
+      "imp": "3.64"
+    },
+    {
+      "kw": "caravan and camping club",
+      "pop": 31,
+      "comp": 72,
+      "apps": 247,
+      "rank": 12,
+      "imp": "5.93"
+    },
+    {
+      "kw": "adac app",
+      "pop": 29,
+      "comp": 82,
+      "apps": 247,
+      "rank": 28,
+      "imp": "4.35"
+    },
+    {
+      "kw": "dispersed camping",
+      "pop": 28,
+      "comp": 81,
+      "apps": 249,
+      "rank": 86,
+      "imp": "3.26"
+    },
+    {
+      "kw": "acsi campsites europe",
+      "pop": 23,
+      "comp": 51,
+      "apps": 249,
+      "rank": 6,
+      "imp": "5.68"
+    },
+    {
+      "kw": "rv camping rv parks",
+      "pop": 20,
+      "comp": 64,
+      "apps": 236,
+      "rank": 183,
+      "imp": "2.03"
+    },
+    {
+      "kw": "campsites",
+      "pop": 19,
+      "comp": 82,
+      "apps": 247,
+      "rank": 24,
+      "imp": "2.97"
+    },
+    {
+      "kw": "pinup",
+      "pop": 14,
+      "comp": 92,
+      "apps": 246,
+      "rank": 193,
+      "imp": "1.41"
+    },
+    {
+      "kw": "acsi camping europa",
+      "pop": 11,
+      "comp": 43,
+      "apps": 247,
+      "rank": 6,
+      "imp": "2.72"
+    },
+    {
+      "kw": "camping info",
+      "pop": 9,
+      "comp": 60,
+      "apps": 243,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "park4night",
+      "pop": 7,
+      "comp": 81,
+      "apps": 249,
+      "rank": 69,
+      "imp": "0.85"
+    },
+    {
+      "kw": "campingcard acsi",
+      "pop": 7,
+      "comp": 60,
+      "apps": 249,
+      "rank": 142,
+      "imp": "0.74"
+    },
+    {
+      "kw": "free camping",
+      "pop": 6,
+      "comp": 82,
+      "apps": 248,
+      "rank": 19,
+      "imp": "1.00"
+    },
+    {
+      "kw": "stayfree",
+      "pop": 6,
+      "comp": 75,
+      "apps": 250,
+      "rank": 172,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camping list",
+      "pop": 5,
+      "comp": 51,
+      "apps": 247,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "europa",
+      "pop": 5,
+      "comp": 59,
+      "apps": 244,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "park 4 night",
+      "pop": 5,
+      "comp": 53,
+      "apps": 221,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "camping car",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "wohnwagen",
+      "pop": 5,
+      "comp": 44,
+      "apps": 207,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "camp",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "motorhome",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "campgrounds",
+      "pop": 5,
+      "comp": 87,
+      "apps": 245,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "campo",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "womo",
+      "pop": 5,
+      "comp": 38,
+      "apps": 17,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "caravaning",
+      "pop": 5,
+      "comp": 62,
+      "apps": 246,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "glamping",
+      "pop": 5,
+      "comp": 83,
+      "apps": 248,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "stellplatzführer",
+      "pop": 5,
+      "comp": 45,
+      "apps": 208,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "camping europa",
+      "pop": 5,
+      "comp": 64,
+      "apps": 241,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "vanlife",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camper navigation",
+      "pop": 5,
+      "comp": 50,
+      "apps": 249,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "camping italie",
+      "pop": 5,
+      "comp": 47,
+      "apps": 241,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camp sites",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camper mate",
+      "pop": 5,
+      "comp": 47,
+      "apps": 236,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "camping nz",
+      "pop": 5,
+      "comp": 57,
+      "apps": 250,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "wild camping",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "RV camping",
+      "pop": 5,
+      "comp": 84,
+      "apps": 246,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping game",
+      "pop": 5,
+      "comp": 44,
+      "apps": 246,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "car camping",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "wildcamping",
+      "pop": 5,
+      "comp": 68,
+      "apps": 249,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "campingführer",
+      "pop": 5,
+      "comp": 76,
+      "apps": 212,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "kemping",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "kamping",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "tent camping",
+      "pop": 5,
+      "comp": 79,
+      "apps": 246,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "campings",
+      "pop": 5,
+      "comp": 65,
+      "apps": 230,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "camping location",
+      "pop": 5,
+      "comp": 79,
+      "apps": 244,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping ground",
+      "pop": 5,
+      "comp": 61,
+      "apps": 238,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping grounds",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "camp rv",
+      "pop": 5,
+      "apps": 215,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "campground finder",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "stellplatz app",
+      "pop": 5,
+      "comp": 47,
+      "apps": 203,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "campingplatz finden",
+      "pop": 5,
+      "comp": 54,
+      "apps": 250,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "emplacement",
+      "pop": 5,
+      "comp": 43,
+      "apps": 209,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camping spanje",
+      "pop": 5,
+      "comp": 67,
+      "apps": 204,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "costa brava camping",
+      "pop": 5,
+      "comp": 29,
+      "apps": 249,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "euro camping",
+      "pop": 5,
+      "comp": 46,
+      "apps": 243,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "camping comomeer",
+      "pop": 5,
+      "comp": 76,
+      "apps": 224,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "acsi campings",
+      "pop": 5,
+      "comp": 49,
+      "apps": 232,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "camping zuid limburg",
+      "pop": 5,
+      "comp": 56,
+      "apps": 247,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camping limburg",
+      "pop": 5,
+      "comp": 56,
+      "apps": 246,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "campground locator",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "luxury camping",
+      "pop": 5,
+      "comp": 36,
+      "apps": 248,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "outdoor camping",
+      "pop": 5,
+      "comp": 53,
+      "apps": 244,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "camping planner",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "vancamper buy a camper van",
+      "pop": 5,
+      "comp": 52,
+      "apps": 245,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camping guide",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping find",
+      "pop": 5,
+      "comp": 56,
+      "apps": 240,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "campingcard",
+      "pop": 5,
+      "comp": 53,
+      "apps": 248,
+      "rank": 174,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camping tips",
+      "pop": 5,
+      "comp": 80,
+      "apps": 228,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camp ground",
+      "pop": 5,
+      "comp": 78,
+      "apps": 247,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camping for beginners",
+      "pop": 5,
+      "comp": 46,
+      "apps": 242,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "beginner camping",
+      "pop": 5,
+      "comp": 46,
+      "apps": 244,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "camping safety",
+      "pop": 5,
+      "comp": 47,
+      "apps": 247,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping preparation",
+      "pop": 5,
+      "comp": 46,
+      "apps": 247,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "safe camping",
+      "pop": 5,
+      "comp": 56,
+      "apps": 246,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "ynca camps",
+      "pop": 5,
+      "apps": 250,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "beginning camper",
+      "pop": 5,
+      "comp": 44,
+      "apps": 249,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "camping beginner",
+      "pop": 5,
+      "comp": 69,
+      "apps": 213,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "offline camping",
+      "pop": 5,
+      "comp": 93,
+      "apps": 246,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "burn%20boot%20camp",
+      "pop": 5,
+      "comp": 81,
+      "apps": 245,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "free%20camping",
+      "pop": 5,
+      "comp": 88,
+      "apps": 249,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "offline camping app",
+      "pop": 5,
+      "comp": 50,
+      "apps": 244,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "offline camping skills",
+      "pop": 5,
+      "comp": 48,
+      "apps": 249,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "camping skills",
+      "pop": 5,
+      "comp": 81,
+      "apps": 205,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "black camping",
+      "pop": 5,
+      "apps": 195,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "camp cooking",
+      "pop": 5,
+      "comp": 66,
+      "apps": 242,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "group camping",
+      "pop": 5,
+      "comp": 64,
+      "apps": 210,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "camping hacks",
+      "pop": 5,
+      "apps": 228,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "offline camping guide",
+      "pop": 5,
+      "comp": 85,
+      "apps": 243,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "how to camp",
+      "pop": 5,
+      "apps": 246,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "camping app offline mode",
+      "pop": 5,
+      "comp": 60,
+      "apps": 246,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "downloadable camping info",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "black and camping",
+      "pop": 5,
+      "apps": 199,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "girl scouts camping guide",
+      "pop": 5,
+      "apps": 198,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "what to pack for a weekend camping trip",
+      "pop": 5,
+      "comp": 49,
+      "apps": 245,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "family camping tips",
+      "pop": 5,
+      "apps": 205,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "camping with kids guide",
+      "pop": 5,
+      "comp": 69,
+      "apps": 201,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping finder",
+      "pop": 5,
+      "comp": 84,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "camping how to",
+      "pop": 5,
+      "comp": 56,
+      "apps": 245,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "best free camping app",
+      "pop": 5,
+      "apps": 209,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "what to pack for camping",
+      "pop": 5,
+      "comp": 50,
+      "apps": 247,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping for beginners app",
+      "pop": 5,
+      "comp": 57,
+      "apps": 244,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camping skillz",
+      "pop": 5,
+      "comp": 76,
+      "apps": 208,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping class",
+      "pop": 5,
+      "comp": 76,
+      "apps": 206,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "camping guides",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "camping plan",
+      "pop": 5,
+      "apps": 216,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "camping organizer",
+      "pop": 5,
+      "apps": 210,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping to-do",
+      "pop": 5,
+      "comp": 57,
+      "apps": 243,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "motorhome campsites",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "camping-car parks",
+      "pop": 5,
+      "apps": 207,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "campsite locator",
+      "pop": 5,
+      "apps": 247,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "apps for camping site reservations",
+      "pop": 5,
+      "apps": 219,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "campiing",
+      "pop": 5,
+      "apps": 234,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "us campsites",
+      "pop": 5,
+      "comp": 76,
+      "apps": 203,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "camping spot",
+      "pop": 5,
+      "apps": 221,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "rv camp site",
+      "pop": 5,
+      "apps": 244,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "camp site",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "camping vacation kids",
+      "pop": 5,
+      "apps": 211,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "camping alerts",
+      "pop": 5,
+      "apps": 218,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping diary",
+      "pop": 5,
+      "apps": 215,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping forecast",
+      "pop": 5,
+      "apps": 210,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "camping log",
+      "pop": 5,
+      "apps": 217,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "camping budget",
+      "pop": 5,
+      "apps": 246,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "naturcamping",
+      "pop": 5,
+      "apps": 216,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "freecampsites",
+      "pop": 5,
+      "apps": 250,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "comping",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "all us campsites",
+      "pop": 5,
+      "apps": 248,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "camper conversion",
+      "pop": 5,
+      "apps": 211,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "find camping",
+      "pop": 5,
+      "apps": 250,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "rv camping app",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "campground finder app",
+      "pop": 5,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "rv tent camping",
+      "pop": 5,
+      "comp": 53,
+      "apps": 241,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "find campsites",
+      "pop": 5,
+      "apps": 248,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "camping activities",
+      "pop": 5,
+      "comp": 34,
+      "apps": 245,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "games to play camping",
+      "pop": 5,
+      "comp": 25,
+      "apps": 241,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "allstays camp camping",
+      "pop": 5,
+      "apps": 245,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "camp camping",
+      "pop": 5,
+      "apps": 242,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "find parks sites campgrounds",
+      "pop": 5,
+      "apps": 243,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "adac camping",
+      "comp": 56,
+      "apps": 246,
+      "rank": 4
+    },
+    {
+      "kw": "find campsite",
+      "apps": 207,
+      "rank": 149
+    },
+    {
+      "kw": "wild camping spots",
+      "comp": 62,
+      "apps": 245,
+      "rank": 142
+    },
+    {
+      "kw": "find free camping sites",
+      "apps": 212,
+      "rank": 17
+    },
+    {
+      "kw": "camping recipes",
+      "apps": 246,
+      "rank": 50
+    },
+    {
+      "kw": "camping reservation app",
+      "apps": 249,
+      "rank": 173
+    }
+  ],
+  "Geocaching": [
+    {
+      "kw": "geo",
+      "pop": 57,
+      "comp": 100,
+      "apps": 248,
+      "rank": 10,
+      "imp": "11.59"
+    },
+    {
+      "kw": "geoguesser",
+      "pop": 57,
+      "comp": 76,
+      "apps": 250,
+      "rank": 36,
+      "imp": "8.03"
+    },
+    {
+      "kw": "geocaching",
+      "pop": 56,
+      "comp": 93,
+      "apps": 240,
+      "rank": 1,
+      "imp": "56.00"
+    },
+    {
+      "kw": "جاكو",
+      "pop": 52,
+      "comp": 96,
+      "apps": 249,
+      "rank": 172,
+      "imp": "5.33"
+    },
+    {
+      "kw": "voicy",
+      "pop": 47,
+      "comp": 51,
+      "apps": 107,
+      "rank": 103,
+      "imp": "5.29"
+    },
+    {
+      "kw": "pebblepocket",
+      "pop": 27,
+      "apps": 244,
+      "rank": 3,
+      "imp": "9.41"
+    },
+    {
+      "kw": "geocache",
+      "pop": 9,
+      "comp": 88,
+      "apps": 248,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "cashing",
+      "pop": 8,
+      "comp": 100,
+      "apps": 247,
+      "rank": 7,
+      "imp": "1.86"
+    },
+    {
+      "kw": "geotag",
+      "pop": 8,
+      "comp": 81,
+      "apps": 245,
+      "rank": 2,
+      "imp": "3.67"
+    },
+    {
+      "kw": "geo tracker",
+      "pop": 7,
+      "comp": 66,
+      "apps": 249,
+      "rank": 2,
+      "imp": "3.21"
+    },
+    {
+      "kw": "geozilla",
+      "pop": 6,
+      "comp": 93,
+      "apps": 198,
+      "rank": 103,
+      "imp": "0.68"
+    },
+    {
+      "kw": "treasure hunt",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "outdoor",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "geo cache",
+      "pop": 5,
+      "comp": 64,
+      "apps": 171,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "de randonnée",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "randonnée",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "geo caching",
+      "pop": 5,
+      "comp": 64,
+      "apps": 175,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "gps route finder",
+      "pop": 5,
+      "comp": 78,
+      "apps": 202,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "caché",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "outdoors",
+      "pop": 5,
+      "comp": 89,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "geo tracking",
+      "pop": 5,
+      "comp": 51,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "geofency",
+      "pop": 5,
+      "apps": 208,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "treasure finder",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "geochacing",
+      "pop": 5,
+      "apps": 137,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "adventure lab",
+      "pop": 5,
+      "comp": 75,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "chasse au tresor",
+      "pop": 5,
+      "comp": 70,
+      "apps": 243,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "schnitzeljagd",
+      "pop": 5,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "scavenger hunt app",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "geocaching app",
+      "pop": 5,
+      "comp": 59,
+      "apps": 155,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "scavenger",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "geocaching adventure lab",
+      "pop": 5,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "munzee",
+      "pop": 5,
+      "comp": 61,
+      "apps": 42,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "cachés",
+      "pop": 5,
+      "comp": 71,
+      "apps": 240,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "grog knots",
+      "pop": 5,
+      "apps": 184,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "شمارش گر ذکر",
+      "pop": 5,
+      "comp": 87,
+      "apps": 275,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "overly",
+      "pop": 5,
+      "comp": 89,
+      "apps": 246,
+      "rank": 242,
+      "imp": "0.48"
+    },
+    {
+      "kw": "geo-tracker",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "geo traker",
+      "pop": 5,
+      "comp": 54,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "australia hiking",
+      "pop": 5,
+      "comp": 100,
+      "apps": 244,
+      "rank": 172,
+      "imp": "0.51"
+    },
+    {
+      "kw": "caching",
+      "pop": 5,
+      "comp": 82,
+      "apps": 242,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "antivirus cache",
+      "pop": 5,
+      "comp": 34,
+      "apps": 242,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "échangez",
+      "pop": 5,
+      "comp": 53,
+      "apps": 98,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "google maps game",
+      "pop": 5,
+      "apps": 194,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "rock hunter",
+      "pop": 5,
+      "comp": 55,
+      "apps": 39,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "outdooor",
+      "pop": 5,
+      "comp": 68,
+      "apps": 238,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "geotags",
+      "pop": 5,
+      "comp": 46,
+      "apps": 186,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "geofinder",
+      "pop": 5,
+      "apps": 206,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "cached",
+      "pop": 5,
+      "comp": 49,
+      "apps": 165,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "next​",
+      "pop": 5,
+      "comp": 51,
+      "apps": 235,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "Totem pole",
+      "pop": 5,
+      "comp": 40,
+      "apps": 122,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "hobbt",
+      "pop": 5,
+      "comp": 79,
+      "apps": 247,
+      "rank": 167,
+      "imp": "0.52"
+    },
+    {
+      "kw": "find scavenger",
+      "pop": 5,
+      "comp": 40,
+      "apps": 237,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "geocahing",
+      "pop": 5,
+      "comp": 64,
+      "apps": 173,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "geoguesset",
+      "pop": 5,
+      "comp": 45,
+      "apps": 83,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "voiceover adventure",
+      "pop": 5,
+      "comp": 42,
+      "apps": 249,
+      "rank": 240,
+      "imp": "0.48"
+    },
+    {
+      "kw": "guess location",
+      "pop": 5,
+      "comp": 49,
+      "apps": 184,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "geotagging",
+      "pop": 5,
+      "comp": 76,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "geocaching weather",
+      "pop": 5,
+      "comp": 70,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "find kid",
+      "pop": 5,
+      "comp": 97,
+      "apps": 230,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "larger",
+      "pop": 5,
+      "comp": 32,
+      "apps": 246,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "sound over",
+      "pop": 5,
+      "comp": 62,
+      "apps": 229,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "made in canada",
+      "pop": 5,
+      "comp": 43,
+      "apps": 233,
+      "rank": 232,
+      "imp": "0.49"
+    },
+    {
+      "kw": "geo tab",
+      "pop": 5,
+      "comp": 72,
+      "apps": 199,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "geo tag",
+      "pop": 5,
+      "comp": 78,
+      "apps": 209,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "geostory",
+      "pop": 5,
+      "comp": 32,
+      "apps": 230,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "®",
+      "pop": 5,
+      "comp": 87,
+      "apps": 221,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "geo finder",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "colour catcher",
+      "pop": 5,
+      "comp": 38,
+      "apps": 191,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "cashly",
+      "pop": 5,
+      "comp": 69,
+      "apps": 239,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "clear%20cache",
+      "pop": 5,
+      "comp": 82,
+      "apps": 218,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "raid%20plaza",
+      "pop": 5,
+      "comp": 67,
+      "apps": 189,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "geo%20tab",
+      "pop": 5,
+      "comp": 56,
+      "apps": 239,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "geocamsnap",
+      "pop": 5,
+      "apps": 222,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "payme - find money",
+      "pop": 5,
+      "apps": 233,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "geozy",
+      "pop": 5,
+      "apps": 191,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "myax",
+      "pop": 5,
+      "apps": 237,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "geotagg",
+      "pop": 5,
+      "apps": 179,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "ourdoor",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "dark theme.",
+      "pop": 5,
+      "apps": 245,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "pinhub",
+      "pop": 5,
+      "apps": 236,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "temporary cache erase",
+      "pop": 5,
+      "apps": 230,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "pogo remote raid finder",
+      "pop": 5,
+      "apps": 183,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "formatto",
+      "pop": 5,
+      "apps": 214,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "solo hiking",
+      "pop": 5,
+      "apps": 217,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "location scouting app",
+      "pop": 5,
+      "apps": 215,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "screen tint",
+      "pop": 5,
+      "apps": 243,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "scanver",
+      "pop": 5,
+      "apps": 225,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "find theme",
+      "pop": 5,
+      "apps": 214,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "pokii",
+      "pop": 5,
+      "apps": 181,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "hike tracker app",
+      "pop": 5,
+      "apps": 235,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "trackinguk",
+      "pop": 5,
+      "apps": 224,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "meltdown tracker",
+      "pop": 5,
+      "comp": 55,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "next vision",
+      "pop": 5,
+      "apps": 239,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "find air tracker",
+      "pop": 5,
+      "apps": 240,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "easier for",
+      "pop": 5,
+      "comp": 78,
+      "apps": 212,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "openguessr",
+      "pop": 5,
+      "apps": 200,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "remove cache",
+      "pop": 5,
+      "apps": 233,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "geochacinh",
+      "pop": 5,
+      "apps": 166,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "adventure mode",
+      "pop": 5,
+      "comp": 43,
+      "apps": 243,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "geot identifier",
+      "pop": 5,
+      "apps": 225,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "lightweight locator",
+      "pop": 5,
+      "apps": 215,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "location guesser: geoguesser",
+      "pop": 5,
+      "apps": 189,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "location notes for fallout",
+      "pop": 5,
+      "apps": 199,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "official geocaching",
+      "pop": 5,
+      "apps": 173,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "gpx-caching",
+      "pop": 5,
+      "apps": 110,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "gpx-caching lt",
+      "pop": 5,
+      "apps": 214,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "dark street",
+      "pop": 5,
+      "apps": 234,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "hiking finder",
+      "pop": 5,
+      "apps": 206,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "closing search",
+      "pop": 5,
+      "apps": 214,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "closing portal",
+      "pop": 5,
+      "apps": 187,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "cache toolkit",
+      "pop": 5,
+      "comp": 79,
+      "apps": 245,
+      "rank": 205,
+      "imp": "0.50"
+    },
+    {
+      "kw": "cache dashboard",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "cache scanner",
+      "pop": 5,
+      "apps": 222,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "cache assistant",
+      "pop": 5,
+      "apps": 191,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "cash voice",
+      "pop": 5,
+      "apps": 207,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "finding hobby",
+      "pop": 5,
+      "comp": 40,
+      "apps": 238,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "compass & coordinates locator",
+      "pop": 5,
+      "apps": 217,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "find your next",
+      "pop": 5,
+      "apps": 235,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "geocaching tracker",
+      "pop": 5,
+      "apps": 239,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "geocaching tools",
+      "comp": 73,
+      "apps": 238,
+      "rank": 2
+    },
+    {
+      "kw": "gio for",
+      "apps": 224,
+      "rank": 219
+    },
+    {
+      "kw": "navigate fitness",
+      "apps": 213,
+      "rank": 142
+    },
+    {
+      "kw": "geocaching compass tool",
+      "comp": 40,
+      "apps": 235,
+      "rank": 14
+    }
+  ],
+  "Mushroom": [
+    {
+      "kw": "inaturalist",
+      "pop": 71,
+      "comp": 100,
+      "apps": 245,
+      "rank": 11,
+      "imp": "13.98"
+    },
+    {
+      "kw": "next",
+      "pop": 55,
+      "comp": 65,
+      "apps": 250,
+      "rank": 204,
+      "imp": "5.47"
+    },
+    {
+      "kw": "identification",
+      "pop": 51,
+      "comp": 79,
+      "apps": 240,
+      "rank": 219,
+      "imp": "5.02"
+    },
+    {
+      "kw": "picture",
+      "pop": 49,
+      "comp": 94,
+      "apps": 248,
+      "rank": 236,
+      "imp": "4.76"
+    },
+    {
+      "kw": "sanp",
+      "pop": 47,
+      "comp": 98,
+      "apps": 242,
+      "rank": 206,
+      "imp": "4.67"
+    },
+    {
+      "kw": "耳掃除",
+      "pop": 25,
+      "comp": 47,
+      "apps": 213,
+      "rank": 45,
+      "imp": "3.34"
+    },
+    {
+      "kw": "mushroom identifier free",
+      "pop": 23,
+      "apps": 249,
+      "rank": 1,
+      "imp": "23.00"
+    },
+    {
+      "kw": "champignouf",
+      "pop": 9,
+      "apps": 235,
+      "rank": 2,
+      "imp": "4.13"
+    },
+    {
+      "kw": "seek by inaturalist",
+      "pop": 9,
+      "apps": 224,
+      "rank": 12,
+      "imp": "1.72"
+    },
+    {
+      "kw": "mushroom",
+      "pop": 8,
+      "comp": 63,
+      "apps": 248,
+      "rank": 3,
+      "imp": "2.79"
+    },
+    {
+      "kw": "mushroom identifier",
+      "pop": 7,
+      "comp": 89,
+      "apps": 247,
+      "rank": 1,
+      "imp": "7.00"
+    },
+    {
+      "kw": "sporecast",
+      "pop": 7,
+      "comp": 73,
+      "apps": 249,
+      "rank": 3,
+      "imp": "2.44"
+    },
+    {
+      "kw": "mogu",
+      "pop": 6,
+      "comp": 51,
+      "apps": 193,
+      "rank": 163,
+      "imp": "0.62"
+    },
+    {
+      "kw": "senser",
+      "pop": 6,
+      "apps": 83,
+      "rank": 66,
+      "imp": "0.74"
+    },
+    {
+      "kw": "utilitaire",
+      "pop": 5,
+      "apps": 249,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "champignon",
+      "pop": 5,
+      "comp": 52,
+      "apps": 234,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identifier",
+      "pop": 5,
+      "comp": 93,
+      "apps": 246,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "erkennen",
+      "pop": 5,
+      "comp": 93,
+      "apps": 245,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "reconnaissance",
+      "pop": 5,
+      "comp": 63,
+      "apps": 215,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "quick picture",
+      "pop": 5,
+      "apps": 237,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "mushroom identificator",
+      "pop": 5,
+      "comp": 52,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "植物識別",
+      "pop": 5,
+      "apps": 228,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "identification insectes",
+      "pop": 5,
+      "apps": 232,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "утилиты",
+      "pop": 5,
+      "comp": 90,
+      "apps": 241,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fungi identification",
+      "pop": 5,
+      "comp": 34,
+      "apps": 227,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "forager",
+      "pop": 5,
+      "apps": 194,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "pilze",
+      "pop": 5,
+      "comp": 50,
+      "apps": 44,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "be here now",
+      "pop": 5,
+      "comp": 85,
+      "apps": 85,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "succulent id",
+      "pop": 5,
+      "apps": 233,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "樹木",
+      "pop": 5,
+      "apps": 200,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "mogul",
+      "pop": 5,
+      "comp": 54,
+      "apps": 227,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "pilze bestimmen",
+      "pop": 5,
+      "comp": 56,
+      "apps": 174,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "magic mushrooms",
+      "pop": 5,
+      "comp": 32,
+      "apps": 250,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "mushrooms",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bug identifier free",
+      "pop": 5,
+      "comp": 62,
+      "apps": 238,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "identificador",
+      "pop": 5,
+      "comp": 66,
+      "apps": 244,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "magic mushroom",
+      "pop": 5,
+      "apps": 240,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom soup",
+      "pop": 5,
+      "comp": 46,
+      "apps": 241,
+      "rank": 205,
+      "imp": "0.50"
+    },
+    {
+      "kw": "mushroom recipes",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "picture mushroom",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fungi",
+      "pop": 5,
+      "comp": 66,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom identification",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "shroomify",
+      "pop": 5,
+      "comp": 56,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "mashroom",
+      "pop": 5,
+      "comp": 54,
+      "apps": 244,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "pilze app",
+      "pop": 5,
+      "apps": 45,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "survival book",
+      "pop": 5,
+      "apps": 204,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "mushroom game",
+      "pop": 5,
+      "comp": 42,
+      "apps": 248,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "gids",
+      "pop": 5,
+      "comp": 59,
+      "apps": 217,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "mushroom id",
+      "pop": 5,
+      "comp": 68,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identify mushrooms",
+      "pop": 5,
+      "comp": 66,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "وتعارف",
+      "pop": 5,
+      "comp": 44,
+      "apps": 230,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "式",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "photo photography",
+      "pop": 5,
+      "comp": 57,
+      "apps": 235,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "and photography",
+      "pop": 5,
+      "comp": 48,
+      "apps": 230,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "room photography",
+      "pop": 5,
+      "comp": 87,
+      "apps": 241,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "photography room",
+      "pop": 5,
+      "comp": 52,
+      "apps": 241,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fungi id",
+      "pop": 5,
+      "comp": 60,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "free mushroom identification",
+      "pop": 5,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "muahroom identifier",
+      "pop": 5,
+      "comp": 74,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom app",
+      "pop": 5,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "crystal identifier free",
+      "pop": 5,
+      "apps": 245,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "free rock identifier",
+      "pop": 5,
+      "comp": 48,
+      "apps": 247,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fungi finder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 226,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fungy",
+      "pop": 5,
+      "comp": 51,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "knap",
+      "pop": 5,
+      "comp": 91,
+      "apps": 245,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "mycology",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "seem",
+      "pop": 5,
+      "apps": 228,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "free crystal identifier",
+      "pop": 5,
+      "apps": 244,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "identify mushroom",
+      "pop": 5,
+      "comp": 72,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom finder",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "identifier app",
+      "pop": 5,
+      "comp": 88,
+      "apps": 246,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "الكومي",
+      "pop": 5,
+      "comp": 42,
+      "apps": 229,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "mushroom id fungus identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom guide",
+      "pop": 5,
+      "comp": 62,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "identificação",
+      "pop": 5,
+      "comp": 61,
+      "apps": 248,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "picture fungus",
+      "pop": 5,
+      "comp": 55,
+      "apps": 243,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fungus",
+      "pop": 5,
+      "comp": 96,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "foraging",
+      "pop": 5,
+      "comp": 55,
+      "apps": 248,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "fungus identifier",
+      "pop": 5,
+      "comp": 58,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identifer",
+      "pop": 5,
+      "comp": 76,
+      "apps": 247,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "tree identifer",
+      "pop": 5,
+      "apps": 238,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "age identifier",
+      "pop": 5,
+      "comp": 45,
+      "apps": 215,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "insectes identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "auto erkennung",
+      "pop": 5,
+      "apps": 9,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "shroomid",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "i picture",
+      "pop": 5,
+      "comp": 94,
+      "apps": 247,
+      "rank": 224,
+      "imp": "0.49"
+    },
+    {
+      "kw": "reptile id",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "المؤذن الجديد والاقامه بدون نت",
+      "pop": 5,
+      "comp": 69,
+      "apps": 273,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "forage",
+      "pop": 5,
+      "comp": 58,
+      "apps": 250,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "next​",
+      "pop": 5,
+      "comp": 51,
+      "apps": 235,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fungi identifier",
+      "pop": 5,
+      "comp": 56,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "有毒",
+      "pop": 5,
+      "comp": 44,
+      "apps": 219,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "識別",
+      "pop": 5,
+      "comp": 48,
+      "apps": 243,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "find pictures",
+      "pop": 5,
+      "comp": 72,
+      "apps": 222,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "耳朵",
+      "pop": 5,
+      "comp": 54,
+      "apps": 230,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "inspect identifier",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "tk-ident",
+      "pop": 5,
+      "apps": 61,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "Mushroom Foraging",
+      "pop": 5,
+      "comp": 56,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "forraging",
+      "pop": 5,
+      "comp": 75,
+      "apps": 183,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "Identifier picture",
+      "pop": 5,
+      "comp": 44,
+      "apps": 247,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "next vision limited",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "Picuture Plant",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "shroom id",
+      "pop": 5,
+      "apps": 197,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "Magic Mushroom Map",
+      "pop": 5,
+      "comp": 46,
+      "apps": 28,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "Mushroom Spot app",
+      "pop": 5,
+      "comp": 91,
+      "apps": 243,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "Mushroom Spot",
+      "pop": 5,
+      "comp": 82,
+      "apps": 200,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fungi hunting",
+      "pop": 5,
+      "comp": 29,
+      "apps": 189,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom identifier by picture",
+      "pop": 5,
+      "comp": 60,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "offgrid",
+      "pop": 5,
+      "comp": 77,
+      "apps": 167,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "offline survival manual",
+      "pop": 5,
+      "apps": 224,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "product identifier",
+      "pop": 5,
+      "comp": 93,
+      "apps": 241,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "snap and identify",
+      "pop": 5,
+      "comp": 79,
+      "apps": 241,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "Mushroom Identification+",
+      "pop": 5,
+      "comp": 54,
+      "apps": 241,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "picture identifier free",
+      "pop": 5,
+      "apps": 240,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "Fish Identifier - FishBrain",
+      "pop": 5,
+      "comp": 56,
+      "apps": 235,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "free mushroom identifier app",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Lichen Identifier",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "mushrooms identification",
+      "pop": 5,
+      "comp": 43,
+      "apps": 225,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "foraging app",
+      "pop": 5,
+      "apps": 217,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "mushroom identifier ai",
+      "pop": 5,
+      "comp": 68,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom scanner",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "champignon indentifiant",
+      "pop": 5,
+      "comp": 25,
+      "apps": 10,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fungus id",
+      "pop": 5,
+      "comp": 68,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Identify poisonous mushrooms",
+      "pop": 5,
+      "comp": 55,
+      "apps": 215,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Fungi education app",
+      "pop": 5,
+      "comp": 43,
+      "apps": 214,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Mushroom ID - Fungi Identifier",
+      "pop": 5,
+      "comp": 35,
+      "apps": 232,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "AI mushroom identifier",
+      "pop": 5,
+      "comp": 65,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "Picture Mushroom: Identifier",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Mushroom Recognition",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "Fungus Identification",
+      "pop": 5,
+      "comp": 35,
+      "apps": 244,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "Mushroom Photo Identifier",
+      "pop": 5,
+      "comp": 54,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Identificatore",
+      "pop": 5,
+      "comp": 66,
+      "apps": 39,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "cloth identifier",
+      "pop": 5,
+      "comp": 48,
+      "apps": 242,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "indentifier",
+      "pop": 5,
+      "comp": 74,
+      "apps": 246,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "leafe identifier",
+      "pop": 5,
+      "comp": 74,
+      "apps": 240,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "fungus  finder",
+      "pop": 5,
+      "comp": 33,
+      "apps": 221,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "id’d photo",
+      "pop": 5,
+      "comp": 68,
+      "apps": 246,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "identify identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "ıdentifier",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "picsure",
+      "pop": 5,
+      "comp": 92,
+      "apps": 246,
+      "rank": 232,
+      "imp": "0.49"
+    },
+    {
+      "kw": "naturlist",
+      "pop": 5,
+      "comp": 96,
+      "apps": 247,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "field guide",
+      "pop": 5,
+      "comp": 67,
+      "apps": 195,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "quartz identifier",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "sekk",
+      "pop": 5,
+      "comp": 87,
+      "apps": 235,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "edibly",
+      "pop": 5,
+      "comp": 43,
+      "apps": 233,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "mushroom ıdentifier",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom identification guide",
+      "pop": 5,
+      "comp": 36,
+      "apps": 205,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coral identifier",
+      "pop": 5,
+      "comp": 83,
+      "apps": 236,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "skull identifier",
+      "pop": 5,
+      "comp": 25,
+      "apps": 238,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "snap identification",
+      "pop": 5,
+      "comp": 43,
+      "apps": 231,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "urban foraging",
+      "pop": 5,
+      "comp": 40,
+      "apps": 194,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "insectidentify",
+      "pop": 5,
+      "comp": 4,
+      "apps": 229,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "mashroom id",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mashroom identifier",
+      "pop": 5,
+      "comp": 76,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "forage identifier",
+      "pop": 5,
+      "comp": 44,
+      "apps": 248,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "muahroom",
+      "pop": 5,
+      "comp": 46,
+      "apps": 245,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "mushroom idetifier",
+      "pop": 5,
+      "comp": 82,
+      "apps": 234,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "shroom",
+      "pop": 5,
+      "comp": 62,
+      "apps": 249,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fungifinder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "scan mushroom",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "ididentify",
+      "pop": 5,
+      "comp": 90,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "identify'",
+      "pop": 5,
+      "comp": 48,
+      "apps": 244,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "mushroom grow tracker",
+      "pop": 5,
+      "comp": 15,
+      "apps": 217,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom grow",
+      "pop": 5,
+      "comp": 78,
+      "apps": 220,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom tracker",
+      "pop": 5,
+      "comp": 28,
+      "apps": 206,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom care",
+      "pop": 5,
+      "comp": 43,
+      "apps": 216,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom & fungi id: shroomid",
+      "pop": 5,
+      "comp": 8,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "t identifier",
+      "pop": 5,
+      "comp": 93,
+      "apps": 240,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "ingridents identifier",
+      "pop": 5,
+      "comp": 6,
+      "apps": 240,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "ımage",
+      "pop": 5,
+      "comp": 57,
+      "apps": 230,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "fish identifer",
+      "pop": 5,
+      "comp": 52,
+      "apps": 224,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "tree identifier •",
+      "pop": 5,
+      "comp": 26,
+      "apps": 237,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "mushroom foraging guide",
+      "pop": 5,
+      "comp": 14,
+      "apps": 199,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identify oysters",
+      "pop": 5,
+      "comp": 40,
+      "apps": 226,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "oyster identification",
+      "pop": 5,
+      "comp": 1,
+      "apps": 246,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "mushroom forager",
+      "pop": 5,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bush craft",
+      "pop": 5,
+      "comp": 78,
+      "apps": 94,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "surf identifier",
+      "pop": 5,
+      "apps": 242,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "mushroon identifier",
+      "pop": 5,
+      "comp": 87,
+      "apps": 234,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "toxic-free",
+      "pop": 5,
+      "comp": 43,
+      "apps": 247,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "auto identifier",
+      "pop": 5,
+      "comp": 79,
+      "apps": 235,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "mushrom identifier",
+      "pop": 5,
+      "comp": 80,
+      "apps": 234,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identificatore di funghi",
+      "pop": 5,
+      "apps": 61,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish identicier",
+      "pop": 5,
+      "comp": 53,
+      "apps": 223,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "anitque identifier",
+      "pop": 5,
+      "comp": 70,
+      "apps": 244,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "one picture",
+      "pop": 5,
+      "apps": 206,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "picturee",
+      "pop": 5,
+      "comp": 90,
+      "apps": 191,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "pictured",
+      "pop": 5,
+      "comp": 90,
+      "apps": 228,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "image picture photo",
+      "pop": 5,
+      "comp": 55,
+      "apps": 240,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "распознование растений",
+      "pop": 5,
+      "comp": 70,
+      "apps": 222,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "seed id",
+      "pop": 5,
+      "apps": 234,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "indetifier",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "idenify",
+      "pop": 5,
+      "apps": 244,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "mushroom: identifier",
+      "pop": 5,
+      "comp": 60,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identify picture",
+      "pop": 5,
+      "comp": 98,
+      "apps": 233,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "ai mushroom identifier app",
+      "pop": 5,
+      "apps": 241,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "植物識別子",
+      "pop": 5,
+      "apps": 61,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "mushroom generator",
+      "pop": 5,
+      "comp": 42,
+      "apps": 247,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "funko pop identifier",
+      "pop": 5,
+      "comp": 62,
+      "apps": 213,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "fresh identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "what the heck",
+      "pop": 5,
+      "apps": 221,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "lumber identifier",
+      "pop": 5,
+      "comp": 55,
+      "apps": 239,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "mushrooms identifier",
+      "pop": 5,
+      "apps": 242,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "label identifier",
+      "pop": 5,
+      "comp": 44,
+      "apps": 235,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "mushroom ai",
+      "pop": 5,
+      "comp": 50,
+      "apps": 248,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "gish identifier",
+      "pop": 5,
+      "comp": 58,
+      "apps": 240,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "idenitfy",
+      "pop": 5,
+      "apps": 244,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "fish identifyer",
+      "pop": 5,
+      "comp": 58,
+      "apps": 229,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "identifi",
+      "pop": 5,
+      "comp": 80,
+      "apps": 245,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "mushroom identifier conor sera",
+      "pop": 5,
+      "apps": 223,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "toxicity identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "mushroom identifier dmytro",
+      "pop": 5,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "mushroom identifier dmytro chernov",
+      "pop": 5,
+      "apps": 242,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "computer identifier",
+      "pop": 5,
+      "apps": 238,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "og identifier",
+      "pop": 5,
+      "apps": 246,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "spiherbce identifier",
+      "pop": 5,
+      "comp": 37,
+      "apps": 132,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "lazy rot",
+      "pop": 5,
+      "apps": 217,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "rock identifier app holdings",
+      "pop": 5,
+      "comp": 55,
+      "apps": 244,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "identifier id",
+      "pop": 5,
+      "apps": 245,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "rock identifier mer ay",
+      "pop": 5,
+      "apps": 241,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "dropping identifier",
+      "pop": 5,
+      "comp": 46,
+      "apps": 227,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "rune identifier",
+      "pop": 5,
+      "comp": 46,
+      "apps": 207,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "john%20reed",
+      "pop": 5,
+      "comp": 70,
+      "apps": 173,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "rare%20candy",
+      "pop": 5,
+      "comp": 62,
+      "apps": 190,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom%3A%20identifier",
+      "pop": 5,
+      "comp": 69,
+      "apps": 217,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "tree%20identification",
+      "pop": 5,
+      "comp": 71,
+      "apps": 233,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "mushroom%20finder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 244,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "item%20identifier",
+      "pop": 5,
+      "comp": 55,
+      "apps": 238,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "seek%20and%20find",
+      "pop": 5,
+      "comp": 37,
+      "apps": 220,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "rock%20identifier",
+      "pop": 5,
+      "comp": 38,
+      "apps": 245,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "picture%20mushroom",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "color%20identifier",
+      "pop": 5,
+      "comp": 38,
+      "apps": 242,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "leaf%20identification",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "green%20dot",
+      "pop": 5,
+      "comp": 83,
+      "apps": 240,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "bone%20identifier",
+      "pop": 5,
+      "comp": 58,
+      "apps": 234,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "alien identification",
+      "pop": 5,
+      "apps": 177,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "fish identifiert",
+      "pop": 5,
+      "comp": 57,
+      "apps": 224,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "yingyang",
+      "pop": 5,
+      "apps": 205,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "mushroom%20id",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "mushroom%20identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "rock%20identification",
+      "pop": 5,
+      "apps": 237,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "seed%20identifier",
+      "pop": 5,
+      "apps": 236,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "spider%20identifier",
+      "pop": 5,
+      "apps": 236,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "skeuomorphlar identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 216,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "shroom identifier",
+      "pop": 5,
+      "comp": 64,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identify fungi",
+      "pop": 5,
+      "apps": 222,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "photo mushroom id",
+      "pop": 5,
+      "comp": 49,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fungi and molds",
+      "pop": 5,
+      "apps": 218,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "pro identifier",
+      "pop": 5,
+      "apps": 243,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "idendifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "mushroom identifie",
+      "pop": 5,
+      "apps": 236,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "edible plants.",
+      "pop": 5,
+      "comp": 52,
+      "apps": 213,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "spore identifier",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "psilocybin mushroom",
+      "pop": 5,
+      "apps": 189,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "растения по фото",
+      "pop": 5,
+      "apps": 73,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "ıdentıfıer",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 249,
+      "imp": "0.48"
+    },
+    {
+      "kw": "curio identifier",
+      "pop": 5,
+      "comp": 67,
+      "apps": 244,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "foraging identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "jellyfish identifier",
+      "pop": 5,
+      "comp": 57,
+      "apps": 233,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "wild  identifier",
+      "pop": 5,
+      "comp": 67,
+      "apps": 246,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "thread identifier",
+      "pop": 5,
+      "comp": 88,
+      "apps": 180,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "identify plant by photo",
+      "pop": 5,
+      "comp": 87,
+      "apps": 243,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "mushroom map",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish identifier:",
+      "pop": 5,
+      "comp": 51,
+      "apps": 238,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "identifier:",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "mushroom identifier by photo",
+      "pop": 5,
+      "comp": 53,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "wild mushroom identifier",
+      "pop": 5,
+      "apps": 211,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "selected\t  leaf identifier",
+      "pop": 5,
+      "apps": 241,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "mushroom ientifier",
+      "pop": 5,
+      "comp": 55,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "herbe identification",
+      "pop": 5,
+      "comp": 68,
+      "apps": 226,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "mushroom identifier, antique identifier",
+      "pop": 5,
+      "comp": 56,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identifier for",
+      "pop": 5,
+      "comp": 78,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "butterlfy identifier",
+      "pop": 5,
+      "apps": 238,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "watermelon identifier",
+      "pop": 5,
+      "comp": 63,
+      "apps": 223,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "wild identifier",
+      "pop": 5,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "foraging season guide",
+      "pop": 5,
+      "apps": 227,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "forage guide",
+      "pop": 5,
+      "apps": 194,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "three identifier",
+      "pop": 5,
+      "comp": 64,
+      "apps": 232,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "mushroom id - ai identifier",
+      "pop": 5,
+      "apps": 244,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "muhroom identifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "beer label identifier",
+      "pop": 5,
+      "apps": 226,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "id mushroom identification",
+      "pop": 5,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "material identifier",
+      "pop": 5,
+      "comp": 56,
+      "apps": 246,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "herbal identifier",
+      "pop": 5,
+      "apps": 237,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "lichen identifier.",
+      "pop": 5,
+      "apps": 243,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "algae identifier",
+      "pop": 5,
+      "comp": 79,
+      "apps": 239,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "pottery identifier",
+      "pop": 5,
+      "comp": 87,
+      "apps": 240,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "mushroom toxic",
+      "pop": 5,
+      "apps": 174,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "molecule identifier",
+      "pop": 5,
+      "apps": 213,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "mark identifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "scam identifier",
+      "pop": 5,
+      "comp": 64,
+      "apps": 226,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "mushroom detector",
+      "pop": 5,
+      "apps": 238,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "game identifier",
+      "pop": 5,
+      "comp": 76,
+      "apps": 245,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "microbe identifier",
+      "pop": 5,
+      "apps": 175,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "identify medicinal plants",
+      "pop": 5,
+      "apps": 238,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "identify mushrooms by photo",
+      "pop": 5,
+      "apps": 231,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identify herbs free",
+      "pop": 5,
+      "apps": 234,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "identify succulents free",
+      "pop": 5,
+      "apps": 245,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "veggie seed tracker",
+      "pop": 5,
+      "apps": 231,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "mould identifier",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "musroom",
+      "pop": 5,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "ıdentfier",
+      "pop": 5,
+      "apps": 250,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "succulent identifie",
+      "pop": 5,
+      "apps": 238,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "muhsroom identifier",
+      "pop": 5,
+      "comp": 55,
+      "apps": 247,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "see shell identifier",
+      "pop": 5,
+      "apps": 124,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "mushroom spots",
+      "pop": 5,
+      "apps": 246,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fungi spore identifie",
+      "pop": 5,
+      "apps": 247,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fungi spore identifier",
+      "pop": 5,
+      "apps": 236,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "shampoo identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "antique identifier legaci",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "fungal",
+      "pop": 5,
+      "apps": 221,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "sewing needle identifier",
+      "pop": 5,
+      "apps": 236,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "allergen identifier in products",
+      "pop": 5,
+      "apps": 225,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "mushroom log",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "foraging safety notes",
+      "pop": 5,
+      "apps": 233,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "guitar bass model identifier",
+      "pop": 5,
+      "apps": 215,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "identifierplant",
+      "pop": 5,
+      "apps": 242,
+      "rank": 215,
+      "imp": "0.49"
+    },
+    {
+      "kw": "car identifier : ai scanner",
+      "pop": 5,
+      "apps": 225,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "بكتيريا",
+      "pop": 5,
+      "comp": 46,
+      "apps": 232,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "새는",
+      "pop": 5,
+      "comp": 40,
+      "apps": 224,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "monotubs",
+      "pop": 5,
+      "apps": 180,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mycolog",
+      "pop": 5,
+      "apps": 201,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "volcano identifier",
+      "pop": 5,
+      "apps": 227,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "i̇denti̇fy",
+      "pop": 5,
+      "apps": 246,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "choclate identifier",
+      "pop": 5,
+      "apps": 229,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "mushroom identifification",
+      "pop": 5,
+      "apps": 211,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "poison maps",
+      "pop": 5,
+      "apps": 163,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "poison map",
+      "pop": 5,
+      "apps": 71,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "mushroom identifir",
+      "pop": 5,
+      "apps": 239,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "雲量",
+      "pop": 5,
+      "apps": 240,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "asbestos identifier",
+      "pop": 5,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "spore print id",
+      "pop": 5,
+      "apps": 229,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "textile identifier",
+      "pop": 5,
+      "comp": 48,
+      "apps": 237,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "seed crop identifier",
+      "pop": 5,
+      "apps": 235,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "insecti identifier",
+      "pop": 5,
+      "apps": 234,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "craft identifier",
+      "pop": 5,
+      "comp": 55,
+      "apps": 233,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "kepl ai",
+      "pop": 5,
+      "apps": 242,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "herbalist",
+      "pop": 5,
+      "comp": 51,
+      "apps": 219,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "* identifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "a identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "stars identifier",
+      "pop": 5,
+      "apps": 230,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vintage identificatie",
+      "pop": 5,
+      "apps": 231,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "insect identifier insectgpts",
+      "pop": 5,
+      "apps": 233,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "insect identifier bug",
+      "pop": 5,
+      "apps": 220,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "bug bite identifiers",
+      "pop": 5,
+      "comp": 92,
+      "apps": 231,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "identifier insect spiders",
+      "pop": 5,
+      "apps": 230,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "insect bird mushroom fish",
+      "pop": 5,
+      "apps": 204,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "insect bird mushroom",
+      "pop": 5,
+      "apps": 201,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bird mushroom fish",
+      "pop": 5,
+      "apps": 210,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "kit rock insect bird mushroom",
+      "pop": 5,
+      "apps": 243,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "kit rock insect bird mushrooms",
+      "pop": 5,
+      "apps": 195,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "identificador de",
+      "pop": 5,
+      "apps": 243,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "fossil identifier:",
+      "pop": 5,
+      "apps": 243,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "universal identifier",
+      "pop": 5,
+      "apps": 238,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "snap identifier",
+      "pop": 5,
+      "apps": 230,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "pic identifier",
+      "pop": 5,
+      "comp": 50,
+      "apps": 247,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "moldbot",
+      "pop": 5,
+      "apps": 219,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "for photography",
+      "pop": 5,
+      "comp": 54,
+      "apps": 238,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "pictures for",
+      "pop": 5,
+      "comp": 90,
+      "apps": 233,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "pictures photography",
+      "pop": 5,
+      "comp": 66,
+      "apps": 232,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "photography pictures",
+      "pop": 5,
+      "comp": 66,
+      "apps": 229,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "pic picture",
+      "pop": 5,
+      "apps": 239,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "glass identifier",
+      "pop": 5,
+      "comp": 89,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "catfish identifier",
+      "pop": 5,
+      "apps": 239,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "receip identifier",
+      "pop": 5,
+      "apps": 237,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "identifire",
+      "pop": 5,
+      "comp": 89,
+      "apps": 246,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "bug bire identifier",
+      "pop": 5,
+      "apps": 225,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "identify species",
+      "pop": 5,
+      "comp": 47,
+      "apps": 234,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "infection identifier",
+      "pop": 5,
+      "apps": 215,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "identificatioh",
+      "pop": 5,
+      "apps": 245,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "specie identifier",
+      "pop": 5,
+      "apps": 235,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "rock identifier - rockby",
+      "pop": 5,
+      "apps": 225,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "anthique identifier",
+      "pop": 5,
+      "apps": 249,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "antique identifier: antique id",
+      "pop": 5,
+      "comp": 30,
+      "apps": 245,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "relic antique identifier",
+      "pop": 5,
+      "comp": 51,
+      "apps": 244,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "everyscan・identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "identifier lens",
+      "pop": 5,
+      "apps": 225,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "아기 이름",
+      "pop": 5,
+      "apps": 220,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "shroom calculator",
+      "pop": 5,
+      "apps": 248,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "identifier studio",
+      "pop": 5,
+      "apps": 234,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "antique snap relic identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "mushroom dentifier",
+      "pop": 5,
+      "apps": 231,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "iderntfier",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": ":identifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": ":indentifier",
+      "pop": 5,
+      "apps": 247,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "app identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "glasses identifier",
+      "pop": 5,
+      "apps": 234,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "identifeir",
+      "pop": 5,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "inaturlist",
+      "pop": 5,
+      "apps": 214,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "next vision",
+      "pop": 5,
+      "apps": 239,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "poisoning",
+      "pop": 5,
+      "comp": 52,
+      "apps": 225,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "kid identifier",
+      "pop": 5,
+      "comp": 45,
+      "apps": 233,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushrowms",
+      "pop": 5,
+      "apps": 185,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "mushroms",
+      "pop": 5,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "field photo",
+      "pop": 5,
+      "apps": 247,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "crab identifier",
+      "pop": 5,
+      "comp": 39,
+      "apps": 234,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "can identify",
+      "pop": 5,
+      "comp": 91,
+      "apps": 229,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "find er",
+      "pop": 5,
+      "apps": 215,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "peoples organic ids llc",
+      "pop": 5,
+      "apps": 200,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "ree plant identification",
+      "pop": 5,
+      "apps": 237,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "antique identifier - vintiq",
+      "pop": 5,
+      "apps": 246,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "bugid: insects & spider id",
+      "pop": 5,
+      "apps": 226,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "free antique identifier app",
+      "pop": 5,
+      "apps": 246,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "pictures identifier",
+      "pop": 5,
+      "apps": 246,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "free rock identifier free app",
+      "pop": 5,
+      "apps": 246,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "89999900",
+      "pop": 5,
+      "apps": 218,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "mushrooms scanner",
+      "pop": 5,
+      "apps": 229,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "mushrooms guide",
+      "pop": 5,
+      "apps": 202,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "foraging finder",
+      "pop": 5,
+      "apps": 192,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "foraging map",
+      "pop": 5,
+      "comp": 42,
+      "apps": 149,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "mushroom diary",
+      "pop": 5,
+      "apps": 212,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom journal",
+      "pop": 5,
+      "apps": 224,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom reminder",
+      "pop": 5,
+      "apps": 245,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "room guide",
+      "pop": 5,
+      "apps": 203,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "pottery mark identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "id\\",
+      "pop": 5,
+      "apps": 238,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "greens identificator",
+      "pop": 5,
+      "apps": 237,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "kid identification",
+      "pop": 5,
+      "apps": 208,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushrrom identifier",
+      "pop": 5,
+      "apps": 233,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom spawn monitor",
+      "pop": 5,
+      "apps": 209,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mycelium data logger",
+      "pop": 5,
+      "apps": 215,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom scout",
+      "pop": 5,
+      "apps": 227,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "wild mushroom foraging",
+      "pop": 5,
+      "apps": 185,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "chanterelle map tracker",
+      "pop": 5,
+      "apps": 229,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "gmp facility cleaner",
+      "pop": 5,
+      "apps": 232,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "scorecard device homescreen",
+      "pop": 5,
+      "apps": 223,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "each scorecard device",
+      "pop": 5,
+      "apps": 231,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fungi guide",
+      "pop": 5,
+      "apps": 239,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "wasp sting guide",
+      "pop": 5,
+      "apps": 213,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "antique identifier by pivture",
+      "pop": 5,
+      "apps": 243,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "bags identificator",
+      "pop": 5,
+      "apps": 232,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom snap",
+      "pop": 5,
+      "apps": 245,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "mushroom scan",
+      "pop": 5,
+      "apps": 239,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "mushroom scaner",
+      "pop": 5,
+      "apps": 223,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "照片鉴别",
+      "pop": 5,
+      "apps": 71,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "colo identifier",
+      "pop": 5,
+      "apps": 243,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "spre",
+      "pop": 5,
+      "apps": 203,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "picture guide",
+      "pop": 5,
+      "apps": 218,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fungus guide finder",
+      "pop": 5,
+      "apps": 210,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "thing identifier",
+      "pop": 5,
+      "apps": 248,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "leaves identifier",
+      "pop": 5,
+      "apps": 241,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "ree bug identifier",
+      "pop": 5,
+      "apps": 243,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "hunting & maps",
+      "pop": 5,
+      "apps": 215,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "identifier&care guide",
+      "pop": 5,
+      "apps": 242,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "mushroom drawing",
+      "pop": 5,
+      "apps": 217,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom hunting",
+      "pop": 5,
+      "apps": 244,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "military insignia identifier",
+      "pop": 5,
+      "apps": 229,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "termite identifier",
+      "pop": 5,
+      "apps": 237,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "opal identifier",
+      "pop": 5,
+      "apps": 242,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fern identifier",
+      "pop": 5,
+      "apps": 240,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "slug identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "toad identifier",
+      "pop": 5,
+      "apps": 241,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "mouse identifier",
+      "pop": 5,
+      "apps": 180,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "amber identifier",
+      "pop": 5,
+      "apps": 241,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "wild edible",
+      "pop": 5,
+      "apps": 218,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "wild mushroom",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "is this mushroom edible",
+      "pop": 5,
+      "apps": 244,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mushroom picker",
+      "pop": 5,
+      "apps": 248,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fungus id: mushroom identifier",
+      "pop": 5,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom identifier: scan pro",
+      "pop": 5,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mushroom identifier: photo id",
+      "pop": 5,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "mushroom identifier: fungi id",
+      "pop": 5,
+      "apps": 241,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom identifier: plant id",
+      "pop": 5,
+      "apps": 246,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "find mushrooms",
+      "pop": 5,
+      "apps": 240,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "mushroom identification.",
+      "pop": 5,
+      "apps": 243,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom identification ++",
+      "pop": 5,
+      "apps": 244,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "mushroom identification id",
+      "pop": 5,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "mushroom identification: capid",
+      "pop": 5,
+      "apps": 246,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "forest mushroom identification",
+      "pop": 5,
+      "apps": 246,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "snout: mushroom identification",
+      "pop": 5,
+      "apps": 246,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fungus id, guide, finder & map",
+      "pop": 5,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "picpure",
+      "pop": 5,
+      "apps": 248,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "lungworm",
+      "comp": 78,
+      "apps": 212,
+      "rank": 3
+    },
+    {
+      "kw": "mushroom identifier on the go",
+      "apps": 242,
+      "rank": 2
+    },
+    {
+      "kw": "\"identifier\"",
+      "comp": 48,
+      "apps": 247,
+      "rank": 8
+    },
+    {
+      "kw": "snap identify",
+      "apps": 242,
+      "rank": 58
+    },
+    {
+      "kw": "identifier image",
+      "apps": 247,
+      "rank": 19
+    },
+    {
+      "kw": "log object identifier",
+      "apps": 241,
+      "rank": 24
+    },
+    {
+      "kw": "mycelium identifier",
+      "apps": 250,
+      "rank": 19
+    },
+    {
+      "kw": "insect identifier bug scannerys",
+      "apps": 232,
+      "rank": 38
+    },
+    {
+      "kw": "bug bite identifier scans",
+      "apps": 232,
+      "rank": 31
+    },
+    {
+      "kw": "identifier bug scannerys",
+      "apps": 228,
+      "rank": 5
+    },
+    {
+      "kw": "bug identifier spiders",
+      "apps": 222,
+      "rank": 24
+    },
+    {
+      "kw": "insect identifier bugwise",
+      "apps": 226,
+      "rank": 12
+    },
+    {
+      "kw": "bug identifier bugscan",
+      "apps": 226,
+      "rank": 16
+    },
+    {
+      "kw": "bug identifier bugscans",
+      "apps": 224,
+      "rank": 16
+    },
+    {
+      "kw": "bug identifier scans",
+      "apps": 237,
+      "rank": 25
+    },
+    {
+      "kw": "rock insect bird mushrooms",
+      "apps": 202,
+      "rank": 1
+    },
+    {
+      "kw": "kit rock insect bird mushroom fishs",
+      "apps": 246,
+      "rank": 2
+    },
+    {
+      "kw": "kit rock insect",
+      "apps": 248,
+      "rank": 3
+    },
+    {
+      "kw": "rock insect bird mushroom",
+      "apps": 195,
+      "rank": 1
+    },
+    {
+      "kw": "bird mushroom fishs",
+      "apps": 244,
+      "rank": 1
+    },
+    {
+      "kw": "insect bird mushroom fishs",
+      "apps": 202,
+      "rank": 1
+    },
+    {
+      "kw": "insect identifier scans",
+      "apps": 239,
+      "rank": 15
+    },
+    {
+      "kw": "rock insect bird mushroom fishs",
+      "apps": 200,
+      "rank": 1
+    },
+    {
+      "kw": "identify kit rock insect bird mushrooms",
+      "apps": 222,
+      "rank": 1
+    },
+    {
+      "kw": "rock insect bird mushroom fish",
+      "apps": 200,
+      "rank": 1
+    },
+    {
+      "kw": "identify kit rock insect bird mushroom",
+      "apps": 211,
+      "rank": 1
+    },
+    {
+      "kw": "insect bird mushrooms",
+      "apps": 212,
+      "rank": 1
+    },
+    {
+      "kw": "finder insect identifiers",
+      "apps": 228,
+      "rank": 11
+    },
+    {
+      "kw": "finder insect identifier",
+      "apps": 225,
+      "rank": 8
+    },
+    {
+      "kw": "[mushroom identifier]",
+      "apps": 235,
+      "rank": 12
+    },
+    {
+      "kw": "iderntifier",
+      "apps": 248,
+      "rank": 5
+    },
+    {
+      "kw": "mushroom identifier log",
+      "comp": 56,
+      "apps": 244,
+      "rank": 7
+    },
+    {
+      "kw": "collection identifier",
+      "apps": 248,
+      "rank": 61
+    },
+    {
+      "kw": "Nature identifier for kids",
+      "apps": 233,
+      "rank": 14
+    },
+    {
+      "kw": "ant bite guide",
+      "apps": 196,
+      "rank": 10
+    },
+    {
+      "kw": "scan mushrooms",
+      "apps": 247,
+      "rank": 222
+    },
+    {
+      "kw": "picture tool",
+      "apps": 239,
+      "rank": 210
+    }
+  ]
+}

@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (28 clusters, ~147 000 mots-clés)
+## Clusters sondés (35 clusters, ~160 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -48,7 +48,18 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 | seniors-sante | `seniors-sante.csv` | 2 432 | brain training, senior fitness | 🟢 À approfondir |
 | motion-games | `motion-games.csv` | 269 | Just Dance like | 🟡 |
 
-**TOTAL : 28 clusters sondés, ~147 000 mots-clés bruts.**
+### Nouveaux clusters sondés le 30/08 (7 ajoutés, vague 3)
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| musique-outils | `musique-outils.csv` | 5 296 | guitar tuner, piano, drum machine, beat maker | 🟢 À approfondir |
+| seniors-vie | `seniors-vie.csv` | 2 459 | senior phone, genealogy, old photos restore | 🟢 À approfondir |
+| art-creatif | `art-creatif.csv` | 2 236 | drawing, knitting, crochet, embroidery | 🟢 À approfondir |
+| collection-hobby | `collection-hobby.csv` | 1 259 | LEGO, vinyl, coin, stamp | 🟡 |
+| outdoor-nature | `outdoor-nature.csv` | 1 160 | hiking, camping, geocaching, mushroom | 🟢 À approfondir |
+| bricolage-diy | `bricolage-diy.csv` | 1 140 | woodworking, home improvement | 🟡 |
+| religion-autre | `religion-autre.csv` | 209 | hindu, buddhist, judaism | 🟡 |
+
+**TOTAL : 35 clusters sondés, ~160 000 mots-clés bruts.**
 
 ## Lecture des scores
 - **Popularity** : demande réelle. ≥40 = forte, ≥30 = minimum intéressant, <25 = faible.

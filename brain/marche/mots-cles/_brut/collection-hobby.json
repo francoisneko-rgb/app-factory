@@ -1,0 +1,9672 @@
+{
+  "LEGOBuilder": [
+    {
+      "kw": "s",
+      "pop": 68,
+      "comp": 98,
+      "apps": 231,
+      "rank": 115,
+      "imp": "7.50"
+    },
+    {
+      "kw": "family link",
+      "pop": 62,
+      "comp": 97,
+      "apps": 247,
+      "rank": 136,
+      "imp": "6.63"
+    },
+    {
+      "kw": "brick",
+      "pop": 61,
+      "comp": 85,
+      "apps": 249,
+      "rank": 112,
+      "imp": "6.76"
+    },
+    {
+      "kw": "skool",
+      "pop": 60,
+      "comp": 88,
+      "apps": 247,
+      "rank": 100,
+      "imp": "6.79"
+    },
+    {
+      "kw": "play together",
+      "pop": 60,
+      "comp": 77,
+      "apps": 233,
+      "rank": 155,
+      "imp": "6.26"
+    },
+    {
+      "kw": "book",
+      "pop": 59,
+      "comp": 91,
+      "apps": 243,
+      "rank": 44,
+      "imp": "7.93"
+    },
+    {
+      "kw": "v",
+      "pop": 58,
+      "comp": 95,
+      "apps": 227,
+      "rank": 123,
+      "imp": "6.31"
+    },
+    {
+      "kw": "building games",
+      "pop": 56,
+      "comp": 90,
+      "apps": 212,
+      "rank": 37,
+      "imp": "7.84"
+    },
+    {
+      "kw": "step",
+      "pop": 56,
+      "comp": 78,
+      "apps": 249,
+      "rank": 62,
+      "imp": "6.98"
+    },
+    {
+      "kw": "we",
+      "pop": 53,
+      "comp": 75,
+      "apps": 193,
+      "rank": 137,
+      "imp": "5.66"
+    },
+    {
+      "kw": "bild",
+      "pop": 53,
+      "comp": 90,
+      "apps": 212,
+      "rank": 123,
+      "imp": "5.77"
+    },
+    {
+      "kw": "ブック",
+      "pop": 53,
+      "comp": 83,
+      "apps": 250,
+      "rank": 25,
+      "imp": "8.18"
+    },
+    {
+      "kw": "3d",
+      "pop": 52,
+      "comp": 86,
+      "apps": 249,
+      "rank": 136,
+      "imp": "5.56"
+    },
+    {
+      "kw": "hot wheels",
+      "pop": 52,
+      "comp": 90,
+      "apps": 246,
+      "rank": 79,
+      "imp": "6.17"
+    },
+    {
+      "kw": "جاكو",
+      "pop": 52,
+      "comp": 100,
+      "apps": 245,
+      "rank": 70,
+      "imp": "6.32"
+    },
+    {
+      "kw": "build",
+      "pop": 50,
+      "comp": 93,
+      "apps": 233,
+      "rank": 15,
+      "imp": "8.92"
+    },
+    {
+      "kw": "toy story",
+      "pop": 50,
+      "comp": 93,
+      "apps": 240,
+      "rank": 34,
+      "imp": "7.14"
+    },
+    {
+      "kw": "Minifig Scan",
+      "pop": 50,
+      "comp": 80,
+      "apps": 249,
+      "rank": 11,
+      "imp": "9.84"
+    },
+    {
+      "kw": "3d: scanner app",
+      "pop": 50,
+      "comp": 63,
+      "apps": 247,
+      "rank": 126,
+      "imp": "5.42"
+    },
+    {
+      "kw": "3d scanner app",
+      "pop": 49,
+      "comp": 71,
+      "apps": 248,
+      "rank": 125,
+      "imp": "5.32"
+    },
+    {
+      "kw": "guide along",
+      "pop": 49,
+      "comp": 80,
+      "apps": 242,
+      "rank": 176,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lego games",
+      "pop": 48,
+      "comp": 48,
+      "apps": 240,
+      "rank": 13,
+      "imp": "8.95"
+    },
+    {
+      "kw": "only fan",
+      "pop": 48,
+      "comp": 89,
+      "apps": 244,
+      "rank": 59,
+      "imp": "6.05"
+    },
+    {
+      "kw": "plus",
+      "pop": 47,
+      "comp": 98,
+      "apps": 249,
+      "rank": 107,
+      "imp": "5.25"
+    },
+    {
+      "kw": "книги",
+      "pop": 47,
+      "comp": 87,
+      "apps": 250,
+      "rank": 33,
+      "imp": "6.76"
+    },
+    {
+      "kw": "chatgpt plus",
+      "pop": 47,
+      "comp": 98,
+      "apps": 241,
+      "rank": 115,
+      "imp": "5.18"
+    },
+    {
+      "kw": "wbuilds",
+      "pop": 47,
+      "comp": 88,
+      "apps": 250,
+      "rank": 2,
+      "imp": "21.57"
+    },
+    {
+      "kw": "ninjago",
+      "pop": 45,
+      "comp": 95,
+      "apps": 219,
+      "rank": 48,
+      "imp": "5.93"
+    },
+    {
+      "kw": "monzo",
+      "pop": 45,
+      "comp": 36,
+      "apps": 249,
+      "rank": 161,
+      "imp": "4.67"
+    },
+    {
+      "kw": "albo",
+      "pop": 45,
+      "comp": 48,
+      "apps": 234,
+      "rank": 109,
+      "imp": "5.01"
+    },
+    {
+      "kw": "brickit",
+      "pop": 45,
+      "comp": 95,
+      "apps": 250,
+      "rank": 3,
+      "imp": "15.68"
+    },
+    {
+      "kw": "两步路",
+      "pop": 43,
+      "comp": 92,
+      "apps": 246,
+      "rank": 118,
+      "imp": "4.72"
+    },
+    {
+      "kw": "better",
+      "pop": 42,
+      "comp": 93,
+      "apps": 250,
+      "rank": 92,
+      "imp": "4.83"
+    },
+    {
+      "kw": "easy",
+      "pop": 42,
+      "comp": 96,
+      "apps": 247,
+      "rank": 186,
+      "imp": "4.25"
+    },
+    {
+      "kw": "my builder",
+      "pop": 42,
+      "comp": 58,
+      "apps": 247,
+      "rank": 16,
+      "imp": "7.35"
+    },
+    {
+      "kw": "crayola create and play",
+      "pop": 40,
+      "comp": 28,
+      "apps": 241,
+      "rank": 67,
+      "imp": "4.91"
+    },
+    {
+      "kw": "building",
+      "pop": 39,
+      "comp": 95,
+      "apps": 243,
+      "rank": 15,
+      "imp": "6.96"
+    },
+    {
+      "kw": "toy story games",
+      "pop": 39,
+      "comp": 44,
+      "apps": 216,
+      "rank": 31,
+      "imp": "5.70"
+    },
+    {
+      "kw": "together",
+      "pop": 39,
+      "comp": 72,
+      "apps": 248,
+      "rank": 122,
+      "imp": "4.25"
+    },
+    {
+      "kw": "super mario bros",
+      "pop": 38,
+      "comp": 73,
+      "apps": 250,
+      "rank": 102,
+      "imp": "4.28"
+    },
+    {
+      "kw": "free books",
+      "pop": 37,
+      "comp": 77,
+      "apps": 249,
+      "rank": 35,
+      "imp": "5.25"
+    },
+    {
+      "kw": "disney magic kingdoms",
+      "pop": 37,
+      "comp": 75,
+      "apps": 225,
+      "rank": 88,
+      "imp": "4.29"
+    },
+    {
+      "kw": "minecraft building guide",
+      "pop": 36,
+      "comp": 79,
+      "apps": 250,
+      "rank": 27,
+      "imp": "5.45"
+    },
+    {
+      "kw": "bricklink",
+      "pop": 35,
+      "comp": 89,
+      "apps": 249,
+      "rank": 6,
+      "imp": "8.65"
+    },
+    {
+      "kw": "toy",
+      "pop": 34,
+      "comp": 94,
+      "apps": 250,
+      "rank": 149,
+      "imp": "3.57"
+    },
+    {
+      "kw": "chicago parking",
+      "pop": 34,
+      "comp": 45,
+      "apps": 248,
+      "rank": 188,
+      "imp": "3.43"
+    },
+    {
+      "kw": "minecraft building guide apps",
+      "pop": 33,
+      "comp": 47,
+      "apps": 249,
+      "rank": 47,
+      "imp": "4.37"
+    },
+    {
+      "kw": "lego app",
+      "pop": 32,
+      "comp": 18,
+      "apps": 230,
+      "rank": 1,
+      "imp": "32.00"
+    },
+    {
+      "kw": "costruzioni",
+      "pop": 30,
+      "comp": 45,
+      "apps": 247,
+      "rank": 5,
+      "imp": "8.03"
+    },
+    {
+      "kw": "create games",
+      "pop": 29,
+      "comp": 28,
+      "apps": 204,
+      "rank": 68,
+      "imp": "3.55"
+    },
+    {
+      "kw": "book apps for free",
+      "pop": 29,
+      "comp": 80,
+      "apps": 243,
+      "rank": 41,
+      "imp": "3.96"
+    },
+    {
+      "kw": "car builder",
+      "pop": 28,
+      "comp": 89,
+      "apps": 250,
+      "rank": 117,
+      "imp": "3.08"
+    },
+    {
+      "kw": "leg",
+      "pop": 27,
+      "comp": 74,
+      "apps": 250,
+      "rank": 31,
+      "imp": "3.95"
+    },
+    {
+      "kw": "minecraft building",
+      "pop": 27,
+      "comp": 98,
+      "apps": 250,
+      "rank": 48,
+      "imp": "3.56"
+    },
+    {
+      "kw": "collection",
+      "pop": 26,
+      "comp": 97,
+      "apps": 249,
+      "rank": 135,
+      "imp": "2.78"
+    },
+    {
+      "kw": "كتاب",
+      "pop": 25,
+      "comp": 74,
+      "apps": 238,
+      "rank": 23,
+      "imp": "3.95"
+    },
+    {
+      "kw": "box fan",
+      "pop": 23,
+      "comp": 100,
+      "apps": 250,
+      "rank": 48,
+      "imp": "3.03"
+    },
+    {
+      "kw": "entretenimiento",
+      "pop": 22,
+      "comp": 62,
+      "apps": 224,
+      "rank": 76,
+      "imp": "2.63"
+    },
+    {
+      "kw": "buildings for minecraft",
+      "pop": 22,
+      "comp": 78,
+      "apps": 249,
+      "rank": 85,
+      "imp": "2.57"
+    },
+    {
+      "kw": "group fun",
+      "pop": 22,
+      "comp": 71,
+      "apps": 250,
+      "rank": 149,
+      "imp": "2.31"
+    },
+    {
+      "kw": "lego city",
+      "pop": 21,
+      "comp": 74,
+      "apps": 226,
+      "rank": 4,
+      "imp": "6.25"
+    },
+    {
+      "kw": "abc 7 chicago",
+      "pop": 21,
+      "comp": 36,
+      "apps": 250,
+      "rank": 125,
+      "imp": "2.28"
+    },
+    {
+      "kw": "book app",
+      "pop": 20,
+      "comp": 75,
+      "apps": 241,
+      "rank": 36,
+      "imp": "2.82"
+    },
+    {
+      "kw": "lego game",
+      "pop": 19,
+      "comp": 46,
+      "apps": 231,
+      "rank": 8,
+      "imp": "4.19"
+    },
+    {
+      "kw": "loki",
+      "pop": 19,
+      "comp": 96,
+      "apps": 250,
+      "rank": 168,
+      "imp": "1.96"
+    },
+    {
+      "kw": "craft block",
+      "pop": 19,
+      "comp": 93,
+      "apps": 250,
+      "rank": 104,
+      "imp": "2.13"
+    },
+    {
+      "kw": "paw patrol game",
+      "pop": 18,
+      "comp": 33,
+      "apps": 228,
+      "rank": 148,
+      "imp": "1.89"
+    },
+    {
+      "kw": "oggi",
+      "pop": 18,
+      "comp": 87,
+      "apps": 250,
+      "rank": 56,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fan n star",
+      "pop": 17,
+      "comp": 95,
+      "apps": 250,
+      "rank": 81,
+      "imp": "2.01"
+    },
+    {
+      "kw": "intrattenimento",
+      "pop": 16,
+      "comp": 78,
+      "apps": 227,
+      "rank": 58,
+      "imp": "2.02"
+    },
+    {
+      "kw": "jenny mod for minecraft pe",
+      "pop": 15,
+      "comp": 100,
+      "apps": 250,
+      "rank": 121,
+      "imp": "1.64"
+    },
+    {
+      "kw": "toy games",
+      "pop": 14,
+      "comp": 19,
+      "apps": 227,
+      "rank": 107,
+      "imp": "1.56"
+    },
+    {
+      "kw": "complete app",
+      "pop": 13,
+      "apps": 226,
+      "rank": 149,
+      "imp": "1.37"
+    },
+    {
+      "kw": "lego life",
+      "pop": 12,
+      "comp": 35,
+      "apps": 220,
+      "rank": 2,
+      "imp": "5.51"
+    },
+    {
+      "kw": "roller coaster builder",
+      "pop": 11,
+      "comp": 89,
+      "apps": 249,
+      "rank": 59,
+      "imp": "1.39"
+    },
+    {
+      "kw": "make games",
+      "pop": 11,
+      "comp": 62,
+      "apps": 200,
+      "rank": 52,
+      "imp": "1.42"
+    },
+    {
+      "kw": "make a game",
+      "pop": 9,
+      "comp": 19,
+      "apps": 203,
+      "rank": 81,
+      "imp": "1.06"
+    },
+    {
+      "kw": "stopmotion",
+      "pop": 9,
+      "comp": 90,
+      "apps": 250,
+      "rank": 80,
+      "imp": "1.06"
+    },
+    {
+      "kw": "builder",
+      "pop": 9,
+      "comp": 84,
+      "apps": 250,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "3d scanner",
+      "pop": 9,
+      "comp": 77,
+      "apps": 247,
+      "rank": 121,
+      "imp": "0.98"
+    },
+    {
+      "kw": "lemmings",
+      "pop": 9,
+      "comp": 61,
+      "apps": 226,
+      "rank": 89,
+      "imp": "1.04"
+    },
+    {
+      "kw": "libro",
+      "pop": 9,
+      "comp": 92,
+      "apps": 250,
+      "rank": 32,
+      "imp": "1.31"
+    },
+    {
+      "kw": "3d model",
+      "pop": 9,
+      "comp": 90,
+      "apps": 250,
+      "rank": 148,
+      "imp": "0.95"
+    },
+    {
+      "kw": "nerf",
+      "pop": 9,
+      "comp": 64,
+      "apps": 227,
+      "rank": 93,
+      "imp": "1.03"
+    },
+    {
+      "kw": "bilder",
+      "pop": 9,
+      "comp": 91,
+      "apps": 250,
+      "rank": 107,
+      "imp": "1.01"
+    },
+    {
+      "kw": "gun builder",
+      "pop": 9,
+      "comp": 68,
+      "apps": 250,
+      "rank": 112,
+      "imp": "1.00"
+    },
+    {
+      "kw": "numberblocks",
+      "pop": 9,
+      "comp": 77,
+      "apps": 242,
+      "rank": 63,
+      "imp": "1.12"
+    },
+    {
+      "kw": "brick game",
+      "pop": 9,
+      "comp": 94,
+      "apps": 250,
+      "rank": 186,
+      "imp": "0.91"
+    },
+    {
+      "kw": "juju",
+      "pop": 9,
+      "comp": 95,
+      "apps": 246,
+      "rank": 69,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fut card creator",
+      "pop": 9,
+      "comp": 67,
+      "apps": 249,
+      "rank": 106,
+      "imp": "1.01"
+    },
+    {
+      "kw": "teardown",
+      "pop": 9,
+      "comp": 79,
+      "apps": 216,
+      "rank": 87,
+      "imp": "1.05"
+    },
+    {
+      "kw": "lego scan",
+      "pop": 9,
+      "apps": 244,
+      "rank": 7,
+      "imp": "2.09"
+    },
+    {
+      "kw": "brick scanner",
+      "pop": 9,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.98"
+    },
+    {
+      "kw": "w builds",
+      "pop": 9,
+      "comp": 86,
+      "apps": 225,
+      "rank": 3,
+      "imp": "3.14"
+    },
+    {
+      "kw": "minecraft build guide",
+      "pop": 9,
+      "comp": 71,
+      "apps": 250,
+      "rank": 25,
+      "imp": "1.39"
+    },
+    {
+      "kw": "app creator",
+      "pop": 8,
+      "comp": 35,
+      "apps": 243,
+      "rank": 69,
+      "imp": "0.98"
+    },
+    {
+      "kw": "lego friends",
+      "pop": 8,
+      "comp": 58,
+      "apps": 202,
+      "rank": 4,
+      "imp": "2.38"
+    },
+    {
+      "kw": "bego",
+      "pop": 8,
+      "comp": 90,
+      "apps": 250,
+      "rank": 50,
+      "imp": "1.04"
+    },
+    {
+      "kw": "lego instructions",
+      "pop": 8,
+      "apps": 249,
+      "rank": 1,
+      "imp": "8.00"
+    },
+    {
+      "kw": "trailmakers",
+      "pop": 8,
+      "comp": 86,
+      "apps": 219,
+      "rank": 61,
+      "imp": "1.00"
+    },
+    {
+      "kw": "bricks",
+      "pop": 8,
+      "comp": 92,
+      "apps": 250,
+      "rank": 115,
+      "imp": "0.88"
+    },
+    {
+      "kw": "struckd",
+      "pop": 8,
+      "comp": 74,
+      "apps": 250,
+      "rank": 106,
+      "imp": "0.90"
+    },
+    {
+      "kw": "team builder",
+      "pop": 8,
+      "comp": 70,
+      "apps": 250,
+      "rank": 90,
+      "imp": "0.92"
+    },
+    {
+      "kw": "lego scanner",
+      "pop": 8,
+      "comp": 74,
+      "apps": 249,
+      "rank": 11,
+      "imp": "1.57"
+    },
+    {
+      "kw": "sculpt people",
+      "pop": 8,
+      "comp": 68,
+      "apps": 248,
+      "rank": 55,
+      "imp": "1.02"
+    },
+    {
+      "kw": "rebrickable",
+      "pop": 8,
+      "comp": 70,
+      "apps": 249,
+      "rank": 5,
+      "imp": "2.14"
+    },
+    {
+      "kw": "minifig scanner",
+      "pop": 8,
+      "apps": 244,
+      "rank": 4,
+      "imp": "2.38"
+    },
+    {
+      "kw": "w build",
+      "pop": 8,
+      "comp": 70,
+      "apps": 220,
+      "rank": 4,
+      "imp": "2.38"
+    },
+    {
+      "kw": "inst down",
+      "pop": 7,
+      "comp": 87,
+      "apps": 208,
+      "rank": 162,
+      "imp": "0.72"
+    },
+    {
+      "kw": "pc part picker",
+      "pop": 7,
+      "comp": 67,
+      "apps": 250,
+      "rank": 60,
+      "imp": "0.88"
+    },
+    {
+      "kw": "lego duplo train",
+      "pop": 7,
+      "comp": 58,
+      "apps": 236,
+      "rank": 6,
+      "imp": "1.73"
+    },
+    {
+      "kw": "pc builder",
+      "pop": 7,
+      "comp": 82,
+      "apps": 250,
+      "rank": 14,
+      "imp": "1.28"
+    },
+    {
+      "kw": "3d viewer",
+      "pop": 7,
+      "comp": 73,
+      "apps": 249,
+      "rank": 129,
+      "imp": "0.76"
+    },
+    {
+      "kw": "settle up",
+      "pop": 7,
+      "comp": 92,
+      "apps": 248,
+      "rank": 123,
+      "imp": "0.76"
+    },
+    {
+      "kw": "how to draw step by step",
+      "pop": 7,
+      "comp": 57,
+      "apps": 249,
+      "rank": 224,
+      "imp": "0.69"
+    },
+    {
+      "kw": "scanner 3d",
+      "pop": 7,
+      "comp": 56,
+      "apps": 238,
+      "rank": 88,
+      "imp": "0.81"
+    },
+    {
+      "kw": "lado",
+      "pop": 7,
+      "comp": 95,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.94"
+    },
+    {
+      "kw": "lego duplo world",
+      "pop": 7,
+      "comp": 44,
+      "apps": 246,
+      "rank": 10,
+      "imp": "1.42"
+    },
+    {
+      "kw": "xbox family",
+      "pop": 7,
+      "comp": 94,
+      "apps": 247,
+      "rank": 71,
+      "imp": "0.85"
+    },
+    {
+      "kw": "buildcores",
+      "pop": 7,
+      "comp": 83,
+      "apps": 250,
+      "rank": 10,
+      "imp": "1.42"
+    },
+    {
+      "kw": "happymood",
+      "pop": 7,
+      "comp": 96,
+      "apps": 246,
+      "rank": 201,
+      "imp": "0.70"
+    },
+    {
+      "kw": "builderment",
+      "pop": 7,
+      "comp": 78,
+      "apps": 250,
+      "rank": 106,
+      "imp": "0.78"
+    },
+    {
+      "kw": "minifig",
+      "pop": 7,
+      "comp": 66,
+      "apps": 247,
+      "rank": 3,
+      "imp": "2.44"
+    },
+    {
+      "kw": "building link",
+      "pop": 6,
+      "comp": 87,
+      "apps": 249,
+      "rank": 6,
+      "imp": "1.48"
+    },
+    {
+      "kw": "free book apps",
+      "pop": 6,
+      "comp": 76,
+      "apps": 239,
+      "rank": 30,
+      "imp": "0.88"
+    },
+    {
+      "kw": "hotwheels",
+      "pop": 6,
+      "comp": 50,
+      "apps": 241,
+      "rank": 68,
+      "imp": "0.73"
+    },
+    {
+      "kw": "nintendogs",
+      "pop": 6,
+      "comp": 92,
+      "apps": 245,
+      "rank": 21,
+      "imp": "0.97"
+    },
+    {
+      "kw": "ghostbusters",
+      "pop": 6,
+      "comp": 92,
+      "apps": 238,
+      "rank": 89,
+      "imp": "0.69"
+    },
+    {
+      "kw": "v shred",
+      "pop": 6,
+      "comp": 74,
+      "apps": 246,
+      "rank": 145,
+      "imp": "0.63"
+    },
+    {
+      "kw": "neal fun",
+      "pop": 6,
+      "comp": 92,
+      "apps": 250,
+      "rank": 101,
+      "imp": "0.68"
+    },
+    {
+      "kw": "lineup builder",
+      "pop": 6,
+      "comp": 84,
+      "apps": 250,
+      "rank": 65,
+      "imp": "0.74"
+    },
+    {
+      "kw": "bul",
+      "pop": 6,
+      "comp": 96,
+      "apps": 249,
+      "rank": 40,
+      "imp": "0.82"
+    },
+    {
+      "kw": "brick it",
+      "pop": 6,
+      "apps": 248,
+      "rank": 3,
+      "imp": "2.09"
+    },
+    {
+      "kw": "noobo",
+      "pop": 6,
+      "comp": 82,
+      "apps": 248,
+      "rank": 33,
+      "imp": "0.86"
+    },
+    {
+      "kw": "buch",
+      "pop": 5,
+      "comp": 95,
+      "apps": 249,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "free books app",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "3 d",
+      "pop": 5,
+      "comp": 45,
+      "apps": 234,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "scrap mechanic",
+      "pop": 5,
+      "comp": 100,
+      "apps": 245,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "paint 3d",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "build a house",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "book apps",
+      "pop": 5,
+      "comp": 83,
+      "apps": 245,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "google stadia",
+      "pop": 5,
+      "comp": 88,
+      "apps": 249,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "how to",
+      "pop": 5,
+      "comp": 92,
+      "apps": 207,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "create a game",
+      "pop": 5,
+      "comp": 19,
+      "apps": 208,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "小 说",
+      "pop": 5,
+      "comp": 67,
+      "apps": 231,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "family share",
+      "pop": 5,
+      "comp": 92,
+      "apps": 247,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "stich screenshot",
+      "pop": 5,
+      "comp": 36,
+      "apps": 250,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "hotwheel",
+      "pop": 5,
+      "comp": 81,
+      "apps": 247,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "room builder",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "things",
+      "pop": 5,
+      "comp": 74,
+      "apps": 246,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "build your own house",
+      "pop": 5,
+      "comp": 91,
+      "apps": 248,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "build house",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "3d builder",
+      "pop": 5,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "lego movie",
+      "pop": 5,
+      "comp": 94,
+      "apps": 249,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "building game",
+      "pop": 5,
+      "comp": 87,
+      "apps": 222,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "kit",
+      "pop": 5,
+      "comp": 95,
+      "apps": 247,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "long legs",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "guides",
+      "pop": 5,
+      "comp": 94,
+      "apps": 250,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ar stars",
+      "pop": 5,
+      "comp": 87,
+      "apps": 226,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "guidebook app",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "buildcraft",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "minecraft guide",
+      "pop": 5,
+      "comp": 74,
+      "apps": 250,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "building house",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "construction game",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "circuit builder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 247,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "bumblebee",
+      "pop": 5,
+      "comp": 55,
+      "apps": 241,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "video to boomerang",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "create boomerang",
+      "pop": 5,
+      "comp": 61,
+      "apps": 248,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "build games",
+      "pop": 5,
+      "comp": 77,
+      "apps": 205,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "dag",
+      "pop": 5,
+      "comp": 89,
+      "apps": 216,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "pc building",
+      "pop": 5,
+      "comp": 69,
+      "apps": 249,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "pc build simulator",
+      "pop": 5,
+      "comp": 62,
+      "apps": 249,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "track book collection",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "how to win friends",
+      "pop": 5,
+      "comp": 67,
+      "apps": 247,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ebook app",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "box fan app",
+      "pop": 5,
+      "comp": 36,
+      "apps": 247,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "mouse lego",
+      "pop": 5,
+      "comp": 55,
+      "apps": 229,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "get creative from cbeebies",
+      "pop": 5,
+      "comp": 61,
+      "apps": 233,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "mars 3d",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "create game",
+      "pop": 5,
+      "comp": 63,
+      "apps": 205,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "3d model maker",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "hear better",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "luigi",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "aufbauen",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "brickset",
+      "pop": 5,
+      "apps": 243,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "tower builder",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "build race track",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "rally builder",
+      "pop": 5,
+      "comp": 44,
+      "apps": 243,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "f1 racing builder",
+      "pop": 5,
+      "comp": 65,
+      "apps": 249,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "f1 track builder",
+      "pop": 5,
+      "comp": 57,
+      "apps": 241,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "kids building games",
+      "pop": 5,
+      "comp": 81,
+      "apps": 222,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "make game",
+      "pop": 5,
+      "comp": 19,
+      "apps": 203,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "build kids games",
+      "pop": 5,
+      "comp": 80,
+      "apps": 198,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "build you can imagine",
+      "pop": 5,
+      "comp": 80,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "play create game",
+      "pop": 5,
+      "comp": 61,
+      "apps": 193,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "tynker",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "指南",
+      "pop": 5,
+      "comp": 89,
+      "apps": 247,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "l'appli",
+      "pop": 5,
+      "comp": 86,
+      "apps": 217,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "free label maker",
+      "pop": 5,
+      "comp": 67,
+      "apps": 247,
+      "rank": 233,
+      "imp": "0.49"
+    },
+    {
+      "kw": "game 3d",
+      "pop": 5,
+      "comp": 86,
+      "apps": 181,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "lego brick",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "bb8",
+      "pop": 5,
+      "comp": 89,
+      "apps": 221,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "base builder",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "kids lego games",
+      "pop": 5,
+      "comp": 54,
+      "apps": 193,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fold paper",
+      "pop": 5,
+      "comp": 64,
+      "apps": 249,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "boulder",
+      "pop": 5,
+      "comp": 70,
+      "apps": 246,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "bb 8",
+      "pop": 5,
+      "comp": 100,
+      "apps": 249,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "книга",
+      "pop": 5,
+      "comp": 90,
+      "apps": 250,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "3d movies",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "3d model viewer",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "general contractor apps",
+      "pop": 5,
+      "comp": 78,
+      "apps": 247,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "minecraft builder",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "train track builder",
+      "pop": 5,
+      "comp": 64,
+      "apps": 249,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "league of legends builds",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "blind drive",
+      "pop": 5,
+      "comp": 95,
+      "apps": 245,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "toy collection",
+      "pop": 5,
+      "comp": 59,
+      "apps": 250,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "create app",
+      "pop": 5,
+      "comp": 52,
+      "apps": 232,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "building maintenance",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "3d graph",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "build bridge",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "bau",
+      "pop": 5,
+      "comp": 57,
+      "apps": 237,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ceiling fan",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "letgo app",
+      "pop": 5,
+      "comp": 98,
+      "apps": 249,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "floor plan creator 3d",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "rollercoaster builder",
+      "pop": 5,
+      "comp": 91,
+      "apps": 250,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "builder game",
+      "pop": 5,
+      "comp": 91,
+      "apps": 249,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "sets",
+      "pop": 5,
+      "comp": 55,
+      "apps": 247,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "develop games",
+      "pop": 5,
+      "comp": 81,
+      "apps": 201,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "the fan app",
+      "pop": 5,
+      "comp": 30,
+      "apps": 226,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bewertung",
+      "pop": 5,
+      "comp": 68,
+      "apps": 250,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "creación",
+      "pop": 5,
+      "comp": 90,
+      "apps": 214,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "skywalker",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "game collection tracker",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "building guide",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "build machines",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "créer",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "redstone guide",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "pocket build",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "collection game",
+      "pop": 5,
+      "comp": 44,
+      "apps": 198,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "video game scanner",
+      "pop": 5,
+      "comp": 77,
+      "apps": 248,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "adding",
+      "pop": 5,
+      "comp": 97,
+      "apps": 246,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "bricks balls",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fun app",
+      "pop": 5,
+      "comp": 46,
+      "apps": 195,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "instruction",
+      "pop": 5,
+      "comp": 96,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hot wheels collection",
+      "pop": 5,
+      "comp": 89,
+      "apps": 248,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "crea",
+      "pop": 5,
+      "comp": 89,
+      "apps": 239,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "constructor",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "brick rigs",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "my collection",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "costruction",
+      "pop": 5,
+      "apps": 243,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "indomaret",
+      "pop": 5,
+      "comp": 69,
+      "apps": 249,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "pc build",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "logo 3d",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fun and easy",
+      "pop": 5,
+      "comp": 92,
+      "apps": 240,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "digitale",
+      "pop": 5,
+      "comp": 77,
+      "apps": 246,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "коллекция",
+      "pop": 5,
+      "comp": 86,
+      "apps": 205,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "video game tracker",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "league of legends guide",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "guide for",
+      "pop": 5,
+      "comp": 34,
+      "apps": 228,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "family team",
+      "pop": 5,
+      "comp": 78,
+      "apps": 248,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fortnite fortnight",
+      "pop": 5,
+      "comp": 84,
+      "apps": 239,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "stadia google",
+      "pop": 5,
+      "comp": 85,
+      "apps": 247,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "traktor",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "maker game",
+      "pop": 5,
+      "comp": 24,
+      "apps": 223,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "makita",
+      "pop": 5,
+      "comp": 81,
+      "apps": 246,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "base building",
+      "pop": 5,
+      "comp": 55,
+      "apps": 244,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "处理程序",
+      "pop": 5,
+      "comp": 79,
+      "apps": 237,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "kingdom builder",
+      "pop": 5,
+      "comp": 85,
+      "apps": 249,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "bring!",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "star track",
+      "pop": 5,
+      "comp": 77,
+      "apps": 248,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "tower builder bloxx",
+      "pop": 5,
+      "comp": 1,
+      "apps": 241,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "dream car builder",
+      "pop": 5,
+      "apps": 249,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "assembly line",
+      "pop": 5,
+      "comp": 30,
+      "apps": 247,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "fan guide",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "ludique",
+      "pop": 5,
+      "comp": 98,
+      "apps": 249,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "pc creator",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "#s",
+      "pop": 5,
+      "comp": 93,
+      "apps": 222,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "building guide for minecraft",
+      "pop": 5,
+      "comp": 56,
+      "apps": 249,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "team collaboration",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "magic brick wars",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "brick rush",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "magic brick war",
+      "pop": 5,
+      "comp": 95,
+      "apps": 249,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "buzz lightyear",
+      "pop": 5,
+      "comp": 80,
+      "apps": 224,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "дупло",
+      "pop": 5,
+      "comp": 66,
+      "apps": 243,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "build app",
+      "pop": 5,
+      "comp": 27,
+      "apps": 228,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "build apps",
+      "pop": 5,
+      "comp": 78,
+      "apps": 230,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "no code app",
+      "pop": 5,
+      "comp": 34,
+      "apps": 248,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "прототип приложения",
+      "pop": 5,
+      "comp": 60,
+      "apps": 249,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "прототипы приложений",
+      "pop": 5,
+      "comp": 57,
+      "apps": 250,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "appbuilder",
+      "pop": 5,
+      "comp": 50,
+      "apps": 247,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "no Code app builder",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "build apps no code",
+      "pop": 5,
+      "comp": 14,
+      "apps": 239,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "appbuilder no code",
+      "pop": 5,
+      "comp": 35,
+      "apps": 245,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "bâtiment",
+      "pop": 5,
+      "comp": 96,
+      "apps": 250,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "constructeurs",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "michel thomas",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "2k drive",
+      "pop": 5,
+      "comp": 93,
+      "apps": 242,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "app builder no code",
+      "pop": 5,
+      "comp": 74,
+      "apps": 250,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "code no builder app",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "apps builder",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "brick wars",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "duplo world",
+      "pop": 5,
+      "comp": 33,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "निर्माण",
+      "pop": 5,
+      "comp": 84,
+      "apps": 217,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "3d cad view",
+      "pop": 5,
+      "comp": 36,
+      "apps": 248,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "architecture and construction",
+      "pop": 5,
+      "comp": 90,
+      "apps": 250,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "how",
+      "pop": 5,
+      "comp": 83,
+      "apps": 216,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "n code app builder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "applications prototypes",
+      "pop": 5,
+      "comp": 21,
+      "apps": 246,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "Kein Code App Builder",
+      "pop": 5,
+      "comp": 64,
+      "apps": 241,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "Prototyp-Apps",
+      "pop": 5,
+      "comp": 77,
+      "apps": 244,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "Prototyp Apps",
+      "pop": 5,
+      "comp": 76,
+      "apps": 240,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "mcdonals heroes",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "Paper.io 3D",
+      "pop": 5,
+      "comp": 90,
+      "apps": 249,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "config",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "team collaboration app",
+      "pop": 5,
+      "comp": 92,
+      "apps": 249,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "大小",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "family sharing app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "build guide",
+      "pop": 5,
+      "comp": 72,
+      "apps": 250,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "建筑师",
+      "pop": 5,
+      "comp": 68,
+      "apps": 247,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "games collection",
+      "pop": 5,
+      "comp": 60,
+      "apps": 199,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "suggestion",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "video game database",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "-learning fun",
+      "pop": 5,
+      "comp": 54,
+      "apps": 161,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "games for a group",
+      "pop": 5,
+      "comp": 59,
+      "apps": 226,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "tycoon builder",
+      "pop": 5,
+      "comp": 85,
+      "apps": 249,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "livros",
+      "pop": 5,
+      "comp": 94,
+      "apps": 249,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "schritte plus neu",
+      "pop": 5,
+      "comp": 94,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "3 d game",
+      "pop": 5,
+      "comp": 86,
+      "apps": 187,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "make 3d",
+      "pop": 5,
+      "comp": 53,
+      "apps": 238,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "building code",
+      "pop": 5,
+      "comp": 89,
+      "apps": 249,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "chima",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "rainbow craft",
+      "pop": 5,
+      "comp": 74,
+      "apps": 207,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "pdf read aloud",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "form builder",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "数取器",
+      "pop": 5,
+      "comp": 46,
+      "apps": 242,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "confidence building",
+      "pop": 5,
+      "comp": 20,
+      "apps": 249,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "stories builder",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "ig stories template",
+      "pop": 5,
+      "comp": 69,
+      "apps": 249,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "cruise picker",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kitap",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "things to draw",
+      "pop": 5,
+      "comp": 49,
+      "apps": 249,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "qr barcode generator",
+      "pop": 5,
+      "comp": 9,
+      "apps": 238,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "檔 案",
+      "pop": 5,
+      "comp": 84,
+      "apps": 222,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "game development",
+      "pop": 5,
+      "comp": 87,
+      "apps": 244,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "adult fun",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "کتاب",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "how to do",
+      "pop": 5,
+      "comp": 70,
+      "apps": 218,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "plants vs zombies j",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "kids building",
+      "pop": 5,
+      "comp": 80,
+      "apps": 235,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "panoramica",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "criar",
+      "pop": 5,
+      "comp": 76,
+      "apps": 249,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "machen",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "gruppe",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "группы",
+      "pop": 5,
+      "comp": 82,
+      "apps": 224,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "gemeinsame",
+      "pop": 5,
+      "comp": 77,
+      "apps": 234,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "building game kids",
+      "pop": 5,
+      "comp": 76,
+      "apps": 222,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "add group",
+      "pop": 5,
+      "comp": 98,
+      "apps": 249,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "build your",
+      "pop": 5,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "keep track",
+      "pop": 5,
+      "comp": 14,
+      "apps": 230,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "create a",
+      "pop": 5,
+      "comp": 92,
+      "apps": 222,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "sammlung von",
+      "pop": 5,
+      "comp": 85,
+      "apps": 244,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "keep the",
+      "pop": 5,
+      "comp": 71,
+      "apps": 190,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "build tower",
+      "pop": 5,
+      "apps": 250,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "edificación",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "how-to",
+      "pop": 5,
+      "comp": 91,
+      "apps": 206,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "huske",
+      "pop": 5,
+      "comp": 67,
+      "apps": 247,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "paper prototype",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "上运行",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "etmek istiyorsunuz",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "app figures 6",
+      "pop": 5,
+      "comp": 73,
+      "apps": 217,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "app figures 8",
+      "pop": 5,
+      "comp": 70,
+      "apps": 223,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "lapplication",
+      "pop": 5,
+      "comp": 89,
+      "apps": 199,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "leave",
+      "pop": 5,
+      "comp": 89,
+      "apps": 240,
+      "rank": 174,
+      "imp": "0.51"
+    },
+    {
+      "kw": "nutzung",
+      "pop": 5,
+      "comp": 85,
+      "apps": 221,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "dinge",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "digitalen",
+      "pop": 5,
+      "comp": 58,
+      "apps": 247,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "nach kategorien",
+      "pop": 5,
+      "comp": 88,
+      "apps": 236,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "league of legends halloween skins 2020",
+      "pop": 5,
+      "comp": 83,
+      "apps": 248,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "league of legends pick em",
+      "pop": 5,
+      "comp": 96,
+      "apps": 246,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "league of legends 4k",
+      "pop": 5,
+      "comp": 68,
+      "apps": 245,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "является",
+      "pop": 5,
+      "comp": 82,
+      "apps": 206,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "how do",
+      "pop": 5,
+      "apps": 247,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "retrouvez",
+      "pop": 5,
+      "comp": 92,
+      "apps": 244,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "lifehacks",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "ships builder",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "robo bridge",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "robot bridge",
+      "pop": 5,
+      "comp": 50,
+      "apps": 249,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "modèle",
+      "pop": 5,
+      "comp": 93,
+      "apps": 244,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "builds",
+      "pop": 5,
+      "apps": 246,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "tips builds",
+      "pop": 5,
+      "apps": 249,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "写书工具",
+      "pop": 5,
+      "comp": 32,
+      "apps": 241,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "turkey meatballs",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "préparation",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "lustigen",
+      "pop": 5,
+      "comp": 55,
+      "apps": 207,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "official host",
+      "pop": 5,
+      "comp": 47,
+      "apps": 247,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "новые задания",
+      "pop": 5,
+      "comp": 83,
+      "apps": 184,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "увлекательный процесс",
+      "pop": 5,
+      "comp": 35,
+      "apps": 248,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "yeni bir iş",
+      "pop": 5,
+      "comp": 71,
+      "apps": 234,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "among us in 3d",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "build tracker",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "valentine's day game",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "team building",
+      "pop": 5,
+      "comp": 86,
+      "apps": 242,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "plumbing code",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "ig cover",
+      "pop": 5,
+      "comp": 58,
+      "apps": 237,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "3‪d‬",
+      "pop": 5,
+      "comp": 34,
+      "apps": 226,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "guidé",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "how do you",
+      "pop": 5,
+      "comp": 89,
+      "apps": 193,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "game consoles",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "game controls",
+      "pop": 5,
+      "comp": 82,
+      "apps": 234,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "game systems",
+      "pop": 5,
+      "comp": 53,
+      "apps": 248,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "used video game",
+      "pop": 5,
+      "comp": 26,
+      "apps": 199,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "game build",
+      "pop": 5,
+      "comp": 56,
+      "apps": 207,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "site builder",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "pieces builder",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "rl tracker",
+      "pop": 5,
+      "comp": 87,
+      "apps": 245,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "build base",
+      "pop": 5,
+      "comp": 35,
+      "apps": 239,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "lauf-app",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "intelligent instructions",
+      "pop": 5,
+      "comp": 20,
+      "apps": 249,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bilt intelligent",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "buildings",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "building instructions",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bâtiments",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "mr builder",
+      "pop": 5,
+      "comp": 67,
+      "apps": 246,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "bildung für kinder",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ספר",
+      "pop": 5,
+      "comp": 78,
+      "apps": 241,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "småbørns spil",
+      "pop": 5,
+      "comp": 62,
+      "apps": 242,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "video game inventory",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "game cataloging",
+      "pop": 5,
+      "comp": 53,
+      "apps": 246,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "video game organizer",
+      "pop": 5,
+      "comp": 59,
+      "apps": 233,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "video game catalog",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "video game cataloging",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "oppdage",
+      "pop": 5,
+      "comp": 75,
+      "apps": 244,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "kule apper",
+      "pop": 5,
+      "comp": 85,
+      "apps": 250,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "leuke apps",
+      "pop": 5,
+      "comp": 62,
+      "apps": 237,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "事项",
+      "pop": 5,
+      "comp": 92,
+      "apps": 230,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "박스",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "bricklaying",
+      "pop": 5,
+      "comp": 47,
+      "apps": 247,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "בידור",
+      "pop": 5,
+      "comp": 87,
+      "apps": 217,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "construction builder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "3d game gamer",
+      "pop": 5,
+      "comp": 63,
+      "apps": 203,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "master building",
+      "pop": 5,
+      "comp": 65,
+      "apps": 241,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "building block",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "games build",
+      "pop": 5,
+      "comp": 70,
+      "apps": 208,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "ทุกเส้นทาง",
+      "pop": 5,
+      "comp": 48,
+      "apps": 227,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "nessas",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "talking stick resort",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "ebook app free",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "free ebook app",
+      "pop": 5,
+      "comp": 78,
+      "apps": 245,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "marble battle - unity test",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "10 city guides",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "how to make a paper helicopter",
+      "pop": 5,
+      "comp": 14,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "what do my toys do at night?",
+      "pop": 5,
+      "comp": 26,
+      "apps": 231,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ginger lola dolls and crafts",
+      "pop": 5,
+      "comp": 61,
+      "apps": 230,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "guide ultraman legend heroes",
+      "pop": 5,
+      "comp": 92,
+      "apps": 244,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "building blocks by happykids.t",
+      "pop": 5,
+      "comp": 0,
+      "apps": 243,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "3d lucky craft : crafting house building games",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "toca life world - create your world guide",
+      "pop": 5,
+      "comp": 85,
+      "apps": 250,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "guide for zoom video : tips zoom meetings",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "body building basics",
+      "pop": 5,
+      "comp": 33,
+      "apps": 250,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "designer stories",
+      "pop": 5,
+      "comp": 77,
+      "apps": 236,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "biulding",
+      "pop": 5,
+      "comp": 54,
+      "apps": 223,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "Squid Game 3D",
+      "pop": 5,
+      "comp": 92,
+      "apps": 249,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "τζόκινγκ",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "kniha",
+      "pop": 5,
+      "comp": 91,
+      "apps": 250,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "squid game guide",
+      "pop": 5,
+      "comp": 98,
+      "apps": 247,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "kindermode kostenlos",
+      "pop": 5,
+      "comp": 68,
+      "apps": 223,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "kinder kleidung shopping",
+      "pop": 5,
+      "comp": 71,
+      "apps": 234,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kinder mode shopping",
+      "pop": 5,
+      "comp": 66,
+      "apps": 241,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kinder kleidung online shop",
+      "pop": 5,
+      "comp": 78,
+      "apps": 243,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kinderkleidung online shop",
+      "pop": 5,
+      "comp": 77,
+      "apps": 242,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kinder mode online shop",
+      "pop": 5,
+      "comp": 77,
+      "apps": 242,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "build coaster",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "byg",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "bob the builder 2",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "Subway Blue Hedgehog Rush",
+      "pop": 5,
+      "comp": 26,
+      "apps": 250,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "köprü oyun",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "Digital Creator",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "eğlence",
+      "pop": 5,
+      "comp": 86,
+      "apps": 247,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "Crossy Bridge",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "poppy playtime kart",
+      "pop": 5,
+      "comp": 61,
+      "apps": 227,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "track sets",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "settracker",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "مشاهدة مباريات اليوم",
+      "pop": 5,
+      "comp": 44,
+      "apps": 246,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "سيري أ",
+      "pop": 5,
+      "comp": 90,
+      "apps": 239,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "track things",
+      "pop": 5,
+      "comp": 47,
+      "apps": 249,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "建模软件",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "knob",
+      "pop": 5,
+      "comp": 94,
+      "apps": 245,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "train set track builder game",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "kids train set",
+      "pop": 5,
+      "comp": 33,
+      "apps": 238,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "train track builder for kids",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "Theme Creator",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "blog builder",
+      "pop": 5,
+      "comp": 45,
+      "apps": 249,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "develop application",
+      "pop": 5,
+      "comp": 53,
+      "apps": 231,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "easy kids coloring apps",
+      "pop": 5,
+      "comp": 70,
+      "apps": 237,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "창의적",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "list builder",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "part picker",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "how stuff works",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "stop-motion",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "lego duplo marvel",
+      "pop": 5,
+      "comp": 24,
+      "apps": 226,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "brick film",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ट्रैक स्टाकर",
+      "pop": 5,
+      "comp": 21,
+      "apps": 236,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "build simulatro",
+      "pop": 5,
+      "comp": 32,
+      "apps": 245,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "balayer",
+      "pop": 5,
+      "comp": 87,
+      "apps": 246,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "सेवर",
+      "pop": 5,
+      "comp": 94,
+      "apps": 244,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "how to make",
+      "pop": 5,
+      "comp": 95,
+      "apps": 204,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "aajtak",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "Track video game",
+      "pop": 5,
+      "comp": 51,
+      "apps": 219,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "easy missions",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "ailenle",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "snake arena 3d",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "3d：building game",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "craft 3d：building",
+      "pop": 5,
+      "comp": 91,
+      "apps": 249,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "lego magazine",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "buil",
+      "pop": 5,
+      "comp": 71,
+      "apps": 207,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "coaster builder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "video game tracking",
+      "pop": 5,
+      "comp": 29,
+      "apps": 246,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "j-list rewards",
+      "pop": 5,
+      "comp": 63,
+      "apps": 245,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "track video games",
+      "pop": 5,
+      "comp": 58,
+      "apps": 223,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "Video Game Track",
+      "pop": 5,
+      "comp": 74,
+      "apps": 245,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "记步",
+      "pop": 5,
+      "comp": 72,
+      "apps": 250,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "team formation",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "batman villains",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "juni",
+      "pop": 5,
+      "apps": 249,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "create play",
+      "pop": 5,
+      "comp": 60,
+      "apps": 198,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "collect track",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "mexico cruise",
+      "pop": 5,
+      "comp": 30,
+      "apps": 239,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "game tracking",
+      "pop": 5,
+      "comp": 26,
+      "apps": 245,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "brookhaven rp",
+      "pop": 5,
+      "comp": 90,
+      "apps": 227,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "tiktok booster like and fan",
+      "pop": 5,
+      "comp": 51,
+      "apps": 248,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "3d plot",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "group activity",
+      "pop": 5,
+      "comp": 66,
+      "apps": 235,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "in-shape",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "craft and build",
+      "pop": 5,
+      "comp": 96,
+      "apps": 250,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "лого",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "blooket com",
+      "pop": 5,
+      "comp": 61,
+      "apps": 210,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "Adult toy",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "numérique 3d",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "biulding inc",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "self building",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "building activities",
+      "pop": 5,
+      "comp": 73,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "brige biulding game",
+      "pop": 5,
+      "comp": 46,
+      "apps": 250,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "mini builder",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "sell letgo",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "build computer",
+      "pop": 5,
+      "comp": 47,
+      "apps": 248,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "livré",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "builder manager",
+      "pop": 5,
+      "comp": 0,
+      "apps": 210,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "سرگرمی",
+      "pop": 5,
+      "comp": 1,
+      "apps": 208,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "lego minifigure",
+      "pop": 5,
+      "apps": 242,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kids road build games",
+      "pop": 5,
+      "comp": 27,
+      "apps": 237,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "garage brand",
+      "pop": 5,
+      "comp": 89,
+      "apps": 241,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "kids construction games",
+      "pop": 5,
+      "comp": 66,
+      "apps": 227,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "video game book",
+      "pop": 5,
+      "comp": 30,
+      "apps": 219,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "duplo marvel",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "kraft tracken",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "upin chat",
+      "pop": 5,
+      "comp": 94,
+      "apps": 250,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "line up builde",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "line up builder",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "set builder",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "축소",
+      "pop": 5,
+      "comp": 90,
+      "apps": 242,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "kitab",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "my pdf scanner",
+      "pop": 5,
+      "comp": 78,
+      "apps": 246,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "digitais",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "constructie",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "개선",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "easy to do",
+      "pop": 5,
+      "comp": 93,
+      "apps": 213,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "kaydet",
+      "pop": 5,
+      "comp": 100,
+      "apps": 249,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "boomerang video app",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "סרוק",
+      "pop": 5,
+      "comp": 92,
+      "apps": 249,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "lego finder",
+      "pop": 5,
+      "apps": 247,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "přejít na dnešek",
+      "pop": 5,
+      "comp": 87,
+      "apps": 221,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "game collections",
+      "pop": 5,
+      "comp": 33,
+      "apps": 235,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "game collesction",
+      "pop": 5,
+      "comp": 29,
+      "apps": 237,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "bobthebuilder",
+      "pop": 5,
+      "comp": 83,
+      "apps": 249,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "börja",
+      "pop": 5,
+      "comp": 90,
+      "apps": 247,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "digital legacy",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "peru 2023",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "bob the bialder",
+      "pop": 5,
+      "comp": 36,
+      "apps": 249,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "Toy Cars Arena",
+      "pop": 5,
+      "comp": 87,
+      "apps": 245,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "construiește",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "plus four",
+      "pop": 5,
+      "comp": 56,
+      "apps": 238,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "язык программирования",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "crafto",
+      "pop": 5,
+      "apps": 249,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "videogame tracker",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "contraction time",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "today rebuild",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "up!",
+      "pop": 5,
+      "comp": 80,
+      "apps": 207,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "adult toys",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "make your group",
+      "pop": 5,
+      "comp": 61,
+      "apps": 233,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "adult entertainment",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "game making app",
+      "pop": 5,
+      "comp": 17,
+      "apps": 198,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "plus game",
+      "pop": 5,
+      "comp": 32,
+      "apps": 201,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "team building games",
+      "pop": 5,
+      "comp": 51,
+      "apps": 204,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "team-building games",
+      "pop": 5,
+      "comp": 49,
+      "apps": 204,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "boulder tracker",
+      "pop": 5,
+      "comp": 45,
+      "apps": 244,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "what we’re playing now",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "group call and games",
+      "pop": 5,
+      "comp": 56,
+      "apps": 216,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "3d adult games download",
+      "pop": 5,
+      "comp": 57,
+      "apps": 229,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "adult android apk",
+      "pop": 5,
+      "comp": 48,
+      "apps": 233,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "adult game store",
+      "pop": 5,
+      "comp": 23,
+      "apps": 220,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "adult games for zoom",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "adult games in playstore",
+      "pop": 5,
+      "comp": 52,
+      "apps": 244,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "adult java games",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "adult zoom games",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "adult zoom party games",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "diy adult game night",
+      "pop": 5,
+      "comp": 64,
+      "apps": 250,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "easy games for groups of adults",
+      "pop": 5,
+      "comp": 65,
+      "apps": 217,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fun games to play on zoom adults",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "game night games diy adults",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "game night ideas adults diy",
+      "pop": 5,
+      "comp": 36,
+      "apps": 250,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "city community",
+      "pop": 5,
+      "comp": 29,
+      "apps": 246,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "skill building",
+      "pop": 5,
+      "comp": 72,
+      "apps": 244,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "skill-building",
+      "pop": 5,
+      "comp": 67,
+      "apps": 243,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "lego builder app",
+      "pop": 5,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "construtor",
+      "pop": 5,
+      "comp": 76,
+      "apps": 249,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "标志",
+      "pop": 5,
+      "comp": 32,
+      "apps": 242,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "code creative",
+      "pop": 5,
+      "comp": 16,
+      "apps": 243,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "the avatar maker app",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "books,read",
+      "pop": 5,
+      "comp": 68,
+      "apps": 241,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gpt 3 plus",
+      "pop": 5,
+      "comp": 91,
+      "apps": 250,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "brick app",
+      "pop": 5,
+      "apps": 249,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "roll build",
+      "pop": 5,
+      "comp": 74,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "creative toy",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "دليل السماء",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "comparte tu vida",
+      "pop": 5,
+      "comp": 78,
+      "apps": 189,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "- préparation",
+      "pop": 5,
+      "comp": 53,
+      "apps": 247,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "liberer",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "polly pocket city",
+      "pop": 5,
+      "comp": 47,
+      "apps": 212,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "polly pocket mini",
+      "pop": 5,
+      "comp": 80,
+      "apps": 244,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "rollercoaster kit",
+      "pop": 5,
+      "comp": 91,
+      "apps": 250,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "creative universe",
+      "pop": 5,
+      "comp": 94,
+      "apps": 250,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "crane builder",
+      "pop": 5,
+      "comp": 0,
+      "apps": 226,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "Pakistan carne builder games",
+      "pop": 5,
+      "comp": 59,
+      "apps": 250,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "bulldozer building game",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "application maker",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids building for boy",
+      "pop": 5,
+      "comp": 66,
+      "apps": 229,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "hero making",
+      "pop": 5,
+      "comp": 70,
+      "apps": 241,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "看星星",
+      "pop": 5,
+      "comp": 55,
+      "apps": 225,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "set-up",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "divirta-se",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "dig & do",
+      "pop": 5,
+      "comp": 66,
+      "apps": 249,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "BuildIt Kids",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "Dig Build Adventures",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "Tiny Builders: Construction Edition",
+      "pop": 5,
+      "comp": 26,
+      "apps": 232,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "Construction Edition",
+      "pop": 5,
+      "comp": 53,
+      "apps": 247,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "Constructo Kids",
+      "pop": 5,
+      "comp": 26,
+      "apps": 235,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "Build-A-World",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "Buildopolis",
+      "pop": 5,
+      "comp": 0,
+      "apps": 20,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "Kiddie Constructors",
+      "pop": 5,
+      "comp": 30,
+      "apps": 242,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "Dig & Construct: Kids Edition",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "Dig & Construct",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Kid Builders: Construction Mania",
+      "pop": 5,
+      "comp": 26,
+      "apps": 231,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "Kid Builders",
+      "pop": 5,
+      "comp": 76,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "Build-A-Lot Adventure",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "Constructo Kids Club",
+      "pop": 5,
+      "comp": 34,
+      "apps": 242,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "Tiny Constructors Playland",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "Build & Play Funland",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "Constructopia Kids",
+      "pop": 5,
+      "comp": 21,
+      "apps": 214,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "Mini Builders' Adventure",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "Constructo City Kids",
+      "pop": 5,
+      "comp": 27,
+      "apps": 229,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "Build-A-World Junior",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "Tiny Town Builders",
+      "pop": 5,
+      "comp": 36,
+      "apps": 248,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "Constructo Kids Clubhouse",
+      "pop": 5,
+      "comp": 8,
+      "apps": 242,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "Kid Builders' Playbook",
+      "pop": 5,
+      "comp": 8,
+      "apps": 249,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "BuildIt Jr. Challenge",
+      "pop": 5,
+      "comp": 13,
+      "apps": 20,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "Constructo Cove Kids",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "Build-A-Lot Wonderworld",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "Constructo Circus Kids",
+      "pop": 5,
+      "comp": 71,
+      "apps": 249,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "BuildIt Kids Universe",
+      "pop": 5,
+      "comp": 71,
+      "apps": 249,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "for adults and kids",
+      "pop": 5,
+      "comp": 54,
+      "apps": 223,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "ترفيه",
+      "pop": 5,
+      "comp": 90,
+      "apps": 216,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "free childrens builder games",
+      "pop": 5,
+      "comp": 77,
+      "apps": 222,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "new set",
+      "pop": 5,
+      "comp": 91,
+      "apps": 187,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "builder improve",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "adventure kids",
+      "pop": 5,
+      "comp": 79,
+      "apps": 212,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "instant app builder",
+      "pop": 5,
+      "comp": 45,
+      "apps": 250,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "pdf scsan",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "Lego catalog",
+      "pop": 5,
+      "comp": 15,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "blog master",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "casa e construção",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "reading apps for children",
+      "pop": 5,
+      "comp": 62,
+      "apps": 206,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "how to draw mario",
+      "pop": 5,
+      "comp": 33,
+      "apps": 249,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "tournament builder",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "building master",
+      "pop": 5,
+      "comp": 76,
+      "apps": 250,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "ai interior designer",
+      "pop": 5,
+      "comp": 66,
+      "apps": 250,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "扫",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "玩机技巧",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "系统软件",
+      "pop": 5,
+      "comp": 84,
+      "apps": 246,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "艾思",
+      "pop": 5,
+      "comp": 90,
+      "apps": 459,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "设置助理",
+      "pop": 5,
+      "comp": 28,
+      "apps": 220,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "免费扫描",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "digital criar",
+      "pop": 5,
+      "comp": 92,
+      "apps": 247,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "סוֹרֵק",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "scan-pdf creator",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "scan-pdf",
+      "pop": 5,
+      "comp": 90,
+      "apps": 250,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "klocki pojazdy dla dzieci",
+      "pop": 5,
+      "comp": 32,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "blocks construction",
+      "pop": 5,
+      "comp": 8,
+      "apps": 250,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "practice builder",
+      "pop": 5,
+      "comp": 76,
+      "apps": 250,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "metro rail dc",
+      "pop": 5,
+      "comp": 60,
+      "apps": 249,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lego collector",
+      "pop": 5,
+      "apps": 242,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "better together app",
+      "pop": 5,
+      "comp": 60,
+      "apps": 241,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "child progress",
+      "pop": 5,
+      "comp": 83,
+      "apps": 231,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "인식",
+      "pop": 5,
+      "comp": 93,
+      "apps": 247,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "kits mobile app",
+      "pop": 5,
+      "comp": 95,
+      "apps": 249,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "highway code 2021",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "Santa Jumper Fun",
+      "pop": 5,
+      "comp": 63,
+      "apps": 245,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "creative jump and draw",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "chores to do",
+      "pop": 5,
+      "comp": 57,
+      "apps": 239,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "chores to-do",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "连点器",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "zoo kids",
+      "pop": 5,
+      "comp": 34,
+      "apps": 227,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "store creator",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "world buidling",
+      "pop": 5,
+      "comp": 12,
+      "apps": 234,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "Digital Friends AI",
+      "pop": 5,
+      "comp": 61,
+      "apps": 240,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "デザイン作成",
+      "pop": 5,
+      "comp": 74,
+      "apps": 231,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "sistema para loja",
+      "pop": 5,
+      "comp": 34,
+      "apps": 235,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "lego identifier",
+      "pop": 5,
+      "comp": 36,
+      "apps": 240,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "diviertete",
+      "pop": 5,
+      "comp": 89,
+      "apps": 247,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "spill for barn gratis er",
+      "pop": 5,
+      "comp": 63,
+      "apps": 214,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "roblox ultimate",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "river gauges",
+      "pop": 5,
+      "comp": 77,
+      "apps": 243,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "growing games for kids",
+      "pop": 5,
+      "comp": 69,
+      "apps": 213,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "mics",
+      "pop": 5,
+      "comp": 76,
+      "apps": 232,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "baby generator app",
+      "pop": 5,
+      "comp": 54,
+      "apps": 249,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "barcode· create",
+      "pop": 5,
+      "comp": 43,
+      "apps": 250,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "3d code scanner",
+      "pop": 5,
+      "apps": 250,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "appbetter",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "make progress",
+      "pop": 5,
+      "comp": 47,
+      "apps": 249,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "building destructio",
+      "pop": 5,
+      "apps": 249,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "buildings destruction",
+      "pop": 5,
+      "apps": 249,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "Pdf scanner document scanner",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "collect components",
+      "pop": 5,
+      "comp": 90,
+      "apps": 250,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "design and build",
+      "pop": 5,
+      "comp": 65,
+      "apps": 249,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "relationship building",
+      "pop": 5,
+      "comp": 66,
+      "apps": 250,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "minifigure",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "How to draw with steps",
+      "pop": 5,
+      "comp": 53,
+      "apps": 246,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "How to draw for",
+      "pop": 5,
+      "comp": 35,
+      "apps": 249,
+      "rank": 244,
+      "imp": "0.48"
+    },
+    {
+      "kw": "Learn to draw tutorial",
+      "pop": 5,
+      "comp": 50,
+      "apps": 249,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "factory builder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "iron finder",
+      "pop": 5,
+      "comp": 95,
+      "apps": 250,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "we pix arena",
+      "pop": 5,
+      "comp": 91,
+      "apps": 240,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "brick scan",
+      "pop": 5,
+      "comp": 88,
+      "apps": 246,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "ott apps",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "Fall guy edition huggy wuggy",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "construction simulatorr",
+      "pop": 5,
+      "comp": 20,
+      "apps": 249,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "video game barcode scanner",
+      "pop": 5,
+      "comp": 55,
+      "apps": 250,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "pdf viewer scanner",
+      "pop": 5,
+      "comp": 70,
+      "apps": 243,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "space building",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "space station construction",
+      "pop": 5,
+      "comp": 47,
+      "apps": 248,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Mind Unlock",
+      "pop": 5,
+      "comp": 2,
+      "apps": 229,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "nucleapp",
+      "pop": 5,
+      "comp": 93,
+      "apps": 248,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "create explore",
+      "pop": 5,
+      "apps": 244,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "share your feelings",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "mind palace",
+      "pop": 5,
+      "comp": 64,
+      "apps": 249,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hotwheels collection",
+      "pop": 5,
+      "comp": 92,
+      "apps": 250,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "with intuitive",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "find experiences",
+      "pop": 5,
+      "comp": 61,
+      "apps": 204,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "universe preview",
+      "pop": 5,
+      "apps": 248,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "build tiny",
+      "pop": 5,
+      "comp": 45,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "qr guru",
+      "pop": 5,
+      "comp": 60,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "lighting fast sprint",
+      "pop": 5,
+      "comp": 32,
+      "apps": 224,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "cosplay plan",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "prime garage",
+      "pop": 5,
+      "comp": 36,
+      "apps": 250,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fords garage",
+      "pop": 5,
+      "comp": 94,
+      "apps": 250,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "toolbox auto",
+      "pop": 5,
+      "apps": 249,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "build tutorials",
+      "pop": 5,
+      "apps": 237,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "customize roblox skins",
+      "pop": 5,
+      "apps": 209,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "color picker challenge",
+      "pop": 5,
+      "apps": 242,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "toy box",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "8 year old",
+      "pop": 5,
+      "apps": 185,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "3d action figure",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "minifigures",
+      "pop": 5,
+      "comp": 45,
+      "apps": 243,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "brick manager",
+      "pop": 5,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "hot wheels collect",
+      "pop": 5,
+      "apps": 250,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hot wheels inventory",
+      "pop": 5,
+      "apps": 245,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "track game collection",
+      "pop": 5,
+      "comp": 34,
+      "apps": 239,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "lap legend",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "menu guide",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "toy identifier",
+      "pop": 5,
+      "comp": 52,
+      "apps": 245,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "arduino code generator",
+      "pop": 5,
+      "comp": 20,
+      "apps": 249,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "joist finder",
+      "pop": 5,
+      "comp": 68,
+      "apps": 250,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "figure scanner",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "room scanner 3d",
+      "pop": 5,
+      "comp": 32,
+      "apps": 249,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "floor plan 3d",
+      "pop": 5,
+      "comp": 26,
+      "apps": 244,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "momo build",
+      "pop": 5,
+      "apps": 250,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "card builde",
+      "pop": 5,
+      "apps": 249,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "card builder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "vinyl making game",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "z-image",
+      "pop": 5,
+      "comp": 56,
+      "apps": 212,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "brick identifier",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "3d scanner & blueprint maker",
+      "pop": 5,
+      "comp": 54,
+      "apps": 249,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "find a cruise buddy",
+      "pop": 5,
+      "apps": 250,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "3d sacnner",
+      "pop": 5,
+      "comp": 32,
+      "apps": 249,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "3d floor plan creator",
+      "pop": 5,
+      "apps": 250,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "scan to blueprint",
+      "pop": 5,
+      "comp": 27,
+      "apps": 247,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "home 3d scanner",
+      "pop": 5,
+      "comp": 36,
+      "apps": 249,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "cruise friend finder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "builder grow",
+      "pop": 5,
+      "apps": 193,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "builder card",
+      "pop": 5,
+      "apps": 241,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "lego value",
+      "pop": 5,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "my user manual",
+      "pop": 5,
+      "apps": 234,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "free bill builder",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "bill builder",
+      "pop": 5,
+      "comp": 45,
+      "apps": 247,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "shared billd",
+      "pop": 5,
+      "comp": 78,
+      "apps": 245,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "progress builder",
+      "pop": 5,
+      "comp": 12,
+      "apps": 244,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "landing page builder",
+      "pop": 5,
+      "apps": 249,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "brick collector",
+      "pop": 5,
+      "comp": 47,
+      "apps": 236,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "minecraft building app",
+      "pop": 5,
+      "comp": 95,
+      "apps": 249,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "build boost",
+      "pop": 5,
+      "apps": 247,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "rider build",
+      "pop": 5,
+      "apps": 248,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "nights play",
+      "pop": 5,
+      "apps": 249,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "lego price",
+      "pop": 5,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "building your plan",
+      "pop": 5,
+      "comp": 71,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "block lego",
+      "pop": 5,
+      "apps": 238,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "minecraft building ideas",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "build guidfe",
+      "pop": 5,
+      "apps": 250,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "lego resell",
+      "pop": 5,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "lego collection tracker",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "dog book",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "model kit builder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "lego inventory",
+      "pop": 5,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "brick collection",
+      "pop": 5,
+      "apps": 249,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "lego set",
+      "pop": 5,
+      "apps": 228,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "scan lego",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "lego price guide",
+      "pop": 5,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "identify lego",
+      "pop": 5,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "lego identifier app",
+      "pop": 5,
+      "apps": 250,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "lego价格",
+      "pop": 5,
+      "apps": 226,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "minifigures scanner",
+      "pop": 5,
+      "comp": 69,
+      "apps": 249,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "instructions lego",
+      "pop": 5,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "minecraft building tutorial",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "redstone builds",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "rover shopper",
+      "pop": 5,
+      "apps": 249,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kit designer",
+      "pop": 5,
+      "apps": 250,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "announcement builder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "sign creator app",
+      "pop": 5,
+      "apps": 250,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "code builder",
+      "pop": 5,
+      "apps": 249,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "base bulieder",
+      "pop": 5,
+      "apps": 248,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "base bulider",
+      "pop": 5,
+      "apps": 250,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "retos con amigos",
+      "comp": 70,
+      "apps": 250,
+      "rank": 216
+    },
+    {
+      "kw": "contractor city",
+      "comp": 74,
+      "apps": 229,
+      "rank": 155
+    },
+    {
+      "kw": "kreativität",
+      "comp": 60,
+      "apps": 221,
+      "rank": 177
+    },
+    {
+      "kw": "neu in der stadt",
+      "comp": 73,
+      "apps": 246,
+      "rank": 204
+    },
+    {
+      "kw": "league of legends worlds 2020 schedule",
+      "comp": 79,
+      "apps": 249,
+      "rank": 94
+    },
+    {
+      "kw": "league of legends 2020",
+      "comp": 61,
+      "apps": 241,
+      "rank": 205
+    },
+    {
+      "kw": "league of legends 3d models download",
+      "comp": 79,
+      "apps": 249,
+      "rank": 45
+    },
+    {
+      "kw": "league of legends a b c d s",
+      "comp": 87,
+      "apps": 250,
+      "rank": 16
+    },
+    {
+      "kw": "logitech g hub league of legends",
+      "comp": 78,
+      "apps": 248,
+      "rank": 30
+    },
+    {
+      "kw": "league of legends kitap",
+      "comp": 57,
+      "apps": 243,
+      "rank": 72
+    },
+    {
+      "kw": "l.o.l league of legends",
+      "comp": 72,
+      "apps": 244,
+      "rank": 17
+    },
+    {
+      "kw": "league of legends nasıl oynanır",
+      "comp": 52,
+      "apps": 213,
+      "rank": 74
+    },
+    {
+      "kw": "league of legends hotel",
+      "comp": 66,
+      "apps": 242,
+      "rank": 120
+    },
+    {
+      "kw": "kinder bekleidung",
+      "comp": 67,
+      "apps": 200,
+      "rank": 123
+    },
+    {
+      "kw": "herren mode look",
+      "comp": 70,
+      "apps": 241,
+      "rank": 156
+    },
+    {
+      "kw": "kinder bekleidung online shop",
+      "comp": 77,
+      "apps": 242,
+      "rank": 146
+    },
+    {
+      "kw": "kinder mode shoppen",
+      "comp": 69,
+      "apps": 242,
+      "rank": 129
+    },
+    {
+      "kw": "kinder mode online store",
+      "comp": 81,
+      "apps": 246,
+      "rank": 90
+    },
+    {
+      "kw": "kinderbekleidung online store",
+      "comp": 76,
+      "apps": 241,
+      "rank": 239
+    },
+    {
+      "kw": "kinder mode inspiration",
+      "comp": 76,
+      "apps": 237,
+      "rank": 71
+    },
+    {
+      "kw": "kinder mode ideen",
+      "comp": 77,
+      "apps": 247,
+      "rank": 58
+    },
+    {
+      "kw": "kindermode ideen",
+      "comp": 78,
+      "apps": 246,
+      "rank": 48
+    },
+    {
+      "kw": "kinderklamotten ideen",
+      "comp": 65,
+      "apps": 228,
+      "rank": 31
+    },
+    {
+      "kw": "kinder bekleidung ideen",
+      "comp": 33,
+      "apps": 204,
+      "rank": 69
+    },
+    {
+      "kw": "kinderbekleidung ideen",
+      "comp": 97,
+      "apps": 249,
+      "rank": 100
+    },
+    {
+      "kw": "top kinder kleidung",
+      "comp": 56,
+      "apps": 202,
+      "rank": 98
+    },
+    {
+      "kw": "top kinder bekleidung",
+      "comp": 56,
+      "apps": 201,
+      "rank": 61
+    },
+    {
+      "kw": "brice dulin",
+      "comp": 48,
+      "apps": 217,
+      "rank": 6
+    },
+    {
+      "kw": "auto bouwer",
+      "comp": 86,
+      "apps": 221,
+      "rank": 163
+    },
+    {
+      "kw": "appka na práci",
+      "comp": 70,
+      "apps": 233,
+      "rank": 33
+    },
+    {
+      "kw": "the highway code 2022",
+      "comp": 32,
+      "apps": 242,
+      "rank": 114
+    },
+    {
+      "kw": "gioco creativo per bambini",
+      "comp": 81,
+      "apps": 248,
+      "rank": 109
+    },
+    {
+      "kw": "forme semplici",
+      "comp": 91,
+      "apps": 250,
+      "rank": 113
+    },
+    {
+      "kw": "รูเล็ต",
+      "comp": 44,
+      "apps": 240,
+      "rank": 154
+    },
+    {
+      "kw": "который всегда",
+      "comp": 89,
+      "apps": 249,
+      "rank": 136
+    },
+    {
+      "kw": "프로세스에",
+      "comp": 93,
+      "apps": 223,
+      "rank": 31
+    },
+    {
+      "kw": "סריקת",
+      "comp": 93,
+      "apps": 243,
+      "rank": 99
+    },
+    {
+      "kw": "online arkadaşlarla tanış",
+      "comp": 59,
+      "apps": 232,
+      "rank": 219
+    },
+    {
+      "kw": "truyền hình kết nối",
+      "comp": 25,
+      "apps": 227,
+      "rank": 177
+    },
+    {
+      "kw": "Build opolis",
+      "apps": 20,
+      "rank": 18
+    },
+    {
+      "kw": "Build-it Buddies",
+      "apps": 20,
+      "rank": 9
+    },
+    {
+      "kw": "інтерактивний",
+      "comp": 89,
+      "apps": 250,
+      "rank": 169
+    },
+    {
+      "kw": "ben-brasil guia",
+      "comp": 96,
+      "apps": 249,
+      "rank": 30
+    },
+    {
+      "kw": "סורק אפליקציה",
+      "comp": 96,
+      "apps": 250,
+      "rank": 148
+    },
+    {
+      "kw": "βιβλια",
+      "comp": 91,
+      "apps": 249,
+      "rank": 20
+    },
+    {
+      "kw": "스톱모션",
+      "comp": 79,
+      "apps": 247,
+      "rank": 127
+    },
+    {
+      "kw": "circus digital craftsman",
+      "comp": 36,
+      "apps": 246,
+      "rank": 124
+    },
+    {
+      "kw": "na celou",
+      "comp": 88,
+      "apps": 248,
+      "rank": 158
+    },
+    {
+      "kw": "rodinu a",
+      "comp": 93,
+      "apps": 248,
+      "rank": 128
+    },
+    {
+      "kw": "charader barn",
+      "comp": 71,
+      "apps": 249,
+      "rank": 162
+    },
+    {
+      "kw": "vem är jag",
+      "comp": 98,
+      "apps": 250,
+      "rank": 147
+    },
+    {
+      "kw": "preferiti sfida",
+      "comp": 87,
+      "apps": 250,
+      "rank": 53
+    },
+    {
+      "kw": "duplo peppa",
+      "comp": 46,
+      "apps": 248,
+      "rank": 17
+    },
+    {
+      "kw": "Fall guy huggy wuggy",
+      "apps": 249,
+      "rank": 151
+    },
+    {
+      "kw": "build cozy",
+      "apps": 230,
+      "rank": 77
+    },
+    {
+      "kw": "dream build",
+      "apps": 249,
+      "rank": 121
+    },
+    {
+      "kw": "control de construcción",
+      "apps": 249,
+      "rank": 118
+    },
+    {
+      "kw": "ñˆð°ð³ð¾ð¼ðµñ€",
+      "comp": 33,
+      "apps": 224,
+      "rank": 19
+    },
+    {
+      "kw": "pick'em league of legends",
+      "comp": 93,
+      "apps": 249,
+      "rank": 76
+    },
+    {
+      "kw": "you're",
+      "apps": 194,
+      "rank": 131
+    },
+    {
+      "kw": "funko pop collection tracker",
+      "apps": 250,
+      "rank": 63
+    },
+    {
+      "kw": "model kit studio",
+      "apps": 249,
+      "rank": 17
+    },
+    {
+      "kw": "assembly builder",
+      "apps": 250,
+      "rank": 6
+    },
+    {
+      "kw": "assembly sandbox",
+      "apps": 250,
+      "rank": 55
+    },
+    {
+      "kw": "building factory game",
+      "apps": 250,
+      "rank": 113
+    },
+    {
+      "kw": "building factory",
+      "apps": 250,
+      "rank": 128
+    },
+    {
+      "kw": "pocket assembly",
+      "apps": 249,
+      "rank": 73
+    },
+    {
+      "kw": "dark assembly",
+      "apps": 249,
+      "rank": 56
+    },
+    {
+      "kw": "assembly game",
+      "apps": 250,
+      "rank": 70
+    }
+  ],
+  "VinylBox": [
+    {
+      "kw": "md vinyl",
+      "pop": 54,
+      "comp": 90,
+      "apps": 236,
+      "rank": 169,
+      "imp": "5.55"
+    },
+    {
+      "kw": "discogs",
+      "pop": 52,
+      "comp": 64,
+      "apps": 250,
+      "rank": 2,
+      "imp": "23.86"
+    },
+    {
+      "kw": "vinyl",
+      "pop": 42,
+      "comp": 88,
+      "apps": 249,
+      "rank": 9,
+      "imp": "8.86"
+    },
+    {
+      "kw": "discogs vinyl collector",
+      "pop": 28,
+      "comp": 50,
+      "apps": 250,
+      "rank": 3,
+      "imp": "9.76"
+    },
+    {
+      "kw": "vinyle",
+      "pop": 26,
+      "comp": 50,
+      "apps": 248,
+      "rank": 89,
+      "imp": "3.01"
+    },
+    {
+      "kw": "ibox",
+      "pop": 19,
+      "comp": 58,
+      "apps": 241,
+      "rank": 181,
+      "imp": "1.93"
+    },
+    {
+      "kw": "vinyl scanner",
+      "pop": 19,
+      "comp": 66,
+      "apps": 248,
+      "rank": 115,
+      "imp": "2.09"
+    },
+    {
+      "kw": "vinyl collection",
+      "pop": 9,
+      "comp": 58,
+      "apps": 249,
+      "rank": 4,
+      "imp": "2.68"
+    },
+    {
+      "kw": "vinil",
+      "pop": 9,
+      "comp": 57,
+      "apps": 250,
+      "rank": 121,
+      "imp": "0.98"
+    },
+    {
+      "kw": "vinyl snap",
+      "pop": 9,
+      "comp": 50,
+      "apps": 247,
+      "rank": 14,
+      "imp": "1.64"
+    },
+    {
+      "kw": "boxe",
+      "pop": 7,
+      "comp": 53,
+      "apps": 239,
+      "rank": 138,
+      "imp": "0.75"
+    },
+    {
+      "kw": "y disk",
+      "pop": 5,
+      "comp": 47,
+      "apps": 245,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "y disc",
+      "pop": 5,
+      "apps": 211,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ultrapop",
+      "pop": 5,
+      "comp": 64,
+      "apps": 158,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "collect app",
+      "pop": 5,
+      "apps": 232,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "discog",
+      "pop": 5,
+      "comp": 56,
+      "apps": 250,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "collection music",
+      "pop": 5,
+      "comp": 54,
+      "apps": 233,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "vinyl record collection",
+      "pop": 5,
+      "comp": 51,
+      "apps": 248,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "music collector",
+      "pop": 5,
+      "apps": 222,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "vinyl record catalog",
+      "pop": 5,
+      "apps": 243,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "cd collection",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "cd ripper",
+      "pop": 5,
+      "apps": 219,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "vinyl records",
+      "pop": 5,
+      "comp": 56,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "record collection",
+      "pop": 5,
+      "comp": 51,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "vinyl record app",
+      "pop": 5,
+      "comp": 45,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vinyl scan",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "vinyl price",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vinyl speed",
+      "pop": 5,
+      "apps": 209,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "gom",
+      "pop": 5,
+      "apps": 196,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "track sales",
+      "pop": 5,
+      "comp": 79,
+      "apps": 224,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "sell ipads",
+      "pop": 5,
+      "comp": 86,
+      "apps": 242,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "sell iphones",
+      "pop": 5,
+      "comp": 84,
+      "apps": 242,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "digital album",
+      "pop": 5,
+      "comp": 85,
+      "apps": 178,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "vinylbox",
+      "pop": 5,
+      "comp": 47,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "vinyl record",
+      "pop": 5,
+      "comp": 59,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "discography",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "musicbuddy",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "cd database",
+      "pop": 5,
+      "comp": 89,
+      "apps": 245,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "catalog vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vinyl database",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "cd vinyl database",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "cd vinyl collection",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "vinyl inventory",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "cbt records",
+      "pop": 5,
+      "comp": 54,
+      "apps": 197,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "numérisation",
+      "pop": 5,
+      "comp": 65,
+      "apps": 243,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "vinyl widget vinyl record app",
+      "pop": 5,
+      "comp": 73,
+      "apps": 244,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "vinyl md",
+      "pop": 5,
+      "comp": 70,
+      "apps": 247,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "statistics for spotify",
+      "pop": 5,
+      "comp": 61,
+      "apps": 190,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "vinyl app",
+      "pop": 5,
+      "comp": 43,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "my vinyl",
+      "pop": 5,
+      "comp": 50,
+      "apps": 250,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "صلاة الجمعة",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "vynil",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "album artwork",
+      "pop": 5,
+      "comp": 98,
+      "apps": 205,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "wireless vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "stream vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "shazam vinyl",
+      "pop": 5,
+      "comp": 57,
+      "apps": 185,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "last fm vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "airplay vinyl",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "vinyl history",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "scrobble vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "records collection",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "مدیانت دانلود",
+      "pop": 5,
+      "comp": 88,
+      "apps": 256,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vinyls: manage",
+      "pop": 5,
+      "comp": 44,
+      "apps": 249,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "vinyls manage",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "MD Vinyl - Music Widget",
+      "pop": 5,
+      "comp": 80,
+      "apps": 215,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "music collect",
+      "pop": 5,
+      "comp": 83,
+      "apps": 246,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "record collector",
+      "pop": 5,
+      "comp": 57,
+      "apps": 249,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "md vinyl music player",
+      "pop": 5,
+      "comp": 43,
+      "apps": 247,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "record reels",
+      "pop": 5,
+      "comp": 33,
+      "apps": 222,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "vinyl record value",
+      "pop": 5,
+      "comp": 69,
+      "apps": 218,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "Vinyl identifier",
+      "pop": 5,
+      "comp": 63,
+      "apps": 246,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "Vinyl record identifier",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "vinyl tracker",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "record tape",
+      "pop": 5,
+      "comp": 63,
+      "apps": 228,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "musicputty",
+      "pop": 5,
+      "comp": 26,
+      "apps": 170,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "Vinyl manager",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "recordscanner",
+      "pop": 5,
+      "comp": 54,
+      "apps": 249,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "manage vinyl",
+      "pop": 5,
+      "comp": 10,
+      "apps": 211,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "hiphop vinyl",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "tape manager",
+      "pop": 5,
+      "comp": 72,
+      "apps": 199,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "record moods",
+      "pop": 5,
+      "comp": 37,
+      "apps": 208,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "records identifier",
+      "pop": 5,
+      "apps": 231,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "album widget",
+      "pop": 5,
+      "comp": 78,
+      "apps": 208,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "record school",
+      "pop": 5,
+      "comp": 20,
+      "apps": 218,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "disc profile",
+      "pop": 5,
+      "apps": 211,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hidden albums",
+      "pop": 5,
+      "apps": 182,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "hide albums",
+      "pop": 5,
+      "apps": 195,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "albums tracker",
+      "pop": 5,
+      "apps": 225,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "albums collection",
+      "pop": 5,
+      "comp": 25,
+      "apps": 208,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "yard sale track",
+      "pop": 5,
+      "comp": 49,
+      "apps": 244,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "vinyl collection scan",
+      "pop": 5,
+      "comp": 57,
+      "apps": 246,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "vinyl lost",
+      "pop": 5,
+      "apps": 216,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "vinyl list",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "song collection",
+      "pop": 5,
+      "apps": 215,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "music curator",
+      "pop": 5,
+      "apps": 208,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "hidden music gem",
+      "pop": 5,
+      "apps": 187,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "vinyl catalog",
+      "pop": 5,
+      "comp": 48,
+      "apps": 250,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "vinyl management",
+      "pop": 5,
+      "apps": 218,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vinyl collectio",
+      "pop": 5,
+      "apps": 221,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "vinyl collector",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "elite%20singles",
+      "pop": 5,
+      "comp": 69,
+      "apps": 213,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "bose%20music",
+      "pop": 5,
+      "comp": 92,
+      "apps": 232,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "record%20music",
+      "pop": 5,
+      "comp": 89,
+      "apps": 190,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vinyl%20widget",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "skin%20editor",
+      "pop": 5,
+      "comp": 72,
+      "apps": 230,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "cover%20art",
+      "pop": 5,
+      "comp": 25,
+      "apps": 227,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "record%20and%20transcribe",
+      "pop": 5,
+      "comp": 66,
+      "apps": 236,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "album%20maker",
+      "pop": 5,
+      "comp": 42,
+      "apps": 220,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "music%20store",
+      "pop": 5,
+      "comp": 89,
+      "apps": 195,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "music%20stand",
+      "pop": 5,
+      "comp": 91,
+      "apps": 240,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "pi%C3%B1ata",
+      "pop": 5,
+      "comp": 32,
+      "apps": 180,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "art%20breeder",
+      "pop": 5,
+      "comp": 45,
+      "apps": 116,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "432%20player",
+      "pop": 5,
+      "comp": 64,
+      "apps": 222,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "music%20lab",
+      "pop": 5,
+      "comp": 82,
+      "apps": 187,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "recordwise",
+      "pop": 5,
+      "apps": 232,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "history%20hit",
+      "pop": 5,
+      "apps": 186,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "westinvoice",
+      "pop": 5,
+      "apps": 218,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "locked album",
+      "pop": 5,
+      "apps": 201,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "record&share",
+      "pop": 5,
+      "comp": 45,
+      "apps": 223,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vinyl price estimator",
+      "pop": 5,
+      "comp": 47,
+      "apps": 247,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "favorite albums",
+      "pop": 5,
+      "apps": 217,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "scan & value record",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "perfume mix",
+      "pop": 5,
+      "apps": 226,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "md binyl",
+      "pop": 5,
+      "apps": 65,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "identify vinyl",
+      "pop": 5,
+      "comp": 51,
+      "apps": 243,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "vinyl organizer",
+      "pop": 5,
+      "comp": 44,
+      "apps": 247,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "scan vinyl",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "vinyl value scanner",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "vinyl value",
+      "pop": 5,
+      "comp": 63,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "lp value",
+      "pop": 5,
+      "comp": 79,
+      "apps": 158,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "vinyl value finder",
+      "pop": 5,
+      "comp": 49,
+      "apps": 246,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "vinyl price checker",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "vinylsnap: scan & value record",
+      "pop": 5,
+      "comp": 68,
+      "apps": 216,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "cellar track",
+      "pop": 5,
+      "comp": 100,
+      "apps": 244,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "record scaner",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "head to head records",
+      "pop": 5,
+      "apps": 248,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "vinyl making game",
+      "pop": 5,
+      "comp": 36,
+      "apps": 245,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "vinyl making",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "dyi vinyl",
+      "pop": 5,
+      "apps": 115,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "diy vinyl",
+      "pop": 5,
+      "apps": 132,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "vinyl plate",
+      "pop": 5,
+      "apps": 124,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "record plate",
+      "pop": 5,
+      "apps": 221,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "volume charts",
+      "pop": 5,
+      "apps": 195,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "record organize",
+      "pop": 5,
+      "apps": 224,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "vinyl record collection app",
+      "pop": 5,
+      "comp": 50,
+      "apps": 248,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "mid vinyl",
+      "pop": 5,
+      "comp": 85,
+      "apps": 183,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "vinyl mobile",
+      "pop": 5,
+      "comp": 55,
+      "apps": 243,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vinyl record value collection",
+      "pop": 5,
+      "comp": 50,
+      "apps": 245,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "jazz vinyl record",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "vinyl colection",
+      "pop": 5,
+      "comp": 52,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl record app for discogs",
+      "pop": 5,
+      "comp": 47,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "vinyl record scan value",
+      "pop": 5,
+      "comp": 52,
+      "apps": 244,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vinyl scout",
+      "pop": 5,
+      "apps": 212,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl pric",
+      "pop": 5,
+      "comp": 59,
+      "apps": 226,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "vinyl price\\",
+      "pop": 5,
+      "comp": 51,
+      "apps": 245,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "vinyl  collector for discogs",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vinyl d",
+      "pop": 5,
+      "comp": 78,
+      "apps": 241,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "frenzytrack",
+      "pop": 5,
+      "apps": 159,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "vinyl identify",
+      "pop": 5,
+      "comp": 49,
+      "apps": 242,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "album wishlist",
+      "pop": 5,
+      "apps": 215,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "vinyl record value scanner",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "VinylVault",
+      "pop": 5,
+      "apps": 212,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "VinylID",
+      "pop": 5,
+      "comp": 52,
+      "apps": 250,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "VinylCheck",
+      "pop": 5,
+      "comp": 47,
+      "apps": 250,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "VinylRadar",
+      "pop": 5,
+      "apps": 226,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "VinylSpot",
+      "pop": 5,
+      "comp": 62,
+      "apps": 249,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "VinylSeek",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "VinylFind",
+      "pop": 5,
+      "apps": 205,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "VinylHub",
+      "pop": 5,
+      "apps": 214,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "RecordHub",
+      "pop": 5,
+      "apps": 240,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "RecordPro",
+      "pop": 5,
+      "apps": 210,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "album value",
+      "pop": 5,
+      "apps": 222,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "album identifier",
+      "pop": 5,
+      "apps": 226,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vinyl barcode",
+      "pop": 5,
+      "apps": 214,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "record barcode",
+      "pop": 5,
+      "apps": 214,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "vinyl cover",
+      "pop": 5,
+      "comp": 40,
+      "apps": 234,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "album cover scan",
+      "pop": 5,
+      "apps": 226,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "vinyl finder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "vinyl find",
+      "pop": 5,
+      "comp": 42,
+      "apps": 247,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "vinyl wishlist",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "vinyl market",
+      "pop": 5,
+      "comp": 43,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "vinyl marketplace",
+      "pop": 5,
+      "comp": 43,
+      "apps": 245,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "vinyl sell",
+      "pop": 5,
+      "comp": 61,
+      "apps": 174,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "vinyl buy",
+      "pop": 5,
+      "comp": 64,
+      "apps": 231,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "vinyl trade",
+      "pop": 5,
+      "comp": 63,
+      "apps": 198,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl mint",
+      "pop": 5,
+      "apps": 232,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl vintage",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "LP collection",
+      "pop": 5,
+      "comp": 68,
+      "apps": 199,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "LP price",
+      "pop": 5,
+      "comp": 32,
+      "apps": 116,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "vinyl discogs",
+      "pop": 5,
+      "comp": 44,
+      "apps": 244,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "pro scan albums",
+      "pop": 5,
+      "apps": 217,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "musicbuddy vinyl trackers",
+      "pop": 5,
+      "comp": 77,
+      "apps": 211,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "musicbuddy vinyl tracker",
+      "pop": 5,
+      "apps": 238,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "vinylsnap scan value records",
+      "pop": 5,
+      "comp": 50,
+      "apps": 246,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vinylsnap scan value record",
+      "pop": 5,
+      "comp": 50,
+      "apps": 246,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vinylsnap scan value",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "album private managers",
+      "pop": 5,
+      "apps": 202,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "fix vinyl crackle",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "cassette to digital clean",
+      "pop": 5,
+      "apps": 235,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "vinyl music widget",
+      "pop": 5,
+      "comp": 71,
+      "apps": 243,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "vinyl music widget app",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "polish vhs",
+      "pop": 5,
+      "apps": 225,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "cassette collection",
+      "pop": 5,
+      "comp": 61,
+      "apps": 157,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "project records",
+      "pop": 5,
+      "apps": 213,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "record player app ipad",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "vinyl player mac",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vinyl music app",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "vinyl record player app",
+      "pop": 5,
+      "comp": 44,
+      "apps": 249,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vinyl player widget",
+      "pop": 5,
+      "comp": 44,
+      "apps": 249,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "vinyl playlist player",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "songsnap",
+      "pop": 5,
+      "comp": 91,
+      "apps": 208,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "vinyl snapo",
+      "pop": 5,
+      "comp": 62,
+      "apps": 246,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "ynyl",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "vinyl record scan",
+      "pop": 5,
+      "comp": 54,
+      "apps": 246,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "vinyl snap record scanner",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "vinyl spot",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "vinyl identifier records cd",
+      "pop": 5,
+      "comp": 48,
+      "apps": 245,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "box boxes",
+      "pop": 5,
+      "apps": 242,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "vinyl wrap car",
+      "pop": 5,
+      "apps": 138,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "spotify list organizer",
+      "pop": 5,
+      "apps": 197,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "plastic: vinyl scan & listen",
+      "pop": 5,
+      "apps": 217,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "listen to the csb",
+      "pop": 5,
+      "apps": 220,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "vinylspot: scan",
+      "pop": 5,
+      "comp": 49,
+      "apps": 249,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "album rank",
+      "pop": 5,
+      "apps": 183,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "collection tracking",
+      "pop": 5,
+      "apps": 248,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "artist vault",
+      "pop": 5,
+      "apps": 208,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "comic indexer",
+      "pop": 5,
+      "apps": 209,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "lastpass us lp",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "early 80s",
+      "pop": 5,
+      "apps": 185,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "vinyle value",
+      "pop": 5,
+      "comp": 35,
+      "apps": 150,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vinylsnap scan value recordsgg",
+      "pop": 5,
+      "comp": 50,
+      "apps": 247,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "cd  record",
+      "pop": 5,
+      "comp": 49,
+      "apps": 191,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "vinyl discs",
+      "pop": 5,
+      "apps": 208,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl discs identifier",
+      "pop": 5,
+      "apps": 248,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "vinyl co",
+      "pop": 5,
+      "apps": 212,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl check",
+      "pop": 5,
+      "apps": 212,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "free vinyl scan",
+      "pop": 5,
+      "comp": 30,
+      "apps": 241,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "vinyl search",
+      "pop": 5,
+      "apps": 199,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vinyl simulator",
+      "pop": 5,
+      "apps": 250,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "md record player",
+      "pop": 5,
+      "apps": 218,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vinyl collection for discogs",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "offline daily memories with reddit track",
+      "pop": 5,
+      "apps": 227,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "tutorial premium iphone older adults",
+      "pop": 5,
+      "apps": 192,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "escrow records",
+      "pop": 5,
+      "apps": 221,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "listing records",
+      "pop": 5,
+      "apps": 210,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "neighborhood records",
+      "pop": 5,
+      "apps": 211,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "album legacy memos",
+      "pop": 5,
+      "apps": 201,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "box recorder",
+      "pop": 5,
+      "apps": 213,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "browse album",
+      "pop": 5,
+      "apps": 178,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "album keepers",
+      "pop": 5,
+      "apps": 199,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "album keepers share",
+      "pop": 5,
+      "apps": 196,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "vinyl record collection tracker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "floorplan records",
+      "pop": 5,
+      "comp": 36,
+      "apps": 246,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "staging records",
+      "pop": 5,
+      "apps": 207,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "garage records",
+      "pop": 5,
+      "comp": 31,
+      "apps": 203,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "roadside records",
+      "pop": 5,
+      "apps": 170,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "eczema records",
+      "pop": 5,
+      "apps": 181,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "vinyl colletion",
+      "pop": 5,
+      "apps": 225,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "disc collector",
+      "pop": 5,
+      "apps": 206,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "luggage notebook",
+      "pop": 5,
+      "apps": 236,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "reviews family albums",
+      "pop": 5,
+      "comp": 59,
+      "apps": 209,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "vonyle",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "vinylesnap",
+      "pop": 5,
+      "apps": 248,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "vinyle track",
+      "pop": 5,
+      "apps": 166,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "reddit family albums tracker",
+      "pop": 5,
+      "apps": 248,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "free family albums reddit reminder",
+      "pop": 5,
+      "apps": 165,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "subscription free family albums reddit a",
+      "pop": 5,
+      "apps": 194,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "widget free family albums reddit app",
+      "pop": 5,
+      "apps": 193,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "shortcut free family albums reddit app",
+      "pop": 5,
+      "apps": 194,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "reddit free family albums reddit app rev",
+      "pop": 5,
+      "apps": 169,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "reddit albums app",
+      "pop": 5,
+      "apps": 179,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "top family album app reviews",
+      "pop": 5,
+      "apps": 200,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "top family albums apk",
+      "pop": 5,
+      "apps": 204,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "vinyle scan",
+      "pop": 5,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "nudge albums memos",
+      "pop": 5,
+      "apps": 194,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "top legacies gentle",
+      "pop": 5,
+      "apps": 199,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "easy legacies gentle",
+      "pop": 5,
+      "apps": 205,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "albums nudge",
+      "pop": 5,
+      "apps": 185,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "albums nudge homescreen",
+      "pop": 5,
+      "apps": 194,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "record review app",
+      "pop": 5,
+      "apps": 208,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "free stay kindreds",
+      "pop": 5,
+      "apps": 190,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "reddit premium free apk daily checkins a",
+      "pop": 5,
+      "apps": 188,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "top reddit premium apk cracked",
+      "pop": 5,
+      "apps": 187,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "reddit premium apk cracked free best",
+      "pop": 5,
+      "apps": 177,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "reddit premium apk cracked free reminder",
+      "pop": 5,
+      "apps": 175,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "reddit premium apk cracked free ideas",
+      "pop": 5,
+      "apps": 181,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "reddit premium apk cracked free best rev",
+      "pop": 5,
+      "apps": 180,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "reddit premium apk cracked free best tut",
+      "pop": 5,
+      "apps": 180,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "inheritance records",
+      "pop": 5,
+      "apps": 188,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "portfolio records",
+      "pop": 5,
+      "apps": 224,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "royalty dashboard",
+      "pop": 5,
+      "apps": 221,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "sleep check legacy",
+      "pop": 5,
+      "apps": 199,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "nudge album",
+      "pop": 5,
+      "apps": 179,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "apk relationship check scorecard",
+      "pop": 5,
+      "comp": 69,
+      "apps": 207,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "trial each intimacy",
+      "pop": 5,
+      "apps": 214,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "stay recordings have",
+      "pop": 5,
+      "apps": 191,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "recordings gentle",
+      "pop": 5,
+      "apps": 189,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "family albums subscription",
+      "pop": 5,
+      "apps": 211,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "family album reviews",
+      "pop": 5,
+      "apps": 200,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "tutorial family album",
+      "pop": 5,
+      "apps": 216,
+      "rank": 172,
+      "imp": "0.51"
+    },
+    {
+      "kw": "family album subscription",
+      "pop": 5,
+      "apps": 213,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "vinyl fix",
+      "pop": 5,
+      "apps": 249,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "family album shortcut",
+      "pop": 5,
+      "comp": 47,
+      "apps": 206,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "collection collect",
+      "pop": 5,
+      "apps": 230,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "rubber stamp collection",
+      "pop": 5,
+      "comp": 48,
+      "apps": 226,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "cd collection log",
+      "pop": 5,
+      "apps": 249,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "laserdisc collection",
+      "pop": 5,
+      "apps": 200,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "turntable collection",
+      "pop": 5,
+      "apps": 195,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "jukebox collection",
+      "pop": 5,
+      "apps": 209,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "album interactive",
+      "pop": 5,
+      "apps": 178,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "track your squishy collection",
+      "pop": 5,
+      "apps": 237,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "reddit wizard loops",
+      "pop": 5,
+      "apps": 179,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "changed recording legacy",
+      "pop": 5,
+      "apps": 219,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "audacity connects gun",
+      "pop": 5,
+      "apps": 224,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "enregistreur scherzi review",
+      "pop": 5,
+      "apps": 217,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "review enregistreur scherzi",
+      "pop": 5,
+      "apps": 219,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "enregistreur scherzi reviews",
+      "pop": 5,
+      "apps": 216,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "albums carousel recording",
+      "pop": 5,
+      "apps": 204,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "music videoder deep",
+      "pop": 5,
+      "apps": 161,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "album archives",
+      "pop": 5,
+      "apps": 202,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "families kindreds album",
+      "pop": 5,
+      "apps": 197,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "dinero plates foto",
+      "pop": 5,
+      "apps": 204,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "watch intro again",
+      "pop": 5,
+      "apps": 169,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "vinylvox",
+      "pop": 5,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "browse by album",
+      "pop": 5,
+      "apps": 189,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "record in parts",
+      "pop": 5,
+      "apps": 217,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "collect.",
+      "pop": 5,
+      "comp": 70,
+      "apps": 228,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "vnyl",
+      "pop": 5,
+      "apps": 96,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "affirmations borderline",
+      "pop": 5,
+      "apps": 197,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "track collection",
+      "pop": 5,
+      "apps": 239,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "vinyl cutter",
+      "pop": 5,
+      "comp": 52,
+      "apps": 234,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "tracksub",
+      "pop": 5,
+      "apps": 130,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "vinylvibes",
+      "pop": 5,
+      "apps": 202,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "snapmyrecord",
+      "pop": 5,
+      "apps": 207,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "scan, track & collect",
+      "pop": 5,
+      "apps": 249,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "collect,",
+      "pop": 5,
+      "apps": 221,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "md vinyl music",
+      "pop": 5,
+      "apps": 212,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "scan & collect",
+      "pop": 5,
+      "apps": 244,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "lps connect",
+      "pop": 5,
+      "apps": 187,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "sneaker release tracker",
+      "pop": 5,
+      "apps": 219,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vinyl worth",
+      "pop": 5,
+      "apps": 250,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "vinyl cutting design",
+      "pop": 5,
+      "apps": 249,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "collector collect",
+      "pop": 5,
+      "apps": 233,
+      "rank": 200,
+      "imp": "0.50"
+    },
+    {
+      "kw": "scan track rate cellar",
+      "pop": 5,
+      "apps": 249,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "vinylmanager",
+      "comp": 40,
+      "apps": 249,
+      "rank": 74
+    },
+    {
+      "kw": "album enhance",
+      "apps": 203,
+      "rank": 21
+    },
+    {
+      "kw": "album%20cover",
+      "apps": 211,
+      "rank": 9
+    },
+    {
+      "kw": "reddit top family albums tutorial app ap",
+      "apps": 193,
+      "rank": 116
+    },
+    {
+      "kw": "vinyllens",
+      "apps": 190,
+      "rank": 94
+    },
+    {
+      "kw": "albums gentle",
+      "apps": 205,
+      "rank": 20
+    },
+    {
+      "kw": "discogs scanner",
+      "comp": 31,
+      "apps": 206,
+      "rank": 15
+    }
+  ]
+}

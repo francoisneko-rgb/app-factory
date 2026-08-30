@@ -1,0 +1,8640 @@
+{
+  "FineWoodworking": [
+    {
+      "kw": "woodsense",
+      "pop": 9,
+      "comp": 80,
+      "apps": 215,
+      "rank": 13,
+      "imp": "1.68"
+    },
+    {
+      "kw": "woodber",
+      "pop": 6,
+      "comp": 62,
+      "apps": 248,
+      "rank": 241,
+      "imp": "0.58"
+    },
+    {
+      "kw": "woodwork",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "woodworking",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "fine",
+      "pop": 5,
+      "comp": 80,
+      "apps": 242,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "pumpkin carving ideas",
+      "pop": 5,
+      "apps": 136,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "woodworking plans",
+      "pop": 5,
+      "comp": 76,
+      "apps": 249,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "woodshop",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fine del",
+      "pop": 5,
+      "comp": 74,
+      "apps": 238,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "Review Gallery",
+      "pop": 5,
+      "comp": 68,
+      "apps": 7,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "craft training",
+      "pop": 5,
+      "comp": 51,
+      "apps": 215,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "DIY Craft Ideas",
+      "pop": 5,
+      "comp": 52,
+      "apps": 231,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "woodworker",
+      "pop": 5,
+      "comp": 85,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "board feet",
+      "pop": 5,
+      "comp": 55,
+      "apps": 249,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "interactive magazine",
+      "pop": 5,
+      "comp": 37,
+      "apps": 70,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "Photo review",
+      "pop": 5,
+      "comp": 55,
+      "apps": 180,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "Color wood Sort",
+      "pop": 5,
+      "comp": 52,
+      "apps": 240,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "pic press",
+      "pop": 5,
+      "comp": 87,
+      "apps": 100,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "craft activity",
+      "pop": 5,
+      "comp": 17,
+      "apps": 199,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "carpenter practice test",
+      "pop": 5,
+      "comp": 58,
+      "apps": 228,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "diy tips",
+      "pop": 5,
+      "apps": 212,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "bevel gauge",
+      "pop": 5,
+      "apps": 209,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "bias tape maker",
+      "pop": 5,
+      "apps": 238,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "wood%20stud%20finder",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "tools%20for%20procreate",
+      "pop": 5,
+      "comp": 67,
+      "apps": 222,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "magazine%20maker",
+      "pop": 5,
+      "comp": 57,
+      "apps": 245,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "one%20punch",
+      "pop": 5,
+      "comp": 24,
+      "apps": 221,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "flush it ventin",
+      "pop": 5,
+      "apps": 199,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "project plans",
+      "pop": 5,
+      "comp": 53,
+      "apps": 231,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "wall%20wood%20stud%20finder",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "alone hobbies",
+      "pop": 5,
+      "apps": 193,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "how to build a campfire",
+      "pop": 5,
+      "apps": 202,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "quiltspace",
+      "pop": 5,
+      "apps": 209,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "todays quilter",
+      "pop": 5,
+      "apps": 204,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "string art ideas",
+      "pop": 5,
+      "apps": 225,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "wet folding",
+      "pop": 5,
+      "apps": 199,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "craft guide",
+      "pop": 5,
+      "comp": 22,
+      "apps": 170,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "craftybox",
+      "pop": 5,
+      "comp": 76,
+      "apps": 207,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "scrapbooking inspiration",
+      "pop": 5,
+      "apps": 208,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "macramé knot guide",
+      "pop": 5,
+      "apps": 180,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "furniture restoration tips",
+      "pop": 5,
+      "apps": 247,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "upcycling projects",
+      "pop": 5,
+      "apps": 206,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "crafts for machine",
+      "pop": 5,
+      "apps": 208,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "woodworking tables",
+      "pop": 5,
+      "apps": 248,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "kawaii workshop",
+      "pop": 5,
+      "apps": 206,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "pcb solder guide",
+      "pop": 5,
+      "apps": 187,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "wood carving guide",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "wood sense craft identifier",
+      "pop": 5,
+      "comp": 77,
+      "apps": 245,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "find similar furniture",
+      "pop": 5,
+      "apps": 211,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "jesse sipola",
+      "pop": 5,
+      "apps": 206,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "vintage oji",
+      "pop": 5,
+      "apps": 208,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "valentine cricut",
+      "pop": 5,
+      "apps": 211,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "plan work",
+      "pop": 5,
+      "apps": 249,
+      "rank": 243,
+      "imp": "0.48"
+    },
+    {
+      "kw": "peachy layout",
+      "pop": 5,
+      "apps": 223,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "storing articles",
+      "pop": 5,
+      "apps": 225,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "project gallery",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "wood board feet",
+      "pop": 5,
+      "comp": 40,
+      "apps": 243,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "nail size chart",
+      "pop": 5,
+      "apps": 212,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "crewel patterns",
+      "pop": 5,
+      "apps": 237,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "euchre pegboard",
+      "pop": 5,
+      "apps": 211,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "soldering helper",
+      "pop": 5,
+      "apps": 240,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "macrame knot counter",
+      "pop": 5,
+      "apps": 228,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "woodworking dovetail calculator",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "chain spacing",
+      "pop": 5,
+      "apps": 229,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "shelf mount",
+      "pop": 5,
+      "apps": 210,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "crochet pattern make",
+      "pop": 5,
+      "apps": 232,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "craftdocs",
+      "pop": 5,
+      "apps": 209,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "diy guide",
+      "pop": 5,
+      "apps": 241,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "learn carpentry",
+      "pop": 5,
+      "apps": 205,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "rh drawer pulls",
+      "pop": 5,
+      "apps": 225,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "planning tool",
+      "pop": 5,
+      "comp": 60,
+      "apps": 242,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "woodworking stencils",
+      "pop": 5,
+      "comp": 71,
+      "apps": 249,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "wood,scanner,woodworking,furniture,speci",
+      "pop": 5,
+      "apps": 247,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "crafting lessons",
+      "pop": 5,
+      "apps": 228,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "craft master: place it",
+      "pop": 5,
+      "apps": 245,
+      "rank": 245,
+      "imp": "0.48"
+    },
+    {
+      "kw": "docrafts creativity magazine",
+      "pop": 5,
+      "apps": 177,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "quilters newsletter magazine",
+      "pop": 5,
+      "apps": 191,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "adult craft",
+      "pop": 5,
+      "apps": 206,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "seed planting log",
+      "pop": 5,
+      "apps": 210,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "craft detailed",
+      "pop": 5,
+      "apps": 210,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "second hand log",
+      "pop": 5,
+      "apps": 196,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "tutorial reviews easy bumpers plates red",
+      "pop": 5,
+      "apps": 200,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "voices journal tutorial",
+      "pop": 5,
+      "apps": 229,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "bushcraft manual",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "cnc milling guide",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "woodworking joints guide",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "free bushcraft",
+      "pop": 5,
+      "comp": 48,
+      "apps": 248,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "renovation binder",
+      "pop": 5,
+      "apps": 211,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "border notebook",
+      "pop": 5,
+      "apps": 214,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "panel beater",
+      "pop": 5,
+      "apps": 222,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "wooden boat refit",
+      "pop": 5,
+      "apps": 209,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "bushcraft skills",
+      "pop": 5,
+      "apps": 246,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "woodworking joints",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "dovetail joint guide",
+      "pop": 5,
+      "apps": 250,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "wood finish guide",
+      "pop": 5,
+      "apps": 247,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "wood species guide",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "wood turning log",
+      "pop": 5,
+      "apps": 247,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "leather tooling log",
+      "pop": 5,
+      "apps": 250,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "pen spinning log",
+      "pop": 5,
+      "apps": 221,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "pottery fix sharecare",
+      "pop": 5,
+      "apps": 202,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "custom plate rack",
+      "pop": 5,
+      "comp": 80,
+      "apps": 248,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "peekaso",
+      "pop": 5,
+      "apps": 226,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "woodworking project",
+      "pop": 5,
+      "comp": 49,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "wood project plans",
+      "pop": 5,
+      "apps": 249,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "cut list woodworking",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "firewood tracker",
+      "pop": 5,
+      "apps": 228,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "firewood seasoning",
+      "pop": 5,
+      "apps": 224,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "woodworker calculator",
+      "pop": 5,
+      "apps": 225,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "wicker weaving",
+      "pop": 5,
+      "apps": 216,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "woodworking cut list",
+      "pop": 5,
+      "apps": 249,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "wood plans & guides",
+      "pop": 5,
+      "apps": 246,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "dycut",
+      "pop": 5,
+      "apps": 220,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "purchase log helper",
+      "pop": 5,
+      "apps": 216,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "project plan template",
+      "pop": 5,
+      "apps": 199,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "woodworking project tracker",
+      "pop": 5,
+      "apps": 250,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "wood plans app",
+      "pop": 5,
+      "apps": 243,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "wood plans",
+      "pop": 5,
+      "apps": 248,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "craft tutorials",
+      "pop": 5,
+      "apps": 243,
+      "rank": 200,
+      "imp": "0.50"
+    },
+    {
+      "kw": "layout forge",
+      "pop": 5,
+      "apps": 247,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "diy ideas, beginner tutorials",
+      "pop": 5,
+      "apps": 243,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "diy%20keyboard",
+      "apps": 228,
+      "rank": 70
+    },
+    {
+      "kw": "diy%20projects",
+      "apps": 244,
+      "rank": 182
+    },
+    {
+      "kw": "paint recipe log",
+      "apps": 223,
+      "rank": 74
+    },
+    {
+      "kw": "carving tips",
+      "apps": 127,
+      "rank": 10
+    },
+    {
+      "kw": "crochet inspo",
+      "apps": 225,
+      "rank": 136
+    },
+    {
+      "kw": "review lite",
+      "apps": 226,
+      "rank": 179
+    },
+    {
+      "kw": "wall quick kindreds",
+      "apps": 215,
+      "rank": 41
+    },
+    {
+      "kw": "woodworking project planner",
+      "comp": 40,
+      "apps": 247,
+      "rank": 13
+    },
+    {
+      "kw": "easy bushcraft",
+      "comp": 40,
+      "apps": 250,
+      "rank": 162
+    },
+    {
+      "kw": "magazyn app",
+      "apps": 229,
+      "rank": 133
+    },
+    {
+      "kw": "paper craft log",
+      "apps": 189,
+      "rank": 28
+    },
+    {
+      "kw": "woodworking background",
+      "apps": 212,
+      "rank": 1
+    },
+    {
+      "kw": "review photos",
+      "comp": 87,
+      "apps": 240,
+      "rank": 176
+    },
+    {
+      "kw": "wood plans guides",
+      "apps": 248,
+      "rank": 36
+    },
+    {
+      "kw": "layout craft",
+      "apps": 248,
+      "rank": 175
+    },
+    {
+      "kw": "woodworking plan",
+      "apps": 243,
+      "rank": 8
+    }
+  ],
+  "Lowes": [
+    {
+      "kw": "walmart",
+      "pop": 83,
+      "comp": 100,
+      "apps": 247,
+      "rank": 138,
+      "imp": "8.85"
+    },
+    {
+      "kw": "target",
+      "pop": 79,
+      "comp": 98,
+      "apps": 246,
+      "rank": 74,
+      "imp": "9.49"
+    },
+    {
+      "kw": "costco",
+      "pop": 77,
+      "comp": 98,
+      "apps": 242,
+      "rank": 26,
+      "imp": "11.77"
+    },
+    {
+      "kw": "t mobile",
+      "pop": 72,
+      "comp": 71,
+      "apps": 247,
+      "rank": 192,
+      "imp": "7.24"
+    },
+    {
+      "kw": "home depot",
+      "pop": 72,
+      "comp": 100,
+      "apps": 248,
+      "rank": 2,
+      "imp": "33.04"
+    },
+    {
+      "kw": "best buy",
+      "pop": 71,
+      "comp": 97,
+      "apps": 245,
+      "rank": 21,
+      "imp": "11.49"
+    },
+    {
+      "kw": "ukg",
+      "pop": 68,
+      "comp": 69,
+      "apps": 86,
+      "rank": 30,
+      "imp": "10.02"
+    },
+    {
+      "kw": "american express",
+      "pop": 67,
+      "comp": 86,
+      "apps": 246,
+      "rank": 148,
+      "imp": "7.05"
+    },
+    {
+      "kw": "lowes",
+      "pop": 67,
+      "comp": 83,
+      "apps": 249,
+      "rank": 1,
+      "imp": "67.00"
+    },
+    {
+      "kw": "us bank",
+      "pop": 66,
+      "apps": 250,
+      "rank": 249,
+      "imp": "6.35"
+    },
+    {
+      "kw": "kroger‘s app",
+      "pop": 65,
+      "apps": 247,
+      "rank": 195,
+      "imp": "6.52"
+    },
+    {
+      "kw": "sam's club",
+      "pop": 63,
+      "comp": 53,
+      "apps": 245,
+      "rank": 20,
+      "imp": "10.33"
+    },
+    {
+      "kw": "hobby lobby",
+      "pop": 63,
+      "comp": 81,
+      "apps": 102,
+      "rank": 23,
+      "imp": "9.95"
+    },
+    {
+      "kw": "synchrony bank",
+      "pop": 63,
+      "comp": 86,
+      "apps": 249,
+      "rank": 91,
+      "imp": "7.26"
+    },
+    {
+      "kw": "michaels",
+      "pop": 62,
+      "comp": 98,
+      "apps": 249,
+      "rank": 27,
+      "imp": "9.38"
+    },
+    {
+      "kw": "kohls app",
+      "pop": 62,
+      "apps": 250,
+      "rank": 43,
+      "imp": "8.38"
+    },
+    {
+      "kw": "autozone",
+      "pop": 62,
+      "comp": 77,
+      "apps": 247,
+      "rank": 15,
+      "imp": "11.06"
+    },
+    {
+      "kw": "Home:",
+      "pop": 62,
+      "comp": 73,
+      "apps": 246,
+      "rank": 10,
+      "imp": "12.61"
+    },
+    {
+      "kw": "ways",
+      "pop": 60,
+      "comp": 98,
+      "apps": 248,
+      "rank": 185,
+      "imp": "6.07"
+    },
+    {
+      "kw": "kohls",
+      "pop": 60,
+      "comp": 97,
+      "apps": 214,
+      "rank": 35,
+      "imp": "8.51"
+    },
+    {
+      "kw": "sams",
+      "pop": 60,
+      "comp": 100,
+      "apps": 249,
+      "rank": 145,
+      "imp": "6.34"
+    },
+    {
+      "kw": "tractor supply",
+      "pop": 60,
+      "comp": 75,
+      "apps": 250,
+      "rank": 5,
+      "imp": "16.05"
+    },
+    {
+      "kw": "five below",
+      "pop": 60,
+      "comp": 88,
+      "apps": 250,
+      "rank": 133,
+      "imp": "6.44"
+    },
+    {
+      "kw": "ace hardware",
+      "pop": 59,
+      "apps": 93,
+      "rank": 4,
+      "imp": "17.57"
+    },
+    {
+      "kw": "ourday",
+      "pop": 59,
+      "comp": 90,
+      "apps": 198,
+      "rank": 12,
+      "imp": "11.29"
+    },
+    {
+      "kw": "sams club",
+      "pop": 58,
+      "comp": 97,
+      "apps": 248,
+      "rank": 21,
+      "imp": "9.39"
+    },
+    {
+      "kw": "khols",
+      "pop": 57,
+      "comp": 89,
+      "apps": 184,
+      "rank": 31,
+      "imp": "8.33"
+    },
+    {
+      "kw": "synchrony credit card",
+      "pop": 57,
+      "comp": 79,
+      "apps": 249,
+      "rank": 207,
+      "imp": "5.66"
+    },
+    {
+      "kw": "menards",
+      "pop": 57,
+      "apps": 62,
+      "rank": 4,
+      "imp": "16.97"
+    },
+    {
+      "kw": "bread financial",
+      "pop": 57,
+      "comp": 86,
+      "apps": 250,
+      "rank": 89,
+      "imp": "6.60"
+    },
+    {
+      "kw": "my walmart app",
+      "pop": 56,
+      "comp": 97,
+      "apps": 247,
+      "rank": 222,
+      "imp": "5.49"
+    },
+    {
+      "kw": "shopmy",
+      "pop": 55,
+      "comp": 98,
+      "apps": 250,
+      "rank": 58,
+      "imp": "6.95"
+    },
+    {
+      "kw": "apple developer",
+      "pop": 53,
+      "comp": 90,
+      "apps": 248,
+      "rank": 232,
+      "imp": "5.16"
+    },
+    {
+      "kw": "bestbuy",
+      "pop": 53,
+      "comp": 97,
+      "apps": 248,
+      "rank": 20,
+      "imp": "8.69"
+    },
+    {
+      "kw": "the home depot",
+      "pop": 53,
+      "comp": 85,
+      "apps": 248,
+      "rank": 2,
+      "imp": "24.32"
+    },
+    {
+      "kw": "bild",
+      "pop": 53,
+      "comp": 97,
+      "apps": 236,
+      "rank": 133,
+      "imp": "5.69"
+    },
+    {
+      "kw": "mypay",
+      "pop": 53,
+      "comp": 85,
+      "apps": 249,
+      "rank": 223,
+      "imp": "5.20"
+    },
+    {
+      "kw": "wat",
+      "pop": 53,
+      "comp": 96,
+      "apps": 248,
+      "rank": 45,
+      "imp": "7.09"
+    },
+    {
+      "kw": "pingo",
+      "pop": 53,
+      "comp": 98,
+      "apps": 248,
+      "rank": 111,
+      "imp": "5.88"
+    },
+    {
+      "kw": "bed bath and beyond",
+      "pop": 52,
+      "comp": 77,
+      "apps": 234,
+      "rank": 12,
+      "imp": "9.95"
+    },
+    {
+      "kw": "rent a center",
+      "pop": 52,
+      "comp": 74,
+      "apps": 250,
+      "rank": 90,
+      "imp": "6.01"
+    },
+    {
+      "kw": "synchrony",
+      "pop": 52,
+      "comp": 90,
+      "apps": 202,
+      "rank": 14,
+      "imp": "9.47"
+    },
+    {
+      "kw": "apple configurator",
+      "pop": 51,
+      "comp": 91,
+      "apps": 248,
+      "rank": 109,
+      "imp": "5.68"
+    },
+    {
+      "kw": "the",
+      "pop": 51,
+      "comp": 100,
+      "apps": 248,
+      "rank": 75,
+      "imp": "6.11"
+    },
+    {
+      "kw": "ashley furniture",
+      "pop": 51,
+      "comp": 57,
+      "apps": 247,
+      "rank": 17,
+      "imp": "8.76"
+    },
+    {
+      "kw": "ace",
+      "pop": 51,
+      "comp": 68,
+      "apps": 248,
+      "rank": 133,
+      "imp": "5.47"
+    },
+    {
+      "kw": "faire",
+      "pop": 51,
+      "comp": 80,
+      "apps": 250,
+      "rank": 229,
+      "imp": "4.98"
+    },
+    {
+      "kw": "lowes foods",
+      "pop": 51,
+      "comp": 82,
+      "apps": 248,
+      "rank": 3,
+      "imp": "17.78"
+    },
+    {
+      "kw": "sherwin williams",
+      "pop": 50,
+      "comp": 67,
+      "apps": 79,
+      "rank": 7,
+      "imp": "11.60"
+    },
+    {
+      "kw": "wallmart",
+      "pop": 49,
+      "comp": 97,
+      "apps": 246,
+      "rank": 153,
+      "imp": "5.13"
+    },
+    {
+      "kw": "cos",
+      "pop": 47,
+      "comp": 89,
+      "apps": 250,
+      "rank": 69,
+      "imp": "5.73"
+    },
+    {
+      "kw": "harbor freight",
+      "pop": 46,
+      "apps": 248,
+      "rank": 4,
+      "imp": "13.70"
+    },
+    {
+      "kw": "walmart app",
+      "pop": 45,
+      "apps": 243,
+      "rank": 109,
+      "imp": "5.01"
+    },
+    {
+      "kw": "touch",
+      "pop": 45,
+      "comp": 77,
+      "apps": 247,
+      "rank": 72,
+      "imp": "5.44"
+    },
+    {
+      "kw": "com",
+      "pop": 45,
+      "comp": 98,
+      "apps": 248,
+      "rank": 178,
+      "imp": "4.58"
+    },
+    {
+      "kw": "es",
+      "pop": 45,
+      "comp": 100,
+      "apps": 247,
+      "rank": 100,
+      "imp": "5.09"
+    },
+    {
+      "kw": "an",
+      "pop": 45,
+      "comp": 100,
+      "apps": 247,
+      "rank": 77,
+      "imp": "5.36"
+    },
+    {
+      "kw": "ماك",
+      "pop": 45,
+      "apps": 249,
+      "rank": 138,
+      "imp": "4.80"
+    },
+    {
+      "kw": "home design 3d",
+      "pop": 43,
+      "comp": 78,
+      "apps": 248,
+      "rank": 243,
+      "imp": "4.16"
+    },
+    {
+      "kw": "home credit",
+      "pop": 43,
+      "comp": 47,
+      "apps": 244,
+      "rank": 98,
+      "imp": "4.89"
+    },
+    {
+      "kw": "tapp",
+      "pop": 43,
+      "comp": 100,
+      "apps": 244,
+      "rank": 232,
+      "imp": "4.19"
+    },
+    {
+      "kw": "hyperjar",
+      "pop": 43,
+      "comp": 72,
+      "apps": 247,
+      "rank": 215,
+      "imp": "4.24"
+    },
+    {
+      "kw": "parfumo",
+      "pop": 43,
+      "comp": 42,
+      "apps": 127,
+      "rank": 12,
+      "imp": "8.23"
+    },
+    {
+      "kw": "my builder",
+      "pop": 42,
+      "comp": 77,
+      "apps": 249,
+      "rank": 182,
+      "imp": "4.26"
+    },
+    {
+      "kw": "ping id app",
+      "pop": 41,
+      "comp": 77,
+      "apps": 250,
+      "rank": 66,
+      "imp": "5.04"
+    },
+    {
+      "kw": "penn station",
+      "pop": 41,
+      "comp": 79,
+      "apps": 250,
+      "rank": 233,
+      "imp": "3.99"
+    },
+    {
+      "kw": "homegoods",
+      "pop": 40,
+      "comp": 79,
+      "apps": 249,
+      "rank": 17,
+      "imp": "6.87"
+    },
+    {
+      "kw": "homebyme",
+      "pop": 40,
+      "comp": 70,
+      "apps": 250,
+      "rank": 28,
+      "imp": "6.00"
+    },
+    {
+      "kw": "carecredit mobile",
+      "pop": 40,
+      "comp": 64,
+      "apps": 250,
+      "rank": 171,
+      "imp": "4.10"
+    },
+    {
+      "kw": "ルーム",
+      "pop": 39,
+      "apps": 250,
+      "rank": 114,
+      "imp": "4.31"
+    },
+    {
+      "kw": "cunda",
+      "pop": 39,
+      "comp": 94,
+      "apps": 248,
+      "rank": 227,
+      "imp": "3.81"
+    },
+    {
+      "kw": "c a",
+      "pop": 39,
+      "comp": 100,
+      "apps": 248,
+      "rank": 161,
+      "imp": "4.04"
+    },
+    {
+      "kw": "홈",
+      "pop": 39,
+      "comp": 58,
+      "apps": 247,
+      "rank": 66,
+      "imp": "4.80"
+    },
+    {
+      "kw": "my synchrony app",
+      "pop": 39,
+      "comp": 63,
+      "apps": 250,
+      "rank": 126,
+      "imp": "4.23"
+    },
+    {
+      "kw": "home access center",
+      "pop": 38,
+      "apps": 250,
+      "rank": 13,
+      "imp": "7.08"
+    },
+    {
+      "kw": "grainger",
+      "pop": 38,
+      "comp": 69,
+      "apps": 24,
+      "rank": 6,
+      "imp": "9.39"
+    },
+    {
+      "kw": "wal",
+      "pop": 37,
+      "comp": 100,
+      "apps": 249,
+      "rank": 79,
+      "imp": "4.39"
+    },
+    {
+      "kw": "floor and decor",
+      "pop": 37,
+      "comp": 77,
+      "apps": 249,
+      "rank": 3,
+      "imp": "12.90"
+    },
+    {
+      "kw": "aw",
+      "pop": 35,
+      "comp": 88,
+      "apps": 250,
+      "rank": 95,
+      "imp": "4.00"
+    },
+    {
+      "kw": "kin",
+      "pop": 34,
+      "comp": 96,
+      "apps": 244,
+      "rank": 88,
+      "imp": "3.95"
+    },
+    {
+      "kw": "depo",
+      "pop": 34,
+      "comp": 93,
+      "apps": 246,
+      "rank": 116,
+      "imp": "3.74"
+    },
+    {
+      "kw": "hard",
+      "pop": 33,
+      "comp": 68,
+      "apps": 249,
+      "rank": 175,
+      "imp": "3.37"
+    },
+    {
+      "kw": "free target app",
+      "pop": 32,
+      "comp": 93,
+      "apps": 245,
+      "rank": 203,
+      "imp": "3.19"
+    },
+    {
+      "kw": "my we",
+      "pop": 30,
+      "apps": 249,
+      "rank": 81,
+      "imp": "3.54"
+    },
+    {
+      "kw": "lobby",
+      "pop": 30,
+      "comp": 85,
+      "apps": 246,
+      "rank": 132,
+      "imp": "3.22"
+    },
+    {
+      "kw": "jiffy",
+      "pop": 28,
+      "comp": 51,
+      "apps": 72,
+      "rank": 58,
+      "imp": "3.54"
+    },
+    {
+      "kw": "free walmart app",
+      "pop": 28,
+      "comp": 98,
+      "apps": 244,
+      "rank": 100,
+      "imp": "3.17"
+    },
+    {
+      "kw": "frer",
+      "pop": 28,
+      "comp": 96,
+      "apps": 239,
+      "rank": 207,
+      "imp": "2.78"
+    },
+    {
+      "kw": "aces",
+      "pop": 27,
+      "comp": 82,
+      "apps": 245,
+      "rank": 51,
+      "imp": "3.51"
+    },
+    {
+      "kw": "labi",
+      "pop": 27,
+      "comp": 70,
+      "apps": 245,
+      "rank": 59,
+      "imp": "3.40"
+    },
+    {
+      "kw": "loews hotel",
+      "pop": 27,
+      "apps": 249,
+      "rank": 231,
+      "imp": "2.63"
+    },
+    {
+      "kw": "stud finder wall scan free",
+      "pop": 27,
+      "apps": 249,
+      "rank": 70,
+      "imp": "3.28"
+    },
+    {
+      "kw": "comer",
+      "pop": 26,
+      "comp": 92,
+      "apps": 242,
+      "rank": 239,
+      "imp": "2.52"
+    },
+    {
+      "kw": "home depot credit card",
+      "pop": 26,
+      "comp": 70,
+      "apps": 246,
+      "rank": 5,
+      "imp": "6.96"
+    },
+    {
+      "kw": "walmart seller center",
+      "pop": 26,
+      "comp": 83,
+      "apps": 247,
+      "rank": 44,
+      "imp": "3.50"
+    },
+    {
+      "kw": "harbor freight tools",
+      "pop": 25,
+      "comp": 75,
+      "apps": 249,
+      "rank": 3,
+      "imp": "8.71"
+    },
+    {
+      "kw": "cosi",
+      "pop": 25,
+      "comp": 80,
+      "apps": 249,
+      "rank": 71,
+      "imp": "3.03"
+    },
+    {
+      "kw": "walmart card",
+      "pop": 24,
+      "comp": 84,
+      "apps": 247,
+      "rank": 246,
+      "imp": "2.32"
+    },
+    {
+      "kw": "ihome clean",
+      "pop": 22,
+      "comp": 48,
+      "apps": 249,
+      "rank": 139,
+      "imp": "2.34"
+    },
+    {
+      "kw": "wall stud finder free",
+      "pop": 21,
+      "comp": 40,
+      "apps": 249,
+      "rank": 109,
+      "imp": "2.34"
+    },
+    {
+      "kw": "select home warranty",
+      "pop": 21,
+      "apps": 249,
+      "rank": 5,
+      "imp": "5.62"
+    },
+    {
+      "kw": "lower",
+      "pop": 19,
+      "comp": 75,
+      "apps": 245,
+      "rank": 2,
+      "imp": "8.72"
+    },
+    {
+      "kw": "costway",
+      "pop": 19,
+      "comp": 81,
+      "apps": 250,
+      "rank": 23,
+      "imp": "3.00"
+    },
+    {
+      "kw": "beste spiele",
+      "pop": 18,
+      "comp": 96,
+      "apps": 250,
+      "rank": 191,
+      "imp": "1.81"
+    },
+    {
+      "kw": "e auto",
+      "pop": 17,
+      "comp": 66,
+      "apps": 248,
+      "rank": 181,
+      "imp": "1.73"
+    },
+    {
+      "kw": "home centre",
+      "pop": 17,
+      "apps": 246,
+      "rank": 34,
+      "imp": "2.43"
+    },
+    {
+      "kw": "food warehouse",
+      "pop": 17,
+      "comp": 84,
+      "apps": 249,
+      "rank": 78,
+      "imp": "2.02"
+    },
+    {
+      "kw": "my pay",
+      "pop": 15,
+      "apps": 248,
+      "rank": 162,
+      "imp": "1.55"
+    },
+    {
+      "kw": "choose app",
+      "pop": 14,
+      "comp": 97,
+      "apps": 242,
+      "rank": 236,
+      "imp": "1.36"
+    },
+    {
+      "kw": "walmart me",
+      "pop": 14,
+      "comp": 80,
+      "apps": 243,
+      "rank": 112,
+      "imp": "1.55"
+    },
+    {
+      "kw": "bild app",
+      "pop": 13,
+      "comp": 92,
+      "apps": 246,
+      "rank": 203,
+      "imp": "1.29"
+    },
+    {
+      "kw": "aids",
+      "pop": 13,
+      "comp": 89,
+      "apps": 247,
+      "rank": 126,
+      "imp": "1.41"
+    },
+    {
+      "kw": "our house",
+      "pop": 13,
+      "comp": 80,
+      "apps": 250,
+      "rank": 34,
+      "imp": "1.86"
+    },
+    {
+      "kw": "more app",
+      "pop": 12,
+      "comp": 95,
+      "apps": 242,
+      "rank": 236,
+      "imp": "1.17"
+    },
+    {
+      "kw": "haus design",
+      "pop": 11,
+      "comp": 60,
+      "apps": 248,
+      "rank": 137,
+      "imp": "1.17"
+    },
+    {
+      "kw": "best but",
+      "pop": 11,
+      "comp": 97,
+      "apps": 247,
+      "rank": 20,
+      "imp": "1.80"
+    },
+    {
+      "kw": "upad",
+      "pop": 10,
+      "comp": 85,
+      "apps": 248,
+      "rank": 61,
+      "imp": "1.25"
+    },
+    {
+      "kw": "appl",
+      "pop": 9,
+      "comp": 95,
+      "apps": 247,
+      "rank": 137,
+      "imp": "0.96"
+    },
+    {
+      "kw": "cosco",
+      "pop": 9,
+      "comp": 98,
+      "apps": 247,
+      "rank": 42,
+      "imp": "1.22"
+    },
+    {
+      "kw": "home decor",
+      "pop": 9,
+      "comp": 75,
+      "apps": 248,
+      "rank": 171,
+      "imp": "0.92"
+    },
+    {
+      "kw": "fair",
+      "pop": 9,
+      "comp": 91,
+      "apps": 249,
+      "rank": 109,
+      "imp": "1.00"
+    },
+    {
+      "kw": "anna",
+      "pop": 9,
+      "comp": 87,
+      "apps": 248,
+      "rank": 26,
+      "imp": "1.38"
+    },
+    {
+      "kw": "myway",
+      "pop": 9,
+      "comp": 90,
+      "apps": 250,
+      "rank": 191,
+      "imp": "0.91"
+    },
+    {
+      "kw": "come",
+      "pop": 9,
+      "comp": 91,
+      "apps": 246,
+      "rank": 149,
+      "imp": "0.95"
+    },
+    {
+      "kw": "all app",
+      "pop": 9,
+      "comp": 97,
+      "apps": 243,
+      "rank": 232,
+      "imp": "0.88"
+    },
+    {
+      "kw": "jon",
+      "pop": 9,
+      "comp": 89,
+      "apps": 243,
+      "rank": 67,
+      "imp": "1.10"
+    },
+    {
+      "kw": "diddy",
+      "pop": 9,
+      "comp": 98,
+      "apps": 247,
+      "rank": 172,
+      "imp": "0.92"
+    },
+    {
+      "kw": "w builds",
+      "pop": 9,
+      "comp": 91,
+      "apps": 102,
+      "rank": 75,
+      "imp": "1.08"
+    },
+    {
+      "kw": "hom",
+      "pop": 8,
+      "apps": 237,
+      "rank": 165,
+      "imp": "0.83"
+    },
+    {
+      "kw": "zara home",
+      "pop": 8,
+      "apps": 248,
+      "rank": 27,
+      "imp": "1.21"
+    },
+    {
+      "kw": "bestie",
+      "pop": 8,
+      "comp": 79,
+      "apps": 242,
+      "rank": 221,
+      "imp": "0.79"
+    },
+    {
+      "kw": "desing home",
+      "pop": 8,
+      "comp": 66,
+      "apps": 247,
+      "rank": 129,
+      "imp": "0.86"
+    },
+    {
+      "kw": "house paint",
+      "pop": 8,
+      "comp": 53,
+      "apps": 249,
+      "rank": 44,
+      "imp": "1.08"
+    },
+    {
+      "kw": "homepod",
+      "pop": 8,
+      "comp": 96,
+      "apps": 247,
+      "rank": 178,
+      "imp": "0.82"
+    },
+    {
+      "kw": "die hard",
+      "pop": 8,
+      "comp": 50,
+      "apps": 248,
+      "rank": 73,
+      "imp": "0.96"
+    },
+    {
+      "kw": "shop pay",
+      "pop": 8,
+      "comp": 81,
+      "apps": 248,
+      "rank": 215,
+      "imp": "0.79"
+    },
+    {
+      "kw": "w build",
+      "pop": 8,
+      "comp": 54,
+      "apps": 125,
+      "rank": 42,
+      "imp": "1.09"
+    },
+    {
+      "kw": "aute",
+      "pop": 8,
+      "apps": 246,
+      "rank": 142,
+      "imp": "0.85"
+    },
+    {
+      "kw": "pad",
+      "pop": 7,
+      "comp": 87,
+      "apps": 248,
+      "rank": 52,
+      "imp": "0.91"
+    },
+    {
+      "kw": "iphone apps",
+      "pop": 7,
+      "comp": 97,
+      "apps": 242,
+      "rank": 229,
+      "imp": "0.68"
+    },
+    {
+      "kw": "home by me",
+      "pop": 7,
+      "comp": 90,
+      "apps": 246,
+      "rank": 23,
+      "imp": "1.11"
+    },
+    {
+      "kw": "stor",
+      "pop": 7,
+      "comp": 100,
+      "apps": 238,
+      "rank": 156,
+      "imp": "0.73"
+    },
+    {
+      "kw": "one world",
+      "pop": 7,
+      "comp": 86,
+      "apps": 240,
+      "rank": 145,
+      "imp": "0.74"
+    },
+    {
+      "kw": "the way",
+      "pop": 7,
+      "comp": 64,
+      "apps": 249,
+      "rank": 118,
+      "imp": "0.77"
+    },
+    {
+      "kw": "stussy",
+      "pop": 7,
+      "comp": 58,
+      "apps": 248,
+      "rank": 137,
+      "imp": "0.75"
+    },
+    {
+      "kw": "pulizia foto",
+      "pop": 7,
+      "comp": 98,
+      "apps": 249,
+      "rank": 190,
+      "imp": "0.71"
+    },
+    {
+      "kw": "my card wallet",
+      "pop": 7,
+      "comp": 97,
+      "apps": 250,
+      "rank": 228,
+      "imp": "0.68"
+    },
+    {
+      "kw": "house flip",
+      "pop": 6,
+      "comp": 61,
+      "apps": 243,
+      "rank": 178,
+      "imp": "0.61"
+    },
+    {
+      "kw": "cm",
+      "pop": 6,
+      "comp": 96,
+      "apps": 248,
+      "rank": 51,
+      "imp": "0.78"
+    },
+    {
+      "kw": "shoo",
+      "pop": 6,
+      "apps": 239,
+      "rank": 72,
+      "imp": "0.72"
+    },
+    {
+      "kw": "line id",
+      "pop": 6,
+      "comp": 92,
+      "apps": 246,
+      "rank": 136,
+      "imp": "0.64"
+    },
+    {
+      "kw": "domicile",
+      "pop": 6,
+      "comp": 90,
+      "apps": 249,
+      "rank": 45,
+      "imp": "0.80"
+    },
+    {
+      "kw": "built",
+      "pop": 6,
+      "comp": 72,
+      "apps": 250,
+      "rank": 18,
+      "imp": "1.01"
+    },
+    {
+      "kw": "kings",
+      "pop": 6,
+      "comp": 93,
+      "apps": 248,
+      "rank": 104,
+      "imp": "0.67"
+    },
+    {
+      "kw": "walmart delivery",
+      "pop": 6,
+      "comp": 79,
+      "apps": 245,
+      "rank": 74,
+      "imp": "0.72"
+    },
+    {
+      "kw": "a c pro",
+      "pop": 6,
+      "comp": 81,
+      "apps": 246,
+      "rank": 132,
+      "imp": "0.64"
+    },
+    {
+      "kw": "decor match",
+      "pop": 6,
+      "comp": 66,
+      "apps": 248,
+      "rank": 110,
+      "imp": "0.67"
+    },
+    {
+      "kw": "food king",
+      "pop": 6,
+      "comp": 83,
+      "apps": 248,
+      "rank": 155,
+      "imp": "0.63"
+    },
+    {
+      "kw": "home pro",
+      "pop": 6,
+      "comp": 73,
+      "apps": 248,
+      "rank": 10,
+      "imp": "1.22"
+    },
+    {
+      "kw": "hardware",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "home & garden",
+      "pop": 5,
+      "comp": 55,
+      "apps": 241,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "home additions",
+      "pop": 5,
+      "comp": 69,
+      "apps": 246,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "autor",
+      "pop": 5,
+      "comp": 90,
+      "apps": 250,
+      "rank": 200,
+      "imp": "0.50"
+    },
+    {
+      "kw": "munchery",
+      "pop": 5,
+      "comp": 71,
+      "apps": 240,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "homekit",
+      "pop": 5,
+      "comp": 78,
+      "apps": 249,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "find house",
+      "pop": 5,
+      "comp": 73,
+      "apps": 246,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "apple home kit",
+      "pop": 5,
+      "apps": 248,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "recent",
+      "pop": 5,
+      "comp": 94,
+      "apps": 242,
+      "rank": 241,
+      "imp": "0.48"
+    },
+    {
+      "kw": "home builder",
+      "pop": 5,
+      "comp": 61,
+      "apps": 206,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "build a home",
+      "pop": 5,
+      "apps": 221,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "shop home",
+      "pop": 5,
+      "apps": 248,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "wall level",
+      "pop": 5,
+      "comp": 43,
+      "apps": 243,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "best price checker",
+      "pop": 5,
+      "comp": 77,
+      "apps": 201,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "decorate the house",
+      "pop": 5,
+      "apps": 250,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "jardin",
+      "pop": 5,
+      "comp": 81,
+      "apps": 236,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "a faire",
+      "pop": 5,
+      "comp": 49,
+      "apps": 243,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "lose",
+      "pop": 5,
+      "comp": 79,
+      "apps": 224,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "microbook",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "house rules",
+      "pop": 5,
+      "comp": 66,
+      "apps": 244,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "arrive",
+      "pop": 5,
+      "comp": 94,
+      "apps": 249,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ikea home",
+      "pop": 5,
+      "comp": 69,
+      "apps": 233,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "ar shopping",
+      "pop": 5,
+      "apps": 174,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "depot",
+      "pop": 5,
+      "comp": 95,
+      "apps": 248,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "home improvement",
+      "pop": 5,
+      "comp": 80,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "myrewards",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "myrewards app",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "lowest",
+      "pop": 5,
+      "comp": 84,
+      "apps": 195,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "itouch",
+      "pop": 5,
+      "comp": 65,
+      "apps": 247,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "hone",
+      "pop": 5,
+      "comp": 93,
+      "apps": 248,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "walmart shopping",
+      "pop": 5,
+      "comp": 96,
+      "apps": 243,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "all free apps",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "house painter",
+      "pop": 5,
+      "apps": 200,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "raum",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "ios app",
+      "pop": 5,
+      "comp": 94,
+      "apps": 242,
+      "rank": 241,
+      "imp": "0.48"
+    },
+    {
+      "kw": "search app",
+      "pop": 5,
+      "comp": 90,
+      "apps": 243,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "diy home",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "appliance repair",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "c&a",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mobile app",
+      "pop": 5,
+      "comp": 95,
+      "apps": 243,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "walmart clearance",
+      "pop": 5,
+      "apps": 92,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "home gardening",
+      "pop": 5,
+      "comp": 47,
+      "apps": 240,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "download apps",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "furniture ar",
+      "pop": 5,
+      "apps": 242,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "zones of regulation",
+      "pop": 5,
+      "apps": 246,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "random apps",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "identifix",
+      "pop": 5,
+      "apps": 223,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "laws",
+      "pop": 5,
+      "comp": 73,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "phone repair",
+      "pop": 5,
+      "apps": 217,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "garden repair",
+      "pop": 5,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "home food",
+      "pop": 5,
+      "apps": 199,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "for all",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 224,
+      "imp": "0.49"
+    },
+    {
+      "kw": "c.a.t.s",
+      "pop": 5,
+      "comp": 90,
+      "apps": 248,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "home repair",
+      "pop": 5,
+      "comp": 67,
+      "apps": 245,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "furniture maker",
+      "pop": 5,
+      "apps": 233,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "home paint",
+      "pop": 5,
+      "comp": 91,
+      "apps": 248,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "pricena",
+      "pop": 5,
+      "comp": 47,
+      "apps": 250,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "telecomando mac",
+      "pop": 5,
+      "comp": 86,
+      "apps": 246,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bad wars",
+      "pop": 5,
+      "comp": 44,
+      "apps": 227,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "telecomande mac",
+      "pop": 5,
+      "comp": 94,
+      "apps": 245,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "line公式アカウント",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "arvid",
+      "pop": 5,
+      "apps": 244,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "sherwin williams color visualizer",
+      "pop": 5,
+      "comp": 42,
+      "apps": 246,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "auto de",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "cosa",
+      "pop": 5,
+      "comp": 94,
+      "apps": 243,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "target market",
+      "pop": 5,
+      "apps": 248,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "hud display",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "pickup walmart",
+      "pop": 5,
+      "comp": 74,
+      "apps": 231,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "walmart locator",
+      "pop": 5,
+      "comp": 79,
+      "apps": 245,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "walmart photo centre",
+      "pop": 5,
+      "comp": 82,
+      "apps": 243,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "download app",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "build and upgrade",
+      "pop": 5,
+      "comp": 69,
+      "apps": 240,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "苹果",
+      "pop": 5,
+      "comp": 86,
+      "apps": 245,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "michel",
+      "pop": 5,
+      "comp": 79,
+      "apps": 240,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home remodeling",
+      "pop": 5,
+      "comp": 60,
+      "apps": 247,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "kitchen garden",
+      "pop": 5,
+      "comp": 58,
+      "apps": 245,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "credicard",
+      "pop": 5,
+      "comp": 84,
+      "apps": 246,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "sears",
+      "pop": 5,
+      "comp": 71,
+      "apps": 135,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "workday home depot",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "vision pro",
+      "pop": 5,
+      "comp": 75,
+      "apps": 247,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "my target",
+      "pop": 5,
+      "apps": 176,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "basic app",
+      "pop": 5,
+      "comp": 89,
+      "apps": 243,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "iOS apps",
+      "pop": 5,
+      "comp": 95,
+      "apps": 242,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "costco wholesale",
+      "pop": 5,
+      "comp": 76,
+      "apps": 246,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "maç",
+      "pop": 5,
+      "comp": 78,
+      "apps": 229,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "s o s",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "free hames",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "mysynchrony",
+      "pop": 5,
+      "comp": 79,
+      "apps": 97,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "floors",
+      "pop": 5,
+      "comp": 72,
+      "apps": 249,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "icard",
+      "pop": 5,
+      "comp": 72,
+      "apps": 246,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "*",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "home credit app",
+      "pop": 5,
+      "apps": 199,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "the penny hoarder",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "line out",
+      "pop": 5,
+      "comp": 86,
+      "apps": 240,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "sunflower",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "app free",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "m&s",
+      "pop": 5,
+      "apps": 235,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "popular app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 242,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "buy a home",
+      "pop": 5,
+      "apps": 212,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "iphones",
+      "pop": 5,
+      "comp": 50,
+      "apps": 230,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "mac pro",
+      "pop": 5,
+      "comp": 51,
+      "apps": 240,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "linetime",
+      "pop": 5,
+      "comp": 88,
+      "apps": 245,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "i pad",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "stok",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "the king",
+      "pop": 5,
+      "comp": 97,
+      "apps": 237,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "dams",
+      "pop": 5,
+      "comp": 86,
+      "apps": 245,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "app home",
+      "pop": 5,
+      "apps": 247,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "target online",
+      "pop": 5,
+      "apps": 206,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "clean my mac",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "wall stud finder",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "credit repair app",
+      "pop": 5,
+      "apps": 214,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "palmer",
+      "pop": 5,
+      "comp": 75,
+      "apps": 250,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home remodel app",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "netoyage iphone gratuit",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "frie",
+      "pop": 5,
+      "comp": 100,
+      "apps": 249,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "macos",
+      "pop": 5,
+      "comp": 89,
+      "apps": 243,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "paint colors",
+      "pop": 5,
+      "comp": 93,
+      "apps": 229,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "tsc",
+      "pop": 5,
+      "apps": 150,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "steinbock",
+      "pop": 5,
+      "comp": 52,
+      "apps": 209,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "apple stores",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "アップ",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "shoppoing",
+      "pop": 5,
+      "apps": 247,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "macs",
+      "pop": 5,
+      "comp": 77,
+      "apps": 228,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "improve vision",
+      "pop": 5,
+      "comp": 63,
+      "apps": 240,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "food zone",
+      "pop": 5,
+      "apps": 201,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "auto club",
+      "pop": 5,
+      "comp": 72,
+      "apps": 250,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "go home",
+      "pop": 5,
+      "comp": 82,
+      "apps": 245,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "a app",
+      "pop": 5,
+      "comp": 95,
+      "apps": 244,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "hell's kitchen",
+      "pop": 5,
+      "comp": 56,
+      "apps": 241,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "rosca",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "michaels stores",
+      "pop": 5,
+      "comp": 81,
+      "apps": 246,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "w/",
+      "pop": 5,
+      "comp": 48,
+      "apps": 243,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "furniture delivery",
+      "pop": 5,
+      "apps": 78,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "sell house",
+      "pop": 5,
+      "comp": 70,
+      "apps": 247,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ide ??? ???????????",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 244,
+      "imp": "0.48"
+    },
+    {
+      "kw": "il costo",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "apps for",
+      "pop": 5,
+      "comp": 97,
+      "apps": 245,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "tool for",
+      "pop": 5,
+      "comp": 59,
+      "apps": 244,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "best of",
+      "pop": 5,
+      "apps": 246,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "mobile design",
+      "pop": 5,
+      "comp": 67,
+      "apps": 241,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "dinle",
+      "pop": 5,
+      "comp": 85,
+      "apps": 244,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "house garden",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ar home",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "inc.",
+      "pop": 5,
+      "comp": 93,
+      "apps": 248,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "marcha",
+      "pop": 5,
+      "comp": 74,
+      "apps": 245,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "lise",
+      "pop": 5,
+      "comp": 79,
+      "apps": 242,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "shopping walmart",
+      "pop": 5,
+      "comp": 77,
+      "apps": 244,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "delivery walmart",
+      "pop": 5,
+      "comp": 74,
+      "apps": 245,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "bests",
+      "pop": 5,
+      "comp": 74,
+      "apps": 241,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "apps free",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "app popular",
+      "pop": 5,
+      "comp": 91,
+      "apps": 242,
+      "rank": 241,
+      "imp": "0.48"
+    },
+    {
+      "kw": "bestbuy app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 247,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "ios 9 apps",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 233,
+      "imp": "0.49"
+    },
+    {
+      "kw": "most popular app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 242,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "target grocery",
+      "pop": 5,
+      "comp": 77,
+      "apps": 245,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "companies",
+      "pop": 5,
+      "comp": 84,
+      "apps": 243,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "house maps",
+      "pop": 5,
+      "comp": 93,
+      "apps": 233,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "/",
+      "pop": 5,
+      "comp": 100,
+      "apps": 249,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "cómoda",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "improving",
+      "pop": 5,
+      "comp": 46,
+      "apps": 225,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "the clubhouse",
+      "pop": 5,
+      "comp": 100,
+      "apps": 250,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "auto+",
+      "pop": 5,
+      "comp": 61,
+      "apps": 246,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "appliances",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "home pin",
+      "pop": 5,
+      "apps": 219,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "get to know you",
+      "pop": 5,
+      "comp": 73,
+      "apps": 219,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "shopoing",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "stoc",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "remodel budget",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "houseflipper",
+      "pop": 5,
+      "comp": 82,
+      "apps": 237,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hide sticker",
+      "pop": 5,
+      "comp": 73,
+      "apps": 241,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "decor app",
+      "pop": 5,
+      "comp": 72,
+      "apps": 247,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ukg workforce",
+      "pop": 5,
+      "apps": 249,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "kohl",
+      "pop": 5,
+      "comp": 100,
+      "apps": 178,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "depots",
+      "pop": 5,
+      "comp": 68,
+      "apps": 227,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "مدى باي",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ِِِِِِِappel",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "buildings",
+      "pop": 5,
+      "comp": 55,
+      "apps": 241,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "house planer",
+      "pop": 5,
+      "apps": 243,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "dekor",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 172,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ollie's bargain outlet",
+      "pop": 5,
+      "comp": 54,
+      "apps": 53,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "ماتش",
+      "pop": 5,
+      "comp": 86,
+      "apps": 246,
+      "rank": 242,
+      "imp": "0.48"
+    },
+    {
+      "kw": "antonline",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "highers",
+      "pop": 5,
+      "comp": 87,
+      "apps": 232,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "shops by",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "stoer",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "à faire",
+      "pop": 5,
+      "comp": 48,
+      "apps": 241,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "بنات",
+      "pop": 5,
+      "comp": 86,
+      "apps": 247,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "brst buy",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "home repairs",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fr8",
+      "pop": 5,
+      "comp": 92,
+      "apps": 249,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "ex display",
+      "pop": 5,
+      "comp": 25,
+      "apps": 240,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "walmart stores",
+      "pop": 5,
+      "comp": 100,
+      "apps": 245,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "wal-mart",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "low cost",
+      "pop": 5,
+      "comp": 38,
+      "apps": 244,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "of auto",
+      "pop": 5,
+      "comp": 54,
+      "apps": 247,
+      "rank": 213,
+      "imp": "0.49"
+    },
+    {
+      "kw": "room auto",
+      "pop": 5,
+      "comp": 44,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "room and",
+      "pop": 5,
+      "comp": 44,
+      "apps": 243,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "room of",
+      "pop": 5,
+      "comp": 51,
+      "apps": 243,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "room free",
+      "pop": 5,
+      "comp": 54,
+      "apps": 249,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "of room",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "app room",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "auto room",
+      "pop": 5,
+      "comp": 91,
+      "apps": 249,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "apple apple apple apple",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "apple the",
+      "pop": 5,
+      "comp": 89,
+      "apps": 246,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "the apple",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "bast buy",
+      "pop": 5,
+      "comp": 96,
+      "apps": 244,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "tool ms",
+      "pop": 5,
+      "comp": 85,
+      "apps": 247,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "tool paint",
+      "pop": 5,
+      "comp": 82,
+      "apps": 242,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "tool design",
+      "pop": 5,
+      "comp": 47,
+      "apps": 245,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "wayfair – shop all things home",
+      "pop": 5,
+      "comp": 91,
+      "apps": 248,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "l.o.l",
+      "pop": 5,
+      "comp": 79,
+      "apps": 245,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "at home services",
+      "pop": 5,
+      "comp": 87,
+      "apps": 153,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "know me",
+      "pop": 5,
+      "comp": 74,
+      "apps": 238,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "imporve",
+      "pop": 5,
+      "comp": 48,
+      "apps": 232,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "shopping helper",
+      "pop": 5,
+      "comp": 57,
+      "apps": 249,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kitchen cabinets",
+      "pop": 5,
+      "apps": 211,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "store room",
+      "pop": 5,
+      "comp": 89,
+      "apps": 243,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "koph",
+      "pop": 5,
+      "comp": 94,
+      "apps": 87,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "dot paint",
+      "pop": 5,
+      "comp": 50,
+      "apps": 245,
+      "rank": 245,
+      "imp": "0.48"
+    },
+    {
+      "kw": "fun games for four-year-olds",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "painting supplies",
+      "pop": 5,
+      "comp": 13,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "painting supply",
+      "pop": 5,
+      "comp": 59,
+      "apps": 24,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "auto's",
+      "pop": 5,
+      "comp": 73,
+      "apps": 246,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "come home",
+      "pop": 5,
+      "comp": 77,
+      "apps": 245,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "auto hd",
+      "pop": 5,
+      "comp": 86,
+      "apps": 244,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "auto kind",
+      "pop": 5,
+      "comp": 98,
+      "apps": 173,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "fun game without wifi",
+      "pop": 5,
+      "comp": 97,
+      "apps": 241,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "best reward mobile banking",
+      "pop": 5,
+      "comp": 73,
+      "apps": 26,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "wall wood stud finder",
+      "pop": 5,
+      "comp": 43,
+      "apps": 250,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "improve improve",
+      "pop": 5,
+      "comp": 60,
+      "apps": 226,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "improver",
+      "pop": 5,
+      "comp": 54,
+      "apps": 226,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "10 year",
+      "pop": 5,
+      "apps": 246,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "l&d",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "super cool",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "autoshop",
+      "pop": 5,
+      "comp": 56,
+      "apps": 248,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "buil",
+      "pop": 5,
+      "comp": 93,
+      "apps": 231,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "heme",
+      "pop": 5,
+      "comp": 76,
+      "apps": 244,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "kings match",
+      "pop": 5,
+      "comp": 94,
+      "apps": 246,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "life rewards",
+      "pop": 5,
+      "comp": 51,
+      "apps": 178,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "redcard",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "get clean",
+      "pop": 5,
+      "comp": 88,
+      "apps": 242,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "همزادچت،دوستی،گپ،هم",
+      "pop": 5,
+      "comp": 88,
+      "apps": 274,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "همزادچت،دوستی،گپ،هم صحبت",
+      "pop": 5,
+      "comp": 88,
+      "apps": 274,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "newganes",
+      "pop": 5,
+      "comp": 97,
+      "apps": 244,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "– build credit",
+      "pop": 5,
+      "comp": 60,
+      "apps": 240,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "bby",
+      "pop": 5,
+      "comp": 91,
+      "apps": 229,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "powermeter",
+      "pop": 5,
+      "comp": 91,
+      "apps": 240,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "card credit repair",
+      "pop": 5,
+      "comp": 60,
+      "apps": 246,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "credit repair credit cards",
+      "pop": 5,
+      "comp": 60,
+      "apps": 247,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "law credit repair",
+      "pop": 5,
+      "comp": 79,
+      "apps": 244,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "law repair",
+      "pop": 5,
+      "comp": 59,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "law credit",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "credirrepair",
+      "pop": 5,
+      "comp": 79,
+      "apps": 119,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "card build credit",
+      "pop": 5,
+      "comp": 59,
+      "apps": 242,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "credirepair",
+      "pop": 5,
+      "comp": 79,
+      "apps": 124,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "walmart card app",
+      "pop": 5,
+      "comp": 84,
+      "apps": 246,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "walmart money",
+      "pop": 5,
+      "comp": 89,
+      "apps": 246,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "credit repair.com",
+      "pop": 5,
+      "comp": 56,
+      "apps": 245,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "– build credit",
+      "pop": 5,
+      "comp": 57,
+      "apps": 241,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "creditrepair",
+      "pop": 5,
+      "comp": 87,
+      "apps": 246,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "bulid credit for free",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "biild credit",
+      "pop": 5,
+      "comp": 61,
+      "apps": 239,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "кинг",
+      "pop": 5,
+      "comp": 91,
+      "apps": 250,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "decor a house kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 244,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "diy house",
+      "pop": 5,
+      "apps": 250,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "c-store",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "buuld credit shopping",
+      "pop": 5,
+      "comp": 83,
+      "apps": 248,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "build credit shopping",
+      "pop": 5,
+      "comp": 60,
+      "apps": 245,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "bestgames",
+      "pop": 5,
+      "comp": 97,
+      "apps": 239,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "best buys",
+      "pop": 5,
+      "comp": 77,
+      "apps": 240,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fastana",
+      "pop": 5,
+      "comp": 70,
+      "apps": 227,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "best house",
+      "pop": 5,
+      "comp": 85,
+      "apps": 244,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "Gardening tools",
+      "pop": 5,
+      "comp": 46,
+      "apps": 246,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "Gardening tool",
+      "pop": 5,
+      "comp": 47,
+      "apps": 245,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "Adverty",
+      "pop": 5,
+      "comp": 59,
+      "apps": 250,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "tools zone",
+      "pop": 5,
+      "comp": 47,
+      "apps": 69,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "kohls card",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "مذكرات بنات بالبصمة",
+      "pop": 5,
+      "comp": 78,
+      "apps": 272,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "get to know me",
+      "pop": 5,
+      "comp": 47,
+      "apps": 169,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "homr",
+      "pop": 5,
+      "comp": 80,
+      "apps": 232,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "app all",
+      "pop": 5,
+      "apps": 243,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "Free Of Cost",
+      "pop": 5,
+      "comp": 47,
+      "apps": 249,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "No Cost",
+      "pop": 5,
+      "apps": 97,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "kshop",
+      "pop": 5,
+      "comp": 78,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "vision decor",
+      "pop": 5,
+      "comp": 50,
+      "apps": 243,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "depot mobile",
+      "pop": 5,
+      "comp": 79,
+      "apps": 247,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "möbel shop",
+      "pop": 5,
+      "comp": 97,
+      "apps": 238,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "küchen shop",
+      "pop": 5,
+      "comp": 70,
+      "apps": 243,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "www.hobbyapps.com",
+      "pop": 5,
+      "comp": 44,
+      "apps": 244,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "save & build credit",
+      "pop": 5,
+      "comp": 35,
+      "apps": 204,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "vision℠",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "know me.",
+      "pop": 5,
+      "comp": 40,
+      "apps": 222,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "drunk games couples",
+      "pop": 5,
+      "comp": 94,
+      "apps": 238,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "heavy vibrayor",
+      "pop": 5,
+      "comp": 50,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "lowes market",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "king cost",
+      "pop": 5,
+      "comp": 84,
+      "apps": 54,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "lobby stores",
+      "pop": 5,
+      "comp": 82,
+      "apps": 247,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "hosue",
+      "pop": 5,
+      "comp": 80,
+      "apps": 247,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "ipad ipads",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "free app app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "for the pro",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "\"MyWay\"",
+      "pop": 5,
+      "comp": 60,
+      "apps": 229,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "My-Way",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "faire des",
+      "pop": 5,
+      "comp": 58,
+      "apps": 243,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "l'application",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bathroom decor",
+      "pop": 5,
+      "apps": 205,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "Kitchen decor",
+      "pop": 5,
+      "apps": 244,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "اسهم",
+      "pop": 5,
+      "apps": 162,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "painiting",
+      "pop": 5,
+      "comp": 91,
+      "apps": 247,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "mytarget",
+      "pop": 5,
+      "comp": 80,
+      "apps": 242,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "bestbut",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "a.l.",
+      "pop": 5,
+      "comp": 87,
+      "apps": 247,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "buy+",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "d id",
+      "pop": 5,
+      "comp": 60,
+      "apps": 246,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bild-app",
+      "pop": 5,
+      "comp": 78,
+      "apps": 247,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Home order",
+      "pop": 5,
+      "comp": 59,
+      "apps": 240,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "Final Line",
+      "pop": 5,
+      "comp": 95,
+      "apps": 245,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "merda",
+      "pop": 5,
+      "comp": 61,
+      "apps": 49,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "telha",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "Guest Control",
+      "pop": 5,
+      "comp": 13,
+      "apps": 248,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "home warranty of america",
+      "pop": 5,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "sherwin-williams",
+      "pop": 5,
+      "comp": 50,
+      "apps": 109,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "sherwin williams pro",
+      "pop": 5,
+      "comp": 67,
+      "apps": 101,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "sherwin",
+      "pop": 5,
+      "apps": 87,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "garage maker",
+      "pop": 5,
+      "comp": 60,
+      "apps": 211,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "gome",
+      "pop": 5,
+      "comp": 96,
+      "apps": 246,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "m-house",
+      "pop": 5,
+      "comp": 70,
+      "apps": 237,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "pointing",
+      "pop": 5,
+      "comp": 90,
+      "apps": 237,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "house paint outside",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "home remodle",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "frees free",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "house art",
+      "pop": 5,
+      "apps": 205,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "the w app",
+      "pop": 5,
+      "comp": 90,
+      "apps": 248,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "in line",
+      "pop": 5,
+      "comp": 85,
+      "apps": 245,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "free life style",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "empty room",
+      "pop": 5,
+      "comp": 68,
+      "apps": 233,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "حمية",
+      "pop": 5,
+      "comp": 92,
+      "apps": 248,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "wallgreens",
+      "pop": 5,
+      "comp": 75,
+      "apps": 152,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "garden state",
+      "pop": 5,
+      "comp": 54,
+      "apps": 238,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "NEVER AHVE I EVER",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "paint finder",
+      "pop": 5,
+      "comp": 68,
+      "apps": 206,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "自带软件",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "平果官网",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "自带",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "平果",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 205,
+      "imp": "0.50"
+    },
+    {
+      "kw": "平果商店",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "app商店",
+      "pop": 5,
+      "comp": 76,
+      "apps": 242,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "商店",
+      "pop": 5,
+      "comp": 74,
+      "apps": 246,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "苹果小工具",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "苹果官方网站",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "苹果11",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "苹果充电器",
+      "pop": 5,
+      "comp": 86,
+      "apps": 250,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "苹果官方旗舰店",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "苹果官方",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "苹果12",
+      "pop": 5,
+      "comp": 98,
+      "apps": 250,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "苹果商城",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "退款",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "iphone官网",
+      "pop": 5,
+      "comp": 59,
+      "apps": 250,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "king.com",
+      "pop": 5,
+      "comp": 95,
+      "apps": 239,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "reward tool",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "acoount",
+      "pop": 5,
+      "comp": 88,
+      "apps": 247,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "apliances",
+      "pop": 5,
+      "comp": 72,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "home supplies",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "kits mobile app",
+      "pop": 5,
+      "comp": 86,
+      "apps": 246,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "a.i.c.",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Neat Home",
+      "pop": 5,
+      "comp": 72,
+      "apps": 245,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "Memt",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "Home checkin",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "auto diy",
+      "pop": 5,
+      "comp": 87,
+      "apps": 246,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "diyers",
+      "pop": 5,
+      "comp": 40,
+      "apps": 231,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "auot diy",
+      "pop": 5,
+      "comp": 79,
+      "apps": 169,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "wall finder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "find app",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "Compan",
+      "pop": 5,
+      "comp": 97,
+      "apps": 247,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "die besten apps",
+      "pop": 5,
+      "comp": 85,
+      "apps": 243,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "3d house scanner",
+      "pop": 5,
+      "comp": 60,
+      "apps": 247,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "3D home scanner",
+      "pop": 5,
+      "comp": 61,
+      "apps": 243,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "appstore design",
+      "pop": 5,
+      "comp": 49,
+      "apps": 249,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "my home credit",
+      "pop": 5,
+      "apps": 210,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "my syncrony",
+      "pop": 5,
+      "apps": 113,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "lene",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "homes.com",
+      "pop": 5,
+      "comp": 78,
+      "apps": 249,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "new appa",
+      "pop": 5,
+      "comp": 98,
+      "apps": 243,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "décoration intérieure",
+      "pop": 5,
+      "comp": 78,
+      "apps": 241,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ubest",
+      "pop": 5,
+      "comp": 84,
+      "apps": 241,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "home cost",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "house cost",
+      "pop": 5,
+      "comp": 79,
+      "apps": 244,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "reward kid",
+      "pop": 5,
+      "comp": 89,
+      "apps": 245,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "gardening business",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "60 second games",
+      "pop": 5,
+      "comp": 97,
+      "apps": 242,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "painting tools",
+      "pop": 5,
+      "apps": 218,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "build company",
+      "pop": 5,
+      "comp": 58,
+      "apps": 235,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "sam gov",
+      "pop": 5,
+      "comp": 85,
+      "apps": 227,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "visionpro",
+      "pop": 5,
+      "comp": 59,
+      "apps": 248,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "loses",
+      "pop": 5,
+      "comp": 70,
+      "apps": 100,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Best AR Home Design Apps",
+      "pop": 5,
+      "comp": 46,
+      "apps": 245,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "repair credit",
+      "pop": 5,
+      "apps": 191,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "improvemenr",
+      "pop": 5,
+      "comp": 66,
+      "apps": 244,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "thezone",
+      "pop": 5,
+      "comp": 89,
+      "apps": 244,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home and",
+      "pop": 5,
+      "comp": 77,
+      "apps": 238,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "home centr",
+      "pop": 5,
+      "comp": 54,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "home home",
+      "pop": 5,
+      "comp": 61,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "kitchen renovate",
+      "pop": 5,
+      "comp": 72,
+      "apps": 202,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "paint room. paints",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "kitchen helper",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "paint remodel",
+      "pop": 5,
+      "comp": 91,
+      "apps": 249,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "touch designer",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "Best Credit Card",
+      "pop": 5,
+      "comp": 93,
+      "apps": 89,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "kingdom king",
+      "pop": 5,
+      "comp": 52,
+      "apps": 228,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "broken cheese grater",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "gardening zones",
+      "pop": 5,
+      "comp": 89,
+      "apps": 17,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "furniture decor",
+      "pop": 5,
+      "apps": 212,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "Diy kitchen",
+      "pop": 5,
+      "comp": 50,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "stud and wire finder for walls",
+      "pop": 5,
+      "comp": 40,
+      "apps": 243,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "renomo",
+      "pop": 5,
+      "comp": 60,
+      "apps": 71,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "building cost",
+      "pop": 5,
+      "comp": 81,
+      "apps": 37,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "kitchen cabinet",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kitchen diy",
+      "pop": 5,
+      "comp": 45,
+      "apps": 86,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "home shopping list",
+      "pop": 5,
+      "comp": 85,
+      "apps": 244,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "new home shopping list",
+      "pop": 5,
+      "comp": 97,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "the,es",
+      "pop": 5,
+      "comp": 100,
+      "apps": 248,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "scan in HD",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "tatgen",
+      "pop": 5,
+      "comp": 66,
+      "apps": 223,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "a&r",
+      "pop": 5,
+      "comp": 80,
+      "apps": 244,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "room redecor",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "delivery lowes",
+      "pop": 5,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "workday vndly",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "athan helper",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "home furnishing",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "best app for deliveries",
+      "pop": 5,
+      "comp": 86,
+      "apps": 208,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "krono",
+      "pop": 5,
+      "comp": 63,
+      "apps": 77,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "kitchen design ideas",
+      "pop": 5,
+      "comp": 79,
+      "apps": 227,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "buys",
+      "pop": 5,
+      "apps": 244,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "run home",
+      "pop": 5,
+      "comp": 81,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "garage sale pos",
+      "pop": 5,
+      "comp": 45,
+      "apps": 250,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "free pads",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "Organize names",
+      "pop": 5,
+      "comp": 43,
+      "apps": 250,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "floor leveling tool",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "u&i",
+      "pop": 5,
+      "comp": 83,
+      "apps": 247,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "d-id",
+      "pop": 5,
+      "comp": 100,
+      "apps": 248,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "hobby log",
+      "pop": 5,
+      "comp": 70,
+      "apps": 246,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "furniture id",
+      "pop": 5,
+      "comp": 48,
+      "apps": 219,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "diy repair",
+      "pop": 5,
+      "comp": 49,
+      "apps": 247,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hd designs",
+      "pop": 5,
+      "comp": 48,
+      "apps": 244,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "a&p",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "a.i.d.",
+      "pop": 5,
+      "comp": 81,
+      "apps": 249,
+      "rank": 157,
+      "imp": "0.52"
+    },
+    {
+      "kw": "a.r.",
+      "pop": 5,
+      "comp": 82,
+      "apps": 241,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "a.w.o.l.",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "a.w.",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "t t s",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "knows",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 215,
+      "imp": "0.49"
+    },
+    {
+      "kw": "feoot",
+      "pop": 5,
+      "comp": 79,
+      "apps": 220,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "furniture remodel",
+      "pop": 5,
+      "comp": 57,
+      "apps": 248,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "lovy",
+      "pop": 5,
+      "comp": 80,
+      "apps": 250,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "t.",
+      "pop": 5,
+      "comp": 90,
+      "apps": 242,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "color match tool",
+      "pop": 5,
+      "comp": 82,
+      "apps": 220,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "kitchen remodeling",
+      "pop": 5,
+      "comp": 66,
+      "apps": 243,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "kid s",
+      "pop": 5,
+      "comp": 84,
+      "apps": 244,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "me +",
+      "pop": 5,
+      "comp": 90,
+      "apps": 247,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "remodel paint",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "hobby building",
+      "pop": 5,
+      "comp": 57,
+      "apps": 16,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kids auto",
+      "pop": 5,
+      "comp": 87,
+      "apps": 246,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "kid auto",
+      "pop": 5,
+      "comp": 87,
+      "apps": 243,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "overstop",
+      "pop": 5,
+      "comp": 46,
+      "apps": 49,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "kitchen scanner",
+      "pop": 5,
+      "comp": 47,
+      "apps": 221,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "store build",
+      "pop": 5,
+      "comp": 45,
+      "apps": 246,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "rools",
+      "pop": 5,
+      "comp": 98,
+      "apps": 240,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kitchen design home",
+      "pop": 5,
+      "comp": 44,
+      "apps": 242,
+      "rank": 170,
+      "imp": "0.51"
+    },
+    {
+      "kw": "shoppimg",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "you+",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ghosteed",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 232,
+      "imp": "0.49"
+    },
+    {
+      "kw": "geb",
+      "pop": 5,
+      "comp": 52,
+      "apps": 207,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "wome",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "king von",
+      "pop": 5,
+      "comp": 74,
+      "apps": 241,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fineliner writing",
+      "pop": 5,
+      "comp": 85,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "ar home decor",
+      "pop": 5,
+      "comp": 76,
+      "apps": 229,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "home improvement tool",
+      "pop": 5,
+      "comp": 73,
+      "apps": 239,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "funiture id",
+      "pop": 5,
+      "apps": 220,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "paint identifier",
+      "pop": 5,
+      "comp": 71,
+      "apps": 202,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "scan painting",
+      "pop": 5,
+      "apps": 71,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "costco price",
+      "pop": 5,
+      "comp": 89,
+      "apps": 247,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "coolest",
+      "pop": 5,
+      "comp": 100,
+      "apps": 243,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "tool+",
+      "pop": 5,
+      "comp": 64,
+      "apps": 243,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "lnes",
+      "pop": 5,
+      "comp": 85,
+      "apps": 250,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "craft warehouse",
+      "pop": 5,
+      "comp": 74,
+      "apps": 199,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "car fight games",
+      "pop": 5,
+      "comp": 96,
+      "apps": 243,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "kohla",
+      "pop": 5,
+      "comp": 66,
+      "apps": 198,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "no account",
+      "pop": 5,
+      "apps": 232,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "bandw",
+      "pop": 5,
+      "apps": 239,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "color a day",
+      "pop": 5,
+      "apps": 231,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "homeredecor",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "line拍貼",
+      "pop": 5,
+      "apps": 243,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "painting kit",
+      "pop": 5,
+      "apps": 210,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "app：home",
+      "pop": 5,
+      "comp": 81,
+      "apps": 246,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": ",mac",
+      "pop": 5,
+      "apps": 241,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "sunme",
+      "pop": 5,
+      "apps": 243,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "tung",
+      "pop": 5,
+      "comp": 57,
+      "apps": 250,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "building id",
+      "pop": 5,
+      "apps": 236,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "depot depot",
+      "pop": 5,
+      "comp": 41,
+      "apps": 236,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "aihome",
+      "pop": 5,
+      "comp": 82,
+      "apps": 246,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "housedepot",
+      "pop": 5,
+      "comp": 64,
+      "apps": 178,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "home gadern",
+      "pop": 5,
+      "comp": 86,
+      "apps": 243,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "virtual home remodel",
+      "pop": 5,
+      "comp": 46,
+      "apps": 249,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "home a",
+      "pop": 5,
+      "comp": 93,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "shopinh",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "home  decor",
+      "pop": 5,
+      "comp": 72,
+      "apps": 247,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "house scanner",
+      "pop": 5,
+      "comp": 62,
+      "apps": 248,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "auto tools",
+      "pop": 5,
+      "comp": 64,
+      "apps": 245,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "بوينت",
+      "pop": 5,
+      "comp": 86,
+      "apps": 236,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "rewards build",
+      "pop": 5,
+      "comp": 74,
+      "apps": 246,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "garage sale register",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "yard sale register",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "home coloring",
+      "pop": 5,
+      "comp": 64,
+      "apps": 208,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "furniture house",
+      "pop": 5,
+      "apps": 228,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "furniture decore",
+      "pop": 5,
+      "apps": 215,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "furniture diy",
+      "pop": 5,
+      "comp": 41,
+      "apps": 244,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "diy decor",
+      "pop": 5,
+      "apps": 243,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "paint furniture",
+      "pop": 5,
+      "apps": 203,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "diy hobby",
+      "pop": 5,
+      "apps": 36,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "sppy",
+      "pop": 5,
+      "apps": 239,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "linna",
+      "pop": 5,
+      "comp": 48,
+      "apps": 247,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "design.com",
+      "pop": 5,
+      "comp": 92,
+      "apps": 249,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "betwarrior",
+      "pop": 5,
+      "comp": 74,
+      "apps": 246,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "my clubhouse",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "the clubhouse: order & pay",
+      "pop": 5,
+      "comp": 87,
+      "apps": 244,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "touch paint",
+      "pop": 5,
+      "apps": 196,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "remodl home",
+      "pop": 5,
+      "comp": 92,
+      "apps": 247,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "lifestyl",
+      "pop": 5,
+      "apps": 248,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "painting id",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "food trackor",
+      "pop": 5,
+      "comp": 56,
+      "apps": 250,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "you know me",
+      "pop": 5,
+      "apps": 196,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "know-me",
+      "pop": 5,
+      "comp": 44,
+      "apps": 232,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "nate core test",
+      "pop": 5,
+      "apps": 241,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "design home hame",
+      "pop": 5,
+      "apps": 237,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "modern decor",
+      "pop": 5,
+      "comp": 62,
+      "apps": 243,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "iphone mac",
+      "pop": 5,
+      "comp": 89,
+      "apps": 246,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "comatose",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 243,
+      "imp": "0.48"
+    },
+    {
+      "kw": "best build",
+      "pop": 5,
+      "apps": 199,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "freeme",
+      "pop": 5,
+      "comp": 94,
+      "apps": 249,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fortune shower",
+      "pop": 5,
+      "apps": 216,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "auto expert",
+      "pop": 5,
+      "apps": 249,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "https://apps.apple.com/us/app/id67461136",
+      "pop": 5,
+      "apps": 248,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "pimg",
+      "pop": 5,
+      "apps": 247,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "dillard's",
+      "pop": 5,
+      "apps": 119,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "standing bell",
+      "pop": 5,
+      "apps": 228,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "repair cost",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "best%20free%20apps",
+      "pop": 5,
+      "comp": 88,
+      "apps": 247,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "flux%20tools",
+      "pop": 5,
+      "comp": 53,
+      "apps": 250,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "free%20garden%20design",
+      "pop": 5,
+      "comp": 79,
+      "apps": 240,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "redesign%20home",
+      "pop": 5,
+      "comp": 85,
+      "apps": 232,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "home%20improvement",
+      "pop": 5,
+      "comp": 88,
+      "apps": 236,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hud%20dating",
+      "pop": 5,
+      "comp": 79,
+      "apps": 239,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "ikea%20home",
+      "pop": 5,
+      "comp": 60,
+      "apps": 249,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "harbor%20freight%20tools",
+      "pop": 5,
+      "comp": 50,
+      "apps": 108,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "walmart%20price%20scanner",
+      "pop": 5,
+      "comp": 83,
+      "apps": 166,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "wallary app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 246,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "extreme%20makeover%20home%20edition",
+      "pop": 5,
+      "comp": 40,
+      "apps": 226,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "home%20for%20sale",
+      "pop": 5,
+      "comp": 60,
+      "apps": 245,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "houzz%20pro",
+      "pop": 5,
+      "comp": 50,
+      "apps": 243,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "ikea%20place",
+      "pop": 5,
+      "comp": 51,
+      "apps": 244,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "floor%20and%20decor",
+      "pop": 5,
+      "comp": 37,
+      "apps": 246,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "home%20design%20app",
+      "pop": 5,
+      "comp": 68,
+      "apps": 249,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "home%20depot%20credit%20card",
+      "pop": 5,
+      "comp": 57,
+      "apps": 208,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "leveling%20tool",
+      "pop": 5,
+      "comp": 69,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "free%20walmart%20app",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "sams%20club",
+      "pop": 5,
+      "comp": 62,
+      "apps": 111,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "sight%20bulb",
+      "pop": 5,
+      "comp": 76,
+      "apps": 231,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "furniture put",
+      "pop": 5,
+      "apps": 246,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home plant",
+      "pop": 5,
+      "comp": 43,
+      "apps": 244,
+      "rank": 243,
+      "imp": "0.48"
+    },
+    {
+      "kw": "flush it ventin",
+      "pop": 5,
+      "apps": 199,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "852862",
+      "pop": 5,
+      "apps": 228,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bathroom%20tracker",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "line%20of%20credit",
+      "pop": 5,
+      "comp": 73,
+      "apps": 236,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lose%20it%20app%20free",
+      "pop": 5,
+      "comp": 78,
+      "apps": 246,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "special%20day",
+      "pop": 5,
+      "apps": 214,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "remodel%3Aai",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "home%20goods",
+      "pop": 5,
+      "comp": 40,
+      "apps": 127,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "swing%20u",
+      "pop": 5,
+      "apps": 224,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "book%20shelf",
+      "pop": 5,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "wa we",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "id scanner for bar & clubs",
+      "pop": 5,
+      "apps": 244,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "manhole cover identifier",
+      "pop": 5,
+      "comp": 71,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "niffy",
+      "pop": 5,
+      "apps": 88,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "ib s",
+      "pop": 5,
+      "apps": 237,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "bestyou",
+      "pop": 5,
+      "apps": 209,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "dardening",
+      "pop": 5,
+      "comp": 82,
+      "apps": 247,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "reodel",
+      "pop": 5,
+      "apps": 230,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "limprove",
+      "pop": 5,
+      "apps": 225,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "best for",
+      "pop": 5,
+      "apps": 248,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "deliverypro",
+      "pop": 5,
+      "comp": 83,
+      "apps": 249,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "clean kit",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "get fair",
+      "pop": 5,
+      "apps": 66,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "home design a",
+      "pop": 5,
+      "apps": 244,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "homerepair",
+      "pop": 5,
+      "comp": 64,
+      "apps": 237,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "walls tud finder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "walls stud finder",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 233,
+      "imp": "0.49"
+    },
+    {
+      "kw": "wall4 stud finder",
+      "pop": 5,
+      "comp": 43,
+      "apps": 243,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "wall\\ stud finder",
+      "pop": 5,
+      "comp": 43,
+      "apps": 243,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "sharp tool",
+      "pop": 5,
+      "apps": 200,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "get a hobby",
+      "pop": 5,
+      "apps": 63,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "no account wallet",
+      "pop": 5,
+      "comp": 85,
+      "apps": 249,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "no scan",
+      "pop": 5,
+      "comp": 61,
+      "apps": 243,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "no id",
+      "pop": 5,
+      "apps": 249,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "paintforce",
+      "pop": 5,
+      "apps": 214,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "by the ways",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "gomedepot",
+      "pop": 5,
+      "apps": 202,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "home depot penny deals",
+      "pop": 5,
+      "comp": 67,
+      "apps": 182,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "shipo",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "glllc",
+      "pop": 5,
+      "apps": 216,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "garderning",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 239,
+      "imp": "0.48"
+    },
+    {
+      "kw": "repair kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "tookl",
+      "pop": 5,
+      "comp": 73,
+      "apps": 243,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "make home",
+      "pop": 5,
+      "apps": 248,
+      "rank": 244,
+      "imp": "0.48"
+    },
+    {
+      "kw": "s/d",
+      "pop": 5,
+      "comp": 67,
+      "apps": 246,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "cosc",
+      "pop": 5,
+      "comp": 97,
+      "apps": 245,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "aooke stire",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "get payment",
+      "pop": 5,
+      "comp": 76,
+      "apps": 245,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "club pickup",
+      "pop": 5,
+      "apps": 234,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "beamart",
+      "pop": 5,
+      "apps": 220,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "hodecor",
+      "pop": 5,
+      "apps": 248,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "home redesigner",
+      "pop": 5,
+      "apps": 248,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "home decorat",
+      "pop": 5,
+      "apps": 241,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "homedcor",
+      "pop": 5,
+      "apps": 248,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fayr",
+      "pop": 5,
+      "apps": 244,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "home design & remodel",
+      "pop": 5,
+      "apps": 227,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "repair costs",
+      "pop": 5,
+      "comp": 49,
+      "apps": 247,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "walmart pictures",
+      "pop": 5,
+      "comp": 80,
+      "apps": 246,
+      "rank": 142,
+      "imp": "0.53"
+    },
+    {
+      "kw": "garden desig",
+      "pop": 5,
+      "apps": 227,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "build stoe",
+      "pop": 5,
+      "apps": 197,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "repair me",
+      "pop": 5,
+      "apps": 248,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "remodeling room",
+      "pop": 5,
+      "apps": 241,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "pocket guide",
+      "pop": 5,
+      "comp": 84,
+      "apps": 239,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "sprint plan",
+      "pop": 5,
+      "apps": 245,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "iap free",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "furniture scanner",
+      "pop": 5,
+      "comp": 71,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "myruel",
+      "pop": 5,
+      "apps": 249,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "hardening",
+      "pop": 5,
+      "comp": 40,
+      "apps": 227,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "target shop",
+      "pop": 5,
+      "comp": 67,
+      "apps": 215,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "remodel ideas",
+      "pop": 5,
+      "apps": 226,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "furniture arts",
+      "pop": 5,
+      "apps": 192,
+      "rank": 126,
+      "imp": "0.54"
+    },
+    {
+      "kw": "سگ",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "home d",
+      "pop": 5,
+      "apps": 240,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "diy tools",
+      "pop": 5,
+      "comp": 38,
+      "apps": 247,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "room plans",
+      "pop": 5,
+      "apps": 223,
+      "rank": 129,
+      "imp": "0.54"
+    },
+    {
+      "kw": "for best",
+      "pop": 5,
+      "apps": 248,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "home editor",
+      "pop": 5,
+      "apps": 227,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "home scanner",
+      "pop": 5,
+      "comp": 50,
+      "apps": 249,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "look good",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "color improver",
+      "pop": 5,
+      "apps": 217,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "vin check europe",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "tapget",
+      "pop": 5,
+      "comp": 58,
+      "apps": 224,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ai home remodel & decor",
+      "pop": 5,
+      "apps": 224,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "furniture shop",
+      "pop": 5,
+      "apps": 246,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "s.l.",
+      "pop": 5,
+      "comp": 98,
+      "apps": 248,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "id scanner club",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "auto pro",
+      "pop": 5,
+      "apps": 249,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "and pro",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "pro auto",
+      "pop": 5,
+      "apps": 246,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "pro and",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 236,
+      "imp": "0.49"
+    },
+    {
+      "kw": "design auto",
+      "pop": 5,
+      "apps": 250,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "home improvement app",
+      "pop": 5,
+      "comp": 71,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "home improvement contract",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "decor remodel",
+      "pop": 5,
+      "apps": 236,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "foam thickness",
+      "pop": 5,
+      "apps": 234,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "club cards",
+      "pop": 5,
+      "comp": 45,
+      "apps": 241,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "foam roller guide",
+      "pop": 5,
+      "apps": 220,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "dough monitor",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "stud finder wallscan",
+      "pop": 5,
+      "comp": 48,
+      "apps": 249,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hand clap counter",
+      "pop": 5,
+      "apps": 225,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "vinyl snao",
+      "pop": 5,
+      "comp": 46,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "drip edge",
+      "pop": 5,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "kitchen disign",
+      "pop": 5,
+      "apps": 226,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kitchendesign",
+      "pop": 5,
+      "apps": 212,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "paint swatch",
+      "pop": 5,
+      "apps": 213,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "credit card s",
+      "pop": 5,
+      "apps": 236,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home tools",
+      "pop": 5,
+      "comp": 73,
+      "apps": 240,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "shelf mount",
+      "pop": 5,
+      "apps": 210,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "kitchen design:",
+      "pop": 5,
+      "apps": 231,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "kitchen design home design",
+      "pop": 5,
+      "apps": 230,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "every app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 243,
+      "rank": 234,
+      "imp": "0.49"
+    },
+    {
+      "kw": "macvo",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "freii",
+      "pop": 5,
+      "comp": 97,
+      "apps": 250,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "decor kitchen",
+      "pop": 5,
+      "apps": 219,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "clean mac",
+      "pop": 5,
+      "comp": 76,
+      "apps": 243,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "furnitire",
+      "pop": 5,
+      "apps": 213,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "repair diy",
+      "pop": 5,
+      "apps": 242,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "rh drawer pulls",
+      "pop": 5,
+      "apps": 225,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "law depot",
+      "pop": 5,
+      "comp": 55,
+      "apps": 250,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "a i law",
+      "pop": 5,
+      "comp": 46,
+      "apps": 247,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "craft fiar",
+      "pop": 5,
+      "apps": 181,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "lite scan",
+      "pop": 5,
+      "apps": 239,
+      "rank": 172,
+      "imp": "0.51"
+    },
+    {
+      "kw": "custom house",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "pin download",
+      "pop": 5,
+      "comp": 43,
+      "apps": 249,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "envision siding",
+      "pop": 5,
+      "comp": 76,
+      "apps": 250,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "an ipad",
+      "pop": 5,
+      "apps": 246,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "apps for home decor shopping",
+      "pop": 5,
+      "apps": 221,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "ashley furniture credit card",
+      "pop": 5,
+      "apps": 223,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "best.me",
+      "pop": 5,
+      "apps": 249,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "bookmark diy",
+      "pop": 5,
+      "apps": 212,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "build pro",
+      "pop": 5,
+      "apps": 246,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "buildzoom",
+      "pop": 5,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "cozy earth llc",
+      "pop": 5,
+      "apps": 213,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "decor pro",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "decor shopping",
+      "pop": 5,
+      "apps": 203,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "delivery by lowes",
+      "pop": 5,
+      "apps": 172,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "delivery w g",
+      "pop": 5,
+      "apps": 218,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "drawer organization record",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "best shop",
+      "pop": 5,
+      "apps": 246,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "google home store",
+      "pop": 5,
+      "apps": 223,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "home depot product locator",
+      "pop": 5,
+      "apps": 207,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "home zone",
+      "pop": 5,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "improve app",
+      "pop": 5,
+      "apps": 229,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "ipad magazin turkiye",
+      "pop": 5,
+      "apps": 245,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "match pay",
+      "pop": 5,
+      "comp": 85,
+      "apps": 245,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "smart home group",
+      "pop": 5,
+      "apps": 250,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "storage post self storage",
+      "pop": 5,
+      "comp": 30,
+      "apps": 249,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "target delivery",
+      "pop": 5,
+      "apps": 220,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "targetcom",
+      "pop": 5,
+      "apps": 221,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "ar tool",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home repair log",
+      "pop": 5,
+      "comp": 64,
+      "apps": 219,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "make a line",
+      "pop": 5,
+      "comp": 59,
+      "apps": 242,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "stair machine",
+      "pop": 5,
+      "apps": 210,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "no shopping",
+      "pop": 5,
+      "apps": 245,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "home break-in inventory",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "spoly",
+      "pop": 5,
+      "comp": 72,
+      "apps": 250,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "reviews plate loading tool",
+      "pop": 5,
+      "comp": 86,
+      "apps": 222,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "free home credit",
+      "pop": 5,
+      "apps": 233,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "home credit free",
+      "pop": 5,
+      "apps": 234,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "home credit best",
+      "pop": 5,
+      "apps": 214,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "meme scanner",
+      "pop": 5,
+      "comp": 67,
+      "apps": 236,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "review plate loading tool reviews",
+      "pop": 5,
+      "apps": 218,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "review plate loading tool reviews online",
+      "pop": 5,
+      "apps": 218,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "review plate loading tool reviews tips",
+      "pop": 5,
+      "apps": 217,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "review plate loading tool reviews ideas",
+      "pop": 5,
+      "apps": 215,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "tutorial reviews easy bumpers plates red",
+      "pop": 5,
+      "apps": 200,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "target apps free",
+      "pop": 5,
+      "apps": 224,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "floor scanner",
+      "pop": 5,
+      "apps": 225,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "new home checklist",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "renovation vault",
+      "pop": 5,
+      "apps": 196,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "tractor repair",
+      "pop": 5,
+      "apps": 206,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "door hardware",
+      "pop": 5,
+      "apps": 233,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "galvanized post estimator",
+      "pop": 5,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "pain color match",
+      "pop": 5,
+      "apps": 205,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "wall grandparents para",
+      "pop": 5,
+      "apps": 249,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "counter rchen prep",
+      "pop": 5,
+      "comp": 72,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "苹",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "qalm",
+      "pop": 5,
+      "apps": 220,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "my pc build",
+      "pop": 5,
+      "apps": 37,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "ar decor",
+      "pop": 5,
+      "comp": 46,
+      "apps": 243,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "room ar",
+      "pop": 5,
+      "comp": 52,
+      "apps": 246,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hphome",
+      "pop": 5,
+      "apps": 248,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "and me",
+      "pop": 5,
+      "apps": 249,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "beyond the application",
+      "pop": 5,
+      "comp": 86,
+      "apps": 229,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "id scanner for bars & clubs",
+      "pop": 5,
+      "comp": 46,
+      "apps": 242,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "wall wood detector stud finder",
+      "pop": 5,
+      "apps": 248,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "pumpy",
+      "pop": 5,
+      "comp": 95,
+      "apps": 248,
+      "rank": 153,
+      "imp": "0.52"
+    },
+    {
+      "kw": "homedeco",
+      "pop": 5,
+      "apps": 250,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "paint match\\",
+      "pop": 5,
+      "apps": 218,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "improve vision app",
+      "pop": 5,
+      "apps": 235,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "terget",
+      "pop": 5,
+      "apps": 219,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "profile-ge branded",
+      "pop": 5,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "room furniture",
+      "pop": 5,
+      "apps": 221,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "contemporary design",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "improve my room",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "design my hpme",
+      "pop": 5,
+      "apps": 238,
+      "rank": 113,
+      "imp": "0.55"
+    },
+    {
+      "kw": "house paint colors",
+      "pop": 5,
+      "apps": 210,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "garage sale flyer",
+      "pop": 5,
+      "apps": 205,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "line shopping",
+      "pop": 5,
+      "apps": 244,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "htpow",
+      "pop": 5,
+      "apps": 220,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "paint color finder",
+      "pop": 5,
+      "apps": 233,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "kitchen countertops",
+      "pop": 5,
+      "apps": 176,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "aac builder",
+      "pop": 5,
+      "apps": 223,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "sherwin william paint",
+      "pop": 5,
+      "apps": 186,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "pro ar",
+      "pop": 5,
+      "apps": 245,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "furniture placement ar",
+      "pop": 5,
+      "apps": 243,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "scan floor",
+      "pop": 5,
+      "apps": 249,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "scan my room",
+      "pop": 5,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "scanner room",
+      "pop": 5,
+      "apps": 246,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kitchen desıgn app",
+      "pop": 5,
+      "apps": 245,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "buildings match",
+      "pop": 5,
+      "apps": 233,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "building match",
+      "pop": 5,
+      "apps": 235,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "garden & home",
+      "pop": 5,
+      "comp": 89,
+      "apps": 248,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "surf prep",
+      "pop": 5,
+      "apps": 250,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "art scanenr",
+      "pop": 5,
+      "apps": 246,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "garden king",
+      "pop": 5,
+      "apps": 228,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "home inventory easy entry",
+      "pop": 5,
+      "apps": 250,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "icategory: home inventory list",
+      "pop": 5,
+      "apps": 244,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "hobby clubs",
+      "pop": 5,
+      "apps": 247,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "build mobile",
+      "pop": 5,
+      "apps": 245,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "phone swing stand",
+      "pop": 5,
+      "apps": 250,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "remodel garden",
+      "pop": 5,
+      "apps": 247,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "room remodel garden",
+      "pop": 5,
+      "apps": 249,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "wireless display for amazon",
+      "pop": 5,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "hobby paint",
+      "pop": 5,
+      "comp": 45,
+      "apps": 250,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "hobby painting",
+      "pop": 5,
+      "apps": 250,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "menards®",
+      "pop": 5,
+      "apps": 62,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "flower king",
+      "pop": 5,
+      "apps": 236,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "applecat",
+      "pop": 5,
+      "apps": 248,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "ikeas",
+      "pop": 5,
+      "apps": 225,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "t r t",
+      "pop": 5,
+      "comp": 71,
+      "apps": 250,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "stud finder wall scan",
+      "pop": 5,
+      "apps": 250,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "home accessories",
+      "pop": 5,
+      "apps": 243,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "homecentre",
+      "pop": 5,
+      "apps": 246,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "low buy",
+      "pop": 5,
+      "apps": 79,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "bestes",
+      "comp": 73,
+      "apps": 237,
+      "rank": 177
+    },
+    {
+      "kw": "hobby zone",
+      "apps": 181,
+      "rank": 21
+    },
+    {
+      "kw": "quality used item",
+      "comp": 84,
+      "apps": 249,
+      "rank": 24
+    },
+    {
+      "kw": "찾기",
+      "comp": 78,
+      "apps": 247,
+      "rank": 150
+    },
+    {
+      "kw": "home desi",
+      "apps": 213,
+      "rank": 125
+    },
+    {
+      "kw": "\"vision\"",
+      "comp": 68,
+      "apps": 246,
+      "rank": 164
+    },
+    {
+      "kw": "home design king",
+      "apps": 26,
+      "rank": 3
+    },
+    {
+      "kw": "paint%20my%20room",
+      "apps": 199,
+      "rank": 65
+    },
+    {
+      "kw": "plan my kitchen",
+      "apps": 232,
+      "rank": 39
+    },
+    {
+      "kw": "improve'",
+      "apps": 214,
+      "rank": 6
+    },
+    {
+      "kw": "no account app",
+      "comp": 86,
+      "apps": 247,
+      "rank": 109
+    },
+    {
+      "kw": "slim vhs",
+      "apps": 249,
+      "rank": 3
+    },
+    {
+      "kw": "remoder",
+      "apps": 230,
+      "rank": 57
+    },
+    {
+      "kw": "kitchenroom",
+      "apps": 212,
+      "rank": 55
+    },
+    {
+      "kw": "scan my home",
+      "apps": 215,
+      "rank": 14
+    },
+    {
+      "kw": "auto cost app",
+      "comp": 47,
+      "apps": 246,
+      "rank": 214
+    },
+    {
+      "kw": "warranty counter",
+      "comp": 72,
+      "apps": 250,
+      "rank": 6
+    },
+    {
+      "kw": "garage sale banner maker",
+      "apps": 239,
+      "rank": 111
+    },
+    {
+      "kw": "erhan inc.",
+      "apps": 248,
+      "rank": 170
+    },
+    {
+      "kw": "delivery kit",
+      "apps": 249,
+      "rank": 44
+    },
+    {
+      "kw": "material list generator",
+      "apps": 200,
+      "rank": 9
+    },
+    {
+      "kw": "labor cost counter",
+      "apps": 220,
+      "rank": 5
+    },
+    {
+      "kw": "till kit",
+      "apps": 250,
+      "rank": 47
+    },
+    {
+      "kw": "scan house",
+      "apps": 248,
+      "rank": 10
+    },
+    {
+      "kw": "house scan",
+      "apps": 248,
+      "rank": 230
+    },
+    {
+      "kw": "home scan",
+      "apps": 239,
+      "rank": 13
+    },
+    {
+      "kw": "floor scan",
+      "apps": 250,
+      "rank": 103
+    },
+    {
+      "kw": "id card diy",
+      "apps": 249,
+      "rank": 25
+    },
+    {
+      "kw": "low budget repairs",
+      "apps": 250,
+      "rank": 12
+    },
+    {
+      "kw": "garden grove",
+      "apps": 249,
+      "rank": 177
+    },
+    {
+      "kw": "room kit",
+      "apps": 245,
+      "rank": 81
+    },
+    {
+      "kw": "lyll",
+      "apps": 250,
+      "rank": 112
+    },
+    {
+      "kw": "wireless display ipad",
+      "comp": 27,
+      "apps": 245,
+      "rank": 212
+    },
+    {
+      "kw": "all screen receiver xbox",
+      "apps": 247,
+      "rank": 26
+    },
+    {
+      "kw": "shop my",
+      "apps": 249,
+      "rank": 128
+    },
+    {
+      "kw": "trader joe’s",
+      "apps": 93,
+      "rank": 58
+    },
+    {
+      "kw": "walmart.com",
+      "apps": 247,
+      "rank": 17
+    },
+    {
+      "kw": "target.com",
+      "apps": 247,
+      "rank": 74
+    },
+    {
+      "kw": "costco.com",
+      "apps": 248,
+      "rank": 45
+    },
+    {
+      "kw": "wall wood finder",
+      "apps": 250,
+      "rank": 186
+    },
+    {
+      "kw": "home desıgn",
+      "apps": 249,
+      "rank": 127
+    }
+  ]
+}
