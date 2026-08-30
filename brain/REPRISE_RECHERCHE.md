@@ -1,22 +1,17 @@
 # REPRISE — Recherche de marché (état à jour, un seul fichier de travail)
 
-Dernière mise à jour : 2026-08-30 (jour 4)
-Accès payants Appfigures : ~4 jours restants.
+Dernière mise à jour : 2026-08-30 (jour 4, fin)
+Accès payants Appfigures : ~3 jours restants.
 
-## ✅ ÉTAT 2026-08-30 — MÉTHODE REVERSE KEYWORD MINING VALIDÉE ET EXÉCUTÉE
-**La méthode retenue pour trouver des mots-clés à volume = REVERSE KEYWORD MINING (règle 16 AGENTS.md)**
-(récolter les organic keywords des apps leaders, pas générer depuis l'autocomplétion).
-- **20 clusters sondés** via cette méthode (~105 000 mots-clés bruts avec pop/comp/rank).
-- **TOUTES les données brutes par cluster** sont dans `brain/marche/mots-cles/<cluster>.csv`
-  (format `cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance`, AUCUN filtre).
-- **LE fichier d'entrée pour l'utilisateur** : `brain/marche/mots-cles/INDEX_CLUSTERS.md`
-  (récap des 20 clusters : # mots, meilleures pépites, statut).
-- JSON sources (archivage) : `brain/marche/mots-cles/_brut/`.
-- Les POOLS d'autocomplétion (règle 15) ont été dépassés : l'autocomplétion = bruit (SP 5).
-  On ne génère plus la longue traîne, on la récolte depuis les apps qui rankent.
-- Pépites dégagées à approfondir : meal prep planner (32/NA, déjà analysé $50-65K/mois),
-  fitness-workout (workout planner 54/40, weight tracker 48/36), education-kids
-  (learning games for kids 55/48), watch-faces, bien-etre-mental, islam, challenges-75j.
+## ✅ ÉTAT FINAL JOUR 4 (2026-08-30) — RECHERCHE MARCHÉ COMPLÈTE
+**La recherche de marché est terminée** : 60 clusters sondés (~340 000 mots-clés bruts),
+~30 clusters approfondis avec revenus Appfigures confirmés + avis + screenshots.
+Voir règle 17 AGENTS.md pour le résumé complet + INDEX_CLUSTERS.md pour le détail.
+- Les 60 CSV de mots-clés bruts : `brain/marche/mots-cles/`
+- Les analyses approfondies : `references/<cluster>/analyse-globale.md`
+- Les 3 plus gros gaps documentés : Facer (watch-faces, leader cassé), Planta (soin plantes
+  honnête), post-partum (femmes-santé).
+- **PROCHAINE ÉTAPE** : choix utilisateur d'1-2 sous-niches → PRD (G3).
 
 > ⚠️ **PRÉFÉRENCES UTILISATEUR (à respecter absolument)**
 > - **Updates FRÉQUENTS** : points réguliers, pas de longs silences.

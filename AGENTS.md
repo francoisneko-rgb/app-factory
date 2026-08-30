@@ -94,6 +94,24 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
      brut par cluster dans `mots-cles/_brut/`.
    - **NE JAMAIS filtrer/trier pour l'utilisateur** : donner TOUTES les lignes brutes en CSV.
    - STATUT : 20 clusters sondés (~105 000 mots-clés) via cette méthode.
+17. **ÉTAT RECHERCHE MARCHÉ (2026-08-30, FIN JOUR 4) — à connaître par cœur** :
+   - **60 clusters sondés, ~340 000 mots-clés bruts** (reverse keyword mining, CSV par cluster
+     dans `brain/marche/mots-cles/`, INDEX = `INDEX_CLUSTERS.md`).
+   - **~30 clusters approfondis** (metadata + avis + screenshots + revenus Appfigures) dans
+     `references/<cluster>/` avec section "ANALYSE APPROFONDIE".
+   - **Revenus clés confirmés Appfigures** (juil 2026) : Canva $44M, PictureThis $15M, MyFitnessPal
+     $15M, Flo $9M, AllTrails $9M, Picsart $9M, NYT Games $6M, Calm $4M, Headspace $2M, Fitbod $2M,
+     Fishbrain $2M, Clue $2M, Wordscapes $1M, YNAB $1M, Hevy $1M, Muslim Pro $110K, BeHard 75 $65K,
+     Interval Timer $50K, Tiimo $140K, Migraine Buddy $100K.
+   - **Pépites/gaps documentés** : Facer (watch-faces) = leader cassé (165/200 avis 1-2★, $100-140K)
+     = plus gros gap ; Planta = meilleur ratio effort/revenu ($9.6/download, RN 2/5) ; post-partum
+     (femmes-santé) = gap non servi ; BeHard/widgets bugués (challenges) ; sticker maker de qualité
+     (Sticker.ly cassé) ; coloriage filles honnête (My Princess abandonné).
+   - **Leçons** : sur iOS, le cross-niche "audience" (workout+seniors) a peu de volume vs
+     "besoin/fonction" ; l'hypercasual vit de la pub (Water Sort $5K malgré 790K dl) ; les apps
+     leaders avec UI datée/abo forcé/glitchs = opportunités de disruption.
+   - **Prochaine étape** : choisir 1-2 sous-niches (gaps ci-dessus) → PRD (G3).
+
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
 G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →
