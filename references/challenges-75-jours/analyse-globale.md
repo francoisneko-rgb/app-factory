@@ -111,3 +111,21 @@ stockage local + sync cloud). Complexité 1-2/5.
 
 **Verdict : niche NON compétitive, TOP candidat.** Leader officiel faible + marché fragmenté + entrants
 low-effort = un produit soigné RN domine le segment. Demande réelle (pop 34-55) confirmée sur 4 mots-clés.
+
+---
+
+## 8. MAJ 2026-08-30 — CONFIRMATION APFIGURES + NOTE
+- **Note cluster : 8/10.**
+- **Sources de revenus CONFIRMÉES Appfigures** : 75 Days Challenge Tough & Soft (BeHard) =
+  **Subs, IAPs** ; 75 Hard officiel = **Subs, IAPs** (abo requis, impopulaire).
+- Données Appfigures juillet 2026 confirmées : **BeHard $65K/mois (25K dl, note 4.78/14K, sentiment 94%,
+  US 59%)** · **75 Hard officiel $15K/mois (<5K dl, note 4.41/8.4K, sentiment 0% !!, TH 24%)**.
+- **Réponse à la question "75 = marque ?"** : OUI, "75 HARD™" est une marque déposée (44Seven Media,
+  Andy Frisella). La DEMANDE est sur le mot "75" (49/59) parce que c'est un phénomène culturel
+  (#75HARD ~1,7M posts Instagram). Les challenges 30/60/90/120 jours ont une demande 5-10x plus faible
+  (pop 6-14).
+- **Ce que ça signifie** : ne pas faire un "challenge 60 jours" générique (peu de demande), mais soit
+  (a) capitaliser sur les mots "75" en faisant un TRACKER de challenge personnalisable, soit (b) créer
+  TON PROPRE challenge de marque avec communauté (c'est ça qui crée la demande, pas le nombre de jours).
+- L'app la plus rentable du segment = **BeHard ($65K)** : un challenge tracker bien fait, PAS le
+  "75 Hard officiel" ($15K, très mal perçu). → C'est LE modèle à copier.

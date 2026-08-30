@@ -48,3 +48,14 @@ external display (AirPlay/HDMI), historique local. Complexité faible-moyenne.
 
 **Verdict : TOP cluster.** Demande 55, compétitivité 44 (battable), leaders anciens et frustrants
 (abos, pubs, UI datée), stack simple. Le one-time fee + UI moderne + watch inclus sont des différenciateurs nets.
+
+---
+
+## 6. MAJ 2026-08-30 — REVENUS CONFIRMÉS (Appfigures) + NOTE
+- **Note cluster : 8/10** (demande réelle + comp battable + monétisation PROUVÉE + stack simple).
+- **Interval Timer fait $50K/mois** (Subs+IAPs) avec 40K downloads — preuve que les gens PAYENT pour
+  un timer bien fait (contrairement à l'intuition "personne ne paie pour un timer").
+- **Attention** : le timer de boxe/mma spécifique fait <$5K/mois → viser le **timer intervalle
+  généraliste**, pas le timer par sport.
+- Le créneau : reprendre Interval Timer ($50K) avec **one-time fee** (le scandale n°1 du segment est
+  l'abonnement) + UI moderne + watch + external display.

@@ -44,3 +44,29 @@ compétitivité battable.
 Cluster **TOP** (55/44). Faisable en RN (timers, notifs, audio, watch, external display via module natif).
 Différencier par : **one-time fee sans abo, UI moderne, spoken voice, musique préservée, watch inclus,
 external display**.
+
+---
+
+## 5. REVENUS CONFIRMÉS (Appfigures, juillet 2026 — MAJ 2026-08-30)
+
+| App | Downloads/mois | Revenue/mois | Sources | Note | Sentiment | Pays top |
+|---|---|---|---|---|---|---|
+| **Interval Timer (Float Tech)** | **40K** | **$50K** | Subs, IAPs | 4.81 (312K) | 95% | DE 19%, UK 13%, FR 12% |
+| Boxing Interval Timer | <5K | **<$5K** | Subs, IAPs, +1 | 4.76 (41K) | 89% | MX 28%, VN 15% |
+| intervals - CrossFit Timer | <1K | ~0 | — | — | — | — |
+
+**LEÇON MAJEURE : le marché des timers n'est PAS homogène.**
+- `interval timer` GÉNÉRAL = **$50K/mois** (la grosse machine : 40K downloads, note 4.81, 312K ratings).
+- Le **timer de boxe/mma** spécifique = **<$5K/mois** (petit volume : <5K dl).
+- ⇒ Le modèle gagnant = **timer intervalle généraliste**, PAS le timer par sport niche.
+- La monétisation réelle = **abonnement + IAPs** (pas "juste pub") : les gens paient pour le
+  pro (sons, rounds, watch, sauvegardes). Contrairement à l'idée "personne ne paie pour un timer",
+  Interval Timer FAIT $50K/mois en subs+IAPs.
+
+## 6. Description des apps leaders (ce qu'elles font exactement)
+- **Interval Timer** : timer d'intervalles simple et beau (drag pour régler work/rest/rounds,
+  musique préservée, voix ou bips de guidage, audio en arrière-plan, fonctionne avec Apple Watch).
+  Freemium + abo pro.
+- **Boxing Interval Timer** : round timer pour boxe/MMA/wrestling/BJJ/Muay Thai/HIIT/Tabata/CrossFit.
+  Sons et temps configurables (prépa, round, warning, rest). Simple et efficace.
+- **Seconds Interval Timer** : timer pro, circuits, presets, Apple Watch, niveaux (one-time pro).
