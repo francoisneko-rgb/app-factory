@@ -1,469 +1,324 @@
 # INDEX — CLUSTERS DE MOTS-CLÉS (étude de marché)
 
-> 📌 **COMMENCE ICI.** Tous les mots-clés par cluster sont dans ce dossier.
-> Format : **un CSV par cluster** = TOUTES les données brutes, SANS filtre.
-> Colonnes : `cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance`
-> (une ligne = 1 mot-clé d'une app). L'utilisateur trie/filtre lui-même dans LibreOffice.
-> Données brutes JSON (source) : dossier `_brut/` (archivage, pas à consulter directement).
-
-## Méthode
-Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organic keywords**
-(mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
-= demande prouvée (pas d'autocomplétion).
-
-## Clusters sondés (60 clusters, ~340 000 mots-clés)
-
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| fitness-workout | `fitness-workout.csv` | 16 216 | workout planner (54/40), weight tracker (48/36), workout app (50/48) | 🟢 À approfondir |
-| bien-etre-mental | `bien-etre-mental.csv` | 14 641 | — | 🟢 À approfondir |
-| education-kids | `education-kids.csv` | 11 743 | learning games for kids (55/48), educational games for kids (31/48) | 🟢 À approfondir |
-| repas-nutrition | `repas-nutrition.csv` | 11 905 | meal prep planner (32/NA) | 🟢 Déjà approfondi |
-| christianisme | `christianisme.csv` | 7 428 | — | 🟡 |
-| islam | `islam.csv` | 4 986 | — | 🟢 Déjà validé |
-| journaling-prod | `journaling-prod.csv` | 4 736 | tagebuch (43/45), xmind (42/47) | 🟢 |
-| sommeil-sons | `sommeil-sons.csv` | 4 568 | white noise, brown noise | 🟢 |
-| plantes-jardin | `plantes-jardin.csv` | 4 275 | plant identifier | 🟢 |
-| sante-suivi | `sante-suivi.csv` | 4 174 | medication reminder | 🟢 Déjà approfondi |
-| media-lecture | `media-lecture.csv` | 5 363 | bookmory, language | 🟡 |
-| photo-voix-ia | `photo-voix-ia.csv` | 5 553 | voice changer | 🟢 |
-| animaux-oiseaux | `animaux-oiseaux.csv` | 3 060 | dog whistle, bird identifier | 🟢 |
-| utilitaires | `utilitaires.csv` | 3 117 | — | 🟡 |
-| astrologie | `astrologie.csv` | 2 100 | astrotalk, co-star | 🟢 |
-| fitness-timers | `fitness-timers.csv` | 2 349 | interval timer | 🟢 |
-| sports-boxing | `sports-boxing.csv` | 2 410 | pickleball, boxing timer | 🟢 |
-| watch-faces | `watch-faces.csv` | 1 999 | watch faces | 🟢 Déjà approfondi |
-| peche-pleinair | `peche-pleinair.csv` | 910 | fishing | 🟡 |
-| challenges-75j | `challenges-75j.csv` | 640 | 75 hard | 🟢 Déjà validé |
-
-### Nouveaux clusters sondés le 30/08 (8 ajoutés)
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| psychologie-mental | `psychologie-mental.csv` | 10 777 | ADHD planner, anxiety, CBT | 🟢 À approfondir |
-| langues-apprentissage | `langues-apprentissage.csv` | 6 997 | learn spanish, japanese, duolingo | 🟢 À approfondir |
-| femmes-sante | `femmes-sante.csv` | 6 819 | pregnancy, period, menopause | 🟢 À approfondir |
-| regimes-specifiques | `regimes-specifiques.csv` | 6 327 | keto, carnivore, paleo, fasting | 🟢 À approfondir |
-| outils-telephone | `outils-telephone.csv` | 5 190 | TV remote, screen mirror, connect PC | 🟡 |
-| jeux-casual | `jeux-casual.csv` | 3 510 | chess, mahjong, solitaire, word, sudoku | 🟢 À approfondir |
-| seniors-sante | `seniors-sante.csv` | 2 432 | brain training, senior fitness | 🟢 À approfondir |
-| motion-games | `motion-games.csv` | 269 | Just Dance like | 🟡 |
-
-### Nouveaux clusters sondés le 30/08 (7 ajoutés, vague 3)
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| musique-outils | `musique-outils.csv` | 5 296 | guitar tuner, piano, drum machine, beat maker | 🟢 À approfondir |
-| seniors-vie | `seniors-vie.csv` | 2 459 | senior phone, genealogy, old photos restore | 🟢 À approfondir |
-| art-creatif | `art-creatif.csv` | 2 236 | drawing, knitting, crochet, embroidery | 🟢 À approfondir |
-| collection-hobby | `collection-hobby.csv` | 1 259 | LEGO, vinyl, coin, stamp | 🟡 |
-| outdoor-nature | `outdoor-nature.csv` | 1 160 | hiking, camping, geocaching, mushroom | 🟢 À approfondir |
-| bricolage-diy | `bricolage-diy.csv` | 1 140 | woodworking, home improvement | 🟡 |
-| religion-autre | `religion-autre.csv` | 209 | hindu, buddhist, judaism | 🟡 |
-
-### Nouveaux clusters sondés le 30/08 (8 ajoutés, vague 4)
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| productivite-etude | `productivite-etude.csv` | 19 579 | pomodoro, flashcards, study planner | 🟢 À approfondir |
-| voyage-itineraires | `voyage-itineraires.csv` | 9 170 | trip planner, flight tracker, packing | 🟢 À approfondir |
-| finance-personnelle | `finance-personnelle.csv` | 8 120 | budget, expense, investment, crypto, debt | 🟢 À approfondir |
-| fitness-specifique | `fitness-specifique.csv` | 4 601 | yoga, pilates, pedometer, kettlebell | 🟢 À approfondir |
-| immobilier-maison | `immobilier-maison.csv` | 3 764 | real estate, mortgage, apartment | 🟡 |
-| communication-proches | `communication-proches.csv` | 2 079 | family locator, find my phone | 🟢 À approfondir |
-| voiture-transport | `voiture-transport.csv` | 1 953 | fuel, car maintenance, parking, driving test | 🟡 |
-| jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
-
-### Nouveaux clusters sondés le 30/08 (13 ajoutés, vagues 5-8 : sous-niches + enfants + mariage)
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| productivite-etude | `productivite-etude.csv` | 19 579 | pomodoro, flashcards, study planner | 🟢 À approfondir |
-| voyage-itineraires | `voyage-itineraires.csv` | 9 170 | trip planner, flight tracker, packing | 🟢 À approfondir |
-| finance-personnelle | `finance-personnelle.csv` | 8 120 | budget, expense, investment, crypto, debt | 🟢 À approfondir |
-| jeux-educatifs-enfant | `jeux-educatifs-enfant.csv` | 8 269 | **girl games (61/34)**, offline games (72/45), games for girls (61/49) | 🟢⭐ À approfondir |
-| workout-cible | `workout-cible.csv` | 7 415 | free workout apps for women, chair yoga seniors | 🟡 |
-| fitness-specifique | `fitness-specifique.csv` | 4 601 | yoga, pilates, pedometer, kettlebell | 🟢 À approfondir |
-| journaling-specifique | `journaling-specifique.csv` | 4 271 | — | 🟡 |
-| bien-etre-cible | `bien-etre-cible.csv` | 3 465 | stress watch | 🟡 |
-| immobilier-maison | `immobilier-maison.csv` | 3 764 | real estate, mortgage, apartment | 🟡 |
-| psychologie-specifique | `psychologie-specifique.csv` | 2 574 | habit tracker ADHD | 🟡 |
-| communication-proches | `communication-proches.csv` | 2 079 | family locator, find my phone | 🟢 À approfondir |
-| wedding-occasions | `wedding-occasions.csv` | 2 070 | wedding planning app (41/56), cvent events | 🟡 |
-| voiture-transport | `voiture-transport.csv` | 1 953 | fuel, car maintenance, parking, driving test | 🟡 |
-| finance-enfant | `finance-enfant.csv` | 1 266 | rooster money (46/48), kiwipop (35/43) | 🟡 |
-| jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
-| education-codage | `education-codage.csv` | 850 | Tynker, codeSpark | 🟡 |
-
-### Nouveaux clusters JEUX sondés le 30/08 (vague 9) — approfondissement jeux
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| jeux-3d | `jeux-3d.csv` | 15 282 | clash royale (76/50), fc mobile (72/52), gta san andreas (61/52) | 🟢⭐ (Unity futur) |
-| jeux-educatifs-enfant | `jeux-educatifs-enfant.csv` | 22 574 | **girl games (61/34)**, offline games (72/45), cooking games (66/68), baby games (61/62) | 🟢⭐ À approfondir |
-| jeux-enfant | `jeux-enfant.csv` | 5 650 | horse games (56/61), animal games (54/58), princess (52/67), dames (42/34) | 🟢 À approfondir |
-| jeux-2d-hypercasual | `jeux-2d-hypercasual.csv` | 4 125 | idle games (61/69), water (53/68), outline (50/37) | 🟢⭐ RN-friendly |
-
-**TOTAL : 55 clusters sondés, ~260 000 mots-clés bruts.**
-
-## 🎮 ANALYSE RAPIDE — clusters JEUX (notes + faisabilité)
-- **jeux-educatifs-enfant — Note 8/10** : RN faisable (2D), demande énorme, 164 pépites dont
-  girl games (61/34), cooking games (66/68), offline/no-wifi games (fortes). Marchés non-anglais
-  (espagnol, italien, allemand) quasi libres. Inconvénients : qualité attendue haute (Toca Boca,
-  Lingokids leaders), monétisation abonnement + pub, rétention enfants = renouveau de contenu.
-- **jeux-2d-hypercasual — Note 7.5/10** : RN PUR faisable (color sort, water sort, merge, idle,
-  flappy, brain out). Fait pour RN (pas besoin Unity). Monétisation pub. Inconvénients : marché
-  ultra saturé, UA coûteuse, durée de vie courte des hits. Idéal pour un portfolio.
-- **jeux-3d — Note 6/10 (Unity)** : 193 pépites mais dominé par des GEANTS (Genshin, PUBG, Asphalt,
-  GTA) à budgets énormes. Unity nécessaire. Inconvénients : hors budget indie sauf sous-niche 3D
-  simple (racing arcade, runner 3D, survival craft). À garder pour plus tard.
-- **jeux-enfant — Note 7/10** : RN 2D faisable. Mots génériques enfant (princess, animal, horse,
-  cooking) à comp battable (34-61). Inconvénients : concurrence élevée sur "kids games", besoin
-  d'angle (par thème ou par langue).
-
-### Nouveau cluster sondé le 30/08 (vague 10) — éducation scolaire
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| education-scolaire | `education-scolaire.csv` | 16 006 | **goth ai math (57/63)**, math ai (53/54), algebra practice (31/60) | 🟢⭐ IA math |
-
-**TOTAL : 56 clusters sondés, ~276 000 mots-clés bruts.**
-
-## 🎓 ANALYSE RAPIDE — éducation scolaire (worksheets, grades, matières)
-- **Note 5.5/10** en général, mais UNE sous-niche très chaude : **AI math solvers**.
-- Pépites scolaires réelles : `goth ai math (57/63)`, `math ai (53/54)`, `guth math (49/57)`,
-  `algebra practice (31/60)`, `sat prep (38/74)`, `geography games (40/66)`.
-- ⚠️ **Les mots par "grade" (grade 2, 4, 5) et "worksheets" n'ont PAS de volume propre sur iOS** :
-  soit trop faibles (pop <30), soit capturés par les géants (IXL, Khan, SplashLearn, Reading Eggs).
-- Le créneau de la **worksheets/grade school est dominé** par les géants éducatifs → difficile.
-- **La vraie opportunité = l'IA math (résolveur de devoirs)** : demande réelle (53-57), comp
-  modérée (54-63), stack RN + IA faisable, marché en croissance (Photon/Gauth/studdy).
-- Best-seller : Brainly (aide devoirs, très gros), Photomath (IA math, géant), Gauth (IA, croissance).
-
-### Nouveaux clusters sondés le 30/08 (vague 12) — création contenu / DIY / hobbies / jeux société
-| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
-|---|---|---|---|---|
-| creation-contenu-rs | `creation-contenu-rs.csv` | 58 953 | faceapp (65/65), pic collage (64/71), inShot/capcut/canva | 🟢⭐ À approfondir |
-| jeux-societe | `jeux-societe.csv` | 2 479 | heads up (68/59), free games for adults (60/53), word games (62/58) | 🟢 À approfondir |
-| diy-design | `diy-design.csv` | 2 668 | logo maker, mockup, interior design | 🟡 |
-| hobbies-depense | `hobbies-depense.csv` | 1 536 | dji fly (62/53), vivino (48/72), total wine | 🟡 |
-
-**TOTAL : 60 clusters sondés, ~340 000 mots-clés bruts.**
-
-## 🎨 ANALYSE RAPIDE — création contenu / DIY / hobbies
-- **creation-contenu-rs — Note 7/10** : marché ÉNORME (CapCut/Canva/Picsart géants), 241 pépites.
-  Sous-niches battables : faceapp, pic collage, texter, reels editor, emoji/stickers. RN faisable.
-  Inconvénients : éditeurs vidéo = techniques ; concurrence massive des géants ; monétisation
-  freemium/abonnement.
-- **jeux-societe — Note 7/10** : heads up, word games, crossword, party games. Dépense réelle
-  (Scrabble, Kahoot, NYT). RN 2D faisable.
-- **diy-design — Note 5/10** : petits volumes (5 pépites). Logo maker/mockup = outil de niche.
-- **hobbies-depense — Note 6/10** : drones (DJI), vin (Vivino/Total Wine), whisky. Budget élevé
-  chez l'utilisateur mais apps leaders établies.
-
-**TOTAL : 51 clusters sondés, ~230 000 mots-clés bruts.**
-
-**TOTAL : 43 clusters sondés, ~200 000 mots-clés bruts.**
-
-## Lecture des scores
-- **Popularity** : demande réelle. ≥40 = forte, ≥30 = minimum intéressant, <25 = faible.
-- **Competitiveness** : <60 = très battable, 60-75 = modéré, >75 = dur.
-- **Num_apps** : nombre d'apps dans le résultat de ce mot.
-- **Rank** : position de l'app leader sur ce mot (plus bas = mieux ranké).
-- **Importance** : poids du mot pour l'app source.
-
-## Statuts
-- 🟢 = cluster à approfondir → créer un dossier `references/<cluster>/`
-- 🟡 = à voir
-- ⚪ = pas encore sondé
+> 📌 **COMMENCE ICI.** Récap des clusters + fiches détaillées (note, app, avantages, inconvénients).
+> Données : `brain/marche/mots-cles/<cluster>.csv` (toutes les lignes brutes, sans filtre).
+> Colonnes CSV : `cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance`.
+> JSON sources (archivage) : `_brut/`.
+> **60 clusters, ~340 000 mots-clés bruts.** Reverse keyword mining Appfigures (organic keywords
+> des apps leaders, avec volume + concurrence pour CHAQUE mot).
 
 ---
 
-# 📊 ANALYSE DES CLUSTERS — quels sont les plus prometteurs ? (2026-08-30)
+# 📊 TABLEAU RÉCAPITULATIF (60 clusters)
 
-> Méthode : croisement des **pépites réelles** extraites des CSV (pop≥30 & comp<60, non-marques,
-> longue traîne 2+ mots) avec les **niches déjà approfondies** (revenus réels Appfigures) et la
-> **faisabilité React Native**. ⚠️ Les CSV bruts contiennent du bruit (marques, mots hors-sujet où
-> les grosses apps rankent par hasard) — l'analyse ci-dessous filtre ce bruit.
+> Note /10 = demande × concurrence × monétisation × faisabilité RN. 📝 voir fiches détaillées ci-dessous.
 
-## 🏆 TIER 1 — CLUSTERS LES PLUS PROMETTEURS (demande forte + concurrence battable + faisable)
+## FAMILLE FITNESS / SPORT
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| challenges-75j | `challenges-75j.csv` | 640 | **8/10** | 75 day challenge (49/59), 75 hard challenge (41/48), her 75 (44/44) |
+| fitness-timers | `fitness-timers.csv` | 2 350 | **8/10** | interval timer (56/13) ⭐, boxing timer (47/59), darts scorer (42/42) |
+| repas-nutrition | `repas-nutrition.csv` | 11 905 | **8/10** | factor meals (56/44), menu fit (54/36) |
+| fitness-workout | `fitness-workout.csv` | 16 216 | **7.5/10** | workout planner (52/58), workout app free (50/48), weight tracker (48/36) |
+| fitness-specifique | `fitness-specifique.csv` | 4 601 | 6.5/10 | yoga, pilates, pedometer, kettlebell |
+| workout-cible | `workout-cible.csv` | 7 415 | 5.5/10 | free workout apps for women (34/53), chair yoga seniors (30/59) |
+| voiture-transport | `voiture-transport.csv` | 1 953 | 7/10 | theory test (67/57) ⭐, 4 in 1 theory test (54/44) |
+| sports-boxing | `sports-boxing.csv` | 2 411 | 6.5/10 | crossfit open (34/30), boxing timer |
 
-### 1. Challenges 75 jours — déjà validé (le plus solide)
-- Pépites : `75 day challenge (49/59)`, `75 hard challenge (41/48)`, `75 soft challenge (34/59)`, `her 75 (44/44)`
-- Pourquoi : marché **fragmenté** (aucun géant), l'app "officielle" notée 2.5★, entrants récents.
-  Stack React Native **très simple** (1/5). Monétisation abonnement.
-- Revenus constatés : les leaders font quelques K$/mois mais le marché est prenable.
+## FAMILLE SANTÉ / BIEN-ÊTRE
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| sante-suivi | `sante-suivi.csv` | 4 174 | 6.5/10 | heat index (39/56), arret tabac (36/40), peptide tracker |
+| sommeil-sons | `sommeil-sons.csv` | 4 568 | 6/10 | decibel meter free (36/48), white noise, snorelab |
+| femmes-sante | `femmes-sante.csv` | 6 819 | 6.5/10 | pregnancy test checker (47/53), clear tok (51/40), contraction timer |
+| seniors-sante | `seniors-sante.csv` | 2 432 | 5.5/10 | brain training, puzzles for adults |
 
-### 2. Fitness / workout planner — demande énorme, comp battable sur les mots précis
-- Pépites : `workout planner (52/58)`, `workout app free (50/48)`, `weight tracker (48/36)`,
-  `fitness app (52/57)`, `workout: planner (53/40)`
-- Pourquoi : fitness = demande massive (64+). Les mots "planner/tracker" ont comp 36-58 (battable).
-  Un produit React Native avec **planning + suivi + progression** est faisable (2/5).
-- Attention : les géants (MyFitnessPal, Fitbod) dominent les mots génériques, il faut viser
-  les **longue traîne** (workout planner, weight tracker).
+## FAMILLE MENTAL / PSYCHO
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| bien-etre-mental | `bien-etre-mental.csv` | 14 641 | 6.5/10 | how we feel (57/59), gratitude plus (49/57), stoic |
+| journaling-prod | `journaling-prod.csv` | 4 736 | 6/10 | tagebuch (43/45), xmind (42/47), diario personal |
+| psychologie-mental | `psychologie-mental.csv` | 10 777 | 6.5/10 | grow therapy (54/53), how we feel, adhd planner |
+| journaling-specifique | `journaling-specifique.csv` | 4 271 | 5/10 | — (volumes faibles) |
+| bien-etre-cible | `bien-etre-cible.csv` | 3 465 | 5/10 | stress watch (54/62) |
+| psychologie-specifique | `psychologie-specifique.csv` | 2 574 | 5.5/10 | habit tracker ADHD (58/64) |
 
-### 3. Timers sport (interval / tabata / boxing) — comp ULTRA basse
-- Pépites : `interval timer (56/13)` ⭐, `interval timer:(56/53)`, `boxing timer (47/59)`,
-  `darts scorer (42/42)`, `crossfit open (34/30)`
-- Pourquoi : **compétitivité 13-30** = quasi aucune barrière. Demande réelle (47-56).
-  Stack ultra simple (1/5). Marché de niche sport précis (boxing, crossfit, darts).
-- Revenus constatés : Interval Timer ~$50K/mois.
+## FAMILLE ÉDUCATION / APPRENTISSAGE
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| education-scolaire | `education-scolaire.csv` | 16 006 | 5.5/10 (IA math ⭐) | goth ai math (57/63), math ai (53/54) |
+| education-kids | `education-kids.csv` | 11 743 | 7/10 | learning games for kids (55/48), common app (64/48) |
+| langues-apprentissage | `langues-apprentissage.csv` | 6 997 | 6/10 | learn spanish, duolingo |
+| productivite-etude | `productivite-etude.csv` | 19 579 | 6.5/10 | pomodoro, flashcards, study planner |
+| education-codage | `education-codage.csv` | 850 | 5/10 | Tynker, codeSpark |
 
-### 4. Meals prep planner — déjà validé et approfondi ($50-65K/mois)
-- Pépites : `factor meals (56/44)`, `menu fit (54/36)`, `blood pressure app for iphone (52/47)` (cross-niche)
-- Pourquoi : 3 leaders à $50-65K/mois, ReciMe à $3M. Stack RN faisable (3/5).
-- Déjà analysé en détail : `references/meal-prep-planner/`.
+## FAMILLE JEUX
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| jeux-educatifs-enfant | `jeux-educatifs-enfant.csv` | 22 574 | **8/10** | girl games (61/34) ⭐, offline games (72/45), cooking games (66/68) |
+| jeux-2d-hypercasual | `jeux-2d-hypercasual.csv` | 4 125 | **7.5/10** | idle games (61/69), outline (50/37), water sort |
+| jeux-casual | `jeux-casual.csv` | 3 511 | 7/10 | word games (62/59), sudoku free (56/46), belote (54/40) |
+| jeux-societe | `jeux-societe.csv` | 2 479 | 7/10 | heads up (68/59), free games for adults (60/53), kahoot (62/72) |
+| jeux-enfant | `jeux-enfant.csv` | 5 650 | 7/10 | horse games (56/61), animal games (54/58), princess (52/67) |
+| jeux-2d | `jeux-2d.csv` | 1 034 | 5.5/10 | merge, match 3, bubble shooter |
+| jeux-3d | `jeux-3d.csv` | 15 282 | 6/10 (Unity) | clash royale (76/50), fc mobile (72/52) |
 
-### 5. Watch faces — déjà validé ($100K+)
-- Pépites : `watch faces free (31/50)`, `smart watch app (37/51)`, `wear os (43/46)`
-- Pourquoi : monétisation PROUVÉE (Facer $100-140K, Clockology $35K). RN faisable (3/5, module watchOS).
+## FAMILLE SPIRITUALITÉ
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| islam | `islam.csv` | 4 986 | 7/10 | muslim pro (54/59), rencontre musulman (35/20) ⭐, qibla boussole |
+| astrologie | `astrologie.csv` | 2 101 | 6/10 | astrotalk (56/45), costar, the pattern |
+| christianisme | `christianisme.csv` | 7 428 | 3/10 | — (comp 93+, bouché) |
+| religion-autre | `religion-autre.csv` | 209 | 3/10 | — (volume trop faible) |
 
-### 6. Code de la route / theory test (voiture-transport) — pépite surprise
-- Pépites : `theory test (67/57)` ⭐, `4 in 1 theory test (54/44)`, `theorie 24 (52/40)`,
-  `driving test cancellations (48/52)`
-- Pourquoi : **demande 67** (très forte), comp 44-57 (battable). Stack très simple (quiz/flashcards).
-  Cross-niche avec productivité/étude.
+## FAMILLE CRÉATION / CONTENU / DESIGN
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| creation-contenu-rs | `creation-contenu-rs.csv` | 58 953 | 7/10 | faceapp (65/65), pic collage (64/71), dazz cam (67/55) |
+| photo-voix-ia | `photo-voix-ia.csv` | 5 553 | 6/10 | voice changer (62/47), design home |
+| art-creatif | `art-creatif.csv` | 2 236 | 5.5/10 | drawing, knitting, crochet, embroidery |
+| diy-design | `diy-design.csv` | 2 668 | 5/10 | logo maker, mockup, interior design |
 
-## 🥈 TIER 2 — TRÈS BONS CANDIDATS (à creuser)
+## FAMILLE HOBBIES / PASSIONS
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| animaux-oiseaux | `animaux-oiseaux.csv` | 3 060 | 6/10 | bug identifier (51/48), dog whistle (49/47) |
+| plantes-jardin | `plantes-jardin.csv` | 4 275 | 6/10 | plant identifier, plant care |
+| musique-outils | `musique-outils.csv` | 5 296 | 5/10 | music making app, metronome gratuit (45/45) |
+| hobbies-depense | `hobbies-depense.csv` | 1 536 | 6/10 | dji fly (62/53), vivino (48/72), total wine |
+| collection-hobby | `collection-hobby.csv` | 1 259 | 5/10 | LEGO, vinyl, discogs |
+| outdoor-nature | `outdoor-nature.csv` | 1 160 | 5/10 | hiking, camping, geocaching, mushroom |
+| peche-pleinair | `peche-pleinair.csv` | 910 | 5/10 | fishing license (33/47), fishing booker (30/42) |
+| bricolage-diy | `bricolage-diy.csv` | 1 140 | 5/10 | woodworking, home improvement |
 
-### 7. Jeux casual / réflexion (non-3D) — RN friendly
-- Pépites : `word games (62/59)`, `sudoku free no ads (56/46)`, `word search puzzles for adults (51/55)`,
-  `belote gratuit (54/40)`, `coin identifier free app (36/49)`
-- Pourquoi : mots à comp 40-59, demande réelle. Idéal React Native (jeux 2D simples).
-  Monétisation pub/IAP. 🟢 fort.
+## FAMILLE VIE PRATIQUE / FINANCE / VOYAGE
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| finance-personnelle | `finance-personnelle.csv` | 8 120 | 6.5/10 | budget planner (51/48), money tracker, debt payoff |
+| finance-enfant | `finance-enfant.csv` | 1 266 | 5/10 | rooster money (46/48), kiwipop (35/43) |
+| voyage-itineraires | `voyage-itineraires.csv` | 9 170 | 6.5/10 | trip planner, flight tracker, packing |
+| immobilier-maison | `immobilier-maison.csv` | 3 764 | 5/10 | rental homes (52/27) ⭐, realtor com (65/45) |
+| wedding-occasions | `wedding-occasions.csv` | 2 070 | 6/10 | wedding planning app (41/56), cvent events |
 
-### 8. Islam — déjà validé (demande solide multi-pays)
-- Pépites : `muslim pro (54/59)`, `qibla boussole (40/53)`, `namaz vakitleri (43/29)`,
-  `coran francais (42/48)`, `rencontre musulman (35/20)` ⭐ (dating musulman comp 20 !)
-- Pourquoi : demande sur plusieurs mots (quran, prayer, qibla, azkar), comp modérée.
-  Stack simple. Monétisation abonnement.
-
-### 9. Bien-être mental / journaling — demande forte mais leaders établis
-- Pépites : `how we feel (57/59)`, `gratitude plus (49/57)`, `anxiety relief games (34/55)`,
-  `stoic` (43/60, déjà validé), `diary (51/67)`
-- Pourquoi : Calm/Headspace dominent les gros mots, mais les **sous-niches** (gratitude, stoïque,
-  anxiété, self-love) restent battables. Stack simple.
-
-### 10. Psychologie / neurodiversité (ADHD, hypersensibilité, thérapie)
-- Pépites : `grow therapy (54/53)`, `how we feel (57/59)`, `adhd planner` (36/92 fort mais cher),
-  `anxiety` (demande)
-- Pourquoi : les apps ADHD sont en plein boom (Tiimo, ADHD Organizer). Demande réelle mais
-  compétition IA naissante. Angle à trouver (ADHD women, HSP).
-
-### 11. Femmes-santé (maternité, ménopause, cycle)
-- Pépites : `pregnancy test checker (47/53)`, `peptide tracker (53/58)`, `clear tok (51/40)`,
-  `contraction timer (60/65)` (déjà validé en timers)
-- Pourquoi : marché durable (santé féminine), Flo/Ovia dominent mais niches battables.
-  Stack simple. Sensibilité données à respecter.
-
-### 12. Sommeil / sons (white noise, décibel)
-- Pépites : `decibel meter free (36/48)`, `noise level meter (31/50)`, `db meter (45/56)`,
-  `white noise` (34/66), `brown noise` (33/62), `snorelab` (39/61)
-- Pourquoi : BetterSleep/SnoreLab monétisent bien ($500K+). Sons = contenus réutilisables.
-
-## 🥉 TIER 3 — À SUIVRE (potentiel mais plus risqué ou complexe)
-
-### 13. Animation musique / créatif
-- Pépites : `music making app (32/59)`, `metronome gratuit (45/45)`, `gitarre stimmen (46/51)`
-- Pourquoi : audio = plus technique RN. Mais sous-niches accordeur/métronome simples.
-
-### 14. Animaux / oiseaux (identification)
-- Pépites : `bug identifier (51/48)`, `dog whistle (49/47)`, `free bird song identifier (32/54)`
-- Pourquoi : demande réelle (49-52), comp battable (47-54). Merlin domine mais niches libres.
-
-### 15. Immobilier / location
-- Pépites : `rental homes (52/27)` ⭐, `commercial real estate (39/56)`, `tenant cloud (33/53)`
-- Pourquoi : `rental homes` comp 27 = très battable. Mais marché B2C difficile (Zillow/Redfin).
-
-### 16. Outdoor / nature
-- Pépites : `fishing license (33/47)`, `deep dive fishing (31/59)`, `geocaching`
-- Pourquoi : niches hobby fidèles, monétisation abonnement. Plus petit volume.
-
-### 17. Pêche
-- Pépites : `fishing license (33/47)`, `fishing booker (30/42)`, `onx hunt` (59/77)
-- Pourquoi : Fishbrain leader, mais outils licence/spots battables.
-
-## 🚫 CLUSTERS À ÉCARTER (dans l'état actuel)
-- **christianisme** : 0 pépite battable (YouVersion/Bible dominent, comp 93+). Sauf sous-niche très fine.
-- **religion-autre** (hindu/bouddhiste/juif) : trop peu de volume (3 pépites).
-- **motion-games** (Just Dance) : 5 pépites, besoin capteur motion → complexe RN, demandes faibles.
-- **outils-telephone** : pépites rares, marché très fragmenté.
-- **seniors-vie** : belles idées mais volume faible (16 pépites, surtout niche mormone/religieuse).
-
-## 💎 LE RÉSUMÉ POUR DÉCIDER (top 8 à considérer pour une première app)
-1. **Challenges 75 jours** — simple, marché fragmenté, demande validée
-2. **Timers sport** (boxing/crossfit/darts) — comp 13-30, ultra simple
-3. **Workout planner** — demande massive, comp battable sur longue traîne
-4. **Meal prep planner** — déjà analysé ($50-65K/mois)
-5. **Theory test / code de la route** — demande 67, comp battable, quiz simple
-6. **Jeux réflexion 2D** (word/sudoku/belote) — RN friendly, comp 40-59
-7. **Islam** — demande multi-pays, plusieurs angles battables
-8. **Watch faces** — monétisation prouvée ($100K+)
-
-> Prochaine étape suggérée : choisir 1-2 de ces clusters → analyse concurrentielle approfondie
-> (rankings, revenus, avis, screenshots) → PRD.
+## FAMILLE OUTILS / TECH
+| Cluster | CSV | # mots | Note | Pépites clés |
+|---|---|---|---|---|
+| utilitaires | `utilitaires.csv` | 3 117 | 5/10 | compass, file manager, vpn |
+| outils-telephone | `outils-telephone.csv` | 5 190 | 4/10 | fire tv remote (52/56), smart remote |
+| communication-proches | `communication-proches.csv` | 2 079 | 5/10 | find my phone (67/73), phone tracker |
+| media-lecture | `media-lecture.csv` | 5 363 | 5.5/10 | bookmory, reading tracker |
+| watch-faces | `watch-faces.csv` | 1 999 | 7.5/10 | watch faces free (31/50), wear os (43/46) |
+| motion-games | `motion-games.csv` | 269 | 4/10 | just dance controller (45/52) |
+| seniors-vie | `seniors-vie.csv` | 2 459 | 4/10 | lds tools, gospel library |
 
 ---
 
-# 📋 FICHES DÉTAILLÉES PAR CLUSTER — note, faisabilité, inconvénients
+# 📋 FICHES DÉTAILLÉES PAR CLUSTER
 
-> **Note /10** = synthèse (demande × concurrence × monétisation × faisabilité RN).
-> **Best-seller** = leader du marché avec REVENU RÉEL mesuré (Appfigures, si connu) — absent si pas de data fiable.
+> **Note /10** = demande × concurrence × monétisation × faisabilité RN.
+> **Best-seller** = app leader avec REVENU RÉEL mesuré (si connu) — sinon non mentionné.
 > **Stack RN** = modules natifs nécessaires au-delà du RN pur.
 
-## CHALLENGES 75 JOURS — ⭐ Note 8/10
-- **Genre** : tracker d'habitudes/challenge quotidien (checklists, streaks, rappels, calendrier 75 jours).
+---
+
+## 🏆 TOP CLUSTERS (notes 7.5-8/10)
+
+### CHALLENGES 75 JOURS — ⭐ 8/10
+- **Genre** : tracker de challenge 75 jours (checklists quotidiennes, streaks, rappels, calendrier).
 - **Stack RN** : pur RN + notifs locales. Complexité 1/5.
-- **Inconvénients** : marché saisonnier/effet de mode ; beaucoup de clones ; monétisation difficile sans
-  contenu premium ; l'utilisateur sature du concept après 1-2 challenges.
-- **Best-seller** : 75 Hard officiel ~$15K/mois (mais noté 2.5★ → ouvert), BeHard 75 Days ~$65K/mois.
+- ✅ Avantages : marché FRAGMENTÉ (aucun géant, l'app officielle notée 2.5★) ; stack ultra simple ;
+  demande réelle multi-mots (75 hard, 75 day, 75 soft) ; monétisation abonnement.
+- ⚠️ Inconvénients : effet de mode/saisonnier ; beaucoup de clones ; rétention limitée après 1-2 cycles.
+- 💰 Best-seller : BeHard 75 Days ~$65K/mois, 75 Hard officiel ~$15K (mais très mal noté → ouvert).
 
-## TIMERS SPORT (interval/tabata/boxing/darts/crossfit) — ⭐ Note 8/10
-- **Genre** : minuteurs spécialisés sport (rounds boxe, EMOM, tabata, scorekeepers darts/volley).
+### TIMERS SPORT (interval/tabata/boxing/darts/crossfit) — ⭐ 8/10
+- **Genre** : minuteurs spécialisés sport (rounds boxe, EMOM, tabata) + scorekeepers (darts/volley).
 - **Stack RN** : pur RN + audio (cloche). Complexité 1/5.
-- **Inconvénients** : faible valeur perçue → monétisation limitée (freemium/pub) ; concurrence de
-  timers génériques gratuits (Apple) ; marché de niche (pas massif).
-- **Best-seller** : Interval Timer ~$50K/mois.
+- ✅ Avantages : compétitivité ULTRA basse (interval timer 56/13, crossfit open 34/30) ;
+  demande réelle ; stack trivial ; plusieurs sous-niches sport précises.
+- ⚠️ Inconvénients : faible valeur perçue → monétisation limitée (freemium/pub) ; concurrence
+  des timers génériques iOS ; marché de niche (pas massif).
+- 💰 Best-seller : Interval Timer ~$50K/mois.
 
-## WORKOUT PLANNER / FITNESS — ⭐ Note 7.5/10
-- **Genre** : planificateur d'entraînement (plans, séances, progression, logs, vidéos).
-- **Stack RN** : RN + vidéos + éventuellement HealthKit. Complexité 2-3/5.
-- **Inconvénients** : concurrence ÉNORME des géants (Fitbod $2M, Hevy $1M, Strong $510K) ;
-  nécessite contenu de qualité (vidéos/exercices) ; rétention difficile (l'utilisateur arrête).
-- **Best-seller** : Fitbod ~$2M/mois, Hevy ~$1M/mois, Strong ~$510K/mois.
-
-## MEAL PREP PLANNER — ⭐ Note 8/10 (déjà approfondi)
+### MEAL PREP PLANNER — ⭐ 8/10 (déjà approfondi)
 - **Genre** : planification de repas + recettes + liste de courses + macros.
-- **Stack RN** : RN + API nutrition + éventuellement IA (import recettes). Complexité 3/5.
-- **Inconvénients** : contenu recettes = travail éditorial constant ; leaders établis depuis 7-13 ans ;
-  ReciMe ($3M) impose la barre de l'import IA ; coût d'acquisition des recettes.
-- **Best-seller** : ReciMe ~$3M/mois, eMeals ~$65K, Mealime ~$55K, MealPrepPro ~$50K.
+- **Stack RN** : RN + API nutrition + (option) IA import recettes. Complexité 3/5.
+- ✅ Avantages : monétisation PROUVÉE ($50-65K/mois x3 leaders) ; demande réelle ; gaps clairs
+  (macros libres, swap ingrédients, recettes simples) ; ReciMe prouve le potentiel IA ($3M).
+- ⚠️ Inconvénients : contenu recettes = travail éditorial constant ; leaders établis 7-13 ans ;
+  ReciMe impose la barre de l'import IA.
+- 💰 Best-seller : ReciMe ~$3M/mois, eMeals ~$65K, Mealime ~$55K, MealPrepPro ~$50K.
 
-## WATCH FACES — ⭐ Note 7.5/10 (déjà approfondi)
+### FITNESS / WORKOUT PLANNER — ⭐ 7.5/10
+- **Genre** : planificateur d'entraînement (plans, séances, progression, logs, vidéos).
+- **Stack RN** : RN + vidéos + (option) HealthKit. Complexité 2-3/5.
+- ✅ Avantages : demande MASSIVE (fitness 64+) ; mots longue traîne battables (workout planner 52/58,
+  weight tracker 48/36) ; cross-niche riche (workout + femmes, + seniors, + réhab).
+- ⚠️ Inconvénients : géants écrasants (Fitbod $2M, Hevy $1M, Strong $510K) ; contenu vidéo coûteux ;
+  rétention difficile.
+- 💰 Best-seller : Fitbod ~$2M/mois, Hevy ~$1M/mois, Strong ~$510K/mois.
+
+### WATCH FACES — ⭐ 7.5/10 (déjà approfondi)
 - **Genre** : galerie de cadrans Apple Watch + créateur de faces (photos, complications).
-- **Stack RN** : RN + module natif watchOS (WatchKit) + WebView/galerie. Complexité 3/5.
-- **Inconvénients** : Apple limite l'installation de faces tierces ; dépendance écosystème Apple Watch ;
-  contenu éditorial (design) à produire ; leaders bien installés.
-- **Best-seller** : Facer ~$100-140K/mois, Clockology ~$35K/mois, WatchMaker ~$25K/mois.
+- **Stack RN** : RN + module natif watchOS (WatchKit) + galerie. Complexité 3/5.
+- ✅ Avantages : monétisation PROUVÉE ($100K+) ; UI des leaders datée → différenciable ;
+  contenu éditorial réutilisable.
+- ⚠️ Inconvénients : Apple limite l'installation de faces tierces ; dépendance écosystème Apple Watch ;
+  design à produire.
+- 💰 Best-seller : Facer ~$100-140K/mois, Clockology ~$35K, WatchMaker ~$25K.
 
-## THEORY TEST / CODE DE LA ROUTE — ⭐ Note 7/10
-- **Genre** : quiz/exam blanc permis de conduire (questions, révisions, tests).
-- **Stack RN** : pur RN. Complexité 1/5.
-- **Inconvénients** : contenu réglementaire à mettre à jour (questions changent) ; marché dominé par
-  les apps officielles par pays ; monétisation surtout payante one-shot ou abonnement faible.
-- **Best-seller** : apps theory test leaders ~$10-30K/mois (estimation, données partielles).
-
-## JEUX RÉFLEXION 2D (word/sudoku/belote/échecs/mahjong) — ⭐ Note 7/10
-- **Genre** : jeux de réflexion 2D (mots, sudoku, cartes, casse-tête).
-- **Stack RN** : RN + logique de jeu + (option) pub/IAP. Complexité 2/5.
-- **Inconvénients** : marché énorme mais ultra concurrentiel (NYT Games, géants) ; monétisation
-  faible (pub) sauf gros volumes ; rétention dépend du contenu/grille quotidienne.
-- **Best-seller** : NYT Games (écosystème abonnement), Word Collect ~fort (données partielles).
-
-## ISLAM (quran/prayer/qibla/azkar) — ⭐ Note 7/10 (déjà validé)
-- **Genre** : suite spirituelle (prières, qibla, coran, azkar, calendrier).
-- **Stack RN** : RN + géoloc + calculs astronomiques. Complexité 2/5.
-- **Inconvénients** : leaders très établis (Muslim Pro ~$110K/mois) ; multi-langues nécessaire pour
-  toucher les grands marchés ; sensibilité religieuse (exactitude prières).
-- **Best-seller** : Muslim Pro ~$110K/mois, Athkar ~$35K/mois.
-
-## BIEN-ÊTRE MENTAL / JOURNALING / AFFIRMATIONS — ⭐ Note 6.5/10
-- **Genre** : journal, gratitude, affirmations, mood tracker, mindfulness.
-- **Stack RN** : pur RN. Complexité 1-2/5.
-- **Inconvénients** : GEANTS (Calm $4M, Headspace $2M, Insight Timer $1M) sur les gros mots ;
-  sous-niches (stoïque, gratitude, self-love) plus libres mais volume moindre ; sujets sensibles
-  (santé mentale = responsabilité) ; monétisation difficile sans contenu/IA différenciante.
-- **Best-seller** : Calm ~$4M/mois, Headspace ~$2M/mois, I Am Affirmations ~$700K/mois.
-
-## PSYCHOLOGIE / NEURODIVERSITÉ (ADHD, HSP, thérapie) — ⭐ Note 6.5/10
-- **Genre** : outils ADHD (planner, timers), suivi humeur/troubles, accès thérapie.
-- **Stack RN** : RN + notifs + (option) IA. Complexité 2-3/5.
-- **Inconvénients** : compétition ADHD naissante mais déjà IA-compet (adhd planner 36/92) ;
-  marché thérapie (BetterHelp) très régulé/sensible ; audience de niche (moins massif) ;
-  responsabilité santé.
-- **Best-seller** : BetterHelp ~très élevé, Tiimo (ADHD) en croissance (données partielles).
-
-## FEMMES-SANTÉ (maternité, cycle, ménopause) — ⭐ Note 6.5/10
-- **Genre** : suivi grossesse, cycle, fertilité, ménopause, baby tracker.
-- **Stack RN** : RN + notifs + (option) HealthKit. Complexité 2/5.
-- **Inconvénients** : Flo/Ovia géants sur les mots génériques ; confidentialité données santé
-  (GDPR/HIPAA, confiance) ; niches battables (menopause, TTC) = volume moindre ; responsabilité médicale.
-- **Best-seller** : Flo ~très élevé (données partielles), Ovia, WTE.
-
-## SOMMEIL / SONS (white noise, décibel, snore) — ⭐ Note 6/10
-- **Genre** : sons de sommeil, bruit blanc, mesure décibels, analyse ronflement.
-- **Stack RN** : RN + audio + micro (analyse son). Complexité 2-3/5.
-- **Inconvénients** : apps de sons faciles à copier (commodité) ; monétisation abonnement difficile ;
-  la mesure décibel = batterie/précision ; BetterSleep/SnoreLab bien installés ($500K+).
-- **Best-seller** : BetterSleep ~$770K/mois, SnoreLab ~$550K/mois.
-
-## ANIMAUX / IDENTIFICATION (oiseaux, insectes, sifflet chien) — ⭐ Note 6/10
-- **Genre** : identification photo/son (oiseaux, insectes, plantes), outils animaux.
-- **Stack RN** : RN + caméra + ML/API identification + audio. Complexité 3/5.
-- **Inconvénients** : l'identification IA précise = backend/API coûteuse ; Merlin (Cornell) gratuit
-  et dominant oiseaux ; niche (pas massif) ; data d'entraînement nécessaire.
-- **Best-seller** : Picture Insect ~$590K/mois, Merlin gratuit (Cornell Lab).
-
-## IMMOBILIER / LOCATION — ⭐ Note 5/10
-- **Genre** : recherche maison/location, calculateur hypothèque, gestion locative.
-- **Stack RN** : RN + API data immo. Complexité 2-3/5.
-- **Inconvénients** : Zillow/Redfin dominent massivement ; data immobilière = coûteuse/API payante ;
-  confiance B2C difficile ; niches (tenant cloud, rental homes) = B2B plus complexe.
-- **Best-seller** : Zillow ~très élevé (géant), niche à trouver.
-
-## OUTDOOR / NATURE (rando, camping, pêche, géocaching) — ⭐ Note 5/10
-- **Genre** : cartes rando, guides camping, identifieurs (champignons), géocaching.
-- **Stack RN** : RN + GPS + cartes offline + (option) ML. Complexité 3/5.
-- **Inconvénients** : AllTrails/Geocaching dominent ; data cartographique (cartes offline) coûteuse ;
-  volume modéré ; monétisation abonnement saisonnière.
-- **Best-seller** : AllTrails ~fort, Geocaching ~gratuit/abonnement (données partielles).
-
-## MUSIQUE-OUTILS (accordeur, métronome, beat) — ⭐ Note 5/10
-- **Genre** : accordeurs, métronomes, théorie musicale, drum machines.
-- **Stack RN** : RN + audio (micro pour accordeur). Complexité 2-3/5.
-- **Inconvénients** : accords/métronomes = bcp d'apps gratuites ; l'audio temps réel = module natif ;
-  monétisation faible ; marché outils = commodité.
-- **Best-seller** : Fender Tune (gratuit, marque), apps accordeur ~petites.
-
-## PÊCHE — ⭐ Note 5/10
-- **Genre** : spots de pêche, marées, licence, logs de prises.
-- **Stack RN** : RN + GPS + données marées. Complexité 2-3/5.
-- **Inconvénients** : Fishbrain leader ($2M) ; données marées/météo = API ; niche (volume modéré) ;
-  monétisation abonnement difficile hors communauté.
-- **Best-seller** : Fishbrain ~$2M/mois.
-
-## OUTILS TÉLÉPHONE / TÉLÉCOMMANDE — ⭐ Note 4/10
-- **Genre** : télécommandes TV, mirroring, connecter au PC, second screen.
-- **Stack RN** : RN + modules natifs (IR, réseau, protocoles TV). Complexité 3-4/5.
-- **Inconvénients** : fragmentation (téléviseurs/protocoles) ; Apple/Google font le mirroring nativement ;
-  niche technique ; monétisation faible.
-- **Best-seller** : télécommandes universelles ~petites (données faibles).
-
-## MOTION GAMES (Just Dance-like) — ⭐ Note 4/10
-- **Genre** : jeu de danse/mouvement (caméra/capteurs).
-- **Stack RN** : RN + caméra/motion tracking natif (lourd). Complexité 4/5.
-- **Inconvénients** : détection mouvement précise = complexe ; demande faible (269 mots) ;
-  licences musicales ; UX dépendante du hardware.
-- **Best-seller** : Just Dance (éditeur, écosystème fermé).
-
-## SENIORS-VIE (non santé) — ⭐ Note 4/10
-- **Genre** : téléphone simplifié senior, généalogie, souvenirs/mémoire.
-- **Stack RN** : RN + (généalogie) API. Complexité 2/5.
-- **Inconvénients** : volume faible (16 pépites) ; les mots sont surtout religieux/mormons (LDS) ;
-  public senior = exigences UX (gros textes) ; monétisation limitée.
-- **Best-seller** : MyHeritage (généalogie, abonnement), FamilySearch gratuit (données partielles).
-
-## RELIGION-AUTRE (hindu/bouddhiste/juif) — ⭐ Note 3/10
-- **Genre** : calendriers religieux, méditation, textes sacrés.
-- **Stack RN** : RN. Complexité 1-2/5.
-- **Inconvénients** : volume très faible (3 pépites) ; niches fines par communauté ; monétisation limitée.
-- **Best-seller** : Hindu Calendar ~petit, Insight Timer (bouddhisme) ~$1M (cross-cluster).
-
-## CHRISTIANISME — ⭐ Note 3/10
-- **Genre** : Bible, dévotions, prières.
-- **Stack RN** : RN. Complexité 1-2/5.
-- **Inconvénients** : 0 pépite battable ; YouVersion domine (comp 93+) ; marché saturé par des apps
-  gratuites massives ; très difficile de ranker.
-- **Best-seller** : YouVersion Bible (gratuit, géant), Hallow ~$? (croissance).
+### JEUX ÉDUCATIFS ENFANT — ⭐ 8/10
+- **Genre** : jeux éducatifs pour enfants (2-8 ans) : lettres, chiffres, formes, logique, dessin.
+- **Stack RN** : RN 2D + (option) moteur de jeu. Complexité 2-3/5.
+- ✅ Avantages : 164 pépites battables ! girl games (61/34), cooking games (66/68), offline games
+  (72/45), baby games (61/62) ; marchés NON-ANGLAIS quasi libres (italien, espagnol, allemand) ;
+  RN 2D faisable.
+- ⚠️ Inconvénients : qualité attendue haute (Toca Boca, Lingokids) ; monétisation abonnement+pub ;
+  rétention enfants = renouveau de contenu constant.
+- 💰 Best-seller : Toca Boca (géant éducatif), Lingokids, ABCmouse.
 
 ---
 
-## 📌 MÉTHODE DE LECTURE DE LA NOTE
+## 🥈 BONS CANDIDATS (notes 6.5-7/10)
+
+### THEORY TEST / CODE DE LA ROUTE — 7/10
+- **Genre** : quiz/exam blanc permis de conduire (questions, révisions, tests par pays).
+- **Stack RN** : pur RN. Complexité 1/5.
+- ✅ Avantages : demande 67 (très forte), comp 44-57 (battable) ; stack quiz simple ; cross-niche étude.
+- ⚠️ Inconvénients : contenu réglementaire à mettre à jour ; apps officielles par pays ; monétisation
+  one-shot faible.
+
+### JEUX CASUAL / RÉFLEXION (word/sudoku/belote/échecs/mahjong) — 7/10
+- **Genre** : jeux de réflexion 2D (mots, sudoku, cartes, casse-tête).
+- **Stack RN** : RN + logique de jeu + pub/IAP. Complexité 2/5.
+- ✅ Avantages : mots à comp 40-59 (sudoku free 56/46, belote 54/40) ; RN 2D friendly ; variété énorme.
+- ⚠️ Inconvénients : marché ultra concurrentiel (NYT Games) ; monétisation faible (pub) sauf gros volume.
+
+### JEUX SOCIÉTÉ / PARTY (heads up, kahoot, mots) — 7/10
+- **Genre** : jeux de société/party en 2D (devine-moi, quiz, mots, crosswords).
+- **Stack RN** : RN 2D. Complexité 2/5.
+- ✅ Avantages : heads up (68/59), free games for adults (60/53), kahoot (62/72) ; dépense réelle ;
+  RN 2D faisable.
+- ⚠️ Inconvénients : Kahoot/NYT établis ; besoin social/multi pour le party game (backend).
+
+### JEUX ENFANT GÉNÉRAL — 7/10
+- **Genre** : jeux enfants par thème (dinosaures, voitures, princesses, animaux, cuisine, coloriage).
+- **Stack RN** : RN 2D. Complexité 2/5.
+- ✅ Avantages : horse games (56/61), animal games (54/58), princess (52/67), dames (42/34).
+- ⚠️ Inconvénients : concurrence élevée sur "kids games" ; besoin d'un angle (thème ou langue).
+
+### JEUX 2D HYPERCASUAL — 7.5/10 (RN-friendly)
+- **Genre** : jeux hyper-casual (color sort, water sort, merge, idle, flappy, brain out).
+- **Stack RN** : RN PUR (pas besoin Unity !). Complexité 1-2/5.
+- ✅ Avantages : FAIT POUR RN ; idle games (61/69), outline (50/37), water sort ; dev rapide.
+- ⚠️ Inconvénients : marché ultra saturé ; UA coûteuse ; durée de vie courte des hits. Idéal portfolio.
+
+### ISLAM (quran/prayer/qibla/azkar) — 7/10 (déjà validé)
+- **Genre** : suite spirituelle (prières, qibla, coran, azkar, calendrier).
+- **Stack RN** : RN + géoloc + calculs astronomiques. Complexité 2/5.
+- ✅ Avantages : demande multi-pays ; muslim pro (54/59), rencontre musulman (35/20) ⭐ ; stack simple.
+- ⚠️ Inconvénients : Muslim Pro établi (~$110K) ; multi-langues nécessaire ; exactitude religieuse.
+- 💰 Best-seller : Muslim Pro ~$110K/mois, Athkar ~$35K/mois.
+
+### CRÉATION CONTENU RÉSEAUX SOCIAUX — 7/10
+- **Genre** : éditeurs vidéo/photo, reels, collages, stickers, emojis, icônes, planificateurs Insta.
+- **Stack RN** : RN + vidéo/image natives (lourd). Complexité 3-4/5.
+- ✅ Avantages : 241 pépites ! faceapp (65/65), pic collage (64/71), dazz cam (67/55) ; énorme demande.
+- ⚠️ Inconvénients : géants (CapCut, Canva, Picsart) ; éditeurs vidéo = techniques ; freemium.
+
+### ÉDUCATION ENFANTS / KIDS LEARNING — 7/10
+- **Genre** : apprentissage enfants (lecture, maths, lettres, phonics) gamifié.
+- **Stack RN** : RN 2D. Complexité 2/5.
+- ✅ Avantages : learning games for kids (55/48), common app (64/48), homeschool (54/57) ; comp battable.
+- ⚠️ Inconvénients : SplashLearn/ABCmouse établis ; contenu pédagogique à produire.
+
+---
+
+## 🥉 À SUIVRE (notes 5.5-6.5/10)
+
+### BIEN-ÊTRE MENTAL / JOURNALING — 6.5/10
+- **Genre** : journal, gratitude, affirmations, mood tracker, mindfulness.
+- **Stack RN** : pur RN. Complexité 1-2/5.
+- ✅ Avantages : sous-niches libres (gratitude, stoïque, self-love) ; stack simple ; tendance forte.
+- ⚠️ Inconvénients : géants (Calm $4M, Headspace $2M) ; responsabilité santé mentale ; monétisation
+  difficile sans différenciation.
+- 💰 Best-seller : Calm ~$4M/mois, Headspace ~$2M, I Am Affirmations ~$700K.
+
+### PSYCHOLOGIE / NEURODIVERSITÉ (ADHD, HSP, thérapie) — 6.5/10
+- **Genre** : outils ADHD (planner, timers), suivi humeur/troubles, accès thérapie.
+- **Stack RN** : RN + notifs + (option) IA. Complexité 2-3/5.
+- ✅ Avantages : apps ADHD en plein boom ; grow therapy (54/53) ; audience fidèle.
+- ⚠️ Inconvénients : compétition ADHD IA naissante (adhd planner 36/92) ; thérapie = régulé/sensible ;
+  audience de niche.
+- 💰 Best-seller : BetterHelp (géant thérapie), Tiimo (ADHD, croissance).
+
+### FEMMES-SANTÉ (maternité, cycle, ménopause) — 6.5/10
+- **Genre** : suivi grossesse, cycle, fertilité, ménopause, baby tracker.
+- **Stack RN** : RN + notifs + HealthKit. Complexité 2/5.
+- ✅ Avantages : marché durable ; pregnancy test checker (47/53), clear tok (51/40) ; niches battables.
+- ⚠️ Inconvénients : Flo/Ovia géants ; confidentialité données santé ; responsabilité médicale.
+- 💰 Best-seller : Flo (géant), Ovia, WTE.
+
+### PRODUCTIVITÉ / ÉTUDE (pomodoro, flashcards, planner) — 6.5/10
+- **Genre** : outils d'étude et productivité (pomodoro, flashcards, planning, notes).
+- **Stack RN** : pur RN. Complexité 1-2/5.
+- ✅ Avantages : 225 pépites ; pomodoro, flashcards, study planner ; stack simple.
+- ⚠️ Inconvénients : marché très concurrentiel (Anki, Quizlet, Notion) ; monétisation faible.
+
+### FINANCE PERSONNELLE (budget, dépenses, crypto, dette) — 6.5/10
+- **Genre** : budget, suivi dépenses, épargne, dette, crypto, investissement.
+- **Stack RN** : RN + (option) agrégation bancaire. Complexité 2-3/5.
+- ✅ Avantages : budget planner (51/48), money tracker (45/49) ; demande réelle ; abonnement possible.
+- ⚠️ Inconvénients : géants (YNAB, Mint) ; confiance/data bancaire ; régulation finance.
+
+### VOYAGE / ITINÉRAIRES — 6.5/10
+- **Genre** : planification de voyage, itinéraires, vols, hôtels, packing.
+- **Stack RN** : RN + API voyage. Complexité 2-3/5.
+- ✅ Avantages : trip planner, flight tracker ; demande forte ; niches (packing, itineraries).
+- ⚠️ Inconvénients : Booking/Expedia géants ; données voyage coûteuses ; commission faible.
+
+### SOMATIQUE SANTÉ SUIVI (médicaments, migraine, diabète, arrêt tabac) — 6.5/10
+- **Genre** : rappels médicaments, suivi migraine, diabète, sevrage.
+- **Stack RN** : RN + notifs + HealthKit. Complexité 2/5.
+- ✅ Avantages : monétisation santé solide ; heat index (39/56), arret tabac (36/40) ; Medisafe prouve.
+- ⚠️ Inconvénients : Medisafe établi ; régulation santé ; confiance.
+
+---
+
+## ⚠️ NICHE / COMPLEXE (notes 4-5.5/10)
+
+- **SANTE-SUIVI / ANATOMIE** (5.5) : anatomy, heat index — besoin contenu médical.
+- **EDUCATION-CODAGE** (5) : coding kids — Tynker établi, contenu pédagogique.
+- **EDUCATION-SCOLAIRE hors IA math** (5) : worksheets/grades capturés par IXL/Khan.
+- **ANIMAUX / IDENTIFICATION** (6) : bug identifier (51/48), dog whistle (49/47) — Merlin (gratuit) domine.
+- **PLANTES / JARDIN** (6) : plant identifier — PictureThis/Planta établis, IA coûteuse.
+- **IMMOBILIER / LOCATION** (5) : rental homes (52/27) ⭐ mais Zillow/Redfin géants, data coûteuse.
+- **JEUX-3D (Unity)** (6) : clash royale, fc mobile — GEANTS à gros budgets, pour plus tard.
+- **OUTDOOR / NATURE** (5) : hiking, camping — AllTrails domine, cartes coûteuses.
+- **MUSIQUE-OUTILS** (5) : accordeur, métronome — beaucoup d'apps gratuites, audio natif.
+- **PÊCHE** (5) : fishing — Fishbrain ($2M) leader.
+- **WEDDING / OCCASIONS** (6) : wedding planning app (41/56) — The Knot/Zola établis mais niches.
+- **HOBBIES-DÉPENSE** (6) : drones (DJI), vin (Vivino) — audiences riches mais leaders établis.
+- **OUTILS TÉLÉPHONE / TÉLÉCOMMANDE** (4) : fragmentation, niche technique.
+- **MOTION GAMES (Just Dance)** (4) : capteurs motion complexes, licences musicales.
+- **SENIORS-VIE (non santé)** (4) : volume faible, niche religieuse/mormone surtout.
+- **RELIGION-AUTRE** (3) : volume trop faible.
+- **CHRISTIANISME** (3) : 0 pépite battable, YouVersion domine (comp 93+).
+
+---
+
+# 📌 MÉTHODE DE LECTURE DE LA NOTE
 - **8-10** : fonce (demande + comp battable + monétisation prouvée + faisable).
-- **6-7.5** : bon candidat mais avec un angle différenciant obligatoire.
+- **6-7.5** : bon candidat mais angle différenciant obligatoire.
 - **4-5.5** : niche ou complexe — à faire seulement si intérêt perso fort.
 - **<4** : écarter dans l'état actuel.
+
+# 💎 TOP 8 POUR UNE PREMIÈRE APP (recommandation)
+1. **Challenges 75 jours** (8/10) — simple, marché fragmenté
+2. **Timers sport** (8/10) — comp 13-30, ultra simple
+3. **Jeux éducatifs enfant** (8/10) — 164 pépites, RN 2D
+4. **Meal prep planner** (8/10) — déjà analysé $50-65K/mois
+5. **Workout planner** (7.5/10) — demande massive, longue traîne
+6. **Watch faces** (7.5/10) — monétisation prouvée
+7. **Jeux 2D hypercasual** (7.5/10) — fait pour RN
+8. **Theory test / code** (7/10) — demande 67, quiz simple
