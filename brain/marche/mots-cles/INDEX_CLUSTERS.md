@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (55 clusters, ~260 000 mots-clés)
+## Clusters sondés (56 clusters, ~276 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -115,6 +115,24 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 - **jeux-enfant — Note 7/10** : RN 2D faisable. Mots génériques enfant (princess, animal, horse,
   cooking) à comp battable (34-61). Inconvénients : concurrence élevée sur "kids games", besoin
   d'angle (par thème ou par langue).
+
+### Nouveau cluster sondé le 30/08 (vague 10) — éducation scolaire
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| education-scolaire | `education-scolaire.csv` | 16 006 | **goth ai math (57/63)**, math ai (53/54), algebra practice (31/60) | 🟢⭐ IA math |
+
+**TOTAL : 56 clusters sondés, ~276 000 mots-clés bruts.**
+
+## 🎓 ANALYSE RAPIDE — éducation scolaire (worksheets, grades, matières)
+- **Note 5.5/10** en général, mais UNE sous-niche très chaude : **AI math solvers**.
+- Pépites scolaires réelles : `goth ai math (57/63)`, `math ai (53/54)`, `guth math (49/57)`,
+  `algebra practice (31/60)`, `sat prep (38/74)`, `geography games (40/66)`.
+- ⚠️ **Les mots par "grade" (grade 2, 4, 5) et "worksheets" n'ont PAS de volume propre sur iOS** :
+  soit trop faibles (pop <30), soit capturés par les géants (IXL, Khan, SplashLearn, Reading Eggs).
+- Le créneau de la **worksheets/grade school est dominé** par les géants éducatifs → difficile.
+- **La vraie opportunité = l'IA math (résolveur de devoirs)** : demande réelle (53-57), comp
+  modérée (54-63), stack RN + IA faisable, marché en croissance (Photon/Gauth/studdy).
+- Best-seller : Brainly (aide devoirs, très gros), Photomath (IA math, géant), Gauth (IA, croissance).
 
 **TOTAL : 51 clusters sondés, ~230 000 mots-clés bruts.**
 
