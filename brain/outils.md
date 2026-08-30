@@ -86,6 +86,20 @@ Statut : 🔑 clé présente (User : APPFIGURES_* présents) MAIS le plan Free n
 Coût : plan gratuit + add-on payant.
 Skills : `recherche-marche`, `analyste-concurrents`.
 
+### ⚡ REVERSE KEYWORD MINING Appfigures (méthode validée 2026-08-30)
+> Exploite l'API interne du site Appfigures (session navigateur) pour extraire les organic
+> keywords de n'importe quelle app, avec volume + concurrence. Méthode complète : règle 16 AGENTS.md.
+- API : `https://appfigures.com/_start/api/aso/products-snapshot/keywords?countries=US&products={pid}&sort=-popularity&count=250&page={n}&device=handheld&group_by=keyword%2Cproduct`
+  → retourne par mot : `keyword_term, popularity, competitiveness, num_apps_in_keyword, position, importance`.
+- Trouver le pid iOS : `https://appfigures.com/_start/api/unified-apps/search?q={app}&count=5`
+  → le bon pid = `unified_app_intelligence_metadata_minimal.member_product_ids[0]` QUAND
+  `storefronts` contient `apple:ios`. Un mauvais pid → 400.
+- Scripts Node (session via cookies Appfigures) : `tools/scrapers/_mine_*.js`.
+  Exemple : `_mine_confirmed.js`, `_mine_rest.js`. Sortie JSON par cluster dans `mots-cles/_brut/`.
+- Cookies de session (à rafraîchir si expiration) : `_af_session`, `_af_user_token`,
+  `_af_session_verifier`, `KSERVERID` (extraits du navigateur connecté).
+- ⚠️ Ne pas écraser : chaque script vérifie si le JSON cible existe avant de miner (reprise).
+
 ## Clés LLM (génération)
 - GOOGLE_API_KEY : ✅ présente (User)
 - OPENROUTER_API_KEY : ✅ présente (User)

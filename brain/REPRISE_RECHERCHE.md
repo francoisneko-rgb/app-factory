@@ -1,7 +1,22 @@
 # REPRISE — Recherche de marché (état à jour, un seul fichier de travail)
 
-Dernière mise à jour : 2026-08-29 (jour 3)
-Accès payants Appfigures/AppRadar : ~6 jours restants.
+Dernière mise à jour : 2026-08-30 (jour 4)
+Accès payants Appfigures : ~4 jours restants.
+
+## ✅ ÉTAT 2026-08-30 — MÉTHODE REVERSE KEYWORD MINING VALIDÉE ET EXÉCUTÉE
+**La méthode retenue pour trouver des mots-clés à volume = REVERSE KEYWORD MINING (règle 16 AGENTS.md)**
+(récolter les organic keywords des apps leaders, pas générer depuis l'autocomplétion).
+- **20 clusters sondés** via cette méthode (~105 000 mots-clés bruts avec pop/comp/rank).
+- **TOUTES les données brutes par cluster** sont dans `brain/marche/mots-cles/<cluster>.csv`
+  (format `cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance`, AUCUN filtre).
+- **LE fichier d'entrée pour l'utilisateur** : `brain/marche/mots-cles/INDEX_CLUSTERS.md`
+  (récap des 20 clusters : # mots, meilleures pépites, statut).
+- JSON sources (archivage) : `brain/marche/mots-cles/_brut/`.
+- Les POOLS d'autocomplétion (règle 15) ont été dépassés : l'autocomplétion = bruit (SP 5).
+  On ne génère plus la longue traîne, on la récolte depuis les apps qui rankent.
+- Pépites dégagées à approfondir : meal prep planner (32/NA, déjà analysé $50-65K/mois),
+  fitness-workout (workout planner 54/40, weight tracker 48/36), education-kids
+  (learning games for kids 55/48), watch-faces, bien-etre-mental, islam, challenges-75j.
 
 > ⚠️ **PRÉFÉRENCES UTILISATEUR (à respecter absolument)**
 > - **Updates FRÉQUENTS** : points réguliers, pas de longs silences.
@@ -18,6 +33,19 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 >   depuis scored_all.json + localstorage_scrape.json + les lignes valides de l'ancien insights).
 >   Format strict `keyword,popularity,competitiveness`. Un `.bak` existe à côté.
 > - **NE JAMAIS SUPPRIMER de fichier de données** sans validation. Toujours faire un .bak avant toute fusion.
+
+## ⚠️ RÈGLE D'ORGANISATION (2026-08-30, IMPORTANT)
+> - **TOUTE l'étude de marché / mots-clés vit dans UN SEUL dossier consultable** :
+>   `brain/marche/mots-cles/`. L'utilisateur ne regarde QUE ce dossier.
+> - **Format = CSV uniquement** pour tout ce que l'utilisateur doit lire (LibreOffice).
+>   JAMAIS de JSON pour l'utilisateur. Les JSON bruts vont dans `mots-cles/_brut/` (archivage caché).
+> - **Un CSV par cluster** dans `mots-cles/` (nom = cluster, ex. `fitness-workout.csv`),
+>   colonnes uniformes : `cluster,keyword,popularity,competitiveness,apps,rank`.
+> - **`mots-cles/INDEX_CLUSTERS.md` = LE fichier d'entrée** que l'utilisateur lit en premier
+>   (tableau récap des clusters, # mots, meilleures pépites, statut).
+> - Un cluster n'est approfondi (dossier `references/<cluster>/` + screenshots + monétisation)
+>   QUE s'il est prometteur (pop≥30 & comp<80) et validé.
+> - Ne JAMAIS disperser les données de marché dans plusieurs dossiers sans raison.
 > - FOURNIR de la DATA brute pour que l'utilisateur tranche LUI-MÊME. Donner ~30+ niches, pas un top 3 fermé.
 > - Seuils élargis : ne pas écarter une piste juste parce qu'elle n'est pas "top 3".
 > - **JAMAIS de libellé inventé** : les noms de dossiers/niches doivent être le mot-clé EXACT de la data
@@ -45,6 +73,12 @@ Accès payants Appfigures/AppRadar : ~6 jours restants.
 >   alors que l'utilisateur y voyait des infos utiles. RÈGLE : avant toute fusion/suppression,
 >   garder un .bak, et TOUJOURS conserver le fichier le plus riche. Ne supprimer que sur validation
 >   explicite de l'utilisateur.
+> - **NE PAS FILTRER/TRIER POUR L'UTILISATEUR (décision 2026-08-30, IMPORTANT)** : l'utilisateur veut
+>   TOUTES les données brutes en CSV, sans filtre pop/comp ni tri. Il trie/filtre lui-même dans
+>   LibreOffice. Un CSV ne doit JAMAIS être limité à un sous-ensemble de mots-clés (ex. pop≥30 & comp<80).
+>   Donner le maximum de mots possible (des milliers par cluster), surtout avant perte d'accès aux
+>   outils payants. Les CSV par cluster = TOUTES les lignes brutes, colonnes
+>   `cluster,app,keyword,popularity,competitiveness,num_apps,rank,importance`.
 
 ## CONTEXTE / DÉCISIONS
 - Stack **React Native**. Focus **iOS**. PAS de FR par défaut. Méthodologie sous-niche.

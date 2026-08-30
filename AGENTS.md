@@ -79,6 +79,21 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
    `requetes-scorees.csv` (fichier de travail des requêtes scorées), ajouter les nouveaux mots EN FIN
    d'appfigures-insights.csv (sans toucher l'existant ni le coloriage).
    AppRadar ne sert pas au workflow (utilisateur va se désabonner).
+16. **MÉTHODE DE RECHERCHE APPROFONDIE = REVERSE KEYWORD MINING (décision utilisateur 2026-08-30)** :
+   LA méthode validée pour trouver des mots-clés longue traîne avec volume réel. Autocomplétion
+   ≠ volume (SP 5 = bruit). NE PAS générer la longue traîne : RÉCOLTER les requêtes déjà prouvées.
+   Pipeline :
+   - Choisir des apps leaders/moyennes par cluster (10-15 apps).
+   - Miner leurs **organic keywords** (mots où elles rankent réellement) via l'API Appfigures
+     `_start/api/aso/products-snapshot/keywords?countries=US&products={pid}&sort=-popularity&count=250&page={n}&device=handheld&group_by=keyword%2Cproduct`
+     (chaque mot a popularity + competitiveness + rank + num_apps).
+   - Le bon pid iOS = `member_product_ids[0]` du search `_start/api/unified-apps/search` QUAND
+     `storefronts` contient `apple:ios`. Ne PAS utiliser un pid au hasard (sinon 400 "Request must
+     have applicable product"). Valider chaque pid avant mining.
+   - Script Node : `tools/scrapers/_mine_*.js` (cookies de session Appfigures). Écrire le JSON
+     brut par cluster dans `mots-cles/_brut/`.
+   - **NE JAMAIS filtrer/trier pour l'utilisateur** : donner TOUTES les lignes brutes en CSV.
+   - STATUT : 20 clusters sondés (~105 000 mots-clés) via cette méthode.
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
 G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →
@@ -100,3 +115,17 @@ G5 Tests UX → G6 Export → G7 Marketing.
 ## État du pipeline
 `pipeline/etat.md` est la source de vérité : une ligne par app, sa phase, son prochain gate.
 L'orchestrateur le met à jour à chaque transition.
+
+## 📚 STRUCTURE DOCUMENTAIRE (où j'écris TOUJOURS — décision 2026-08-30, à respecter)
+> Éviter de créer des documents dispersés. Écrire dans CES documents existants, toujours.
+> - `AGENTS.md` = constitution + règles + méthodes (dont reverse keyword mining, règle 16).
+> - `brain/REPRISE_RECHERCHE.md` = mémoire/état de la recherche de marché (ce qui est fait, où).
+> - `brain/marche/mots-cles/INDEX_CLUSTERS.md` = LE fichier d'entrée des clusters : récap de
+>   chaque cluster, # mots, pépites, statut. À mettre à jour à chaque nouveau cluster sondé.
+> - `brain/marche/mots-cles/<cluster>.csv` = données brutes par cluster (TOUTES les lignes, sans filtre).
+> - `brain/marche/mots-cles/_brut/` = JSON sources (archivage, ne pas consulter directement).
+> - `brain/learnings.md` = enseignements (ce qui a marché/échoué).
+> - `brain/decisions.md` = décisions (ADR).
+> - `brain/outils.md` = inventaire des outils/scripts (dont le mining Appfigures).
+> - `references/<niche>/analyse-globale.md` = analyse approfondie d'une niche validée.
+> NE PAS créer de nouveau fichier de recherche marché hors de ces emplacements. Tout concentrer.

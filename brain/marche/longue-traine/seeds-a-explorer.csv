@@ -1,0 +1,99 @@
+﻿type,keyword,breadth,known_pop_comp,source,statut
+Fitness workout,workout,broad,60/81,utilisateur,deja_score
+Fitness workout,home workout,broad,48/68,utilisateur,deja_score
+Fitness workout,workout for men,broad,—,pool,a_scorer
+Fitness workout,workout for women,broad,—,pool,a_scorer
+Fitness workout,workout routines for women,broad,—,pool,a_scorer
+Fitness workout,workout in pregnancy,broad,—,pool,a_scorer
+Fitness workout,workout log app free,broad,—,pool,a_scorer
+Fitness tracker,fitness tracker app,med,—,pool,a_scorer
+Fitness tracker,fitness tracker watch apps,med,—,pool,a_scorer
+Calisthenics,calisthenics,small,50/76,utilisateur,deja_score
+Calisthenics,calisthenics app no equipment,small,—,pool,a_scorer
+Push up,push up,small,51/68,utilisateur,deja_score
+Push up,push up routine,small,—,pool,a_scorer
+Stretching,stretching exercise app,small,—,pool,a_scorer
+Yoga,yoga,broad,50/67,utilisateur,deja_score
+Yoga,yoga for weight loss,broad,—,pool,a_scorer
+Yoga,yoga poses free,broad,—,pool,a_scorer
+Yoga,home workout yoga,broad,—,pool,a_scorer
+Pilates,pilates app,small,—,pool,a_scorer
+Tai chi,tai chi for seniors,med,—,pool,a_scorer
+Tai chi,tai chi for beginners,med,—,pool,a_scorer
+Tai chi,tai chi chair workout free,med,—,pool,a_scorer
+Boxing,boxing,med,56/72,utilisateur,deja_score
+Boxing,boxing workout,med,—,pool,a_scorer
+Boxing timer,boxing timer,small,47/59,utilisateur,deja_score
+Boxing timer,boxing bell timer,small,—,pool,a_scorer
+Walking,walking app,small,—,pool,a_scorer
+Weight loss,calorie counter,med,—,pool,a_scorer
+Meditation,meditation app,broad,—,pool,a_scorer
+Meditation,sleep meditation,broad,—,pool,a_scorer
+Gratitude journal,gratitude journal app,small,—,pool,a_scorer
+Journal,journal app,broad,—,pool,a_scorer
+Journal,mood journal,broad,—,pool,a_scorer
+Journal,dream journal,broad,—,pool,a_scorer
+Quit smoking,quit smoking app,small,—,pool,a_scorer
+Migraine tracker,migraine journal,small,—,pool,a_scorer
+Migraine tracker,migraine tracker app,small,—,pool,a_scorer
+Diabetes,diabetes tracker,small,—,pool,a_scorer
+Anatomy,anatomy app,small,—,pool,a_scorer
+White noise,white noise for sleep,small,—,pool,a_scorer
+Brown noise,brown noise,small,—,pool,a_scorer
+Tennis,tennis tracker,small,—,pool,a_scorer
+Crossfit,crossfit timer,small,—,pool,a_scorer
+Pickleball,pickleball scoring app,small,—,pool,a_scorer
+75 Hard,75 hard,med,55/61,utilisateur,deja_score
+75 Hard,75 day challenge,med,49/62,utilisateur,deja_score
+75 Hard,75 soft challenge,med,34/60,utilisateur,deja_score
+Prayer times,prayer times app,med,—,pool,a_scorer
+Qibla,qibla finder,small,46/68,utilisateur,deja_score
+Muslim,ramadan tracker,med,—,pool,a_scorer
+Bible study,bible app,small,—,pool,a_scorer
+Astrology,horoscope app,med,—,pool,a_scorer
+Constellation,constellation app,small,—,pool,a_scorer
+Dog whistle,dog whistle,small,49/49,utilisateur,deja_score
+Dog whistle,dog whistle app,small,—,pool,a_scorer
+Dog whistle,dog training app,small,—,pool,a_scorer
+Bird identifier,bird call identifier,med,42/74,utilisateur,deja_score
+Aquarium,aquarium app,small,—,pool,a_scorer
+Beehive,beekeeping app,small,—,pool,a_scorer
+Parrot,parrot training,small,—,pool,a_scorer
+Insect identifier,insect identifier free app,small,38/70,utilisateur,deja_score
+Plant care,plant care app,small,—,pool,a_scorer
+Garden,garden planner,med,—,pool,a_scorer
+Voice changer,voice changer app,small,—,pool,a_scorer
+Passport photo,passport photo maker,small,43/56,utilisateur,deja_score
+AI room design,room planner ai,small,—,pool,a_scorer
+Compass,compass app,small,—,pool,a_scorer
+Launcher,launcher app,small,—,pool,a_scorer
+Dash cam,dashcam app,small,—,pool,a_scorer
+Bus tracker,bus tracker app,small,—,pool,a_scorer
+Heat index,heat index app,small,—,pool,a_scorer
+Chores,chores app,small,—,pool,a_scorer
+Savings tracker,savings app,small,—,pool,a_scorer
+Book tracker,book tracker app,med,—,pool,a_scorer
+Language,language learning,med,—,pool,a_scorer
+Fishing,fishing app,med,—,pool,a_scorer
+Fishing,fishing spots,med,—,pool,a_scorer
+Escape room,escape room app,med,—,pool,a_scorer
+Watch faces,watch faces app,small,—,pool,a_scorer
+Medication reminder,medication reminder app,small,—,pool,a_scorer
+Symptom checker,symptom checker,small,—,pool,a_scorer
+First aid,first aid app,small,—,pool,a_scorer
+Pet health,pet health,small,—,pool,a_scorer
+Cat care,cat care app,small,—,pool,a_scorer
+Gratitude,gratitude app,small,—,pool,a_scorer
+Chores chart,chores chart,small,—,pool,a_scorer
+Reward chart,reward chart,small,—,pool,a_scorer
+Meal planner,weekly meal planner,broad,—,pool,a_scorer
+Meal planner,daily meal planner,broad,—,pool,a_scorer
+Meal planner,budget meal planner,broad,—,pool,a_scorer
+Meal planner,keto meal planner,broad,—,pool,a_scorer
+Meal planner,meal prep planner,broad,—,pool,a_scorer
+Meal planner,vegan meal planner,broad,—,pool,a_scorer
+Meal planner,diabetic meal planner,broad,—,pool,a_scorer
+Meal planner,meal planner with recipes,broad,—,pool,a_scorer
+Meal planner,grocery list and meal planner,broad,—,pool,a_scorer
+Meal planner,meal planner for muscle gain,broad,—,pool,a_scorer
+Meal planner,meal planner free,broad,—,pool,a_scorer

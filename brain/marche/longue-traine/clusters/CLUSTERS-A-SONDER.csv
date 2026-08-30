@@ -1,0 +1,25 @@
+# CLUSTERS À SONDER — reverse keyword mining (2026-08-30)
+# Stratégie : pour chaque cluster, miner les organic keywords des apps leaders
+# (celles qui rankent le mieux sur les mots du cluster) via l'API Appfigures.
+# Format : cluster, mots_principaux, apps_cibles (nom à rechercher sur iTunes)
+cluster,mots_principaux,apps_a_miner
+fitness-workout,"workout, home workout, calisthenics, push up, stretching","Hevy, Strong, Caliber, Boostcamp, JEFIT, Progressive Overload, Fitbod, Home Workout, Freeletics, Muscle Booster"
+fitness-timers,"interval timer, tabata, boxing timer, emom, hiit","Interval Timer, Tabata Timer, Boxing Timer, Seconds Pro, HIIT Timer, CrossFit Timer"
+sports,"tennis, padel, pickleball, parkour, crossfit, golf","SwingVision, Pickleball, Parkour, Crossfit, Darts Scorer, Volleyball Scorer"
+boxing-combat,"boxing, mma, kickboxing, martial arts","Boxing Timer, Shadow Boxing, FightCamp, Precision Boxing"
+challenges-75j,"75 hard, 75 day challenge, 75 soft","75 Hard, 75 Day Challenge, 75 Soft Challenge, BeHard"
+islam,"quran, muslim, qibla, prayer times, azkar, athkar","Muslim Pro, Athan, Quran, Qibla Finder, Athkar, Azkar"
+christianisme,"bible, bible study, daily bible, prayer","YouVersion Bible, Bible App, Hallow, Daily Bible, Christian Prayer"
+bien-etre-mental,"meditation, mindfulness, affirmations, gratitude, balance, stoic, wellness","Calm, Headspace, Insight Timer, I Am Affirmations, Gratitude, Stoic, Balance, Reflect"
+sommeil-sons,"white noise, brown noise, sleep sounds, decibel, snorelab","White Noise, Brown Noise, BetterSleep, SnoreLab, Sound Meter"
+sante-suivi,"migraine tracker, medication reminder, quit smoking, diabetes, anatomy, heat index","Migraine Buddy, Medisafe, QuitNow, mySugr, Anatomy, Heat Index"
+astrologie,"astro, astrotalk, horoscope, constellation, tarot","Astrotalk, Co-Star, DailyHoroscope, Nebula, Tarot"
+journaling-prod,"diary, journal, mood journal, tagebuch, xmind, clockify, chores, savings, healthy roster","Daylio, Reflectly, XMind, Clockify, Chores, Savings"
+animaux-oiseaux,"dog whistle, bird identifier, aquarium, beehive, parrot, insect identifier","iTrainer, Merlin Bird, Aquarium, Beekeeping, Parrot, Insect Identifier"
+plantes-jardin,"plant identifier, plant care, garden","PictureThis, Planta, Garden Planner, Plant Parent"
+photo-voix-ia,"voice changer, passport photo, ai room design, ai photo, ai chat, ai companion","Voice Changer, Passport Photo, Room Planner AI, AI Photo"
+utilitaires,"compass, file manager, call recorder, launcher, white board, bus tracker, dashcam","Compass, File Manager, Call Recorder, Launcher, Whiteboard, Bus Tracker, Dashcam"
+watch-faces,"watch faces, watch face maker","Watch Faces, Facer, WatchMaker, Clockology"
+media-lecture,"bookmory, comics, language, reading tracker","Bookmory, Comic Reader, Language Learning, Reading Tracker"
+peche-pleinair,"fishing, kite","Fishbrain, Fishing Spots, Kite"
+repas-nutrition,"meal planner, calorie counter, meal prep","MealPrepPro, Mealime, eMeals, MyFitnessPal"

@@ -1,0 +1,7010 @@
+{
+  "Fishbrain": [
+    {
+      "kw": "red",
+      "pop": 67,
+      "comp": 100,
+      "apps": 247,
+      "rank": 178,
+      "imp": "6.83"
+    },
+    {
+      "kw": "f",
+      "pop": 63,
+      "comp": 100,
+      "apps": 249,
+      "rank": 122,
+      "imp": "6.87"
+    },
+    {
+      "kw": "you",
+      "pop": 63,
+      "comp": 88,
+      "apps": 247,
+      "rank": 99,
+      "imp": "7.14"
+    },
+    {
+      "kw": "onx hunt",
+      "pop": 59,
+      "comp": 77,
+      "apps": 250,
+      "rank": 86,
+      "imp": "6.88"
+    },
+    {
+      "kw": "fishing",
+      "pop": 59,
+      "comp": 75,
+      "apps": 248,
+      "rank": 1,
+      "imp": "59.00"
+    },
+    {
+      "kw": "fishbrain",
+      "pop": 59,
+      "comp": 72,
+      "apps": 248,
+      "rank": 1,
+      "imp": "59.00"
+    },
+    {
+      "kw": "e",
+      "pop": 57,
+      "comp": 100,
+      "apps": 248,
+      "rank": 100,
+      "imp": "6.45"
+    },
+    {
+      "kw": "message",
+      "pop": 56,
+      "comp": 98,
+      "apps": 248,
+      "rank": 239,
+      "imp": "5.43"
+    },
+    {
+      "kw": "bass pro shops",
+      "pop": 56,
+      "comp": 94,
+      "apps": 247,
+      "rank": 11,
+      "imp": "11.02"
+    },
+    {
+      "kw": "fish",
+      "pop": 55,
+      "comp": 79,
+      "apps": 248,
+      "rank": 1,
+      "imp": "55.00"
+    },
+    {
+      "kw": "the knot",
+      "pop": 55,
+      "comp": 73,
+      "apps": 249,
+      "rank": 150,
+      "imp": "5.77"
+    },
+    {
+      "kw": "onx",
+      "pop": 55,
+      "comp": 82,
+      "apps": 134,
+      "rank": 16,
+      "imp": "9.62"
+    },
+    {
+      "kw": "fish:",
+      "pop": 55,
+      "comp": 43,
+      "apps": 243,
+      "rank": 1,
+      "imp": "55.00"
+    },
+    {
+      "kw": "on x",
+      "pop": 53,
+      "comp": 75,
+      "apps": 250,
+      "rank": 13,
+      "imp": "9.88"
+    },
+    {
+      "kw": "fish ai",
+      "pop": 53,
+      "comp": 70,
+      "apps": 248,
+      "rank": 2,
+      "imp": "24.32"
+    },
+    {
+      "kw": "navionics",
+      "pop": 52,
+      "comp": 80,
+      "apps": 156,
+      "rank": 11,
+      "imp": "10.24"
+    },
+    {
+      "kw": "fishing planet",
+      "pop": 52,
+      "comp": 72,
+      "apps": 248,
+      "rank": 3,
+      "imp": "18.12"
+    },
+    {
+      "kw": "wild",
+      "pop": 51,
+      "comp": 94,
+      "apps": 250,
+      "rank": 229,
+      "imp": "4.98"
+    },
+    {
+      "kw": "fishing clash",
+      "pop": 50,
+      "comp": 65,
+      "apps": 250,
+      "rank": 21,
+      "imp": "8.09"
+    },
+    {
+      "kw": "fish brain",
+      "pop": 49,
+      "comp": 70,
+      "apps": 248,
+      "rank": 1,
+      "imp": "49.00"
+    },
+    {
+      "kw": "tva",
+      "pop": 49,
+      "comp": 56,
+      "apps": 249,
+      "rank": 13,
+      "imp": "9.14"
+    },
+    {
+      "kw": "braın",
+      "pop": 49,
+      "comp": 89,
+      "apps": 238,
+      "rank": 172,
+      "imp": "5.02"
+    },
+    {
+      "kw": "pesca",
+      "pop": 46,
+      "comp": 67,
+      "apps": 248,
+      "rank": 6,
+      "imp": "11.36"
+    },
+    {
+      "kw": "knot",
+      "pop": 42,
+      "comp": 83,
+      "apps": 248,
+      "rank": 13,
+      "imp": "7.83"
+    },
+    {
+      "kw": "onx fish",
+      "pop": 41,
+      "comp": 78,
+      "apps": 249,
+      "rank": 2,
+      "imp": "18.81"
+    },
+    {
+      "kw": "القران",
+      "pop": 40,
+      "comp": 63,
+      "apps": 247,
+      "rank": 205,
+      "imp": "3.98"
+    },
+    {
+      "kw": "bait",
+      "pop": 39,
+      "comp": 100,
+      "apps": 248,
+      "rank": 1,
+      "imp": "39.00"
+    },
+    {
+      "kw": "cdfw license",
+      "pop": 39,
+      "comp": 71,
+      "apps": 93,
+      "rank": 3,
+      "imp": "13.59"
+    },
+    {
+      "kw": "florida fish and wildlife",
+      "pop": 38,
+      "comp": 59,
+      "apps": 248,
+      "rank": 4,
+      "imp": "11.31"
+    },
+    {
+      "kw": "troutroutes",
+      "pop": 37,
+      "comp": 74,
+      "apps": 248,
+      "rank": 2,
+      "imp": "16.98"
+    },
+    {
+      "kw": "utah dwr",
+      "pop": 37,
+      "apps": 250,
+      "rank": 15,
+      "imp": "6.60"
+    },
+    {
+      "kw": "fish washington",
+      "pop": 36,
+      "comp": 84,
+      "apps": 249,
+      "rank": 4,
+      "imp": "10.72"
+    },
+    {
+      "kw": "michigan dnr",
+      "pop": 35,
+      "apps": 250,
+      "rank": 6,
+      "imp": "8.65"
+    },
+    {
+      "kw": "[fish identifier:]",
+      "pop": 35,
+      "comp": 40,
+      "apps": 229,
+      "rank": 190,
+      "imp": "3.53"
+    },
+    {
+      "kw": "fishing app",
+      "pop": 34,
+      "comp": 75,
+      "apps": 247,
+      "rank": 1,
+      "imp": "34.00"
+    },
+    {
+      "kw": "dnr",
+      "pop": 34,
+      "apps": 218,
+      "rank": 159,
+      "imp": "3.53"
+    },
+    {
+      "kw": "fish rules",
+      "pop": 34,
+      "comp": 67,
+      "apps": 247,
+      "rank": 2,
+      "imp": "15.60"
+    },
+    {
+      "kw": "fishing license",
+      "pop": 33,
+      "comp": 47,
+      "apps": 248,
+      "rank": 16,
+      "imp": "5.77"
+    },
+    {
+      "kw": "seabreeze",
+      "pop": 33,
+      "comp": 50,
+      "apps": 93,
+      "rank": 83,
+      "imp": "3.87"
+    },
+    {
+      "kw": "twra on the go",
+      "pop": 33,
+      "apps": 22,
+      "rank": 20,
+      "imp": "5.41"
+    },
+    {
+      "kw": "salt strong fishing app",
+      "pop": 33,
+      "comp": 61,
+      "apps": 247,
+      "rank": 2,
+      "imp": "15.14"
+    },
+    {
+      "kw": "bass pro",
+      "pop": 32,
+      "comp": 78,
+      "apps": 249,
+      "rank": 7,
+      "imp": "7.42"
+    },
+    {
+      "kw": "free fishing apps",
+      "pop": 31,
+      "comp": 65,
+      "apps": 246,
+      "rank": 1,
+      "imp": "31.00"
+    },
+    {
+      "kw": "deep dive fishing",
+      "pop": 31,
+      "comp": 59,
+      "apps": 247,
+      "rank": 2,
+      "imp": "14.23"
+    },
+    {
+      "kw": "tackle warehouse",
+      "pop": 31,
+      "comp": 80,
+      "apps": 248,
+      "rank": 9,
+      "imp": "6.54"
+    },
+    {
+      "kw": "fishing booker",
+      "pop": 30,
+      "comp": 42,
+      "apps": 250,
+      "rank": 13,
+      "imp": "5.59"
+    },
+    {
+      "kw": "iv",
+      "pop": 29,
+      "comp": 100,
+      "apps": 246,
+      "rank": 165,
+      "imp": "2.99"
+    },
+    {
+      "kw": "mo fishing",
+      "pop": 29,
+      "apps": 247,
+      "rank": 6,
+      "imp": "7.16"
+    },
+    {
+      "kw": "iowa dnr",
+      "pop": 28,
+      "apps": 250,
+      "rank": 7,
+      "imp": "6.50"
+    },
+    {
+      "kw": "1x",
+      "pop": 27,
+      "comp": 93,
+      "apps": 240,
+      "rank": 228,
+      "imp": "2.64"
+    },
+    {
+      "kw": "fish hunt fl",
+      "pop": 27,
+      "comp": 40,
+      "apps": 249,
+      "rank": 188,
+      "imp": "2.72"
+    },
+    {
+      "kw": "في",
+      "pop": 27,
+      "comp": 97,
+      "apps": 243,
+      "rank": 229,
+      "imp": "2.64"
+    },
+    {
+      "kw": "fish brain app",
+      "pop": 26,
+      "comp": 65,
+      "apps": 247,
+      "rank": 1,
+      "imp": "26.00"
+    },
+    {
+      "kw": "دیوار",
+      "pop": 26,
+      "apps": 249,
+      "rank": 72,
+      "imp": "3.14"
+    },
+    {
+      "kw": "smart fishing spots",
+      "pop": 26,
+      "comp": 70,
+      "apps": 248,
+      "rank": 2,
+      "imp": "11.93"
+    },
+    {
+      "kw": "bass fishing",
+      "pop": 25,
+      "comp": 71,
+      "apps": 246,
+      "rank": 3,
+      "imp": "8.71"
+    },
+    {
+      "kw": "fishing forecast",
+      "pop": 24,
+      "comp": 79,
+      "apps": 248,
+      "rank": 3,
+      "imp": "8.37"
+    },
+    {
+      "kw": "ihunter",
+      "pop": 24,
+      "comp": 27,
+      "apps": 40,
+      "rank": 38,
+      "imp": "3.34"
+    },
+    {
+      "kw": "bass force",
+      "pop": 24,
+      "comp": 55,
+      "apps": 249,
+      "rank": 5,
+      "imp": "6.42"
+    },
+    {
+      "kw": "fish verify",
+      "pop": 24,
+      "comp": 75,
+      "apps": 248,
+      "rank": 3,
+      "imp": "8.37"
+    },
+    {
+      "kw": "salt strong",
+      "pop": 24,
+      "comp": 75,
+      "apps": 250,
+      "rank": 2,
+      "imp": "11.01"
+    },
+    {
+      "kw": "onwater fish",
+      "pop": 24,
+      "comp": 77,
+      "apps": 247,
+      "rank": 2,
+      "imp": "11.01"
+    },
+    {
+      "kw": "fish weather",
+      "pop": 23,
+      "comp": 59,
+      "apps": 245,
+      "rank": 184,
+      "imp": "2.33"
+    },
+    {
+      "kw": "spear",
+      "pop": 22,
+      "comp": 74,
+      "apps": 215,
+      "rank": 139,
+      "imp": "2.34"
+    },
+    {
+      "kw": "lowrance fishing navigation",
+      "pop": 21,
+      "comp": 51,
+      "apps": 223,
+      "rank": 192,
+      "imp": "2.11"
+    },
+    {
+      "kw": "free fish finder",
+      "pop": 21,
+      "comp": 62,
+      "apps": 249,
+      "rank": 1,
+      "imp": "21.00"
+    },
+    {
+      "kw": "anglers",
+      "pop": 20,
+      "comp": 75,
+      "apps": 246,
+      "rank": 3,
+      "imp": "6.97"
+    },
+    {
+      "kw": "googan squad",
+      "pop": 19,
+      "comp": 40,
+      "apps": 35,
+      "rank": 34,
+      "imp": "2.71"
+    },
+    {
+      "kw": "omnia fishing",
+      "pop": 18,
+      "comp": 80,
+      "apps": 248,
+      "rank": 2,
+      "imp": "8.26"
+    },
+    {
+      "kw": "تيمو",
+      "pop": 16,
+      "comp": 93,
+      "apps": 244,
+      "rank": 174,
+      "imp": "1.64"
+    },
+    {
+      "kw": "fishing times",
+      "pop": 15,
+      "comp": 66,
+      "apps": 243,
+      "rank": 6,
+      "imp": "3.71"
+    },
+    {
+      "kw": "fishing apps",
+      "pop": 13,
+      "comp": 64,
+      "apps": 249,
+      "rank": 1,
+      "imp": "13.00"
+    },
+    {
+      "kw": "tides4fishing",
+      "pop": 13,
+      "comp": 73,
+      "apps": 249,
+      "rank": 11,
+      "imp": "2.56"
+    },
+    {
+      "kw": "tumarea",
+      "pop": 12,
+      "comp": 92,
+      "apps": 245,
+      "rank": 46,
+      "imp": "1.60"
+    },
+    {
+      "kw": "fish identifier free",
+      "pop": 11,
+      "apps": 248,
+      "rank": 2,
+      "imp": "5.05"
+    },
+    {
+      "kw": "trout routes",
+      "pop": 11,
+      "comp": 67,
+      "apps": 248,
+      "rank": 2,
+      "imp": "5.05"
+    },
+    {
+      "kw": "fish id",
+      "pop": 10,
+      "comp": 78,
+      "apps": 246,
+      "rank": 5,
+      "imp": "2.68"
+    },
+    {
+      "kw": "fishing points",
+      "pop": 9,
+      "comp": 75,
+      "apps": 248,
+      "rank": 2,
+      "imp": "4.13"
+    },
+    {
+      "kw": "fishing spots",
+      "pop": 9,
+      "comp": 76,
+      "apps": 248,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "fishbrain fishing app",
+      "pop": 9,
+      "comp": 68,
+      "apps": 248,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "fishbox",
+      "pop": 9,
+      "comp": 69,
+      "apps": 250,
+      "rank": 2,
+      "imp": "4.13"
+    },
+    {
+      "kw": "fishing spot finder",
+      "pop": 9,
+      "comp": 73,
+      "apps": 249,
+      "rank": 1,
+      "imp": "9.00"
+    },
+    {
+      "kw": "fish app",
+      "pop": 8,
+      "comp": 68,
+      "apps": 247,
+      "rank": 1,
+      "imp": "8.00"
+    },
+    {
+      "kw": "catfish",
+      "pop": 8,
+      "comp": 82,
+      "apps": 246,
+      "rank": 7,
+      "imp": "1.86"
+    },
+    {
+      "kw": "mareas",
+      "pop": 8,
+      "comp": 72,
+      "apps": 247,
+      "rank": 244,
+      "imp": "0.77"
+    },
+    {
+      "kw": "lowrance",
+      "pop": 8,
+      "comp": 68,
+      "apps": 40,
+      "rank": 5,
+      "imp": "2.14"
+    },
+    {
+      "kw": "booker",
+      "pop": 8,
+      "comp": 51,
+      "apps": 156,
+      "rank": 84,
+      "imp": "0.94"
+    },
+    {
+      "kw": "fish tracker",
+      "pop": 8,
+      "comp": 68,
+      "apps": 250,
+      "rank": 1,
+      "imp": "8.00"
+    },
+    {
+      "kw": "fishing master",
+      "pop": 8,
+      "comp": 67,
+      "apps": 245,
+      "rank": 41,
+      "imp": "1.09"
+    },
+    {
+      "kw": "fishman",
+      "pop": 8,
+      "comp": 78,
+      "apps": 250,
+      "rank": 2,
+      "imp": "3.67"
+    },
+    {
+      "kw": "bite",
+      "pop": 7,
+      "comp": 84,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.62"
+    },
+    {
+      "kw": "fisch",
+      "pop": 7,
+      "comp": 78,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.48"
+    },
+    {
+      "kw": "orbis",
+      "pop": 7,
+      "apps": 201,
+      "rank": 181,
+      "imp": "0.71"
+    },
+    {
+      "kw": "fishing map",
+      "pop": 6,
+      "comp": 75,
+      "apps": 247,
+      "rank": 1,
+      "imp": "6.00"
+    },
+    {
+      "kw": "tabla mareas",
+      "pop": 6,
+      "comp": 57,
+      "apps": 246,
+      "rank": 35,
+      "imp": "0.85"
+    },
+    {
+      "kw": "fish angler",
+      "pop": 6,
+      "comp": 60,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.75"
+    },
+    {
+      "kw": "fishing spot",
+      "pop": 6,
+      "comp": 78,
+      "apps": 248,
+      "rank": 1,
+      "imp": "6.00"
+    },
+    {
+      "kw": "fishing maps",
+      "pop": 6,
+      "comp": 82,
+      "apps": 246,
+      "rank": 1,
+      "imp": "6.00"
+    },
+    {
+      "kw": "fishing point",
+      "pop": 6,
+      "comp": 79,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.48"
+    },
+    {
+      "kw": "bass forecast",
+      "pop": 6,
+      "comp": 65,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.75"
+    },
+    {
+      "kw": "fish box",
+      "pop": 6,
+      "comp": 64,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.75"
+    },
+    {
+      "kw": "creatures of the deep",
+      "pop": 6,
+      "comp": 60,
+      "apps": 223,
+      "rank": 208,
+      "imp": "0.60"
+    },
+    {
+      "kw": "fishing travel",
+      "pop": 6,
+      "comp": 72,
+      "apps": 246,
+      "rank": 5,
+      "imp": "1.61"
+    },
+    {
+      "kw": "funny apps",
+      "pop": 5,
+      "comp": 96,
+      "apps": 242,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ice fishing app",
+      "pop": 5,
+      "comp": 53,
+      "apps": 248,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fisherman",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fakelocation",
+      "pop": 5,
+      "apps": 180,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fish apps",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "message apps",
+      "pop": 5,
+      "apps": 216,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "meteo gratuit",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 174,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fishing calendar",
+      "pop": 5,
+      "comp": 63,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fishing times calendar",
+      "pop": 5,
+      "comp": 76,
+      "apps": 240,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish feeding times",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish activity",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing weather",
+      "pop": 5,
+      "comp": 82,
+      "apps": 245,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "kayak fishing",
+      "pop": 5,
+      "comp": 57,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish calendar",
+      "pop": 5,
+      "comp": 53,
+      "apps": 247,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "fishing and hunting solunar time",
+      "pop": 5,
+      "comp": 64,
+      "apps": 246,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fishing and hunting",
+      "pop": 5,
+      "comp": 66,
+      "apps": 241,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "navionix",
+      "pop": 5,
+      "comp": 60,
+      "apps": 107,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "go fishing",
+      "pop": 5,
+      "comp": 56,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fly fishing",
+      "pop": 5,
+      "comp": 88,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "solunar best fishing times",
+      "pop": 5,
+      "comp": 76,
+      "apps": 244,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "best fishing times",
+      "pop": 5,
+      "comp": 88,
+      "apps": 244,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "fishing gps",
+      "pop": 5,
+      "comp": 77,
+      "apps": 237,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish finder",
+      "pop": 5,
+      "comp": 71,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lake maps",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "freedom fighter",
+      "pop": 5,
+      "comp": 70,
+      "apps": 245,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "fishing barometer",
+      "pop": 5,
+      "comp": 72,
+      "apps": 247,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "virginia",
+      "pop": 5,
+      "comp": 66,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "paracord knots",
+      "pop": 5,
+      "apps": 195,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "fishing regulations",
+      "pop": 5,
+      "comp": 49,
+      "apps": 244,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "bass fishing apps",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "application app",
+      "pop": 5,
+      "comp": 93,
+      "apps": 226,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "fishidy",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fun app",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "angler app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "previsioni meteo",
+      "pop": 5,
+      "comp": 77,
+      "apps": 201,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "mapcam",
+      "pop": 5,
+      "apps": 217,
+      "rank": 178,
+      "imp": "0.51"
+    },
+    {
+      "kw": "navionics free",
+      "pop": 5,
+      "comp": 59,
+      "apps": 149,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "fishing license app",
+      "pop": 5,
+      "apps": 215,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "location history",
+      "pop": 5,
+      "apps": 237,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishing tides app",
+      "pop": 5,
+      "comp": 57,
+      "apps": 240,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fish and wildlife",
+      "pop": 5,
+      "comp": 62,
+      "apps": 218,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fish feeding",
+      "pop": 5,
+      "comp": 51,
+      "apps": 248,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "saltwater fishing apps",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing tips",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "essential apps",
+      "pop": 5,
+      "comp": 97,
+      "apps": 240,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lunar fishing calendar",
+      "pop": 5,
+      "comp": 53,
+      "apps": 249,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "previsioni",
+      "pop": 5,
+      "comp": 98,
+      "apps": 242,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "fish regulations",
+      "pop": 5,
+      "comp": 52,
+      "apps": 208,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish identifier",
+      "pop": 5,
+      "comp": 75,
+      "apps": 245,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "messige",
+      "pop": 5,
+      "comp": 96,
+      "apps": 248,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "call youtubers",
+      "pop": 5,
+      "apps": 223,
+      "rank": 200,
+      "imp": "0.50"
+    },
+    {
+      "kw": "wild hookup",
+      "pop": 5,
+      "comp": 61,
+      "apps": 211,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "boat fishing",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fisj",
+      "pop": 5,
+      "comp": 65,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "angler",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "depth finder",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 245,
+      "imp": "0.48"
+    },
+    {
+      "kw": "fish finder app",
+      "pop": 5,
+      "comp": 65,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "solunar hunting",
+      "pop": 5,
+      "comp": 54,
+      "apps": 240,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "gå app",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishweather",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "bass master app",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "velocidad del viento",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "fish deeper app",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "network plus",
+      "pop": 5,
+      "comp": 40,
+      "apps": 210,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "sea fishing",
+      "pop": 5,
+      "comp": 62,
+      "apps": 244,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "fish track",
+      "pop": 5,
+      "comp": 84,
+      "apps": 250,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "ifish",
+      "pop": 5,
+      "comp": 71,
+      "apps": 238,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "gps fishing maps",
+      "pop": 5,
+      "comp": 62,
+      "apps": 167,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "fly fish",
+      "pop": 5,
+      "comp": 84,
+      "apps": 243,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "forecast now",
+      "pop": 5,
+      "apps": 232,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishsmart",
+      "pop": 5,
+      "comp": 90,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fishing weather forecast",
+      "pop": 5,
+      "comp": 66,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing pro",
+      "pop": 5,
+      "comp": 72,
+      "apps": 246,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing report",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing reports",
+      "pop": 5,
+      "comp": 70,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish spots",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish map",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing locations",
+      "pop": 5,
+      "comp": 70,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "pro angler",
+      "pop": 5,
+      "comp": 68,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "best fishing app",
+      "pop": 5,
+      "comp": 63,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "free fishing app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "best fishing apps",
+      "pop": 5,
+      "comp": 61,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lake link",
+      "pop": 5,
+      "comp": 82,
+      "apps": 249,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fishing charts",
+      "pop": 5,
+      "comp": 71,
+      "apps": 244,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing log",
+      "pop": 5,
+      "comp": 90,
+      "apps": 246,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fishing logbook",
+      "pop": 5,
+      "comp": 53,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fishing journal",
+      "pop": 5,
+      "comp": 55,
+      "apps": 247,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "lake depth",
+      "pop": 5,
+      "comp": 67,
+      "apps": 209,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fish scanner",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishfinder",
+      "pop": 5,
+      "comp": 72,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish florida",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "free fishing",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "bassmaster",
+      "pop": 5,
+      "comp": 61,
+      "apps": 245,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "bassmaster app",
+      "pop": 5,
+      "comp": 72,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "fishing log book",
+      "pop": 5,
+      "comp": 38,
+      "apps": 205,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mlf",
+      "pop": 5,
+      "comp": 47,
+      "apps": 25,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "fishangler",
+      "pop": 5,
+      "comp": 67,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing chart",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish chart",
+      "pop": 5,
+      "comp": 61,
+      "apps": 244,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish charts",
+      "pop": 5,
+      "comp": 62,
+      "apps": 242,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fishing spots near me",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "ocean fishing",
+      "pop": 5,
+      "comp": 52,
+      "apps": 247,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "lake fishing",
+      "pop": 5,
+      "comp": 64,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "saltwater fishing",
+      "pop": 5,
+      "comp": 71,
+      "apps": 245,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "angler log",
+      "pop": 5,
+      "comp": 83,
+      "apps": 249,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "bass angler",
+      "pop": 5,
+      "comp": 58,
+      "apps": 246,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "sport fishing",
+      "pop": 5,
+      "comp": 82,
+      "apps": 247,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "river fishing",
+      "pop": 5,
+      "comp": 62,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "trout fishing",
+      "pop": 5,
+      "comp": 79,
+      "apps": 246,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing location",
+      "pop": 5,
+      "comp": 79,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing guide",
+      "pop": 5,
+      "comp": 73,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing hotspots",
+      "pop": 5,
+      "comp": 70,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing bait",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish journal",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "find fish",
+      "pop": 5,
+      "comp": 72,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "best free fishing apps",
+      "pop": 5,
+      "comp": 63,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "best free fishing app",
+      "pop": 5,
+      "comp": 73,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "florida fishing",
+      "pop": 5,
+      "comp": 53,
+      "apps": 240,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish hunt",
+      "pop": 5,
+      "comp": 53,
+      "apps": 244,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "fwc",
+      "pop": 5,
+      "comp": 49,
+      "apps": 75,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "navionics fishing",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "pocket marine",
+      "pop": 5,
+      "comp": 44,
+      "apps": 163,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fish species",
+      "pop": 5,
+      "comp": 50,
+      "apps": 248,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "fish forecast",
+      "pop": 5,
+      "comp": 62,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "by",
+      "pop": 5,
+      "comp": 100,
+      "apps": 248,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "navonics",
+      "pop": 5,
+      "comp": 68,
+      "apps": 95,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fische erkennen",
+      "pop": 5,
+      "comp": 60,
+      "apps": 245,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "bassforce",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "animated fishing knots",
+      "pop": 5,
+      "apps": 248,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "fishing lures",
+      "pop": 5,
+      "apps": 245,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "cool free apps",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "hunt x maps",
+      "pop": 5,
+      "apps": 195,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "app best",
+      "pop": 5,
+      "comp": 97,
+      "apps": 242,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "go knots",
+      "pop": 5,
+      "comp": 51,
+      "apps": 42,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fishing hot spots",
+      "pop": 5,
+      "comp": 72,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish gps",
+      "pop": 5,
+      "comp": 72,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish knots",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "fishing sonar",
+      "pop": 5,
+      "apps": 26,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing activity",
+      "pop": 5,
+      "comp": 68,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "4in1",
+      "pop": 5,
+      "comp": 54,
+      "apps": 224,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "ايمو اتصال",
+      "pop": 5,
+      "comp": 97,
+      "apps": 248,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "fishing conditions",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "googan",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "trout",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing tracker",
+      "pop": 5,
+      "comp": 80,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "communauté",
+      "pop": 5,
+      "comp": 57,
+      "apps": 247,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "require",
+      "pop": 5,
+      "comp": 63,
+      "apps": 249,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "grog knots",
+      "pop": 5,
+      "apps": 184,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "solunar times",
+      "pop": 5,
+      "comp": 45,
+      "apps": 128,
+      "rank": 72,
+      "imp": "0.60"
+    },
+    {
+      "kw": "bite times",
+      "pop": 5,
+      "comp": 74,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "bass tracker",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "meting",
+      "pop": 5,
+      "comp": 90,
+      "apps": 227,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "wlid",
+      "pop": 5,
+      "comp": 89,
+      "apps": 250,
+      "rank": 215,
+      "imp": "0.49"
+    },
+    {
+      "kw": "offshore fishing",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fish locator",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "anglr",
+      "pop": 5,
+      "comp": 67,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "Hunting Navigation",
+      "pop": 5,
+      "comp": 66,
+      "apps": 238,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fishing identification",
+      "pop": 5,
+      "comp": 43,
+      "apps": 236,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "fish identification",
+      "pop": 5,
+      "comp": 55,
+      "apps": 245,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fx fish eye",
+      "pop": 5,
+      "comp": 40,
+      "apps": 182,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "app fish eye",
+      "pop": 5,
+      "comp": 78,
+      "apps": 221,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "fish eye cam",
+      "pop": 5,
+      "comp": 71,
+      "apps": 198,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "brain tracking",
+      "pop": 5,
+      "comp": 78,
+      "apps": 247,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "brain nap",
+      "pop": 5,
+      "comp": 57,
+      "apps": 243,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "fun fish",
+      "pop": 5,
+      "comp": 44,
+      "apps": 235,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "help fish",
+      "pop": 5,
+      "comp": 50,
+      "apps": 214,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "يعيش لاليجا",
+      "pop": 5,
+      "comp": 90,
+      "apps": 249,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "نتيجة الليغا",
+      "pop": 5,
+      "comp": 89,
+      "apps": 270,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "solunar table",
+      "pop": 5,
+      "apps": 149,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "fwc fish rules",
+      "pop": 5,
+      "comp": 62,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fishing tools",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing tool",
+      "pop": 5,
+      "comp": 48,
+      "apps": 238,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishtrack",
+      "pop": 5,
+      "comp": 73,
+      "apps": 249,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "when to fish",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "sail knots",
+      "pop": 5,
+      "comp": 53,
+      "apps": 208,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "voor meer",
+      "pop": 5,
+      "comp": 98,
+      "apps": 249,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fishing solunar time",
+      "pop": 5,
+      "comp": 47,
+      "apps": 239,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fishingsolunar",
+      "pop": 5,
+      "comp": 49,
+      "apps": 247,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "solunar time",
+      "pop": 5,
+      "comp": 58,
+      "apps": 243,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "bass fishing app",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish discovery",
+      "pop": 5,
+      "comp": 48,
+      "apps": 212,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish smart",
+      "pop": 5,
+      "comp": 71,
+      "apps": 250,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "hunting solunar",
+      "pop": 5,
+      "comp": 53,
+      "apps": 237,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "time location",
+      "pop": 5,
+      "comp": 51,
+      "apps": 223,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "find wildlife",
+      "pop": 5,
+      "comp": 43,
+      "apps": 246,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "national park wildlife",
+      "pop": 5,
+      "comp": 50,
+      "apps": 239,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "onc",
+      "pop": 5,
+      "comp": 75,
+      "apps": 151,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fishing time app",
+      "pop": 5,
+      "comp": 63,
+      "apps": 246,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "אפ",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "gå apps",
+      "pop": 5,
+      "comp": 83,
+      "apps": 248,
+      "rank": 242,
+      "imp": "0.48"
+    },
+    {
+      "kw": "apoet",
+      "pop": 5,
+      "comp": 92,
+      "apps": 244,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "make a reel",
+      "pop": 5,
+      "apps": 215,
+      "rank": 103,
+      "imp": "0.56"
+    },
+    {
+      "kw": "pond finder",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish times",
+      "pop": 5,
+      "comp": 63,
+      "apps": 245,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish bait",
+      "pop": 5,
+      "comp": 59,
+      "apps": 246,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fosh",
+      "pop": 5,
+      "comp": 78,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass finder",
+      "pop": 5,
+      "comp": 58,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish measure",
+      "pop": 5,
+      "apps": 220,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing spots fish app",
+      "pop": 5,
+      "comp": 63,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "etc.⭐",
+      "pop": 5,
+      "comp": 42,
+      "apps": 221,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishhunt",
+      "pop": 5,
+      "comp": 83,
+      "apps": 244,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "free fishing forecast",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "tabla de marea",
+      "pop": 5,
+      "comp": 93,
+      "apps": 249,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "wildsafari",
+      "pop": 5,
+      "comp": 46,
+      "apps": 235,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "lake master",
+      "pop": 5,
+      "comp": 72,
+      "apps": 209,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "where to fish",
+      "pop": 5,
+      "comp": 68,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "florida fish",
+      "pop": 5,
+      "comp": 67,
+      "apps": 244,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "bass fish",
+      "pop": 5,
+      "comp": 72,
+      "apps": 243,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fishies",
+      "pop": 5,
+      "comp": 56,
+      "apps": 243,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fishes",
+      "pop": 5,
+      "comp": 56,
+      "apps": 247,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "fishing places",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish log",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing lure",
+      "pop": 5,
+      "comp": 54,
+      "apps": 245,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "planet viewer",
+      "pop": 5,
+      "apps": 242,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "picture fish fish identifier",
+      "pop": 5,
+      "comp": 46,
+      "apps": 231,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "sea navigation",
+      "pop": 5,
+      "comp": 63,
+      "apps": 249,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "Solunar Best Fishin Times App",
+      "pop": 5,
+      "comp": 51,
+      "apps": 238,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "bass fishign",
+      "pop": 5,
+      "comp": 57,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass master",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "yesca",
+      "pop": 5,
+      "comp": 44,
+      "apps": 245,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishing depth",
+      "pop": 5,
+      "apps": 193,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "deeper talks",
+      "pop": 5,
+      "comp": 51,
+      "apps": 240,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "app app gratis",
+      "pop": 5,
+      "comp": 84,
+      "apps": 244,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "gratis app app",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "rees",
+      "pop": 5,
+      "comp": 89,
+      "apps": 239,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hummingbird tracker",
+      "pop": 5,
+      "comp": 60,
+      "apps": 193,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "find fishing spots",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "applications sociales",
+      "pop": 5,
+      "comp": 94,
+      "apps": 248,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishing licence",
+      "pop": 5,
+      "comp": 46,
+      "apps": 247,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ticka",
+      "pop": 5,
+      "comp": 57,
+      "apps": 235,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "horarios de mareas",
+      "pop": 5,
+      "comp": 49,
+      "apps": 248,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "fishing forecasr",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "القران مجاني",
+      "pop": 5,
+      "comp": 50,
+      "apps": 247,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "omnia",
+      "pop": 5,
+      "comp": 57,
+      "apps": 121,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "identify fish",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "free fish identifier",
+      "pop": 5,
+      "apps": 250,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "tabla de mareas 2023 gratis",
+      "pop": 5,
+      "comp": 57,
+      "apps": 11,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "app,",
+      "pop": 5,
+      "apps": 231,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "discount tackle",
+      "pop": 5,
+      "comp": 82,
+      "apps": 247,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "deepdive",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bassforecast",
+      "pop": 5,
+      "comp": 63,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "lake finder",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lakes",
+      "pop": 5,
+      "comp": 91,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "river depth",
+      "pop": 5,
+      "comp": 63,
+      "apps": 244,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "michigan sports",
+      "pop": 5,
+      "comp": 62,
+      "apps": 200,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "online trackerr",
+      "pop": 5,
+      "comp": 40,
+      "apps": 232,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fish identifier by picture",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "largemouth bass app",
+      "pop": 5,
+      "comp": 44,
+      "apps": 246,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "(prev",
+      "pop": 5,
+      "comp": 52,
+      "apps": 234,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "onex",
+      "pop": 5,
+      "comp": 80,
+      "apps": 149,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fish is",
+      "pop": 5,
+      "comp": 46,
+      "apps": 244,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishing access",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "onwater",
+      "pop": 5,
+      "comp": 84,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "forcast fishing",
+      "pop": 5,
+      "comp": 63,
+      "apps": 242,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "fishing navigation",
+      "pop": 5,
+      "comp": 72,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "flyfishing",
+      "pop": 5,
+      "comp": 71,
+      "apps": 236,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "orvis",
+      "pop": 5,
+      "comp": 68,
+      "apps": 102,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "trout stream",
+      "pop": 5,
+      "comp": 76,
+      "apps": 237,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "fly tying",
+      "pop": 5,
+      "comp": 34,
+      "apps": 152,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "qcat",
+      "pop": 5,
+      "comp": 88,
+      "apps": 235,
+      "rank": 220,
+      "imp": "0.49"
+    },
+    {
+      "kw": "mop",
+      "pop": 5,
+      "apps": 220,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "alaska fish and game",
+      "pop": 5,
+      "comp": 25,
+      "apps": 250,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishing forcast",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "angleer",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fish identifier ai scanner",
+      "pop": 5,
+      "comp": 76,
+      "apps": 241,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "onxfish",
+      "pop": 5,
+      "comp": 73,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "onx fishing",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fly fishing guide",
+      "pop": 5,
+      "comp": 50,
+      "apps": 227,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "fly-fishing",
+      "pop": 5,
+      "comp": 70,
+      "apps": 202,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "fish spot",
+      "pop": 5,
+      "comp": 79,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "brain tracker",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "fish ruler",
+      "pop": 5,
+      "comp": 35,
+      "apps": 221,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish identifier fish verify",
+      "pop": 5,
+      "comp": 45,
+      "apps": 232,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "onxhunt",
+      "pop": 5,
+      "comp": 64,
+      "apps": 109,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "fushing app",
+      "pop": 5,
+      "comp": 63,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "free derby",
+      "pop": 5,
+      "comp": 40,
+      "apps": 245,
+      "rank": 238,
+      "imp": "0.48"
+    },
+    {
+      "kw": "fishin",
+      "pop": 5,
+      "comp": 75,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "Fish identify",
+      "pop": 5,
+      "comp": 69,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish rules fishing app",
+      "pop": 5,
+      "comp": 59,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish measurement",
+      "pop": 5,
+      "comp": 57,
+      "apps": 219,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "a good app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 243,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "fishing forecasts",
+      "pop": 5,
+      "comp": 69,
+      "apps": 243,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "6th sense",
+      "pop": 5,
+      "comp": 53,
+      "apps": 70,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "texas fishing",
+      "pop": 5,
+      "comp": 79,
+      "apps": 241,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishbooker",
+      "pop": 5,
+      "apps": 242,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "Net Knots",
+      "pop": 5,
+      "comp": 74,
+      "apps": 197,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "navionics gps",
+      "pop": 5,
+      "comp": 66,
+      "apps": 227,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fishing knot",
+      "pop": 5,
+      "comp": 57,
+      "apps": 246,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "fish maps",
+      "pop": 5,
+      "comp": 69,
+      "apps": 242,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass spots",
+      "pop": 5,
+      "comp": 49,
+      "apps": 235,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "A/b",
+      "pop": 5,
+      "comp": 93,
+      "apps": 250,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "smart spots",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "Spot wildlife",
+      "pop": 5,
+      "comp": 29,
+      "apps": 199,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishings",
+      "pop": 5,
+      "comp": 64,
+      "apps": 242,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish in a watch",
+      "pop": 5,
+      "apps": 201,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "on water",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "bass forecast app",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish smart app",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "trout maps",
+      "pop": 5,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "dovetail",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 240,
+      "imp": "0.48"
+    },
+    {
+      "kw": "fishverify",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "Fish Identifier - FishBrain",
+      "pop": 5,
+      "comp": 56,
+      "apps": 235,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "smart fishing",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "salt strong app",
+      "pop": 5,
+      "comp": 70,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "salt strong smart fishing spots",
+      "pop": 5,
+      "comp": 46,
+      "apps": 249,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "trout fish",
+      "pop": 5,
+      "comp": 69,
+      "apps": 238,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "fishing lake maps",
+      "pop": 5,
+      "comp": 72,
+      "apps": 233,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "foshing",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "pro forecast",
+      "pop": 5,
+      "comp": 72,
+      "apps": 223,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ins+",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 240,
+      "imp": "0.48"
+    },
+    {
+      "kw": "finshing timew",
+      "pop": 5,
+      "comp": 48,
+      "apps": 210,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "finshing times",
+      "pop": 5,
+      "comp": 41,
+      "apps": 210,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "motion fishing",
+      "pop": 5,
+      "comp": 53,
+      "apps": 194,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish identifir",
+      "pop": 5,
+      "comp": 40,
+      "apps": 232,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fish identfier",
+      "pop": 5,
+      "comp": 66,
+      "apps": 245,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish scan",
+      "pop": 5,
+      "comp": 62,
+      "apps": 233,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "tide current",
+      "pop": 5,
+      "comp": 59,
+      "apps": 198,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "tide heights",
+      "pop": 5,
+      "comp": 60,
+      "apps": 235,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "dish identifier",
+      "pop": 5,
+      "comp": 84,
+      "apps": 240,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "spot identifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "\btracker app",
+      "pop": 5,
+      "comp": 49,
+      "apps": 240,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fishing-spot",
+      "pop": 5,
+      "comp": 51,
+      "apps": 205,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish indetifier",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "free the fire",
+      "pop": 5,
+      "comp": 90,
+      "apps": 247,
+      "rank": 140,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fish verifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 249,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "fish recognizer",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "catfished",
+      "pop": 5,
+      "comp": 47,
+      "apps": 227,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "tide and times",
+      "pop": 5,
+      "comp": 48,
+      "apps": 233,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "biting",
+      "pop": 5,
+      "comp": 53,
+      "apps": 112,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "fishing planner",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing fishings waypoint",
+      "pop": 5,
+      "comp": 42,
+      "apps": 244,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fishing waypoints",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "gulf fishing",
+      "pop": 5,
+      "comp": 50,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "offline fishing maps",
+      "pop": 5,
+      "comp": 56,
+      "apps": 223,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fish plotter",
+      "pop": 5,
+      "comp": 49,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coastal fishing maps",
+      "pop": 5,
+      "comp": 63,
+      "apps": 119,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "fishing tide",
+      "pop": 5,
+      "comp": 65,
+      "apps": 246,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "coastal fishing",
+      "pop": 5,
+      "comp": 83,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "great lakes fishing",
+      "pop": 5,
+      "comp": 47,
+      "apps": 239,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "brain point",
+      "pop": 5,
+      "comp": 29,
+      "apps": 247,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "app fun",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fish detector",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "california fish",
+      "pop": 5,
+      "comp": 68,
+      "apps": 207,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish grill",
+      "pop": 5,
+      "comp": 48,
+      "apps": 198,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "traut fishing",
+      "pop": 5,
+      "comp": 72,
+      "apps": 245,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish identifer",
+      "pop": 5,
+      "comp": 52,
+      "apps": 224,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing routes",
+      "pop": 5,
+      "comp": 60,
+      "apps": 248,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "ass tracker",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing route",
+      "pop": 5,
+      "comp": 56,
+      "apps": 187,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fish counter",
+      "pop": 5,
+      "comp": 71,
+      "apps": 217,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "f id",
+      "pop": 5,
+      "comp": 25,
+      "apps": 238,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fish pic",
+      "pop": 5,
+      "comp": 52,
+      "apps": 215,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing tip",
+      "pop": 5,
+      "comp": 67,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fish identifier finder",
+      "pop": 5,
+      "apps": 233,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish ıdentifier",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "ocean maps",
+      "pop": 5,
+      "apps": 147,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "tampa bay fishing",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "marine fishing",
+      "pop": 5,
+      "comp": 68,
+      "apps": 239,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "fishing numbers",
+      "pop": 5,
+      "comp": 80,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "noaa fish",
+      "pop": 5,
+      "comp": 72,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing depth charts",
+      "pop": 5,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "free fishing spots",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing help",
+      "pop": 5,
+      "comp": 52,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fishing diving",
+      "pop": 5,
+      "comp": 50,
+      "apps": 202,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fishmap",
+      "pop": 5,
+      "comp": 81,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing reefs",
+      "pop": 5,
+      "comp": 51,
+      "apps": 241,
+      "rank": 118,
+      "imp": "0.55"
+    },
+    {
+      "kw": "magnet fishing",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "big game fishing",
+      "pop": 5,
+      "comp": 38,
+      "apps": 230,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fish mas",
+      "pop": 5,
+      "apps": 10,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish identicier",
+      "pop": 5,
+      "comp": 53,
+      "apps": 223,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "ga. a",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishscanner",
+      "pop": 5,
+      "comp": 52,
+      "apps": 218,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing class",
+      "pop": 5,
+      "comp": 65,
+      "apps": 250,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "anglers app",
+      "pop": 5,
+      "comp": 42,
+      "apps": 248,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishing app & forecast",
+      "pop": 5,
+      "apps": 230,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "aurora forecsat",
+      "pop": 5,
+      "apps": 219,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "solunar hunting times",
+      "pop": 5,
+      "comp": 46,
+      "apps": 237,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "warehouse tracker",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "wildlife map",
+      "pop": 5,
+      "comp": 38,
+      "apps": 250,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "brainbox",
+      "pop": 5,
+      "comp": 75,
+      "apps": 195,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "track fishing",
+      "pop": 5,
+      "comp": 49,
+      "apps": 185,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "cooking fish",
+      "pop": 5,
+      "comp": 32,
+      "apps": 224,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "catchr app",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fish identifie",
+      "pop": 5,
+      "comp": 70,
+      "apps": 234,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish location",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "hawaii fishing",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "gish identifier",
+      "pop": 5,
+      "comp": 58,
+      "apps": 240,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "juust",
+      "pop": 5,
+      "apps": 234,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "verify fish",
+      "pop": 5,
+      "comp": 51,
+      "apps": 249,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "what fish",
+      "pop": 5,
+      "comp": 51,
+      "apps": 203,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish identifyer",
+      "pop": 5,
+      "comp": 58,
+      "apps": 229,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "onyx fish",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing spots & map",
+      "pop": 5,
+      "apps": 72,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "shark teeth identifier",
+      "pop": 5,
+      "apps": 224,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fish scanner: ai identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "salt fish",
+      "pop": 5,
+      "comp": 49,
+      "apps": 200,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "how to fish",
+      "pop": 5,
+      "comp": 52,
+      "apps": 214,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "how to find fish",
+      "pop": 5,
+      "comp": 83,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "soc2",
+      "pop": 5,
+      "apps": 226,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "fish recognition",
+      "pop": 5,
+      "comp": 52,
+      "apps": 219,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "og identifier",
+      "pop": 5,
+      "apps": 246,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "fish breed identifier",
+      "pop": 5,
+      "comp": 46,
+      "apps": 229,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fishbrain - fishing app",
+      "pop": 5,
+      "comp": 67,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishbrain=",
+      "pop": 5,
+      "comp": 63,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "cat%20goes%20fishing",
+      "pop": 5,
+      "comp": 68,
+      "apps": 203,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fly%20fishing",
+      "pop": 5,
+      "comp": 67,
+      "apps": 232,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fish%20finder",
+      "pop": 5,
+      "comp": 62,
+      "apps": 223,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "i%20am%20fish",
+      "pop": 5,
+      "comp": 50,
+      "apps": 227,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish%20app",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fish%20eater",
+      "pop": 5,
+      "comp": 52,
+      "apps": 212,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "navionics%20free",
+      "pop": 5,
+      "comp": 36,
+      "apps": 197,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fishing%20spots",
+      "pop": 5,
+      "comp": 66,
+      "apps": 244,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "fish%20with%20attitude",
+      "pop": 5,
+      "comp": 51,
+      "apps": 207,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "plenty%20fish",
+      "pop": 5,
+      "comp": 52,
+      "apps": 213,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "bass%20tracker",
+      "pop": 5,
+      "comp": 57,
+      "apps": 232,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "fishing appp",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishkeeping guides",
+      "pop": 5,
+      "comp": 60,
+      "apps": 189,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "identify fish by picture",
+      "pop": 5,
+      "comp": 46,
+      "apps": 231,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "fish identifiert",
+      "pop": 5,
+      "comp": 57,
+      "apps": 224,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "onx%20fish",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fish%20map",
+      "pop": 5,
+      "comp": 67,
+      "apps": 242,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "fishing%20maps",
+      "pop": 5,
+      "comp": 66,
+      "apps": 238,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "reels%20templates%20maker",
+      "pop": 5,
+      "apps": 230,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fishing%20points",
+      "pop": 5,
+      "comp": 63,
+      "apps": 246,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "noaa for fishing",
+      "pop": 5,
+      "comp": 50,
+      "apps": 198,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "pro identifier",
+      "pop": 5,
+      "apps": 243,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "treacker",
+      "pop": 5,
+      "comp": 86,
+      "apps": 247,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "tides times",
+      "pop": 5,
+      "comp": 53,
+      "apps": 174,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "chesapeake",
+      "pop": 5,
+      "comp": 54,
+      "apps": 144,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "camping knots",
+      "pop": 5,
+      "apps": 205,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "floraid",
+      "pop": 5,
+      "comp": 44,
+      "apps": 250,
+      "rank": 213,
+      "imp": "0.49"
+    },
+    {
+      "kw": "ai fishing app",
+      "pop": 5,
+      "comp": 78,
+      "apps": 246,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish keeping guide",
+      "pop": 5,
+      "comp": 60,
+      "apps": 215,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish recipe",
+      "pop": 5,
+      "comp": 57,
+      "apps": 209,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing ai",
+      "pop": 5,
+      "comp": 75,
+      "apps": 246,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish identifier:",
+      "pop": 5,
+      "comp": 51,
+      "apps": 238,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish mapping",
+      "pop": 5,
+      "comp": 47,
+      "apps": 249,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fisherman tide predictor",
+      "pop": 5,
+      "apps": 221,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "fısh ıdentifier",
+      "pop": 5,
+      "comp": 78,
+      "apps": 245,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "fısh identifier",
+      "pop": 5,
+      "comp": 53,
+      "apps": 241,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish ıdentifier:",
+      "pop": 5,
+      "comp": 58,
+      "apps": 246,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "fish verification",
+      "pop": 5,
+      "comp": 45,
+      "apps": 221,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish check",
+      "pop": 5,
+      "comp": 70,
+      "apps": 215,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish finer",
+      "pop": 5,
+      "comp": 45,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish ai verify",
+      "pop": 5,
+      "apps": 237,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "fish ai identification",
+      "pop": 5,
+      "apps": 234,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish identificator",
+      "pop": 5,
+      "comp": 52,
+      "apps": 220,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "fish checker",
+      "pop": 5,
+      "comp": 53,
+      "apps": 224,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "spot finder",
+      "pop": 5,
+      "comp": 71,
+      "apps": 229,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fish verify fish identifier",
+      "pop": 5,
+      "comp": 46,
+      "apps": 230,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "ai fish finder",
+      "pop": 5,
+      "comp": 48,
+      "apps": 234,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fishing solunar calendar",
+      "pop": 5,
+      "comp": 62,
+      "apps": 245,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "ai fish map",
+      "pop": 5,
+      "apps": 199,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "forfishsake",
+      "pop": 5,
+      "comp": 58,
+      "apps": 224,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "trout spots",
+      "pop": 5,
+      "apps": 225,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "catfish guide",
+      "pop": 5,
+      "comp": 70,
+      "apps": 198,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "tackle box",
+      "pop": 5,
+      "comp": 59,
+      "apps": 185,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "bait match",
+      "pop": 5,
+      "apps": 158,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass forcast",
+      "pop": 5,
+      "comp": 60,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass forecas",
+      "pop": 5,
+      "comp": 56,
+      "apps": 234,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "thee identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "messaj",
+      "pop": 5,
+      "comp": 95,
+      "apps": 249,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "bbrunlive",
+      "pop": 5,
+      "apps": 238,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "game identifier",
+      "pop": 5,
+      "comp": 76,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fb reels",
+      "pop": 5,
+      "apps": 207,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fish news",
+      "pop": 5,
+      "comp": 59,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "national wildlife federation",
+      "pop": 5,
+      "apps": 191,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "fishing spots map",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "on x fish",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "lake depth finder",
+      "pop": 5,
+      "comp": 68,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "best times to fish",
+      "pop": 5,
+      "comp": 54,
+      "apps": 243,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "bass fishing times",
+      "pop": 5,
+      "comp": 58,
+      "apps": 229,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fiahing",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing knots +",
+      "pop": 5,
+      "comp": 84,
+      "apps": 235,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "saltstrong",
+      "pop": 5,
+      "comp": 74,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "foshing app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "local fishing report",
+      "pop": 5,
+      "comp": 82,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish lakes",
+      "pop": 5,
+      "comp": 69,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish lake",
+      "pop": 5,
+      "comp": 75,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish guide",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "ai fish recognition",
+      "pop": 5,
+      "comp": 43,
+      "apps": 244,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fishing groups",
+      "pop": 5,
+      "comp": 58,
+      "apps": 239,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fush",
+      "pop": 5,
+      "comp": 60,
+      "apps": 240,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fushing",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fiahing app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "local fishing app",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lake fishing app",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lake fishing apps",
+      "pop": 5,
+      "comp": 65,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing app free",
+      "pop": 5,
+      "comp": 65,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing apps free",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing lake map",
+      "pop": 5,
+      "comp": 58,
+      "apps": 181,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "fishing lake map app",
+      "pop": 5,
+      "comp": 74,
+      "apps": 229,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing lake maps app",
+      "pop": 5,
+      "comp": 74,
+      "apps": 230,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing hot spot",
+      "pop": 5,
+      "comp": 72,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "lake maps for fishing",
+      "pop": 5,
+      "comp": 56,
+      "apps": 182,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "fishmaps",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fish ny",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishfinder app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 245,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fire kirin",
+      "pop": 5,
+      "apps": 40,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "flyfishing, fly fishing, fishing maps",
+      "pop": 5,
+      "apps": 158,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "best bass app",
+      "pop": 5,
+      "comp": 48,
+      "apps": 240,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "fish monitor",
+      "pop": 5,
+      "comp": 53,
+      "apps": 231,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "traacker",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 155,
+      "imp": "0.52"
+    },
+    {
+      "kw": "fishing offshore",
+      "pop": 5,
+      "comp": 50,
+      "apps": 197,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fishlog",
+      "pop": 5,
+      "comp": 62,
+      "apps": 207,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish library",
+      "pop": 5,
+      "comp": 49,
+      "apps": 226,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "iowa fishing",
+      "pop": 5,
+      "comp": 53,
+      "apps": 208,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "caatfish",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "learn knots",
+      "pop": 5,
+      "comp": 63,
+      "apps": 226,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "which fish",
+      "pop": 5,
+      "comp": 56,
+      "apps": 213,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing log pro",
+      "pop": 5,
+      "comp": 50,
+      "apps": 201,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "ai fish id",
+      "pop": 5,
+      "apps": 229,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "fish identifier - fish verify",
+      "pop": 5,
+      "comp": 54,
+      "apps": 232,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bi fishing app",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "fish fry recipe",
+      "pop": 5,
+      "apps": 200,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "tracker a",
+      "pop": 5,
+      "apps": 243,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fishing logbook offline",
+      "pop": 5,
+      "apps": 205,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "ltracker",
+      "pop": 5,
+      "comp": 88,
+      "apps": 248,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "deep dive - bass fishing app",
+      "pop": 5,
+      "comp": 65,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass fiishing",
+      "pop": 5,
+      "comp": 59,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "essential app",
+      "pop": 5,
+      "comp": 97,
+      "apps": 239,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "ridiculous",
+      "pop": 5,
+      "apps": 49,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "commercial fishing spots",
+      "pop": 5,
+      "comp": 64,
+      "apps": 242,
+      "rank": 224,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishbook",
+      "pop": 5,
+      "comp": 65,
+      "apps": 191,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "a identifier",
+      "pop": 5,
+      "apps": 245,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "ai fish identification",
+      "pop": 5,
+      "apps": 234,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "paot",
+      "pop": 5,
+      "comp": 98,
+      "apps": 233,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "free box app",
+      "pop": 5,
+      "apps": 247,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "plus free",
+      "pop": 5,
+      "apps": 236,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "outdoor time",
+      "pop": 5,
+      "apps": 244,
+      "rank": 74,
+      "imp": "0.60"
+    },
+    {
+      "kw": "fishing tidetimes",
+      "pop": 5,
+      "comp": 49,
+      "apps": 209,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "saved reels",
+      "pop": 5,
+      "apps": 183,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "trip searcher",
+      "pop": 5,
+      "apps": 232,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "vishing",
+      "pop": 5,
+      "comp": 59,
+      "apps": 240,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "tabla\\",
+      "pop": 5,
+      "apps": 226,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "reels saver: instalk",
+      "pop": 5,
+      "apps": 220,
+      "rank": 29,
+      "imp": "0.74"
+    },
+    {
+      "kw": "fish id app",
+      "pop": 5,
+      "apps": 234,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishdex",
+      "pop": 5,
+      "comp": 74,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish ?dentifier",
+      "pop": 5,
+      "apps": 230,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fish tank maintenance",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "ffffff",
+      "pop": 5,
+      "apps": 245,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "catfish identifier",
+      "pop": 5,
+      "apps": 239,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing prediction",
+      "pop": 5,
+      "apps": 202,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "trout tracker",
+      "pop": 5,
+      "apps": 212,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fish matching",
+      "pop": 5,
+      "comp": 72,
+      "apps": 212,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fish catch tracker",
+      "pop": 5,
+      "apps": 249,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fishing knot calculator",
+      "pop": 5,
+      "comp": 66,
+      "apps": 242,
+      "rank": 146,
+      "imp": "0.53"
+    },
+    {
+      "kw": "bass fishing calculator",
+      "pop": 5,
+      "apps": 239,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "leader formula",
+      "pop": 5,
+      "apps": 196,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "sport maps",
+      "pop": 5,
+      "comp": 68,
+      "apps": 213,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "fly fishing log",
+      "pop": 5,
+      "comp": 52,
+      "apps": 201,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fly fishing weight calculator",
+      "pop": 5,
+      "comp": 64,
+      "apps": 242,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "macrame knot counter",
+      "pop": 5,
+      "apps": 228,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "fish weight estimator",
+      "pop": 5,
+      "apps": 230,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish weight",
+      "pop": 5,
+      "comp": 40,
+      "apps": 217,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "lure guide",
+      "pop": 5,
+      "apps": 217,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "forkcast",
+      "pop": 5,
+      "apps": 226,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish tracker app",
+      "pop": 5,
+      "apps": 250,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing tacker",
+      "pop": 5,
+      "comp": 40,
+      "apps": 244,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "fish dentifier",
+      "pop": 5,
+      "apps": 230,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "iderntfier",
+      "pop": 5,
+      "apps": 249,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "bass fishing map",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "bass fishing maps",
+      "pop": 5,
+      "comp": 66,
+      "apps": 245,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "bass fishfinder",
+      "pop": 5,
+      "comp": 48,
+      "apps": 239,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "bass lake fishing",
+      "pop": 5,
+      "comp": 46,
+      "apps": 234,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "bass fish finder",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 119,
+      "imp": "0.55"
+    },
+    {
+      "kw": "bassforecasts",
+      "pop": 5,
+      "comp": 45,
+      "apps": 249,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "bass fishing lakes",
+      "pop": 5,
+      "comp": 46,
+      "apps": 232,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "bass fishing forecast",
+      "pop": 5,
+      "comp": 49,
+      "apps": 245,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "bass fishing time",
+      "pop": 5,
+      "comp": 46,
+      "apps": 232,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "bass fishing spots",
+      "pop": 5,
+      "comp": 64,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass fishing tools",
+      "pop": 5,
+      "comp": 46,
+      "apps": 235,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "bass fishing lake",
+      "pop": 5,
+      "comp": 46,
+      "apps": 234,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "fish bass",
+      "pop": 5,
+      "comp": 46,
+      "apps": 242,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "fishing bass",
+      "pop": 5,
+      "comp": 50,
+      "apps": 244,
+      "rank": 243,
+      "imp": "0.48"
+    },
+    {
+      "kw": "bass lake",
+      "pop": 5,
+      "comp": 58,
+      "apps": 232,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "bass fishing spot",
+      "pop": 5,
+      "comp": 53,
+      "apps": 238,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "bass fish forecast",
+      "pop": 5,
+      "comp": 46,
+      "apps": 241,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "bass fishing lake map",
+      "pop": 5,
+      "comp": 59,
+      "apps": 224,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "bass maps",
+      "pop": 5,
+      "comp": 67,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "bass spot",
+      "pop": 5,
+      "comp": 89,
+      "apps": 230,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "bass map",
+      "pop": 5,
+      "comp": 68,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "bass fishing tips",
+      "pop": 5,
+      "comp": 78,
+      "apps": 228,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "bass forecasts",
+      "pop": 5,
+      "comp": 49,
+      "apps": 243,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "fishing lake",
+      "pop": 5,
+      "comp": 79,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass fishing tip",
+      "pop": 5,
+      "comp": 40,
+      "apps": 235,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "fishing lake apps",
+      "pop": 5,
+      "comp": 68,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing lake app",
+      "pop": 5,
+      "comp": 62,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass fishing lake maps",
+      "pop": 5,
+      "comp": 59,
+      "apps": 224,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "largemouth bass",
+      "pop": 5,
+      "comp": 48,
+      "apps": 247,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "largemouth bass fishing",
+      "pop": 5,
+      "comp": 40,
+      "apps": 231,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "find bass",
+      "pop": 5,
+      "comp": 51,
+      "apps": 239,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "bass fishing forecast app for anglers",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishbrain app",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass fishing guide",
+      "pop": 5,
+      "comp": 69,
+      "apps": 225,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "best bass fishing app",
+      "pop": 5,
+      "comp": 62,
+      "apps": 235,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "bassfinder",
+      "pop": 5,
+      "comp": 60,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "lake fishing maps",
+      "pop": 5,
+      "comp": 61,
+      "apps": 236,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "fishing spot locator",
+      "pop": 5,
+      "comp": 41,
+      "apps": 245,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "lake fishing map",
+      "pop": 5,
+      "comp": 59,
+      "apps": 177,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "lake maps app",
+      "pop": 5,
+      "comp": 68,
+      "apps": 240,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lake maps fishing",
+      "pop": 5,
+      "comp": 59,
+      "apps": 182,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "bass fishng",
+      "pop": 5,
+      "comp": 62,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "maps for bass fishing",
+      "pop": 5,
+      "comp": 54,
+      "apps": 236,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "bait tool",
+      "pop": 5,
+      "comp": 96,
+      "apps": 250,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "lake maps bass fishing",
+      "pop": 5,
+      "comp": 59,
+      "apps": 231,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "onwater app",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "onwater fish app",
+      "pop": 5,
+      "comp": 76,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "onx fish app",
+      "pop": 5,
+      "comp": 77,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "onx fishing app",
+      "pop": 5,
+      "comp": 62,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishng",
+      "pop": 5,
+      "comp": 65,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass fishing tournament",
+      "pop": 5,
+      "comp": 43,
+      "apps": 243,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "bass fishing tournament app",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "monsterbass",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "deep dive fishing app",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass master fishing",
+      "pop": 5,
+      "comp": 53,
+      "apps": 242,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lake monster",
+      "pop": 5,
+      "comp": 68,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bassmaster fishing",
+      "pop": 5,
+      "comp": 57,
+      "apps": 247,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "tennessee fishing",
+      "pop": 5,
+      "comp": 80,
+      "apps": 247,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish idenifier",
+      "pop": 5,
+      "apps": 223,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fish oregon",
+      "pop": 5,
+      "comp": 56,
+      "apps": 226,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "huntfish",
+      "pop": 5,
+      "comp": 73,
+      "apps": 194,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "versfy",
+      "pop": 5,
+      "apps": 244,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "find message",
+      "pop": 5,
+      "apps": 223,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "puntos de pesca",
+      "pop": 5,
+      "comp": 59,
+      "apps": 126,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "gps pesca",
+      "pop": 5,
+      "comp": 87,
+      "apps": 248,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "fishing predictor",
+      "pop": 5,
+      "comp": 40,
+      "apps": 242,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "solunar tables",
+      "pop": 5,
+      "comp": 61,
+      "apps": 248,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "moon phase fishing",
+      "pop": 5,
+      "comp": 61,
+      "apps": 249,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "barometer for fishing",
+      "pop": 5,
+      "comp": 77,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fly fishing calendar",
+      "pop": 5,
+      "comp": 40,
+      "apps": 231,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "freshwater fishing",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "kayak fishing spots",
+      "pop": 5,
+      "comp": 40,
+      "apps": 236,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "surf fishing forecast",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "perch fishing forecast",
+      "pop": 5,
+      "comp": 40,
+      "apps": 240,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "fishing notes",
+      "pop": 5,
+      "comp": 44,
+      "apps": 249,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishing photo",
+      "pop": 5,
+      "comp": 79,
+      "apps": 241,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing community",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "lure selector",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "tackle box app",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "best time to go fishing today",
+      "pop": 5,
+      "comp": 49,
+      "apps": 241,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "free fishing weather app for iphone",
+      "pop": 5,
+      "comp": 51,
+      "apps": 238,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "best bass fishing calendar 2026",
+      "pop": 5,
+      "comp": 43,
+      "apps": 234,
+      "rank": 66,
+      "imp": "0.62"
+    },
+    {
+      "kw": "best fishing spots near me",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "major and minor fishing periods",
+      "pop": 5,
+      "comp": 43,
+      "apps": 234,
+      "rank": 167,
+      "imp": "0.52"
+    },
+    {
+      "kw": "fishing weather forecast for my location",
+      "pop": 5,
+      "comp": 57,
+      "apps": 236,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fishbrain alternative",
+      "pop": 5,
+      "comp": 43,
+      "apps": 250,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "best fishing apps 2026",
+      "pop": 5,
+      "comp": 44,
+      "apps": 240,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "daily fishing forecast",
+      "pop": 5,
+      "comp": 49,
+      "apps": 239,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "fishing planning app",
+      "pop": 5,
+      "comp": 76,
+      "apps": 245,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing trip planner",
+      "pop": 5,
+      "comp": 57,
+      "apps": 246,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fishing score",
+      "pop": 5,
+      "apps": 189,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing on boat",
+      "pop": 5,
+      "comp": 55,
+      "apps": 243,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "inshore fishing",
+      "pop": 5,
+      "apps": 250,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "app for fishing",
+      "pop": 5,
+      "comp": 59,
+      "apps": 243,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bass finder app",
+      "pop": 5,
+      "comp": 73,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "one tap reel make",
+      "pop": 5,
+      "apps": 167,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "one tap reel maker",
+      "pop": 5,
+      "apps": 179,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "mapa pesca",
+      "pop": 5,
+      "comp": 47,
+      "apps": 159,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "socialcatfish",
+      "pop": 5,
+      "apps": 187,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "picture fish - fish identifier",
+      "pop": 5,
+      "apps": 218,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "ing tracker",
+      "pop": 5,
+      "apps": 244,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "rout:",
+      "pop": 5,
+      "apps": 236,
+      "rank": 124,
+      "imp": "0.54"
+    },
+    {
+      "kw": "fish ai - ai fishing app",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "depth the",
+      "pop": 5,
+      "comp": 71,
+      "apps": 205,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "apps with tides forecast information",
+      "pop": 5,
+      "apps": 203,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "bass canyon",
+      "pop": 5,
+      "apps": 61,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "bass learning app",
+      "pop": 5,
+      "apps": 193,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "find er",
+      "pop": 5,
+      "apps": 215,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishbowl: professional network",
+      "pop": 5,
+      "apps": 217,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "fly fishing encyclopedia paid",
+      "pop": 5,
+      "comp": 73,
+      "apps": 240,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "hook n reel",
+      "pop": 5,
+      "apps": 194,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "master bass angler: fishing",
+      "pop": 5,
+      "comp": 64,
+      "apps": 246,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "network device scanner・finder",
+      "pop": 5,
+      "apps": 227,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "trackẻ",
+      "pop": 5,
+      "apps": 249,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "department the",
+      "pop": 5,
+      "apps": 231,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "app strong",
+      "pop": 5,
+      "apps": 236,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "calls etc",
+      "pop": 5,
+      "apps": 182,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "stronk",
+      "pop": 5,
+      "apps": 239,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "flyfish",
+      "pop": 5,
+      "apps": 155,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "mass tracker",
+      "pop": 5,
+      "comp": 63,
+      "apps": 250,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "bass fishing ai",
+      "pop": 5,
+      "comp": 46,
+      "apps": 239,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "bass fishing coach",
+      "pop": 5,
+      "comp": 43,
+      "apps": 238,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "fly fishing journal",
+      "pop": 5,
+      "apps": 236,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "best bass fishing apps",
+      "pop": 5,
+      "comp": 59,
+      "apps": 236,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish catalog",
+      "pop": 5,
+      "apps": 214,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "boating guide",
+      "pop": 5,
+      "comp": 49,
+      "apps": 230,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "fishing alerts",
+      "pop": 5,
+      "apps": 204,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing checklist",
+      "pop": 5,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "reel hook generator",
+      "pop": 5,
+      "comp": 46,
+      "apps": 197,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fish reminder",
+      "pop": 5,
+      "apps": 210,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish training",
+      "pop": 5,
+      "apps": 213,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "seafood finder",
+      "pop": 5,
+      "apps": 202,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "seafood ratings",
+      "pop": 5,
+      "apps": 218,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "license finder",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "fish health",
+      "pop": 5,
+      "apps": 221,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "bait tracker",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "bass feeding times",
+      "pop": 5,
+      "comp": 55,
+      "apps": 242,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish bite times",
+      "pop": 5,
+      "comp": 68,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "bangus",
+      "pop": 5,
+      "apps": 215,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "tide tracker app",
+      "pop": 5,
+      "apps": 224,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "hunting forecast app",
+      "pop": 5,
+      "apps": 217,
+      "rank": 100,
+      "imp": "0.57"
+    },
+    {
+      "kw": "catfish detector",
+      "pop": 5,
+      "apps": 213,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "fishsmart app",
+      "pop": 5,
+      "comp": 76,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "salt strong smart fishing app",
+      "pop": 5,
+      "comp": 57,
+      "apps": 246,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "salt strong fish app",
+      "pop": 5,
+      "comp": 72,
+      "apps": 245,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "salt strong smart spots",
+      "pop": 5,
+      "comp": 64,
+      "apps": 24,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "smart fishing app",
+      "pop": 5,
+      "comp": 76,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "smart fishing apps",
+      "pop": 5,
+      "comp": 63,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "salt strong fishing",
+      "pop": 5,
+      "comp": 64,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "tide chart for fishing",
+      "pop": 5,
+      "comp": 67,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "salt water fishing maps",
+      "pop": 5,
+      "comp": 46,
+      "apps": 227,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "netwwork scanner",
+      "pop": 5,
+      "apps": 238,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "social map",
+      "pop": 5,
+      "apps": 204,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "bass master fishing app",
+      "pop": 5,
+      "comp": 59,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing baits",
+      "pop": 5,
+      "comp": 58,
+      "apps": 243,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "saltwater fishing app",
+      "pop": 5,
+      "comp": 64,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "type of fish",
+      "pop": 5,
+      "apps": 214,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "fishing barometric pressure",
+      "pop": 5,
+      "apps": 208,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish notify",
+      "pop": 5,
+      "apps": 203,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish ai map",
+      "pop": 5,
+      "apps": 222,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing calendar & tide times",
+      "pop": 5,
+      "apps": 202,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fishtrack - charts & forecasts",
+      "pop": 5,
+      "apps": 250,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "nautide: tides, wind, waves +",
+      "pop": 5,
+      "apps": 192,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "eta route",
+      "pop": 5,
+      "apps": 239,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "verify picture",
+      "pop": 5,
+      "apps": 232,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "derby simulation",
+      "pop": 5,
+      "apps": 227,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "deep bass",
+      "pop": 5,
+      "apps": 232,
+      "rank": 194,
+      "imp": "0.50"
+    },
+    {
+      "kw": "fishweather: marine forecasts",
+      "pop": 5,
+      "apps": 193,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "deporte app",
+      "pop": 5,
+      "comp": 96,
+      "apps": 240,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "time map",
+      "pop": 5,
+      "apps": 226,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "recovered deleted messages",
+      "pop": 5,
+      "apps": 223,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fish lure",
+      "pop": 5,
+      "comp": 64,
+      "apps": 247,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "fishing ai app",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing catch log",
+      "pop": 5,
+      "apps": 249,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ab tracker",
+      "pop": 5,
+      "apps": 232,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "maps forecasts tide",
+      "pop": 5,
+      "comp": 58,
+      "apps": 239,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "âb",
+      "pop": 5,
+      "apps": 228,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "nautical flags",
+      "pop": 5,
+      "apps": 183,
+      "rank": 167,
+      "imp": "0.52"
+    },
+    {
+      "kw": "tide fishing",
+      "pop": 5,
+      "comp": 45,
+      "apps": 247,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "game forecast",
+      "pop": 5,
+      "apps": 233,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "fishing lakes",
+      "pop": 5,
+      "comp": 69,
+      "apps": 247,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "gaoutdoors",
+      "pop": 5,
+      "apps": 42,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "fishing calendar & tide",
+      "pop": 5,
+      "apps": 242,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "hunting & maps",
+      "pop": 5,
+      "apps": 215,
+      "rank": 59,
+      "imp": "0.63"
+    },
+    {
+      "kw": "map & forecast",
+      "pop": 5,
+      "apps": 229,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "wikdlife",
+      "pop": 5,
+      "apps": 237,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "boat navigation app",
+      "pop": 5,
+      "apps": 217,
+      "rank": 185,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fly fishing maps",
+      "pop": 5,
+      "apps": 173,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "trout streams",
+      "pop": 5,
+      "comp": 64,
+      "apps": 190,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "fly fishing access maps",
+      "pop": 5,
+      "apps": 164,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "best fishing times app",
+      "pop": 5,
+      "apps": 217,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "mdc.mo.gov",
+      "pop": 5,
+      "apps": 209,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "myodfw.com",
+      "pop": 5,
+      "apps": 7,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "catfish rig",
+      "pop": 5,
+      "apps": 184,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fishing log gratis",
+      "pop": 5,
+      "apps": 209,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fishing log no ads",
+      "pop": 5,
+      "apps": 208,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hunting license app",
+      "pop": 5,
+      "apps": 223,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "fishing cake",
+      "pop": 5,
+      "apps": 195,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "tracker & simulator",
+      "pop": 5,
+      "apps": 230,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "boating exam",
+      "pop": 5,
+      "apps": 235,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "bait guide",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "hunting map app",
+      "pop": 5,
+      "apps": 246,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "fishing map app",
+      "pop": 5,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fishing spots app",
+      "pop": 5,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "forecaset",
+      "pop": 5,
+      "apps": 241,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "bassradar: bass fishing app",
+      "pop": 5,
+      "comp": 46,
+      "apps": 242,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "maps hunting times",
+      "pop": 5,
+      "apps": 239,
+      "rank": 166,
+      "imp": "0.52"
+    },
+    {
+      "kw": "navigation depth",
+      "pop": 5,
+      "apps": 237,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "troutroutes fly fishing",
+      "pop": 5,
+      "apps": 249,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "fish midwest fishing maps",
+      "pop": 5,
+      "apps": 235,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "onx fish midwest fishing",
+      "pop": 5,
+      "apps": 245,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "fish spots, maps & forecast",
+      "pop": 5,
+      "apps": 246,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "یادآور آب",
+      "pop": 5,
+      "apps": 236,
+      "rank": 127,
+      "imp": "0.54"
+    },
+    {
+      "kw": "sailing knots",
+      "apps": 198,
+      "rank": 27
+    },
+    {
+      "kw": "tabla de mareas para pescar",
+      "comp": 52,
+      "apps": 95,
+      "rank": 48
+    },
+    {
+      "kw": "spears",
+      "comp": 35,
+      "apps": 198,
+      "rank": 197
+    },
+    {
+      "kw": "- [ ] fish identifier",
+      "comp": 40,
+      "apps": 224,
+      "rank": 214
+    },
+    {
+      "kw": "fish] identifier",
+      "comp": 40,
+      "apps": 224,
+      "rank": 220
+    },
+    {
+      "kw": "in app free",
+      "comp": 84,
+      "apps": 236,
+      "rank": 87
+    },
+    {
+      "kw": "depth tracker",
+      "comp": 72,
+      "apps": 250,
+      "rank": 150
+    },
+    {
+      "kw": "\blocation tracke",
+      "apps": 229,
+      "rank": 185
+    },
+    {
+      "kw": "leader taper",
+      "apps": 216,
+      "rank": 1
+    },
+    {
+      "kw": "nautical chart",
+      "apps": 39,
+      "rank": 13
+    },
+    {
+      "kw": "river flow fishing",
+      "apps": 197,
+      "rank": 3
+    },
+    {
+      "kw": "fishing knot guide",
+      "apps": 193,
+      "rank": 5
+    },
+    {
+      "kw": "iderntifier",
+      "apps": 248,
+      "rank": 115
+    },
+    {
+      "kw": "ridculous",
+      "apps": 49,
+      "rank": 12
+    },
+    {
+      "kw": "fishing calendar\t, fish finder\t,",
+      "apps": 217,
+      "rank": 2
+    },
+    {
+      "kw": "coin journal",
+      "apps": 219,
+      "rank": 32
+    },
+    {
+      "kw": "fly fishing knot guide",
+      "comp": 40,
+      "apps": 224,
+      "rank": 75
+    },
+    {
+      "kw": "fish fortune",
+      "apps": 202,
+      "rank": 6
+    },
+    {
+      "kw": "tide checker",
+      "apps": 206,
+      "rank": 129
+    },
+    {
+      "kw": "ab scanner",
+      "apps": 228,
+      "rank": 25
+    },
+    {
+      "kw": "crappie fishing",
+      "comp": 52,
+      "apps": 246,
+      "rank": 3
+    },
+    {
+      "kw": "fishing log app free",
+      "apps": 244,
+      "rank": 164
+    },
+    {
+      "kw": "fishing log app",
+      "apps": 245,
+      "rank": 183
+    },
+    {
+      "kw": "fishing names",
+      "comp": 47,
+      "apps": 244,
+      "rank": 227
+    },
+    {
+      "kw": "fishing recipes",
+      "apps": 188,
+      "rank": 1
+    },
+    {
+      "kw": "fish midwest fishing",
+      "apps": 249,
+      "rank": 74
+    },
+    {
+      "kw": "texas hunt and fish",
+      "apps": 250,
+      "rank": 4
+    },
+    {
+      "kw": "mywdfw app",
+      "apps": 250,
+      "rank": 11
+    },
+    {
+      "kw": "washington fish and wildlife",
+      "apps": 248,
+      "rank": 10
+    },
+    {
+      "kw": "go outdoors north carolina",
+      "apps": 250,
+      "rank": 5
+    },
+    {
+      "kw": "utah hunting and fishing",
+      "apps": 249,
+      "rank": 3
+    },
+    {
+      "kw": "michigan dnr hunt fish",
+      "apps": 250,
+      "rank": 2
+    }
+  ]
+}
