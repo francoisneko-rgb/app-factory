@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (51 clusters, ~230 000 mots-clés)
+## Clusters sondés (55 clusters, ~260 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -90,6 +90,31 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 | finance-enfant | `finance-enfant.csv` | 1 266 | rooster money (46/48), kiwipop (35/43) | 🟡 |
 | jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
 | education-codage | `education-codage.csv` | 850 | Tynker, codeSpark | 🟡 |
+
+### Nouveaux clusters JEUX sondés le 30/08 (vague 9) — approfondissement jeux
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| jeux-3d | `jeux-3d.csv` | 15 282 | clash royale (76/50), fc mobile (72/52), gta san andreas (61/52) | 🟢⭐ (Unity futur) |
+| jeux-educatifs-enfant | `jeux-educatifs-enfant.csv` | 22 574 | **girl games (61/34)**, offline games (72/45), cooking games (66/68), baby games (61/62) | 🟢⭐ À approfondir |
+| jeux-enfant | `jeux-enfant.csv` | 5 650 | horse games (56/61), animal games (54/58), princess (52/67), dames (42/34) | 🟢 À approfondir |
+| jeux-2d-hypercasual | `jeux-2d-hypercasual.csv` | 4 125 | idle games (61/69), water (53/68), outline (50/37) | 🟢⭐ RN-friendly |
+
+**TOTAL : 55 clusters sondés, ~260 000 mots-clés bruts.**
+
+## 🎮 ANALYSE RAPIDE — clusters JEUX (notes + faisabilité)
+- **jeux-educatifs-enfant — Note 8/10** : RN faisable (2D), demande énorme, 164 pépites dont
+  girl games (61/34), cooking games (66/68), offline/no-wifi games (fortes). Marchés non-anglais
+  (espagnol, italien, allemand) quasi libres. Inconvénients : qualité attendue haute (Toca Boca,
+  Lingokids leaders), monétisation abonnement + pub, rétention enfants = renouveau de contenu.
+- **jeux-2d-hypercasual — Note 7.5/10** : RN PUR faisable (color sort, water sort, merge, idle,
+  flappy, brain out). Fait pour RN (pas besoin Unity). Monétisation pub. Inconvénients : marché
+  ultra saturé, UA coûteuse, durée de vie courte des hits. Idéal pour un portfolio.
+- **jeux-3d — Note 6/10 (Unity)** : 193 pépites mais dominé par des GEANTS (Genshin, PUBG, Asphalt,
+  GTA) à budgets énormes. Unity nécessaire. Inconvénients : hors budget indie sauf sous-niche 3D
+  simple (racing arcade, runner 3D, survival craft). À garder pour plus tard.
+- **jeux-enfant — Note 7/10** : RN 2D faisable. Mots génériques enfant (princess, animal, horse,
+  cooking) à comp battable (34-61). Inconvénients : concurrence élevée sur "kids games", besoin
+  d'angle (par thème ou par langue).
 
 **TOTAL : 51 clusters sondés, ~230 000 mots-clés bruts.**
 
