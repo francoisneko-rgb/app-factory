@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (43 clusters, ~200 000 mots-clés)
+## Clusters sondés (51 clusters, ~230 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -70,6 +70,28 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 | communication-proches | `communication-proches.csv` | 2 079 | family locator, find my phone | 🟢 À approfondir |
 | voiture-transport | `voiture-transport.csv` | 1 953 | fuel, car maintenance, parking, driving test | 🟡 |
 | jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
+
+### Nouveaux clusters sondés le 30/08 (13 ajoutés, vagues 5-8 : sous-niches + enfants + mariage)
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| productivite-etude | `productivite-etude.csv` | 19 579 | pomodoro, flashcards, study planner | 🟢 À approfondir |
+| voyage-itineraires | `voyage-itineraires.csv` | 9 170 | trip planner, flight tracker, packing | 🟢 À approfondir |
+| finance-personnelle | `finance-personnelle.csv` | 8 120 | budget, expense, investment, crypto, debt | 🟢 À approfondir |
+| jeux-educatifs-enfant | `jeux-educatifs-enfant.csv` | 8 269 | **girl games (61/34)**, offline games (72/45), games for girls (61/49) | 🟢⭐ À approfondir |
+| workout-cible | `workout-cible.csv` | 7 415 | free workout apps for women, chair yoga seniors | 🟡 |
+| fitness-specifique | `fitness-specifique.csv` | 4 601 | yoga, pilates, pedometer, kettlebell | 🟢 À approfondir |
+| journaling-specifique | `journaling-specifique.csv` | 4 271 | — | 🟡 |
+| bien-etre-cible | `bien-etre-cible.csv` | 3 465 | stress watch | 🟡 |
+| immobilier-maison | `immobilier-maison.csv` | 3 764 | real estate, mortgage, apartment | 🟡 |
+| psychologie-specifique | `psychologie-specifique.csv` | 2 574 | habit tracker ADHD | 🟡 |
+| communication-proches | `communication-proches.csv` | 2 079 | family locator, find my phone | 🟢 À approfondir |
+| wedding-occasions | `wedding-occasions.csv` | 2 070 | wedding planning app (41/56), cvent events | 🟡 |
+| voiture-transport | `voiture-transport.csv` | 1 953 | fuel, car maintenance, parking, driving test | 🟡 |
+| finance-enfant | `finance-enfant.csv` | 1 266 | rooster money (46/48), kiwipop (35/43) | 🟡 |
+| jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
+| education-codage | `education-codage.csv` | 850 | Tynker, codeSpark | 🟡 |
+
+**TOTAL : 51 clusters sondés, ~230 000 mots-clés bruts.**
 
 **TOTAL : 43 clusters sondés, ~200 000 mots-clés bruts.**
 

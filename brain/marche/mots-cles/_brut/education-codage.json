@@ -1,0 +1,6289 @@
+{
+  "Tynker": [
+    {
+      "kw": "minecraft education",
+      "pop": 61,
+      "comp": 100,
+      "apps": 248,
+      "rank": 117,
+      "imp": "6.70"
+    },
+    {
+      "kw": "zipline",
+      "pop": 54,
+      "comp": 93,
+      "apps": 146,
+      "rank": 28,
+      "imp": "8.10"
+    },
+    {
+      "kw": "replit",
+      "pop": 54,
+      "comp": 100,
+      "apps": 248,
+      "rank": 161,
+      "imp": "5.60"
+    },
+    {
+      "kw": "tinker",
+      "pop": 41,
+      "comp": 80,
+      "apps": 168,
+      "rank": 4,
+      "imp": "12.21"
+    },
+    {
+      "kw": "learning apps for kids",
+      "pop": 30,
+      "comp": 79,
+      "apps": 246,
+      "rank": 236,
+      "imp": "2.91"
+    },
+    {
+      "kw": "coding game",
+      "pop": 29,
+      "comp": 69,
+      "apps": 248,
+      "rank": 111,
+      "imp": "3.22"
+    },
+    {
+      "kw": "666",
+      "pop": 28,
+      "comp": 93,
+      "apps": 242,
+      "rank": 204,
+      "imp": "2.79"
+    },
+    {
+      "kw": "kid games for free",
+      "pop": 26,
+      "comp": 80,
+      "apps": 248,
+      "rank": 248,
+      "imp": "2.50"
+    },
+    {
+      "kw": "ماين كرفت",
+      "pop": 25,
+      "comp": 95,
+      "apps": 202,
+      "rank": 122,
+      "imp": "2.73"
+    },
+    {
+      "kw": "scratchjr",
+      "pop": 22,
+      "comp": 72,
+      "apps": 170,
+      "rank": 11,
+      "imp": "4.33"
+    },
+    {
+      "kw": "free lego games for kids",
+      "pop": 21,
+      "apps": 248,
+      "rank": 127,
+      "imp": "2.27"
+    },
+    {
+      "kw": "minecraft mod maker",
+      "pop": 21,
+      "comp": 45,
+      "apps": 226,
+      "rank": 5,
+      "imp": "5.62"
+    },
+    {
+      "kw": "lego insiders club",
+      "pop": 21,
+      "apps": 157,
+      "rank": 18,
+      "imp": "3.55"
+    },
+    {
+      "kw": "coding games",
+      "pop": 19,
+      "comp": 54,
+      "apps": 244,
+      "rank": 11,
+      "imp": "3.74"
+    },
+    {
+      "kw": "lego education",
+      "pop": 15,
+      "apps": 178,
+      "rank": 40,
+      "imp": "2.06"
+    },
+    {
+      "kw": "coding games for kids",
+      "pop": 9,
+      "comp": 54,
+      "apps": 247,
+      "rank": 3,
+      "imp": "3.14"
+    },
+    {
+      "kw": "minecraft diamond finder",
+      "pop": 9,
+      "comp": 67,
+      "apps": 170,
+      "rank": 53,
+      "imp": "1.16"
+    },
+    {
+      "kw": "lego fortnite",
+      "pop": 9,
+      "apps": 184,
+      "rank": 160,
+      "imp": "0.93"
+    },
+    {
+      "kw": "spirio",
+      "pop": 8,
+      "apps": 28,
+      "rank": 27,
+      "imp": "1.21"
+    },
+    {
+      "kw": "koder",
+      "pop": 7,
+      "comp": 65,
+      "apps": 232,
+      "rank": 196,
+      "imp": "0.70"
+    },
+    {
+      "kw": "barbi",
+      "pop": 6,
+      "comp": 88,
+      "apps": 240,
+      "rank": 172,
+      "imp": "0.61"
+    },
+    {
+      "kw": "kids coding",
+      "pop": 6,
+      "comp": 43,
+      "apps": 246,
+      "rank": 5,
+      "imp": "1.61"
+    },
+    {
+      "kw": "free coding",
+      "pop": 5,
+      "apps": 245,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "minecraft lite",
+      "pop": 5,
+      "apps": 207,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "barb",
+      "pop": 5,
+      "apps": 223,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "barbei",
+      "pop": 5,
+      "apps": 219,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "free kids games for ipad",
+      "pop": 5,
+      "comp": 58,
+      "apps": 248,
+      "rank": 175,
+      "imp": "0.51"
+    },
+    {
+      "kw": "for kids",
+      "pop": 5,
+      "comp": 98,
+      "apps": 247,
+      "rank": 214,
+      "imp": "0.49"
+    },
+    {
+      "kw": "coding for kids",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "hopster coding safari for kids",
+      "pop": 5,
+      "apps": 204,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "kidscode",
+      "pop": 5,
+      "comp": 40,
+      "apps": 250,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "free coding for kids",
+      "pop": 5,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "coding kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "hour of code",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "kid coding",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "coding curriculum",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 134,
+      "imp": "0.54"
+    },
+    {
+      "kw": "explore coding",
+      "pop": 5,
+      "comp": 42,
+      "apps": 244,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "code program for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "code own project",
+      "pop": 5,
+      "comp": 43,
+      "apps": 249,
+      "rank": 246,
+      "imp": "0.48"
+    },
+    {
+      "kw": "kid-friendly programming",
+      "pop": 5,
+      "comp": 43,
+      "apps": 246,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "tynker",
+      "pop": 5,
+      "apps": 59,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding apps for kids",
+      "pop": 5,
+      "comp": 42,
+      "apps": 239,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "lego hidden side",
+      "pop": 5,
+      "comp": 55,
+      "apps": 138,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "kids programming",
+      "pop": 5,
+      "comp": 73,
+      "apps": 243,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "programmation",
+      "pop": 5,
+      "comp": 53,
+      "apps": 247,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "code monkey",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "programming for kids",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "code de la",
+      "pop": 5,
+      "apps": 241,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "lego kids",
+      "pop": 5,
+      "apps": 158,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "孩子们",
+      "pop": 5,
+      "comp": 48,
+      "apps": 248,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "coding challenge",
+      "pop": 5,
+      "apps": 241,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "nocode",
+      "pop": 5,
+      "comp": 86,
+      "apps": 249,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "learn coding offline",
+      "pop": 5,
+      "apps": 208,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "python 2",
+      "pop": 5,
+      "comp": 86,
+      "apps": 230,
+      "rank": 198,
+      "imp": "0.50"
+    },
+    {
+      "kw": "a revolutionary platform on your ipad capable of building powerful apps. no code skills required.",
+      "pop": 5,
+      "comp": 83,
+      "apps": 240,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "the coder bot.",
+      "pop": 5,
+      "comp": 47,
+      "apps": 244,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "build apps no code",
+      "pop": 5,
+      "comp": 71,
+      "apps": 241,
+      "rank": 230,
+      "imp": "0.49"
+    },
+    {
+      "kw": "no Coding",
+      "pop": 5,
+      "apps": 228,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "game programming",
+      "pop": 5,
+      "comp": 60,
+      "apps": 243,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "c ide",
+      "pop": 5,
+      "apps": 238,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "gcode",
+      "pop": 5,
+      "comp": 89,
+      "apps": 229,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "stem apps for kids",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "kids coding games",
+      "pop": 5,
+      "comp": 40,
+      "apps": 237,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "coding for kids learn to code",
+      "pop": 5,
+      "comp": 40,
+      "apps": 238,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "code for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "zepline",
+      "pop": 5,
+      "comp": 4,
+      "apps": 60,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "learn flutter",
+      "pop": 5,
+      "apps": 195,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "mie",
+      "pop": 5,
+      "apps": 224,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "un code",
+      "pop": 5,
+      "apps": 240,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "educate kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 247,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "stem kids",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "minecraft servers",
+      "pop": 5,
+      "comp": 45,
+      "apps": 163,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "minecraft realms",
+      "pop": 5,
+      "comp": 94,
+      "apps": 214,
+      "rank": 211,
+      "imp": "0.49"
+    },
+    {
+      "kw": "scratch programming",
+      "pop": 5,
+      "apps": 216,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "coding playground",
+      "pop": 5,
+      "comp": 56,
+      "apps": 245,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "minecraft mode",
+      "pop": 5,
+      "comp": 72,
+      "apps": 188,
+      "rank": 145,
+      "imp": "0.53"
+    },
+    {
+      "kw": "modos",
+      "pop": 5,
+      "comp": 52,
+      "apps": 221,
+      "rank": 212,
+      "imp": "0.49"
+    },
+    {
+      "kw": "Kid games for free​",
+      "pop": 5,
+      "comp": 69,
+      "apps": 248,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "kids learning code game",
+      "pop": 5,
+      "comp": 42,
+      "apps": 246,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "minecraft launcher",
+      "pop": 5,
+      "apps": 188,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "coding classes",
+      "pop": 5,
+      "comp": 78,
+      "apps": 247,
+      "rank": 158,
+      "imp": "0.52"
+    },
+    {
+      "kw": "coding skills",
+      "pop": 5,
+      "comp": 49,
+      "apps": 245,
+      "rank": 241,
+      "imp": "0.48"
+    },
+    {
+      "kw": "coding lesson",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 160,
+      "imp": "0.52"
+    },
+    {
+      "kw": "coding school",
+      "pop": 5,
+      "comp": 40,
+      "apps": 240,
+      "rank": 61,
+      "imp": "0.63"
+    },
+    {
+      "kw": "coding 101",
+      "pop": 5,
+      "comp": 42,
+      "apps": 246,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "codin",
+      "pop": 5,
+      "comp": 70,
+      "apps": 245,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "Beginner Coding",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "coding teacher",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "coding tutor",
+      "pop": 5,
+      "comp": 60,
+      "apps": 246,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "codeschool",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "coding for beginner",
+      "pop": 5,
+      "comp": 44,
+      "apps": 242,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "يعيش لاليجا",
+      "pop": 5,
+      "comp": 90,
+      "apps": 249,
+      "rank": 226,
+      "imp": "0.49"
+    },
+    {
+      "kw": "نتيجة الليغا",
+      "pop": 5,
+      "comp": 89,
+      "apps": 270,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "creator minecraft",
+      "pop": 5,
+      "comp": 96,
+      "apps": 132,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "world cup 2022",
+      "pop": 5,
+      "comp": 94,
+      "apps": 205,
+      "rank": 187,
+      "imp": "0.51"
+    },
+    {
+      "kw": "game codes",
+      "pop": 5,
+      "apps": 223,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "python learn to code",
+      "pop": 5,
+      "comp": 42,
+      "apps": 233,
+      "rank": 120,
+      "imp": "0.55"
+    },
+    {
+      "kw": "code challenges",
+      "pop": 5,
+      "comp": 55,
+      "apps": 212,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "learning stem",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 92,
+      "imp": "0.58"
+    },
+    {
+      "kw": "stem games kids",
+      "pop": 5,
+      "comp": 45,
+      "apps": 241,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "kid code",
+      "pop": 5,
+      "comp": 26,
+      "apps": 235,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "kids games coding",
+      "pop": 5,
+      "comp": 40,
+      "apps": 235,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "coding program",
+      "pop": 5,
+      "comp": 40,
+      "apps": 236,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "coding for children",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "learn coding for children",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "learn stem",
+      "pop": 5,
+      "comp": 44,
+      "apps": 243,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "stem for kids",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "learn to make game",
+      "pop": 5,
+      "comp": 66,
+      "apps": 238,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "repliy",
+      "pop": 5,
+      "comp": 97,
+      "apps": 247,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "varagh",
+      "pop": 5,
+      "comp": 79,
+      "apps": 212,
+      "rank": 207,
+      "imp": "0.50"
+    },
+    {
+      "kw": "minecraft kits",
+      "pop": 5,
+      "comp": 66,
+      "apps": 179,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "code lesson",
+      "pop": 5,
+      "comp": 66,
+      "apps": 222,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "learn coding python",
+      "pop": 5,
+      "comp": 69,
+      "apps": 234,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "python learn coding",
+      "pop": 5,
+      "comp": 42,
+      "apps": 237,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "program python",
+      "pop": 5,
+      "comp": 40,
+      "apps": 228,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "python program",
+      "pop": 5,
+      "comp": 57,
+      "apps": 230,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "python anaconda",
+      "pop": 5,
+      "comp": 65,
+      "apps": 227,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "learn coding/programming",
+      "pop": 5,
+      "apps": 233,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "codes skins",
+      "pop": 5,
+      "comp": 36,
+      "apps": 236,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "learn python coding offline",
+      "pop": 5,
+      "apps": 211,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "learn codinb",
+      "pop": 5,
+      "comp": 57,
+      "apps": 198,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "code writing",
+      "pop": 5,
+      "comp": 98,
+      "apps": 231,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "lego builder app",
+      "pop": 5,
+      "apps": 143,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "minecraft finder",
+      "pop": 5,
+      "apps": 167,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "gpt for kids",
+      "pop": 5,
+      "comp": 84,
+      "apps": 242,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "ai tutor for kids",
+      "pop": 5,
+      "comp": 61,
+      "apps": 247,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "hackers studio",
+      "pop": 5,
+      "comp": 44,
+      "apps": 201,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "BuildIt Kids",
+      "pop": 5,
+      "comp": 62,
+      "apps": 246,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "for learning",
+      "pop": 5,
+      "comp": 82,
+      "apps": 246,
+      "rank": 244,
+      "imp": "0.48"
+    },
+    {
+      "kw": "for educators",
+      "pop": 5,
+      "comp": 52,
+      "apps": 246,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "pythons",
+      "pop": 5,
+      "comp": 73,
+      "apps": 196,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "ochui",
+      "pop": 5,
+      "comp": 7,
+      "apps": 237,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "BARBIE ROOM",
+      "pop": 5,
+      "comp": 75,
+      "apps": 212,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "code write",
+      "pop": 5,
+      "comp": 56,
+      "apps": 219,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "python anywhere",
+      "pop": 5,
+      "comp": 86,
+      "apps": 200,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "code for roblox",
+      "pop": 5,
+      "comp": 37,
+      "apps": 212,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "learncode",
+      "pop": 5,
+      "comp": 59,
+      "apps": 232,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "Codecandy studio",
+      "pop": 5,
+      "apps": 236,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "fuel calc",
+      "pop": 5,
+      "comp": 86,
+      "apps": 223,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "för",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "codefinity",
+      "pop": 5,
+      "comp": 96,
+      "apps": 219,
+      "rank": 41,
+      "imp": "0.68"
+    },
+    {
+      "kw": "바크",
+      "pop": 5,
+      "comp": 67,
+      "apps": 250,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "idz digital",
+      "pop": 5,
+      "comp": 33,
+      "apps": 233,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "Codeway dijital",
+      "pop": 5,
+      "comp": 60,
+      "apps": 241,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "tinker diy",
+      "pop": 5,
+      "comp": 37,
+      "apps": 52,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "python coding game",
+      "pop": 5,
+      "apps": 247,
+      "rank": 71,
+      "imp": "0.61"
+    },
+    {
+      "kw": "Python Manual",
+      "pop": 5,
+      "comp": 89,
+      "apps": 207,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "ai learning for kids",
+      "pop": 5,
+      "comp": 71,
+      "apps": 249,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "mod for",
+      "pop": 5,
+      "comp": 91,
+      "apps": 206,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "coding quiz",
+      "pop": 5,
+      "apps": 213,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "development for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "craft palace",
+      "pop": 5,
+      "comp": 85,
+      "apps": 196,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "kids ipad",
+      "pop": 5,
+      "comp": 77,
+      "apps": 244,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "kids educational app",
+      "pop": 5,
+      "comp": 92,
+      "apps": 242,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "kid coding games",
+      "pop": 5,
+      "comp": 57,
+      "apps": 248,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "kid coding  games",
+      "pop": 5,
+      "comp": 42,
+      "apps": 236,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "craftcraft",
+      "pop": 5,
+      "comp": 65,
+      "apps": 94,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "Kids todo",
+      "pop": 5,
+      "comp": 76,
+      "apps": 244,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "learn game dev",
+      "pop": 5,
+      "comp": 68,
+      "apps": 236,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "learn coding with ai",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "kids sandbox",
+      "pop": 5,
+      "comp": 30,
+      "apps": 246,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "turtle programming",
+      "pop": 5,
+      "comp": 9,
+      "apps": 178,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "program games",
+      "pop": 5,
+      "comp": 48,
+      "apps": 247,
+      "rank": 204,
+      "imp": "0.50"
+    },
+    {
+      "kw": "learn code kids",
+      "pop": 5,
+      "comp": 42,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "margaret",
+      "pop": 5,
+      "comp": 80,
+      "apps": 197,
+      "rank": 147,
+      "imp": "0.53"
+    },
+    {
+      "kw": "python guide",
+      "pop": 5,
+      "comp": 87,
+      "apps": 204,
+      "rank": 109,
+      "imp": "0.56"
+    },
+    {
+      "kw": "gor",
+      "pop": 5,
+      "apps": 223,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "minecraft modern house",
+      "pop": 5,
+      "comp": 48,
+      "apps": 212,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "for childrens",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "kid s",
+      "pop": 5,
+      "comp": 84,
+      "apps": 244,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "software for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 247,
+      "rank": 89,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ai kids learning",
+      "pop": 5,
+      "comp": 70,
+      "apps": 246,
+      "rank": 125,
+      "imp": "0.54"
+    },
+    {
+      "kw": "acs code",
+      "pop": 5,
+      "comp": 62,
+      "apps": 239,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "ai code learning",
+      "pop": 5,
+      "comp": 45,
+      "apps": 247,
+      "rank": 180,
+      "imp": "0.51"
+    },
+    {
+      "kw": "ai learn to code",
+      "pop": 5,
+      "comp": 45,
+      "apps": 226,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "ai learn coding",
+      "pop": 5,
+      "comp": 45,
+      "apps": 230,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "learn to coding",
+      "pop": 5,
+      "comp": 53,
+      "apps": 211,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "rocketkit",
+      "pop": 5,
+      "comp": 26,
+      "apps": 219,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "kids educational game apps",
+      "pop": 5,
+      "comp": 85,
+      "apps": 248,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "tiktok block",
+      "pop": 5,
+      "comp": 65,
+      "apps": 193,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "entretenimiento educativo",
+      "pop": 5,
+      "comp": 34,
+      "apps": 250,
+      "rank": 229,
+      "imp": "0.49"
+    },
+    {
+      "kw": "stem learning games",
+      "pop": 5,
+      "comp": 46,
+      "apps": 245,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "make learning",
+      "pop": 5,
+      "comp": 59,
+      "apps": 241,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "ai learning fır",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 151,
+      "imp": "0.52"
+    },
+    {
+      "kw": "game program",
+      "pop": 5,
+      "apps": 196,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "ixl\\",
+      "pop": 5,
+      "apps": 215,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fuels",
+      "pop": 5,
+      "apps": 227,
+      "rank": 44,
+      "imp": "0.67"
+    },
+    {
+      "kw": "modding",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "mince",
+      "pop": 5,
+      "apps": 204,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "code breaking",
+      "pop": 5,
+      "comp": 25,
+      "apps": 194,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "code hacker",
+      "pop": 5,
+      "apps": 191,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "codeplayground",
+      "pop": 5,
+      "apps": 210,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "codeplayground ai",
+      "pop": 5,
+      "apps": 241,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "vibe coder",
+      "pop": 5,
+      "comp": 96,
+      "apps": 225,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "learn proramming",
+      "pop": 5,
+      "apps": 212,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vscode mcp list",
+      "pop": 5,
+      "apps": 213,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "programmingh",
+      "pop": 5,
+      "apps": 206,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "skillhub ai",
+      "pop": 5,
+      "apps": 241,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "bytewise micro learning",
+      "pop": 5,
+      "apps": 239,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "python coding lessons",
+      "pop": 5,
+      "comp": 53,
+      "apps": 208,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "coding%20games",
+      "pop": 5,
+      "comp": 57,
+      "apps": 215,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "kid%20games%20free",
+      "pop": 5,
+      "comp": 82,
+      "apps": 248,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "morse%20it",
+      "pop": 5,
+      "comp": 49,
+      "apps": 192,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "hour%20of%20code",
+      "pop": 5,
+      "comp": 71,
+      "apps": 248,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "learn%20code",
+      "pop": 5,
+      "comp": 49,
+      "apps": 214,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "top%20education%20games%20for%20kids",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "kids%20games%20free",
+      "pop": 5,
+      "comp": 63,
+      "apps": 248,
+      "rank": 237,
+      "imp": "0.49"
+    },
+    {
+      "kw": "kid%20games%20for%20free",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "educational%20games%20for%20kids%202%204",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "mimo%20learn%20coding%20programming",
+      "pop": 5,
+      "comp": 60,
+      "apps": 229,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "coding%20kids",
+      "pop": 5,
+      "comp": 57,
+      "apps": 217,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "tik%20tok%20kids",
+      "pop": 5,
+      "comp": 67,
+      "apps": 189,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "fidget%20trading",
+      "pop": 5,
+      "comp": 82,
+      "apps": 236,
+      "rank": 136,
+      "imp": "0.53"
+    },
+    {
+      "kw": "free%20educational%20games%20for%20kids",
+      "pop": 5,
+      "comp": 66,
+      "apps": 248,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "kids%20app%20qustodio",
+      "pop": 5,
+      "comp": 59,
+      "apps": 207,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "free%20learning%20apps%20for%20kids",
+      "pop": 5,
+      "comp": 67,
+      "apps": 248,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "free%20kids%20learning",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 245,
+      "imp": "0.48"
+    },
+    {
+      "kw": "kids%20free%20games",
+      "pop": 5,
+      "comp": 62,
+      "apps": 246,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "educational%20games%20for%20kids",
+      "pop": 5,
+      "comp": 77,
+      "apps": 248,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "add%20frame",
+      "pop": 5,
+      "comp": 68,
+      "apps": 221,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "pre%20k%20preschool%20games%20for%20kids",
+      "pop": 5,
+      "comp": 62,
+      "apps": 247,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "codespark%20academy",
+      "pop": 5,
+      "comp": 78,
+      "apps": 239,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "online%20python",
+      "pop": 5,
+      "comp": 71,
+      "apps": 215,
+      "rank": 117,
+      "imp": "0.55"
+    },
+    {
+      "kw": "break reminder for programmers",
+      "pop": 5,
+      "apps": 212,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "learning%20apps%20for%20kids",
+      "pop": 5,
+      "comp": 78,
+      "apps": 248,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids%20educational%20games",
+      "pop": 5,
+      "comp": 61,
+      "apps": 248,
+      "rank": 215,
+      "imp": "0.49"
+    },
+    {
+      "kw": "learn%20to%20code",
+      "pop": 5,
+      "apps": 207,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "swift%20playgrounds",
+      "pop": 5,
+      "comp": 89,
+      "apps": 245,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "game%20for%20kids%20free",
+      "pop": 5,
+      "comp": 80,
+      "apps": 247,
+      "rank": 242,
+      "imp": "0.48"
+    },
+    {
+      "kw": "computer%20science",
+      "pop": 5,
+      "apps": 184,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "python%203",
+      "pop": 5,
+      "apps": 212,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "microsoft%20minecraft",
+      "pop": 5,
+      "apps": 246,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "14. codebook",
+      "pop": 5,
+      "apps": 239,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "import swiftui",
+      "pop": 5,
+      "apps": 220,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "htl coding",
+      "pop": 5,
+      "apps": 235,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "ai moda",
+      "pop": 5,
+      "comp": 70,
+      "apps": 244,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "pyhon",
+      "pop": 5,
+      "apps": 193,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "mod game",
+      "pop": 5,
+      "apps": 224,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "teach kids to code",
+      "pop": 5,
+      "apps": 216,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "vibe coding addiction",
+      "pop": 5,
+      "apps": 239,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "minecraft log",
+      "pop": 5,
+      "apps": 205,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "learn coding for kids",
+      "pop": 5,
+      "apps": 226,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "learn coding private",
+      "pop": 5,
+      "apps": 240,
+      "rank": 69,
+      "imp": "0.61"
+    },
+    {
+      "kw": "coding guide",
+      "pop": 5,
+      "apps": 205,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "build & fix kids",
+      "pop": 5,
+      "comp": 50,
+      "apps": 234,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "game barcode",
+      "pop": 5,
+      "apps": 206,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "minecraft buil",
+      "pop": 5,
+      "apps": 209,
+      "rank": 188,
+      "imp": "0.50"
+    },
+    {
+      "kw": "skin code",
+      "pop": 5,
+      "apps": 208,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "crotch",
+      "pop": 5,
+      "apps": 191,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "learn box",
+      "pop": 5,
+      "apps": 217,
+      "rank": 152,
+      "imp": "0.52"
+    },
+    {
+      "kw": "code ediyort",
+      "pop": 5,
+      "apps": 219,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "kid todo",
+      "pop": 5,
+      "comp": 71,
+      "apps": 231,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "for server",
+      "pop": 5,
+      "apps": 222,
+      "rank": 215,
+      "imp": "0.49"
+    },
+    {
+      "kw": "luis medel",
+      "pop": 5,
+      "comp": 58,
+      "apps": 227,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "codebaker",
+      "pop": 5,
+      "apps": 234,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "character frequency counter",
+      "pop": 5,
+      "apps": 233,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "athar craft",
+      "pop": 5,
+      "apps": 212,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids code games",
+      "pop": 5,
+      "apps": 194,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "qwen 2.5 coder",
+      "pop": 5,
+      "comp": 62,
+      "apps": 245,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "macros for kids",
+      "pop": 5,
+      "comp": 98,
+      "apps": 249,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "stardust period editor",
+      "pop": 5,
+      "apps": 233,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "easy code maker",
+      "pop": 5,
+      "apps": 219,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "stardust editor tracker",
+      "pop": 5,
+      "apps": 235,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "stardust period editor editor",
+      "pop": 5,
+      "apps": 234,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "fix my code",
+      "pop": 5,
+      "apps": 215,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "sideme: learn coding",
+      "pop": 5,
+      "apps": 208,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "kid stem",
+      "pop": 5,
+      "apps": 241,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "shout to open",
+      "pop": 5,
+      "apps": 236,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "6444809156",
+      "pop": 5,
+      "apps": 218,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "zipscan",
+      "pop": 5,
+      "apps": 196,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "ia for kids",
+      "pop": 5,
+      "comp": 87,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "ai tutor kids",
+      "pop": 5,
+      "comp": 75,
+      "apps": 249,
+      "rank": 186,
+      "imp": "0.51"
+    },
+    {
+      "kw": "science concept explainer",
+      "pop": 5,
+      "apps": 205,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "code explain",
+      "pop": 5,
+      "apps": 216,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "minecraft server list",
+      "pop": 5,
+      "apps": 185,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "kids enducation",
+      "pop": 5,
+      "comp": 77,
+      "apps": 248,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "coding hours",
+      "pop": 5,
+      "comp": 45,
+      "apps": 230,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "pyobide",
+      "pop": 5,
+      "comp": 84,
+      "apps": 201,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "creative coding",
+      "pop": 5,
+      "comp": 86,
+      "apps": 246,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "gamjes for kids",
+      "pop": 5,
+      "comp": 42,
+      "apps": 245,
+      "rank": 199,
+      "imp": "0.50"
+    },
+    {
+      "kw": "learn python for beginners",
+      "pop": 5,
+      "apps": 211,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "python coding app free",
+      "pop": 5,
+      "apps": 233,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "focro",
+      "pop": 5,
+      "comp": 73,
+      "apps": 219,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "swifty compiler ide",
+      "pop": 5,
+      "apps": 207,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "codes for",
+      "pop": 5,
+      "comp": 71,
+      "apps": 228,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "code direct",
+      "pop": 5,
+      "comp": 51,
+      "apps": 222,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "adventure kids playcare",
+      "pop": 5,
+      "apps": 224,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "bluey minecraft",
+      "pop": 5,
+      "apps": 165,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "bootself: coding with ai tutor",
+      "pop": 5,
+      "apps": 236,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "coddy: learn coding daily",
+      "pop": 5,
+      "apps": 217,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "code snack ide",
+      "pop": 5,
+      "apps": 205,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "coding jr",
+      "pop": 5,
+      "apps": 219,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "coding learning",
+      "pop": 5,
+      "apps": 223,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "coding lessons for kids",
+      "pop": 5,
+      "apps": 224,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "coding solved llc",
+      "pop": 5,
+      "apps": 249,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "coding x: learn to code",
+      "pop": 5,
+      "apps": 228,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "educational robots for kids",
+      "pop": 5,
+      "apps": 201,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "forge: git essential",
+      "pop": 5,
+      "apps": 209,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "learn elixir coding offline",
+      "pop": 5,
+      "apps": 221,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "learn python coding practice",
+      "pop": 5,
+      "apps": 211,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "lego kids games",
+      "pop": 5,
+      "apps": 178,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "code your",
+      "pop": 5,
+      "apps": 223,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "mega evo: journey",
+      "pop": 5,
+      "apps": 152,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "minecraft ip",
+      "pop": 5,
+      "apps": 162,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "my lego",
+      "pop": 5,
+      "apps": 130,
+      "rank": 114,
+      "imp": "0.55"
+    },
+    {
+      "kw": "swifty compiler: swift ide",
+      "pop": 5,
+      "apps": 194,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "line craft",
+      "pop": 5,
+      "apps": 226,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids make",
+      "pop": 5,
+      "apps": 227,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "difficulty normal",
+      "pop": 5,
+      "apps": 192,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "codingx",
+      "pop": 5,
+      "apps": 202,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "code the",
+      "pop": 5,
+      "apps": 232,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "lite makes",
+      "pop": 5,
+      "apps": 245,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "repit",
+      "pop": 5,
+      "comp": 66,
+      "apps": 214,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "easy plate loading tool tutorial game",
+      "pop": 5,
+      "apps": 227,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "lego aprts scanner",
+      "pop": 5,
+      "apps": 182,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "lego parts",
+      "pop": 5,
+      "apps": 126,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "coding coach",
+      "pop": 5,
+      "apps": 227,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "reviews iphone older adults mod",
+      "pop": 5,
+      "apps": 128,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "iphone older adults mod tutorial",
+      "pop": 5,
+      "apps": 137,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "cheap iphone older adults mod",
+      "pop": 5,
+      "apps": 135,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "apk review early user, first time feedba",
+      "pop": 5,
+      "apps": 212,
+      "rank": 63,
+      "imp": "0.62"
+    },
+    {
+      "kw": "review iphone older adults mod best",
+      "pop": 5,
+      "apps": 121,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "mod review good iphone older adults app",
+      "pop": 5,
+      "apps": 187,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "awhile this just tutorial",
+      "pop": 5,
+      "comp": 35,
+      "apps": 248,
+      "rank": 218,
+      "imp": "0.49"
+    },
+    {
+      "kw": "widget inspector",
+      "pop": 5,
+      "apps": 213,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "html for kids",
+      "pop": 5,
+      "apps": 196,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "educational game maker app",
+      "pop": 5,
+      "apps": 244,
+      "rank": 173,
+      "imp": "0.51"
+    },
+    {
+      "kw": "coding games kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "python .",
+      "pop": 5,
+      "apps": 203,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "kidsdevotional",
+      "pop": 5,
+      "apps": 194,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "learn phyton",
+      "pop": 5,
+      "apps": 212,
+      "rank": 116,
+      "imp": "0.55"
+    },
+    {
+      "kw": "lego resell",
+      "pop": 5,
+      "apps": 130,
+      "rank": 123,
+      "imp": "0.54"
+    },
+    {
+      "kw": "kids stem builder",
+      "pop": 5,
+      "apps": 250,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "lego sorter",
+      "pop": 5,
+      "apps": 145,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "joe czubiak",
+      "pop": 5,
+      "apps": 187,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "minecraft banner maker",
+      "pop": 5,
+      "apps": 214,
+      "rank": 148,
+      "imp": "0.53"
+    },
+    {
+      "kw": "roblox scripts",
+      "pop": 5,
+      "apps": 200,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "coding for kids editor",
+      "pop": 5,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "best coding for kids",
+      "pop": 5,
+      "apps": 244,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "free learn python",
+      "pop": 5,
+      "apps": 237,
+      "rank": 181,
+      "imp": "0.51"
+    },
+    {
+      "kw": "daily coding for kids",
+      "pop": 5,
+      "apps": 242,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "stw baner",
+      "pop": 5,
+      "apps": 249,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "Coding Tasks",
+      "apps": 217,
+      "rank": 5
+    },
+    {
+      "kw": "coding%20for%20kids",
+      "apps": 218,
+      "rank": 4
+    },
+    {
+      "kw": "coding%20games%20for%20kids",
+      "apps": 219,
+      "rank": 7
+    },
+    {
+      "kw": "tik%20tok%20for%20kids",
+      "apps": 191,
+      "rank": 12
+    },
+    {
+      "kw": "coding%20game",
+      "apps": 243,
+      "rank": 32
+    },
+    {
+      "kw": "coding%20c",
+      "apps": 227,
+      "rank": 7
+    },
+    {
+      "kw": "code challenge",
+      "apps": 207,
+      "rank": 11
+    },
+    {
+      "kw": "handwriting detector",
+      "apps": 213,
+      "rank": 14
+    },
+    {
+      "kw": "stone learn maker maker",
+      "apps": 228,
+      "rank": 15
+    },
+    {
+      "kw": "easy code maker maker",
+      "apps": 227,
+      "rank": 11
+    },
+    {
+      "kw": "easy code makers",
+      "apps": 217,
+      "rank": 12
+    },
+    {
+      "kw": "roc kidentifier",
+      "apps": 207,
+      "rank": 10
+    },
+    {
+      "kw": "python for begginers",
+      "apps": 204,
+      "rank": 25
+    },
+    {
+      "kw": "classes added",
+      "apps": 218,
+      "rank": 19
+    },
+    {
+      "kw": "barbie me",
+      "apps": 213,
+      "rank": 102
+    },
+    {
+      "kw": "coding drills",
+      "apps": 227,
+      "rank": 8
+    },
+    {
+      "kw": "presskit prompts",
+      "apps": 225,
+      "rank": 19
+    },
+    {
+      "kw": "python for kids",
+      "apps": 211,
+      "rank": 6
+    },
+    {
+      "kw": "javascript for kids",
+      "apps": 236,
+      "rank": 35
+    },
+    {
+      "kw": "robotics for kids",
+      "apps": 205,
+      "rank": 10
+    },
+    {
+      "kw": "TOZO-Tech Around You",
+      "apps": 136,
+      "rank": 21
+    }
+  ],
+  "codeSpark": [
+    {
+      "kw": "steam",
+      "pop": 71,
+      "comp": 98,
+      "apps": 248,
+      "rank": 161,
+      "imp": "7.36"
+    },
+    {
+      "kw": "learning games for: kids",
+      "pop": 55,
+      "comp": 90,
+      "apps": 248,
+      "rank": 228,
+      "imp": "5.37"
+    },
+    {
+      "kw": "snoopy",
+      "pop": 38,
+      "comp": 78,
+      "apps": 138,
+      "rank": 137,
+      "imp": "4.06"
+    },
+    {
+      "kw": "coding game",
+      "pop": 29,
+      "comp": 69,
+      "apps": 248,
+      "rank": 14,
+      "imp": "5.28"
+    },
+    {
+      "kw": "scratchjr",
+      "pop": 22,
+      "comp": 72,
+      "apps": 170,
+      "rank": 8,
+      "imp": "4.85"
+    },
+    {
+      "kw": "coding games",
+      "pop": 19,
+      "comp": 54,
+      "apps": 244,
+      "rank": 14,
+      "imp": "3.46"
+    },
+    {
+      "kw": "coding games for kids",
+      "pop": 9,
+      "comp": 54,
+      "apps": 247,
+      "rank": 2,
+      "imp": "4.13"
+    },
+    {
+      "kw": "clode",
+      "pop": 8,
+      "comp": 55,
+      "apps": 247,
+      "rank": 238,
+      "imp": "0.78"
+    },
+    {
+      "kw": "koder",
+      "pop": 7,
+      "comp": 65,
+      "apps": 232,
+      "rank": 117,
+      "imp": "0.77"
+    },
+    {
+      "kw": "lightbot",
+      "pop": 7,
+      "apps": 201,
+      "rank": 9,
+      "imp": "1.48"
+    },
+    {
+      "kw": "hopscotch",
+      "pop": 7,
+      "comp": 53,
+      "apps": 97,
+      "rank": 93,
+      "imp": "0.80"
+    },
+    {
+      "kw": "kids coding",
+      "pop": 6,
+      "comp": 43,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.75"
+    },
+    {
+      "kw": "fore",
+      "pop": 6,
+      "apps": 237,
+      "rank": 70,
+      "imp": "0.73"
+    },
+    {
+      "kw": "kodable",
+      "pop": 6,
+      "comp": 41,
+      "apps": 42,
+      "rank": 27,
+      "imp": "0.91"
+    },
+    {
+      "kw": "code master",
+      "pop": 5,
+      "apps": 231,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "free coding",
+      "pop": 5,
+      "apps": 245,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "steem",
+      "pop": 5,
+      "comp": 95,
+      "apps": 248,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "codespark academy",
+      "pop": 5,
+      "comp": 70,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding for kids",
+      "pop": 5,
+      "comp": 48,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hopster coding safari for kids",
+      "pop": 5,
+      "apps": 204,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "code karts",
+      "pop": 5,
+      "apps": 248,
+      "rank": 235,
+      "imp": "0.49"
+    },
+    {
+      "kw": "free coding for kids",
+      "pop": 5,
+      "apps": 249,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "hour of code",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "kid coding",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "code program for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "kid-friendly programming",
+      "pop": 5,
+      "comp": 43,
+      "apps": 246,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "tynker",
+      "pop": 5,
+      "apps": 59,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "coding apps for kids",
+      "pop": 5,
+      "comp": 42,
+      "apps": 239,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "kids programming",
+      "pop": 5,
+      "comp": 73,
+      "apps": 243,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "learn computer",
+      "pop": 5,
+      "apps": 214,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "english learning app for kids",
+      "pop": 5,
+      "apps": 244,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "family dinner games",
+      "pop": 5,
+      "apps": 226,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "programming for kids",
+      "pop": 5,
+      "comp": 47,
+      "apps": 246,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "code de la",
+      "pop": 5,
+      "apps": 241,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "easy code",
+      "pop": 5,
+      "apps": 212,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "funkids",
+      "pop": 5,
+      "comp": 79,
+      "apps": 243,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "孩子们",
+      "pop": 5,
+      "comp": 48,
+      "apps": 248,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "children puzzle",
+      "pop": 5,
+      "comp": 49,
+      "apps": 220,
+      "rank": 202,
+      "imp": "0.50"
+    },
+    {
+      "kw": "logic games for kids",
+      "pop": 5,
+      "comp": 39,
+      "apps": 248,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "six app",
+      "pop": 5,
+      "comp": 69,
+      "apps": 239,
+      "rank": 86,
+      "imp": "0.58"
+    },
+    {
+      "kw": "kids learining",
+      "pop": 5,
+      "comp": 81,
+      "apps": 248,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "science learning games",
+      "pop": 5,
+      "apps": 223,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "learn coding offline",
+      "pop": 5,
+      "apps": 208,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "no Coding",
+      "pop": 5,
+      "apps": 228,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "c ide",
+      "pop": 5,
+      "apps": 238,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "gcode",
+      "pop": 5,
+      "comp": 89,
+      "apps": 229,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "stem apps for kids",
+      "pop": 5,
+      "comp": 66,
+      "apps": 246,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "cool girl",
+      "pop": 5,
+      "apps": 229,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "kids coding games",
+      "pop": 5,
+      "comp": 40,
+      "apps": 237,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "coding for kids learn to code",
+      "pop": 5,
+      "comp": 40,
+      "apps": 238,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "code for kids",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "idk",
+      "pop": 5,
+      "comp": 51,
+      "apps": 236,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "app4 parents for iphone",
+      "pop": 5,
+      "comp": 91,
+      "apps": 234,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "un code",
+      "pop": 5,
+      "apps": 240,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "pocket light",
+      "pop": 5,
+      "comp": 43,
+      "apps": 207,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "stem kids",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "scratch programming",
+      "pop": 5,
+      "apps": 216,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "mimo code",
+      "pop": 5,
+      "apps": 229,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "games practice",
+      "pop": 5,
+      "apps": 242,
+      "rank": 22,
+      "imp": "0.80"
+    },
+    {
+      "kw": "kids learning code game",
+      "pop": 5,
+      "comp": 42,
+      "apps": 246,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "computer scien ce",
+      "pop": 5,
+      "comp": 0,
+      "apps": 191,
+      "rank": 128,
+      "imp": "0.54"
+    },
+    {
+      "kw": "coding school",
+      "pop": 5,
+      "comp": 40,
+      "apps": 240,
+      "rank": 240,
+      "imp": "0.48"
+    },
+    {
+      "kw": "practice coding",
+      "pop": 5,
+      "comp": 60,
+      "apps": 247,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "coding 101",
+      "pop": 5,
+      "comp": 42,
+      "apps": 246,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "coding teacher",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 154,
+      "imp": "0.52"
+    },
+    {
+      "kw": "codeschool",
+      "pop": 5,
+      "comp": 40,
+      "apps": 239,
+      "rank": 112,
+      "imp": "0.55"
+    },
+    {
+      "kw": "logic kids",
+      "pop": 5,
+      "comp": 43,
+      "apps": 247,
+      "rank": 224,
+      "imp": "0.49"
+    },
+    {
+      "kw": "child logic",
+      "pop": 5,
+      "comp": 40,
+      "apps": 246,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "kid logic",
+      "pop": 5,
+      "comp": 44,
+      "apps": 248,
+      "rank": 85,
+      "imp": "0.58"
+    },
+    {
+      "kw": "logical thinking games kids",
+      "pop": 5,
+      "comp": 51,
+      "apps": 246,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "descratch",
+      "pop": 5,
+      "comp": 96,
+      "apps": 249,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "game codes",
+      "pop": 5,
+      "apps": 223,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "charlie brown",
+      "pop": 5,
+      "comp": 82,
+      "apps": 215,
+      "rank": 213,
+      "imp": "0.49"
+    },
+    {
+      "kw": "code challenges",
+      "pop": 5,
+      "comp": 55,
+      "apps": 212,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "learning stem",
+      "pop": 5,
+      "comp": 40,
+      "apps": 248,
+      "rank": 165,
+      "imp": "0.52"
+    },
+    {
+      "kw": "stem games kids",
+      "pop": 5,
+      "comp": 45,
+      "apps": 241,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kid code",
+      "pop": 5,
+      "comp": 26,
+      "apps": 235,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kids games coding",
+      "pop": 5,
+      "comp": 40,
+      "apps": 235,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding program",
+      "pop": 5,
+      "comp": 40,
+      "apps": 236,
+      "rank": 144,
+      "imp": "0.53"
+    },
+    {
+      "kw": "logic for kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 244,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "coding for children",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "learn coding for children",
+      "pop": 5,
+      "comp": 40,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "learn stem",
+      "pop": 5,
+      "comp": 44,
+      "apps": 243,
+      "rank": 193,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids stem",
+      "pop": 5,
+      "comp": 43,
+      "apps": 248,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "stem for kids",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "science app for kids",
+      "pop": 5,
+      "comp": 65,
+      "apps": 247,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "homer fun learning for kids",
+      "pop": 5,
+      "apps": 225,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "Fun Learning for kids",
+      "pop": 5,
+      "comp": 48,
+      "apps": 241,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "learn kids",
+      "pop": 5,
+      "comp": 77,
+      "apps": 247,
+      "rank": 139,
+      "imp": "0.53"
+    },
+    {
+      "kw": "learning game for kids & fun",
+      "pop": 5,
+      "comp": 69,
+      "apps": 245,
+      "rank": 99,
+      "imp": "0.57"
+    },
+    {
+      "kw": "kids n",
+      "pop": 5,
+      "comp": 72,
+      "apps": 220,
+      "rank": 97,
+      "imp": "0.57"
+    },
+    {
+      "kw": "code lesson",
+      "pop": 5,
+      "comp": 66,
+      "apps": 222,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "컴퓨터",
+      "pop": 5,
+      "comp": 44,
+      "apps": 233,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "learn coding/programming",
+      "pop": 5,
+      "apps": 233,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "learn codinb",
+      "pop": 5,
+      "comp": 57,
+      "apps": 198,
+      "rank": 39,
+      "imp": "0.69"
+    },
+    {
+      "kw": "girls boobs",
+      "pop": 5,
+      "comp": 51,
+      "apps": 214,
+      "rank": 208,
+      "imp": "0.50"
+    },
+    {
+      "kw": "code writing",
+      "pop": 5,
+      "comp": 98,
+      "apps": 231,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "learn to park",
+      "pop": 5,
+      "comp": 51,
+      "apps": 42,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "ochui",
+      "pop": 5,
+      "comp": 7,
+      "apps": 237,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "code write",
+      "pop": 5,
+      "comp": 56,
+      "apps": 219,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "fun for kids",
+      "pop": 5,
+      "comp": 85,
+      "apps": 246,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "youtbe kids",
+      "pop": 5,
+      "comp": 90,
+      "apps": 244,
+      "rank": 183,
+      "imp": "0.51"
+    },
+    {
+      "kw": "science games kids",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 135,
+      "imp": "0.54"
+    },
+    {
+      "kw": "learning parent",
+      "pop": 5,
+      "comp": 50,
+      "apps": 203,
+      "rank": 30,
+      "imp": "0.74"
+    },
+    {
+      "kw": "code for roblox",
+      "pop": 5,
+      "comp": 37,
+      "apps": 212,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "learncode",
+      "pop": 5,
+      "comp": 59,
+      "apps": 232,
+      "rank": 201,
+      "imp": "0.50"
+    },
+    {
+      "kw": "Codecandy studio",
+      "pop": 5,
+      "apps": 236,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "practice academy",
+      "pop": 5,
+      "comp": 59,
+      "apps": 244,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "codebook",
+      "pop": 5,
+      "comp": 57,
+      "apps": 236,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "codefinity",
+      "pop": 5,
+      "comp": 96,
+      "apps": 219,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "idz digital",
+      "pop": 5,
+      "comp": 33,
+      "apps": 233,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "academies",
+      "pop": 5,
+      "comp": 82,
+      "apps": 205,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "Codeway dijital",
+      "pop": 5,
+      "comp": 60,
+      "apps": 241,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "challenging family game",
+      "pop": 5,
+      "comp": 66,
+      "apps": 209,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "Fun Learning Aoo",
+      "pop": 5,
+      "comp": 42,
+      "apps": 228,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "python coding game",
+      "pop": 5,
+      "apps": 247,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "coding quiz",
+      "pop": 5,
+      "apps": 213,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "数学学习游戏",
+      "pop": 5,
+      "comp": 46,
+      "apps": 241,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "logic games kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 245,
+      "rank": 197,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kid coding games",
+      "pop": 5,
+      "comp": 57,
+      "apps": 248,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "kid coding  games",
+      "pop": 5,
+      "comp": 42,
+      "apps": 236,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "light puzzle game",
+      "pop": 5,
+      "comp": 49,
+      "apps": 221,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "learning puzzle",
+      "pop": 5,
+      "comp": 57,
+      "apps": 241,
+      "rank": 206,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kids parent",
+      "pop": 5,
+      "comp": 47,
+      "apps": 225,
+      "rank": 60,
+      "imp": "0.63"
+    },
+    {
+      "kw": "steam for kids",
+      "pop": 5,
+      "comp": 87,
+      "apps": 236,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "compute",
+      "pop": 5,
+      "comp": 53,
+      "apps": 218,
+      "rank": 191,
+      "imp": "0.50"
+    },
+    {
+      "kw": "daima",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "turtle programming",
+      "pop": 5,
+      "comp": 9,
+      "apps": 178,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "learn code kids",
+      "pop": 5,
+      "comp": 42,
+      "apps": 241,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "for steam",
+      "pop": 5,
+      "comp": 92,
+      "apps": 215,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "gor",
+      "pop": 5,
+      "apps": 223,
+      "rank": 57,
+      "imp": "0.63"
+    },
+    {
+      "kw": "logic for learning",
+      "pop": 5,
+      "comp": 87,
+      "apps": 243,
+      "rank": 31,
+      "imp": "0.73"
+    },
+    {
+      "kw": "think for preschoolers",
+      "pop": 5,
+      "comp": 40,
+      "apps": 243,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "multiversal",
+      "pop": 5,
+      "comp": 67,
+      "apps": 131,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "parents fun",
+      "pop": 5,
+      "comp": 93,
+      "apps": 241,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "kids fun",
+      "pop": 5,
+      "comp": 93,
+      "apps": 247,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kid fun",
+      "pop": 5,
+      "comp": 66,
+      "apps": 242,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "acs code",
+      "pop": 5,
+      "comp": 62,
+      "apps": 239,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "ai learn to code",
+      "pop": 5,
+      "comp": 45,
+      "apps": 226,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "ai learn coding",
+      "pop": 5,
+      "comp": 45,
+      "apps": 230,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "learn to coding",
+      "pop": 5,
+      "comp": 53,
+      "apps": 211,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "tappuzzle",
+      "pop": 5,
+      "comp": 46,
+      "apps": 239,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "game practice",
+      "pop": 5,
+      "apps": 240,
+      "rank": 108,
+      "imp": "0.56"
+    },
+    {
+      "kw": "c# academy",
+      "pop": 5,
+      "comp": 44,
+      "apps": 239,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "juego familiar",
+      "pop": 5,
+      "comp": 75,
+      "apps": 235,
+      "rank": 176,
+      "imp": "0.51"
+    },
+    {
+      "kw": "fun ideas for kids",
+      "pop": 5,
+      "comp": 48,
+      "apps": 242,
+      "rank": 210,
+      "imp": "0.50"
+    },
+    {
+      "kw": "science for kid",
+      "pop": 5,
+      "comp": 71,
+      "apps": 247,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "bardcode",
+      "pop": 5,
+      "apps": 246,
+      "rank": 79,
+      "imp": "0.59"
+    },
+    {
+      "kw": "preescholer",
+      "pop": 5,
+      "apps": 234,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "prescholer",
+      "pop": 5,
+      "apps": 234,
+      "rank": 76,
+      "imp": "0.60"
+    },
+    {
+      "kw": "game program",
+      "pop": 5,
+      "apps": 196,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "kids leaning games",
+      "pop": 5,
+      "comp": 85,
+      "apps": 238,
+      "rank": 179,
+      "imp": "0.51"
+    },
+    {
+      "kw": "phonics fun for kids",
+      "pop": 5,
+      "apps": 182,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "modding",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 150,
+      "imp": "0.52"
+    },
+    {
+      "kw": "codeway dijital hizmetler anonim sirketi",
+      "pop": 5,
+      "comp": 85,
+      "apps": 236,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "code-breaking",
+      "pop": 5,
+      "comp": 28,
+      "apps": 194,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "code breaking",
+      "pop": 5,
+      "comp": 25,
+      "apps": 194,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "code hacker",
+      "pop": 5,
+      "apps": 191,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "codeplayground",
+      "pop": 5,
+      "apps": 210,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "codeplayground ai",
+      "pop": 5,
+      "apps": 241,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "vibe coder",
+      "pop": 5,
+      "comp": 96,
+      "apps": 225,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "educational learning apps",
+      "pop": 5,
+      "apps": 246,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "vscode mcp list",
+      "pop": 5,
+      "apps": 213,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "programmingh",
+      "pop": 5,
+      "apps": 206,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "skillhub ai",
+      "pop": 5,
+      "apps": 241,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "bytewise micro learning",
+      "pop": 5,
+      "apps": 239,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "python coding lessons",
+      "pop": 5,
+      "comp": 53,
+      "apps": 208,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "coding%20games",
+      "pop": 5,
+      "comp": 57,
+      "apps": 215,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "morse%20it",
+      "pop": 5,
+      "comp": 49,
+      "apps": 192,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "learn%20code",
+      "pop": 5,
+      "comp": 49,
+      "apps": 214,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "top%20education%20games%20for%20kids",
+      "pop": 5,
+      "comp": 79,
+      "apps": 248,
+      "rank": 203,
+      "imp": "0.50"
+    },
+    {
+      "kw": "predis%20ai",
+      "pop": 5,
+      "comp": 82,
+      "apps": 239,
+      "rank": 105,
+      "imp": "0.56"
+    },
+    {
+      "kw": "mimo%20learn%20coding%20programming",
+      "pop": 5,
+      "comp": 60,
+      "apps": 229,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "vs%20code",
+      "pop": 5,
+      "comp": 60,
+      "apps": 225,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "coding%20kids",
+      "pop": 5,
+      "comp": 57,
+      "apps": 217,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "code%20monkey",
+      "pop": 5,
+      "comp": 62,
+      "apps": 215,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "kids%20app%20qustodio",
+      "pop": 5,
+      "comp": 59,
+      "apps": 207,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "free%20games%20for%20all%20ages",
+      "pop": 5,
+      "comp": 72,
+      "apps": 228,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "free%20apps%20for%20kids",
+      "pop": 5,
+      "comp": 85,
+      "apps": 245,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "add%20frame",
+      "pop": 5,
+      "comp": 68,
+      "apps": 221,
+      "rank": 23,
+      "imp": "0.79"
+    },
+    {
+      "kw": "codespark%20academy",
+      "pop": 5,
+      "comp": 78,
+      "apps": 239,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fun%20learning%20games",
+      "pop": 5,
+      "comp": 66,
+      "apps": 249,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "free%20kids%20apps",
+      "pop": 5,
+      "comp": 70,
+      "apps": 244,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "break reminder for programmers",
+      "pop": 5,
+      "apps": 212,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fun%20kids%20games",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "games%20for%20girls%20for%20free",
+      "pop": 5,
+      "comp": 80,
+      "apps": 246,
+      "rank": 111,
+      "imp": "0.55"
+    },
+    {
+      "kw": "free%20games%20for%20girls",
+      "pop": 5,
+      "comp": 69,
+      "apps": 244,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "learn%20to%20code",
+      "pop": 5,
+      "apps": 207,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "swift%20playgrounds",
+      "pop": 5,
+      "comp": 89,
+      "apps": 245,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "computer%20science",
+      "pop": 5,
+      "apps": 184,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "games%20for%207%20year%20old%20boys",
+      "pop": 5,
+      "comp": 81,
+      "apps": 209,
+      "rank": 169,
+      "imp": "0.51"
+    },
+    {
+      "kw": "python%203",
+      "pop": 5,
+      "apps": 212,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "kids%20puzzle%20games",
+      "pop": 5,
+      "comp": 50,
+      "apps": 245,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "kidy",
+      "pop": 5,
+      "apps": 219,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "ai coder",
+      "pop": 5,
+      "comp": 43,
+      "apps": 233,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "14. codebook",
+      "pop": 5,
+      "apps": 239,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "brain play",
+      "pop": 5,
+      "apps": 239,
+      "rank": 49,
+      "imp": "0.66"
+    },
+    {
+      "kw": "parent and child",
+      "pop": 5,
+      "apps": 227,
+      "rank": 80,
+      "imp": "0.59"
+    },
+    {
+      "kw": "import swiftui",
+      "pop": 5,
+      "apps": 220,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "htl coding",
+      "pop": 5,
+      "apps": 235,
+      "rank": 35,
+      "imp": "0.71"
+    },
+    {
+      "kw": "no code game",
+      "pop": 5,
+      "apps": 203,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "teach kids to code",
+      "pop": 5,
+      "apps": 216,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "learn coding for kids",
+      "pop": 5,
+      "apps": 226,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding guide",
+      "pop": 5,
+      "apps": 205,
+      "rank": 32,
+      "imp": "0.73"
+    },
+    {
+      "kw": "trouble codes",
+      "pop": 5,
+      "apps": 220,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "science learning",
+      "pop": 5,
+      "apps": 208,
+      "rank": 82,
+      "imp": "0.59"
+    },
+    {
+      "kw": "crotch",
+      "pop": 5,
+      "apps": 191,
+      "rank": 28,
+      "imp": "0.75"
+    },
+    {
+      "kw": "hot cold",
+      "pop": 5,
+      "apps": 240,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "mathpractice app",
+      "pop": 5,
+      "apps": 223,
+      "rank": 51,
+      "imp": "0.65"
+    },
+    {
+      "kw": "code ediyort",
+      "pop": 5,
+      "apps": 219,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "kid todo",
+      "pop": 5,
+      "comp": 71,
+      "apps": 231,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "best apps for kids aged 3-7",
+      "pop": 5,
+      "comp": 65,
+      "apps": 248,
+      "rank": 40,
+      "imp": "0.69"
+    },
+    {
+      "kw": "kids puzzle learning",
+      "pop": 5,
+      "comp": 58,
+      "apps": 244,
+      "rank": 189,
+      "imp": "0.50"
+    },
+    {
+      "kw": "snafwho",
+      "pop": 5,
+      "apps": 226,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "luis medel",
+      "pop": 5,
+      "comp": 58,
+      "apps": 227,
+      "rank": 19,
+      "imp": "0.83"
+    },
+    {
+      "kw": "coding assistant",
+      "pop": 5,
+      "apps": 226,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "codebaker",
+      "pop": 5,
+      "apps": 234,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "codebaker texting",
+      "pop": 5,
+      "apps": 220,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "online code",
+      "pop": 5,
+      "apps": 224,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "character frequency counter",
+      "pop": 5,
+      "apps": 233,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "kids code games",
+      "pop": 5,
+      "apps": 194,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "cold cap",
+      "pop": 5,
+      "apps": 230,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "qwen 2.5 coder",
+      "pop": 5,
+      "comp": 62,
+      "apps": 245,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "easy code maker",
+      "pop": 5,
+      "apps": 219,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "code reader free",
+      "pop": 5,
+      "apps": 243,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "connect without code",
+      "pop": 5,
+      "apps": 222,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "fix my code",
+      "pop": 5,
+      "apps": 215,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "sideme: learn coding",
+      "pop": 5,
+      "apps": 208,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "kid stem",
+      "pop": 5,
+      "apps": 241,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "elderly checkin",
+      "pop": 5,
+      "apps": 238,
+      "rank": 95,
+      "imp": "0.57"
+    },
+    {
+      "kw": "6444809156",
+      "pop": 5,
+      "apps": 218,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "zipscan",
+      "pop": 5,
+      "apps": 196,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "pattern scaler",
+      "pop": 5,
+      "apps": 222,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "lesson counter",
+      "pop": 5,
+      "apps": 209,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "science concept explainer",
+      "pop": 5,
+      "apps": 205,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "hopsiko",
+      "pop": 5,
+      "comp": 31,
+      "apps": 72,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "seiz",
+      "pop": 5,
+      "apps": 204,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "code explain",
+      "pop": 5,
+      "apps": 216,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "coding hours",
+      "pop": 5,
+      "comp": 45,
+      "apps": 230,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "pyobide",
+      "pop": 5,
+      "comp": 84,
+      "apps": 201,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "pre schooling",
+      "pop": 5,
+      "apps": 241,
+      "rank": 156,
+      "imp": "0.52"
+    },
+    {
+      "kw": "learn python for beginners",
+      "pop": 5,
+      "apps": 211,
+      "rank": 17,
+      "imp": "0.86"
+    },
+    {
+      "kw": "swifty compiler ide",
+      "pop": 5,
+      "apps": 207,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "code even",
+      "pop": 5,
+      "comp": 47,
+      "apps": 215,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "code united",
+      "pop": 5,
+      "comp": 54,
+      "apps": 186,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "codes for",
+      "pop": 5,
+      "comp": 71,
+      "apps": 228,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "code direct",
+      "pop": 5,
+      "comp": 51,
+      "apps": 222,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "action kid at brentwood commons",
+      "pop": 5,
+      "apps": 166,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "adventure kids playcare",
+      "pop": 5,
+      "apps": 224,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "coddy: learn coding daily",
+      "pop": 5,
+      "apps": 217,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "codify: coding for beginners",
+      "pop": 5,
+      "apps": 249,
+      "rank": 36,
+      "imp": "0.70"
+    },
+    {
+      "kw": "coding jr",
+      "pop": 5,
+      "apps": 219,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "coding learning",
+      "pop": 5,
+      "apps": 223,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "coding lessons for kids",
+      "pop": 5,
+      "apps": 224,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding x: learn to code",
+      "pop": 5,
+      "apps": 228,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "learn c code",
+      "pop": 5,
+      "apps": 234,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "learn python coding practice",
+      "pop": 5,
+      "apps": 211,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "code your",
+      "pop": 5,
+      "apps": 223,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "mega evo: journey",
+      "pop": 5,
+      "apps": 152,
+      "rank": 132,
+      "imp": "0.54"
+    },
+    {
+      "kw": "parenting game",
+      "pop": 5,
+      "apps": 230,
+      "rank": 38,
+      "imp": "0.70"
+    },
+    {
+      "kw": "swifty compiler: swift ide",
+      "pop": 5,
+      "apps": 194,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "syntax: logic breach",
+      "pop": 5,
+      "apps": 224,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "codes our",
+      "pop": 5,
+      "apps": 221,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "pgl",
+      "pop": 5,
+      "apps": 204,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "codingx",
+      "pop": 5,
+      "apps": 202,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "code have",
+      "pop": 5,
+      "apps": 230,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "code the",
+      "pop": 5,
+      "apps": 232,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "learning challenge",
+      "pop": 5,
+      "apps": 208,
+      "rank": 27,
+      "imp": "0.76"
+    },
+    {
+      "kw": "games fors kids",
+      "pop": 5,
+      "apps": 246,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "families app online game",
+      "pop": 5,
+      "apps": 238,
+      "rank": 228,
+      "imp": "0.49"
+    },
+    {
+      "kw": "parent app free game",
+      "pop": 5,
+      "apps": 206,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "easy top kg plates game",
+      "pop": 5,
+      "apps": 226,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "lego aprts scanner",
+      "pop": 5,
+      "apps": 182,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "coding cards",
+      "pop": 5,
+      "apps": 220,
+      "rank": 7,
+      "imp": "1.16"
+    },
+    {
+      "kw": "coding coach",
+      "pop": 5,
+      "apps": 227,
+      "rank": 13,
+      "imp": "0.93"
+    },
+    {
+      "kw": "reddit free sudoku app game app tutorial",
+      "pop": 5,
+      "apps": 214,
+      "rank": 164,
+      "imp": "0.52"
+    },
+    {
+      "kw": "logic app for kids",
+      "pop": 5,
+      "apps": 243,
+      "rank": 46,
+      "imp": "0.67"
+    },
+    {
+      "kw": "logic app for family",
+      "pop": 5,
+      "apps": 223,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "code credit",
+      "pop": 5,
+      "apps": 223,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "occasion worry story app",
+      "pop": 5,
+      "apps": 206,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "ipad families",
+      "pop": 5,
+      "apps": 233,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "hide apps free for beginners",
+      "pop": 5,
+      "apps": 192,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "iphone families app",
+      "pop": 5,
+      "apps": 231,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "subscription families moments",
+      "pop": 5,
+      "comp": 42,
+      "apps": 203,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "family moments subscription",
+      "pop": 5,
+      "comp": 72,
+      "apps": 205,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "cockatoo log",
+      "pop": 5,
+      "apps": 149,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "coding practice log",
+      "pop": 5,
+      "apps": 225,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "html for kids",
+      "pop": 5,
+      "apps": 196,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "css for kids",
+      "pop": 5,
+      "apps": 209,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "boy paste math",
+      "pop": 5,
+      "apps": 224,
+      "rank": 16,
+      "imp": "0.87"
+    },
+    {
+      "kw": "kindred moment",
+      "pop": 5,
+      "apps": 188,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "trial stories iso",
+      "pop": 5,
+      "apps": 217,
+      "rank": 4,
+      "imp": "1.49"
+    },
+    {
+      "kw": "coding games kids",
+      "pop": 5,
+      "comp": 44,
+      "apps": 241,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "kidsdevotional",
+      "pop": 5,
+      "apps": 194,
+      "rank": 11,
+      "imp": "0.98"
+    },
+    {
+      "kw": "learn math & coding",
+      "pop": 5,
+      "comp": 68,
+      "apps": 214,
+      "rank": 2,
+      "imp": "2.29"
+    },
+    {
+      "kw": "clean-girl",
+      "pop": 5,
+      "apps": 236,
+      "rank": 184,
+      "imp": "0.51"
+    },
+    {
+      "kw": "joe czubiak",
+      "pop": 5,
+      "apps": 187,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "etnyre",
+      "pop": 5,
+      "apps": 191,
+      "rank": 115,
+      "imp": "0.55"
+    },
+    {
+      "kw": "sciecne",
+      "pop": 5,
+      "apps": 229,
+      "rank": 162,
+      "imp": "0.52"
+    },
+    {
+      "kw": "learn sciance",
+      "pop": 5,
+      "apps": 216,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "coding practice app",
+      "pop": 5,
+      "apps": 248,
+      "rank": 149,
+      "imp": "0.53"
+    },
+    {
+      "kw": "coding for kids editor",
+      "pop": 5,
+      "apps": 244,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "best coding for kids",
+      "pop": 5,
+      "apps": 244,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "daily coding for kids",
+      "pop": 5,
+      "apps": 242,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "shape recognition",
+      "pop": 5,
+      "apps": 248,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "Coding Tasks",
+      "apps": 217,
+      "rank": 2
+    },
+    {
+      "kw": "coding%20for%20kids",
+      "apps": 218,
+      "rank": 1
+    },
+    {
+      "kw": "games%20for%20tweens",
+      "apps": 212,
+      "rank": 1
+    },
+    {
+      "kw": "girl%20games%20for%20free",
+      "apps": 246,
+      "rank": 36
+    },
+    {
+      "kw": "reading%20eggs",
+      "apps": 205,
+      "rank": 24
+    },
+    {
+      "kw": "coding%20games%20for%20kids",
+      "apps": 219,
+      "rank": 1
+    },
+    {
+      "kw": "coding%20game",
+      "apps": 243,
+      "rank": 143
+    },
+    {
+      "kw": "coding%20c",
+      "apps": 227,
+      "rank": 5
+    },
+    {
+      "kw": "code challenge",
+      "apps": 207,
+      "rank": 5
+    },
+    {
+      "kw": "handwriting detector",
+      "apps": 213,
+      "rank": 13
+    },
+    {
+      "kw": "stone learn maker maker",
+      "apps": 228,
+      "rank": 25
+    },
+    {
+      "kw": "easy code tracker",
+      "apps": 211,
+      "rank": 8
+    },
+    {
+      "kw": "easy code maker maker",
+      "apps": 227,
+      "rank": 7
+    },
+    {
+      "kw": "easy code makers",
+      "apps": 217,
+      "rank": 5
+    },
+    {
+      "kw": "python for begginers",
+      "apps": 204,
+      "rank": 27
+    },
+    {
+      "kw": "vw coding",
+      "apps": 167,
+      "rank": 13
+    },
+    {
+      "kw": "coding drills",
+      "apps": 227,
+      "rank": 6
+    },
+    {
+      "kw": "kids learning - gamely school",
+      "apps": 241,
+      "rank": 44
+    },
+    {
+      "kw": "tutorial reddit top families stories ide",
+      "apps": 198,
+      "rank": 5
+    },
+    {
+      "kw": "presskit prompts",
+      "apps": 225,
+      "rank": 4
+    },
+    {
+      "kw": "python for kids",
+      "apps": 211,
+      "rank": 5
+    },
+    {
+      "kw": "javascript for kids",
+      "apps": 236,
+      "rank": 139
+    },
+    {
+      "kw": "robotics for kids",
+      "apps": 205,
+      "rank": 4
+    },
+    {
+      "kw": "electronics for kids",
+      "apps": 177,
+      "rank": 5
+    },
+    {
+      "kw": "TOZO-Tech Around You",
+      "apps": 136,
+      "rank": 56
+    },
+    {
+      "kw": "code whisperer",
+      "apps": 204,
+      "rank": 2
+    }
+  ],
+  "Hopscotch": [
+    {
+      "kw": "tradeview",
+      "pop": 51,
+      "comp": 92,
+      "apps": 248,
+      "rank": 215,
+      "imp": "5.03"
+    },
+    {
+      "kw": "windsor",
+      "pop": 47,
+      "comp": 66,
+      "apps": 250,
+      "rank": 184,
+      "imp": "4.76"
+    },
+    {
+      "kw": "thredup buy sell clothing",
+      "pop": 32,
+      "comp": 85,
+      "apps": 246,
+      "rank": 105,
+      "imp": "3.59"
+    },
+    {
+      "kw": "kis",
+      "pop": 25,
+      "comp": 96,
+      "apps": 226,
+      "rank": 143,
+      "imp": "2.65"
+    },
+    {
+      "kw": "patpat",
+      "pop": 9,
+      "comp": 75,
+      "apps": 46,
+      "rank": 9,
+      "imp": "1.90"
+    },
+    {
+      "kw": "mylo",
+      "pop": 9,
+      "comp": 49,
+      "apps": 63,
+      "rank": 37,
+      "imp": "1.26"
+    },
+    {
+      "kw": "baby clothes",
+      "pop": 7,
+      "apps": 206,
+      "rank": 27,
+      "imp": "1.06"
+    },
+    {
+      "kw": "hopscotch",
+      "pop": 7,
+      "comp": 53,
+      "apps": 97,
+      "rank": 1,
+      "imp": "7.00"
+    },
+    {
+      "kw": "online shopping clothes",
+      "pop": 6,
+      "comp": 85,
+      "apps": 246,
+      "rank": 232,
+      "imp": "0.58"
+    },
+    {
+      "kw": "brands for less",
+      "pop": 6,
+      "apps": 248,
+      "rank": 215,
+      "imp": "0.59"
+    },
+    {
+      "kw": "wear fashion",
+      "pop": 5,
+      "apps": 241,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "wear clothes",
+      "pop": 5,
+      "comp": 73,
+      "apps": 248,
+      "rank": 101,
+      "imp": "0.56"
+    },
+    {
+      "kw": "hop scotch",
+      "pop": 5,
+      "comp": 42,
+      "apps": 248,
+      "rank": 1,
+      "imp": "5.00"
+    },
+    {
+      "kw": "binomo",
+      "pop": 5,
+      "comp": 57,
+      "apps": 248,
+      "rank": 219,
+      "imp": "0.49"
+    },
+    {
+      "kw": "soral",
+      "pop": 5,
+      "apps": 200,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "supergirl",
+      "pop": 5,
+      "comp": 97,
+      "apps": 225,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "fashion nova kids",
+      "pop": 5,
+      "comp": 87,
+      "apps": 247,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "talko",
+      "pop": 5,
+      "apps": 249,
+      "rank": 209,
+      "imp": "0.50"
+    },
+    {
+      "kw": "tundra",
+      "pop": 5,
+      "comp": 69,
+      "apps": 250,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "baby stuff",
+      "pop": 5,
+      "apps": 223,
+      "rank": 168,
+      "imp": "0.51"
+    },
+    {
+      "kw": "babywalz",
+      "pop": 5,
+      "comp": 84,
+      "apps": 248,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "baby kleidung",
+      "pop": 5,
+      "comp": 86,
+      "apps": 246,
+      "rank": 217,
+      "imp": "0.49"
+    },
+    {
+      "kw": "babymarkt",
+      "pop": 5,
+      "comp": 86,
+      "apps": 248,
+      "rank": 133,
+      "imp": "0.54"
+    },
+    {
+      "kw": "baby clothing",
+      "pop": 5,
+      "comp": 63,
+      "apps": 247,
+      "rank": 94,
+      "imp": "0.57"
+    },
+    {
+      "kw": "lulu kids",
+      "pop": 5,
+      "comp": 53,
+      "apps": 248,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "magic.ly bio",
+      "pop": 5,
+      "comp": 82,
+      "apps": 250,
+      "rank": 93,
+      "imp": "0.57"
+    },
+    {
+      "kw": "bna guitar lite",
+      "pop": 5,
+      "comp": 32,
+      "apps": 245,
+      "rank": 222,
+      "imp": "0.49"
+    },
+    {
+      "kw": "buy gear safely",
+      "pop": 5,
+      "comp": 48,
+      "apps": 248,
+      "rank": 159,
+      "imp": "0.52"
+    },
+    {
+      "kw": "vaporware retro",
+      "pop": 5,
+      "comp": 32,
+      "apps": 250,
+      "rank": 137,
+      "imp": "0.53"
+    },
+    {
+      "kw": "baby fashion",
+      "pop": 5,
+      "comp": 45,
+      "apps": 246,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "baby outfit",
+      "pop": 5,
+      "comp": 46,
+      "apps": 248,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "kinder klamotten shopping",
+      "pop": 5,
+      "comp": 50,
+      "apps": 250,
+      "rank": 104,
+      "imp": "0.56"
+    },
+    {
+      "kw": "kinder outfit shopping",
+      "pop": 5,
+      "comp": 36,
+      "apps": 222,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "kinder klamotten online shop",
+      "pop": 5,
+      "comp": 52,
+      "apps": 250,
+      "rank": 62,
+      "imp": "0.62"
+    },
+    {
+      "kw": "kinder outfit online shop",
+      "pop": 5,
+      "comp": 50,
+      "apps": 250,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "kinder fashion styles",
+      "pop": 5,
+      "comp": 54,
+      "apps": 248,
+      "rank": 65,
+      "imp": "0.62"
+    },
+    {
+      "kw": "kinder outfit look",
+      "pop": 5,
+      "comp": 32,
+      "apps": 247,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "top kinder fashion",
+      "pop": 5,
+      "comp": 87,
+      "apps": 250,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "babykleidung sale",
+      "pop": 5,
+      "comp": 46,
+      "apps": 250,
+      "rank": 45,
+      "imp": "0.67"
+    },
+    {
+      "kw": "baby kleider sale",
+      "pop": 5,
+      "comp": 74,
+      "apps": 249,
+      "rank": 227,
+      "imp": "0.49"
+    },
+    {
+      "kw": "babyschuhe sale",
+      "pop": 5,
+      "comp": 52,
+      "apps": 249,
+      "rank": 91,
+      "imp": "0.58"
+    },
+    {
+      "kw": "baby schuhe online shop",
+      "pop": 5,
+      "comp": 77,
+      "apps": 250,
+      "rank": 58,
+      "imp": "0.63"
+    },
+    {
+      "kw": "baby fashion dress",
+      "pop": 5,
+      "comp": 40,
+      "apps": 232,
+      "rank": 106,
+      "imp": "0.56"
+    },
+    {
+      "kw": "baby outfit dress",
+      "pop": 5,
+      "comp": 32,
+      "apps": 240,
+      "rank": 70,
+      "imp": "0.61"
+    },
+    {
+      "kw": "babyschuhe dress",
+      "pop": 5,
+      "comp": 43,
+      "apps": 250,
+      "rank": 130,
+      "imp": "0.54"
+    },
+    {
+      "kw": "baby fashion preis",
+      "pop": 5,
+      "comp": 54,
+      "apps": 247,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "baby fashion gratis",
+      "pop": 5,
+      "comp": 56,
+      "apps": 243,
+      "rank": 87,
+      "imp": "0.58"
+    },
+    {
+      "kw": "babyschuhe gratis",
+      "pop": 5,
+      "comp": 57,
+      "apps": 250,
+      "rank": 182,
+      "imp": "0.51"
+    },
+    {
+      "kw": "baby unterwäsche tipps",
+      "pop": 5,
+      "comp": 54,
+      "apps": 224,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "baby fashion online",
+      "pop": 5,
+      "comp": 69,
+      "apps": 80,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "babyschuhe online",
+      "pop": 5,
+      "comp": 52,
+      "apps": 250,
+      "rank": 53,
+      "imp": "0.64"
+    },
+    {
+      "kw": "outfit online shop",
+      "pop": 5,
+      "comp": 56,
+      "apps": 250,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "the boyz",
+      "pop": 5,
+      "comp": 67,
+      "apps": 237,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "newborn baby games for girls 2020",
+      "pop": 5,
+      "comp": 37,
+      "apps": 157,
+      "rank": 56,
+      "imp": "0.64"
+    },
+    {
+      "kw": "Dolores Encanto",
+      "pop": 5,
+      "comp": 32,
+      "apps": 249,
+      "rank": 10,
+      "imp": "1.02"
+    },
+    {
+      "kw": "pilloops",
+      "pop": 5,
+      "comp": 44,
+      "apps": 234,
+      "rank": 55,
+      "imp": "0.64"
+    },
+    {
+      "kw": "headbands kids",
+      "pop": 5,
+      "comp": 72,
+      "apps": 212,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "teen hearts clothing",
+      "pop": 5,
+      "apps": 198,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "my easy transfer",
+      "pop": 5,
+      "apps": 213,
+      "rank": 196,
+      "imp": "0.50"
+    },
+    {
+      "kw": "kid zen",
+      "pop": 5,
+      "comp": 75,
+      "apps": 243,
+      "rank": 21,
+      "imp": "0.81"
+    },
+    {
+      "kw": "shirts for roblox",
+      "pop": 5,
+      "comp": 77,
+      "apps": 227,
+      "rank": 190,
+      "imp": "0.50"
+    },
+    {
+      "kw": "match clothes",
+      "pop": 5,
+      "comp": 89,
+      "apps": 248,
+      "rank": 223,
+      "imp": "0.49"
+    },
+    {
+      "kw": "clothe on",
+      "pop": 5,
+      "comp": 48,
+      "apps": 250,
+      "rank": 192,
+      "imp": "0.50"
+    },
+    {
+      "kw": "most likey to adult",
+      "pop": 5,
+      "comp": 58,
+      "apps": 249,
+      "rank": 77,
+      "imp": "0.60"
+    },
+    {
+      "kw": "child clothes",
+      "pop": 5,
+      "comp": 55,
+      "apps": 211,
+      "rank": 9,
+      "imp": "1.06"
+    },
+    {
+      "kw": "pat Pet",
+      "pop": 5,
+      "comp": 93,
+      "apps": 248,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "limit kids",
+      "pop": 5,
+      "apps": 229,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "mothercare",
+      "pop": 5,
+      "comp": 61,
+      "apps": 224,
+      "rank": 42,
+      "imp": "0.68"
+    },
+    {
+      "kw": "clothing care",
+      "pop": 5,
+      "comp": 66,
+      "apps": 247,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "toon ker",
+      "pop": 5,
+      "apps": 250,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "fshns to go",
+      "pop": 5,
+      "comp": 88,
+      "apps": 250,
+      "rank": 67,
+      "imp": "0.61"
+    },
+    {
+      "kw": "cry cry",
+      "pop": 5,
+      "apps": 198,
+      "rank": 143,
+      "imp": "0.53"
+    },
+    {
+      "kw": "legit check clothes",
+      "pop": 5,
+      "comp": 97,
+      "apps": 249,
+      "rank": 225,
+      "imp": "0.49"
+    },
+    {
+      "kw": "baby 222",
+      "pop": 5,
+      "comp": 35,
+      "apps": 249,
+      "rank": 141,
+      "imp": "0.53"
+    },
+    {
+      "kw": "labub",
+      "pop": 5,
+      "comp": 78,
+      "apps": 243,
+      "rank": 15,
+      "imp": "0.89"
+    },
+    {
+      "kw": "baby%20announcement",
+      "pop": 5,
+      "comp": 78,
+      "apps": 246,
+      "rank": 195,
+      "imp": "0.50"
+    },
+    {
+      "kw": "doll%20dress",
+      "pop": 5,
+      "comp": 76,
+      "apps": 228,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "uniform%20dating",
+      "pop": 5,
+      "comp": 62,
+      "apps": 237,
+      "rank": 84,
+      "imp": "0.59"
+    },
+    {
+      "kw": "tie%20dye",
+      "pop": 5,
+      "comp": 60,
+      "apps": 249,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "clothes%20maker",
+      "pop": 5,
+      "comp": 80,
+      "apps": 249,
+      "rank": 161,
+      "imp": "0.52"
+    },
+    {
+      "kw": "online%20shopping%20clothes",
+      "pop": 5,
+      "comp": 70,
+      "apps": 248,
+      "rank": 216,
+      "imp": "0.49"
+    },
+    {
+      "kw": "digital%20scrapbook",
+      "pop": 5,
+      "comp": 59,
+      "apps": 249,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "gabbys%20dollhouse",
+      "pop": 5,
+      "comp": 78,
+      "apps": 242,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "doc%20mcstuffins",
+      "pop": 5,
+      "comp": 49,
+      "apps": 250,
+      "rank": 43,
+      "imp": "0.68"
+    },
+    {
+      "kw": "urban%20outfitters",
+      "pop": 5,
+      "comp": 54,
+      "apps": 250,
+      "rank": 83,
+      "imp": "0.59"
+    },
+    {
+      "kw": "kids%20apps",
+      "pop": 5,
+      "comp": 75,
+      "apps": 198,
+      "rank": 18,
+      "imp": "0.84"
+    },
+    {
+      "kw": "stitch%20fix",
+      "pop": 5,
+      "comp": 65,
+      "apps": 249,
+      "rank": 163,
+      "imp": "0.52"
+    },
+    {
+      "kw": "color%20swatch",
+      "pop": 5,
+      "comp": 85,
+      "apps": 250,
+      "rank": 231,
+      "imp": "0.49"
+    },
+    {
+      "kw": "polly%20pocket",
+      "pop": 5,
+      "apps": 222,
+      "rank": 47,
+      "imp": "0.66"
+    },
+    {
+      "kw": "overnight%20oats",
+      "pop": 5,
+      "apps": 240,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "huggies%20diapers",
+      "pop": 5,
+      "apps": 230,
+      "rank": 37,
+      "imp": "0.70"
+    },
+    {
+      "kw": "bark%20box",
+      "pop": 5,
+      "comp": 83,
+      "apps": 249,
+      "rank": 98,
+      "imp": "0.57"
+    },
+    {
+      "kw": "skin%20bliss",
+      "pop": 5,
+      "apps": 209,
+      "rank": 81,
+      "imp": "0.59"
+    },
+    {
+      "kw": "future%20baby",
+      "pop": 5,
+      "apps": 209,
+      "rank": 68,
+      "imp": "0.61"
+    },
+    {
+      "kw": "royal%20caribbean",
+      "pop": 5,
+      "comp": 31,
+      "apps": 250,
+      "rank": 33,
+      "imp": "0.72"
+    },
+    {
+      "kw": "rebel%20girls",
+      "pop": 5,
+      "apps": 208,
+      "rank": 50,
+      "imp": "0.65"
+    },
+    {
+      "kw": "lol%20surprise",
+      "pop": 5,
+      "comp": 56,
+      "apps": 245,
+      "rank": 131,
+      "imp": "0.54"
+    },
+    {
+      "kw": "baby hug",
+      "pop": 5,
+      "comp": 61,
+      "apps": 250,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "babyhug",
+      "pop": 5,
+      "comp": 33,
+      "apps": 196,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "bloquv",
+      "pop": 5,
+      "comp": 68,
+      "apps": 248,
+      "rank": 96,
+      "imp": "0.57"
+    },
+    {
+      "kw": "wikitot",
+      "pop": 5,
+      "apps": 250,
+      "rank": 12,
+      "imp": "0.96"
+    },
+    {
+      "kw": "ratine sleep & routine coach",
+      "pop": 5,
+      "apps": 224,
+      "rank": 122,
+      "imp": "0.55"
+    },
+    {
+      "kw": "clothes wear",
+      "pop": 5,
+      "apps": 248,
+      "rank": 78,
+      "imp": "0.59"
+    },
+    {
+      "kw": "clothes wearer",
+      "pop": 5,
+      "apps": 250,
+      "rank": 34,
+      "imp": "0.71"
+    },
+    {
+      "kw": "boy skins for roblox",
+      "pop": 5,
+      "apps": 220,
+      "rank": 177,
+      "imp": "0.51"
+    },
+    {
+      "kw": "y2k dream",
+      "pop": 5,
+      "apps": 249,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "inexpensive clothing",
+      "pop": 5,
+      "apps": 250,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "preloved kids clothes",
+      "pop": 5,
+      "apps": 200,
+      "rank": 8,
+      "imp": "1.10"
+    },
+    {
+      "kw": "sleep sack",
+      "pop": 5,
+      "apps": 230,
+      "rank": 110,
+      "imp": "0.56"
+    },
+    {
+      "kw": "outfit paw",
+      "pop": 5,
+      "comp": 79,
+      "apps": 250,
+      "rank": 64,
+      "imp": "0.62"
+    },
+    {
+      "kw": "wearz",
+      "pop": 5,
+      "comp": 42,
+      "apps": 250,
+      "rank": 138,
+      "imp": "0.53"
+    },
+    {
+      "kw": "buythrift",
+      "pop": 5,
+      "apps": 248,
+      "rank": 221,
+      "imp": "0.49"
+    },
+    {
+      "kw": "famcal kids",
+      "pop": 5,
+      "apps": 206,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "kids clothing size",
+      "pop": 5,
+      "apps": 247,
+      "rank": 52,
+      "imp": "0.65"
+    },
+    {
+      "kw": "baby clothing size",
+      "pop": 5,
+      "apps": 197,
+      "rank": 26,
+      "imp": "0.76"
+    },
+    {
+      "kw": "outfit seniors",
+      "pop": 5,
+      "apps": 249,
+      "rank": 88,
+      "imp": "0.58"
+    },
+    {
+      "kw": "hopsiko",
+      "pop": 5,
+      "comp": 31,
+      "apps": 72,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "cry baby",
+      "pop": 5,
+      "apps": 215,
+      "rank": 213,
+      "imp": "0.49"
+    },
+    {
+      "kw": "cheap baby clothes online",
+      "pop": 5,
+      "apps": 223,
+      "rank": 24,
+      "imp": "0.78"
+    },
+    {
+      "kw": "cheap kids clothing fashion",
+      "pop": 5,
+      "apps": 223,
+      "rank": 5,
+      "imp": "1.34"
+    },
+    {
+      "kw": "clothing kids shop online",
+      "pop": 5,
+      "apps": 249,
+      "rank": 3,
+      "imp": "1.74"
+    },
+    {
+      "kw": "fashion kids clothes online",
+      "pop": 5,
+      "apps": 248,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "fashion kids clothing shop",
+      "pop": 5,
+      "apps": 247,
+      "rank": 48,
+      "imp": "0.66"
+    },
+    {
+      "kw": "latest kids clothing store",
+      "pop": 5,
+      "apps": 204,
+      "rank": 6,
+      "imp": "1.24"
+    },
+    {
+      "kw": "real or fake clothe",
+      "pop": 5,
+      "apps": 221,
+      "rank": 107,
+      "imp": "0.56"
+    },
+    {
+      "kw": "families moments reviews",
+      "pop": 5,
+      "apps": 250,
+      "rank": 20,
+      "imp": "0.82"
+    },
+    {
+      "kw": "reviews families moments",
+      "pop": 5,
+      "apps": 250,
+      "rank": 25,
+      "imp": "0.77"
+    },
+    {
+      "kw": "underwear collection",
+      "pop": 5,
+      "apps": 250,
+      "rank": 54,
+      "imp": "0.64"
+    },
+    {
+      "kw": "newborn outfit",
+      "pop": 5,
+      "apps": 248,
+      "rank": 73,
+      "imp": "0.60"
+    },
+    {
+      "kw": "newborn clothes",
+      "pop": 5,
+      "apps": 203,
+      "rank": 14,
+      "imp": "0.91"
+    },
+    {
+      "kw": "smart sewing patterns",
+      "pop": 5,
+      "apps": 249,
+      "rank": 75,
+      "imp": "0.60"
+    },
+    {
+      "kw": "where to buy clothes",
+      "pop": 5,
+      "apps": 249,
+      "rank": 102,
+      "imp": "0.56"
+    },
+    {
+      "kw": "babycry",
+      "pop": 5,
+      "apps": 248,
+      "rank": 90,
+      "imp": "0.58"
+    },
+    {
+      "kw": "stitchwork",
+      "pop": 5,
+      "apps": 250,
+      "rank": 121,
+      "imp": "0.55"
+    },
+    {
+      "kw": "trade pnl",
+      "pop": 5,
+      "apps": 247,
+      "rank": 171,
+      "imp": "0.51"
+    },
+    {
+      "kw": "the children's place",
+      "apps": 247,
+      "rank": 86
+    },
+    {
+      "kw": "herren outfit online store",
+      "comp": 39,
+      "apps": 249,
+      "rank": 75
+    },
+    {
+      "kw": "kinder klamotten sale",
+      "comp": 56,
+      "apps": 250,
+      "rank": 43
+    },
+    {
+      "kw": "kinder kleidung look",
+      "comp": 33,
+      "apps": 250,
+      "rank": 138
+    },
+    {
+      "kw": "kinder fashion kaufen",
+      "comp": 38,
+      "apps": 250,
+      "rank": 30
+    },
+    {
+      "kw": "kinder outfit kaufen",
+      "comp": 64,
+      "apps": 250,
+      "rank": 21
+    },
+    {
+      "kw": "jungen fashion look",
+      "comp": 38,
+      "apps": 250,
+      "rank": 118
+    },
+    {
+      "kw": "baby fashion online store",
+      "comp": 57,
+      "apps": 211,
+      "rank": 24
+    },
+    {
+      "kw": "babyschuhe style",
+      "comp": 69,
+      "apps": 250,
+      "rank": 87
+    },
+    {
+      "kw": "babyoutfit styles",
+      "comp": 38,
+      "apps": 219,
+      "rank": 67
+    },
+    {
+      "kw": "babyschuhe styles",
+      "comp": 69,
+      "apps": 250,
+      "rank": 91
+    },
+    {
+      "kw": "babykleider look",
+      "comp": 50,
+      "apps": 229,
+      "rank": 70
+    },
+    {
+      "kw": "baby schuhe kaufen",
+      "comp": 36,
+      "apps": 249,
+      "rank": 111
+    },
+    {
+      "kw": "luvs%20diapers",
+      "apps": 234,
+      "rank": 51
+    },
+    {
+      "kw": "baby%20yoda",
+      "apps": 249,
+      "rank": 238
+    },
+    {
+      "kw": "hpoe",
+      "apps": 226,
+      "rank": 124
+    },
+    {
+      "kw": "stilbs",
+      "comp": 58,
+      "apps": 250,
+      "rank": 17
+    },
+    {
+      "kw": "pants pattern",
+      "apps": 250,
+      "rank": 94
+    },
+    {
+      "kw": "everything kids",
+      "apps": 246,
+      "rank": 18
+    },
+    {
+      "kw": "carter's",
+      "apps": 248,
+      "rank": 157
+    }
+  ]
+}
