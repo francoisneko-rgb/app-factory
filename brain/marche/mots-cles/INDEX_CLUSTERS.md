@@ -11,7 +11,7 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 (mots où les apps rankent réellement) des apps leaders, avec pop/comp/rank pour CHAQUE mot.
 = demande prouvée (pas d'autocomplétion).
 
-## Clusters sondés (35 clusters, ~160 000 mots-clés)
+## Clusters sondés (43 clusters, ~200 000 mots-clés)
 
 | Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
 |---|---|---|---|---|
@@ -59,7 +59,19 @@ Reverse keyword mining Appfigures : pour chaque cluster, extraction des **organi
 | bricolage-diy | `bricolage-diy.csv` | 1 140 | woodworking, home improvement | 🟡 |
 | religion-autre | `religion-autre.csv` | 209 | hindu, buddhist, judaism | 🟡 |
 
-**TOTAL : 35 clusters sondés, ~160 000 mots-clés bruts.**
+### Nouveaux clusters sondés le 30/08 (8 ajoutés, vague 4)
+| Cluster | Fichier CSV | # mots bruts | Meilleure pépite (pop/comp) | Statut |
+|---|---|---|---|---|
+| productivite-etude | `productivite-etude.csv` | 19 579 | pomodoro, flashcards, study planner | 🟢 À approfondir |
+| voyage-itineraires | `voyage-itineraires.csv` | 9 170 | trip planner, flight tracker, packing | 🟢 À approfondir |
+| finance-personnelle | `finance-personnelle.csv` | 8 120 | budget, expense, investment, crypto, debt | 🟢 À approfondir |
+| fitness-specifique | `fitness-specifique.csv` | 4 601 | yoga, pilates, pedometer, kettlebell | 🟢 À approfondir |
+| immobilier-maison | `immobilier-maison.csv` | 3 764 | real estate, mortgage, apartment | 🟡 |
+| communication-proches | `communication-proches.csv` | 2 079 | family locator, find my phone | 🟢 À approfondir |
+| voiture-transport | `voiture-transport.csv` | 1 953 | fuel, car maintenance, parking, driving test | 🟡 |
+| jeux-2d | `jeux-2d.csv` | 1 034 | merge, match 3, bubble shooter | 🟡 |
+
+**TOTAL : 43 clusters sondés, ~200 000 mots-clés bruts.**
 
 ## Lecture des scores
 - **Popularity** : demande réelle. ≥40 = forte, ≥30 = minimum intéressant, <25 = faible.
