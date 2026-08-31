@@ -1,0 +1,11 @@
+# Flow d'exemple Maestro — à adapter par app.
+# Installer Maestro : https://maestro.mobile.dev (requiert Java 11+).
+# Usage : maestro test e2e/smoke.yml
+appId: com.anonymous.appfactory
+---
+- launchApp
+- assertVisible: "Template App Factory"
+- tapOn: "Terminer l'onboarding"
+- assertVisible: "Bienvenue"
+- tapOn: "Formulaire"
+- assertVisible: "Formulaire validé"

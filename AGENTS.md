@@ -15,10 +15,13 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
    l'utilisateur. Présente un résumé clair + une recommandation argumentée, puis attends.
 5. GAUNTLET : les surfaces critiques passent par le skill `gauntlet-loop` avec les assets
    concurrents comme référence. Plafond 5 rounds par surface.
+   QUALITÉ CODE : les skills `performance-expo` et `architecture-expo` sont obligatoires pour
+   tout code app ; ESLint propre et React Compiler actif avant tout build.
 6. SÉCURITÉ : aucune clé API en dur, nulle part. Toujours `{env:NOM_CLE}`.
 7. LANGUE : français avec l'utilisateur. Code et commentaires en anglais. Metadata store
    dans la langue du marché cible.
 8. FRAMEWORK : React Native + Expo (ADR-003). Aucune exception sans décision explicite.
+   Toute app part du template golden `template-app/` (ADR-005) — jamais de projet de zéro.
 9. MÉTHODOLOGIE SOUS-NICHE (décision utilisateur 2026-08-27) : ne JAMAIS écarter une niche
    en la jugeant "trop concurrentielle" sans avoir creusé ses sous-niches en longue traîne.
    Funnel obligatoire : niche → sous-niche → micro-sous-niche, jusqu'au bon ratio

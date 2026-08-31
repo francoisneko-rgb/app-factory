@@ -1,31 +1,45 @@
 ---
 name: architecture-expo
-description: Standards d'architecture React Native + Expo — structure, state, design system, qualité.
+description: Stack et standards 2026 — structure projet, données, état, packages, services.
 ---
-# Architecture Expo / React Native
+# Architecture Expo — Stack 2026 de la factory
 
-## Setup nouveau projet
-- `npx create-expo-app@latest apps/<app> --template` (template avec Expo Router + TypeScript)
-- Installer les Expo Skills officielles pour agents si disponibles (docs.expo.dev/skills).
+## Création de projet
+- TOUJOURS partir de `template-app/` (clone préconfiguré), jamais de zéro.
+- Dernier SDK Expo (55+). Structure src/ : app/ (routes Expo Router), components/,
+  lib/ (storage, api), utils/, constants/ (tokens de thème).
+- Installer un package : TOUJOURS `npx expo install <pkg>` (version compatible SDK
+  garantie) — jamais npm install direct pour des packages natifs.
 
 ## Stack imposée
-1. TypeScript strict. Expo Router (file-based, dossier app/).
-2. Styling : NativeWind (classes Tailwind via className). Tokens de design dans un
-   theme central (couleurs, espacements, rayons, typographies) — ZÉRO valeur en dur.
-   Le designer livre le design system, le dev le traduit en tokens.
-3. État : Zustand. Données serveur : TanStack Query. Stockage local : MMKV ou
-   AsyncStorage (pas de backend pour la première app).
-4. Monétisation : RevenueCat (react-native-purchases / plugin Expo) derrière une
-   abstraction PaywallService. Voir skill paywall-monetisation.
-5. Analytics : PostHog (événements nommés dès le MVP : onboarding, aha, paywall).
-   Crashs : Sentry (plugin Expo officiel).
-6. Icône + splash : config app.json (adaptive icon Android : foreground/background
-   séparés, zone sûre respectée — voir skill icones-app).
-7. Tests : Jest pour la logique, Maestro pour les parcours E2E critiques.
-8. Doc : serveur MCP Expo (docs live, versions SDK) avant d'utiliser un module inconnu ;
-   Context7 MCP en complément. Rester dans les modules Expo SDK curés en priorité.
+| Besoin | Outil | Note |
+|---|---|---|
+| Langage | TypeScript strict | — |
+| Navigation | Expo Router (file-based, groupes (tabs), _layout) | — |
+| Styling | NativeWind (Tailwind via className) + tokens centralisés | Alternative acceptée : Uniwind (plus rapide, plus récent) |
+| État local simple | Context API | Suffit pour thème, préférences |
+| État app | Zustand + persistance MMKV | — |
+| État serveur | TanStack Query (QueryClientProvider, queryKey/queryFn) | Dès le 1er appel HTTP |
+| Données structurées | expo-sqlite + Drizzle ORM (schéma TS, drizzle-kit) | Drizzle Studio pour déboguer |
+| Clé-valeur simple | react-native-mmkv | 30x plus rapide qu'AsyncStorage ; exige un dev build (pas Expo Go) |
+| Formulaires | react-hook-form + zod | Validation typée |
+| Listes | FlashList | — |
+| Animations/gestes | Reanimated + Gesture Handler | Thread UI, voir performance-expo |
+| Auth (si besoin) | Clerk | Composants RN natifs excellents |
+| Monétisation | RevenueCat derrière PaywallService | Skill paywall-monetisation |
+| Analytics | PostHog (events nommés dès le MVP) | — |
+| Crashs/monitoring | Sentry (plugin Expo) | Dès le départ |
+| Review de code IA | CodeRabbit sur les PR GitHub | Qualité en solo |
+| Backend | Aucun par défaut → Expo API Routes (secrets côté serveur, EAS Hosting) → Supabase (Postgres) → InstantDB (temps réel) | Dans cet ordre de complexité |
 
-## Règle Android
-Le bouton retour Android est interceptable via BackHandler / navigation d'Expo Router,
-mais un paywall incompressible nuit aux avis. Pattern : croix différée 3-5 s. Voir
-skill paywall-monetisation.
+## Hygiène de code (obligatoire)
+- Un seul endroit pour les couleurs/tokens (constants/theme.ts) — zéro valeur en dur.
+- Handlers de stockage dans lib/ (fonctions getX/addX), pas d'appels storage dans l'UI.
+- Recharger les données au focus d'un écran : useFocusEffect (expo-router), pas useEffect seul.
+- Nommer les écrans XxxScreen, composants PascalCase.tsx, utilitaires camelCase.ts.
+- Skill performance-expo appliqué systématiquement.
+- expo-haptics sur les actions de succès (micro-polish pro).
+- eas.json avec 3 profils : development (dev client), preview (APK interne pour tests),
+  production (autoIncrement). CI : EAS Workflows (push git → build/submit).
+- Limites Expo Go connues : notifications push (SDK 53+), MMKV → créer un development
+  build (eas build --profile development) dès qu'un module natif custom est requis.

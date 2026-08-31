@@ -49,3 +49,31 @@
   en restant dans les modules Expo SDK curés autant que possible).
 - Conséquences : skills réécrits (architecture-expo, deploiement-stores). Codemagic
   n'est plus utilisé.
+
+## ADR-004 — Stack Expo 2026 détaillée (2026-08-31)
+- Date : 2026-08-31
+- Contexte : choix des librairies précis pour la stack 2026 après validation du framework (ADR-003).
+  Références : blog officiel Expo + recommandations communautaires (Grimm/galaxies.dev).
+- Décision : stack imposée détaillée dans `.opencode/skills/architecture-expo` et incarnée dans
+  le golden template `template-app/` :
+  - Navigation Expo Router · Styling NativeWind (alternative Uniwind) · État app Zustand + MMKV
+    persist · État serveur TanStack Query · Formulaires react-hook-form + zod · Listes FlashList ·
+    Animations Reanimated + Gesture Handler (thread UI) · Données expo-sqlite + Drizzle ORM
+    (optionnel) · Auth Clerk · Monétisation RevenueCat · Analytics PostHog · Crashs Sentry ·
+    Review de code IA CodeRabbit · Backend : aucun → Expo API Routes → Supabase → InstantDB
+    (ordre de complexité).
+- Alternatives écartées : Redux (Zustand plus léger), AsyncStorage (MMKV 30x plus rapide),
+  FlatList (FlashList), native drivers JS (Reanimated sur thread UI).
+- Conséquences : template golden `template-app/` = point de départ obligatoire de toute app
+  (clone, jamais de zéro) ; skills `architecture-expo` + `performance-expo` non négociables.
+  **Expo Skills officielles installées (26 skills) + serveur MCP Expo configuré.**
+
+## ADR-005 — Template golden `template-app/` (2026-08-31)
+- Date : 2026-08-31
+- Contexte : rendre la stack ADR-004 reproductible sans effort par app.
+- Décision : le template `template-app/` (SDK 57, Expo Router, NativeWind, Zustand+MMKV,
+  TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle optionnel, Jest + Maestro, eas.json
+  3 profils, services derrière flags .env) est le SEUL point de départ. Créer une app =
+  cloner template-app vers apps/<nom>.
+- Conséquences : chaque app part de la même base validée (typecheck + tests + bundling OK),
+  on ne configure plus jamais un projet de zéro.

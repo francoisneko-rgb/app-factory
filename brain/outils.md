@@ -2,7 +2,7 @@
 
 > Relire AVANT chaque tâche pour savoir ce dont on dispose.
 > Légende statut : ✅ prêt · 🔑 clé manquante · ⚠️ action manuelle / à installer.
-> MAJ : 2026-08-26 (setup)
+> MAJ : 2026-08-31 (fondation Expo — template golden + stack 2026)
 
 ## Scrapers stores (Google Play + App Store) — `tools/scrapers/`
 Statut : ✅ prêt (npm install fait, tous validés sur apps réelles).
@@ -35,8 +35,15 @@ Usage : doc officielle des librairies/frameworks (Expo, React Native, packages�
 
 ## Expo SDK / React Native (framework — ADR-003)
 Statut : ✅ prêt (Node v24 + npm présents ; `eas-cli` installé globalement).
-Stack : React Native + Expo SDK (TypeScript, Expo Router, NativeWind, Zustand).
+Stack : React Native + Expo SDK 57 (TypeScript, Expo Router, NativeWind, Zustand).
 Coût : gratuit (SDK open source). Skills : `architecture-expo`, `gauntlet-loop`, `deploiement-stores`.
+
+## Template golden — `template-app/` (ADR-005)
+Statut : ✅ créé + validé 2026-08-31 (typecheck, tests 3/3, expo export, expo start).
+Point de départ OBLIGATOIRE de toute app : cloner `template-app/` → `apps/<nom>` (jamais de zéro).
+Stack préconfigurée : Expo Router, NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList,
+Reanimated+Gesture Handler, Drizzle (optionnel), Jest+Maestro, eas.json 3 profils, services derrière
+flags .env. Procédure : README.md du template. Skills : `architecture-expo`, `performance-expo`.
 
 ## Expo Skills officielles (agents IA)
 Statut : ✅ installés 2026-08-31 (26 skills) dans `.opencode/skills/` via `npx skills add expo/skills`.
@@ -48,6 +55,21 @@ Portée : 6 skills EAS (`eas-app-stores`, `eas-hosting`, `eas-observe`, `eas-sim
 `expo-app-clip`, `expo-skill-feedback`, `expo-skill-eval`, `expo-migrate-module`).
 Règle : charger `expo-overview` en PREMIER pour toute tâche Expo/EAS (il route vers le bon skill).
 Source : https://docs.expo.dev/skills/
+
+## Serveur MCP Expo
+Statut : ✅ configuré dans opencode.json (`https://mcp.expo.dev/mcp`, type remote, auth OAuth).
+Rôle : docs Expo live, versions SDK, builds EAS, workflows, TestFlight. Redémarrer opencode pour l'activer.
+
+## Librairies stack 2026 (ADR-004) — dans template-app/
+- **Zustand + MMKV** : état app + persistance clé-valeur (react-native-mmkv, 30x + rapide qu'AsyncStorage).
+- **TanStack Query** : état serveur (premier appel HTTP).
+- **react-hook-form + zod** : formulaires validés typés.
+- **FlashList** (@shopify/flash-list) : listes longues/dynamiques (jamais FlatList).
+- **Reanimated + Gesture Handler + worklets** : animations thread UI + calculs lourds déportés.
+- **Drizzle ORM + expo-sqlite** (optionnel) : données structurées, drizzle-kit (generate/studio/migrate).
+- **Clerk** : auth si besoin (clés CLERK_*).
+- **CodeRabbit** : review de code IA sur les PR GitHub (qualité en solo).
+Coût : tout gratuit/open source (Clerk/PostHog/Sentry/RevenueCat gratuits sous seuils).
 
 ## EAS (build/CI/CD)
 Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` à remplir dans `config/api-keys.env`.
