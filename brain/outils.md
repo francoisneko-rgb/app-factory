@@ -31,21 +31,39 @@ Skills : `recherche-marche`, `scraping-concurrents`, `analyse-avis`.
 Statut : ✅ prêt (répond, `list_mcp_resources` OK).
 Endpoint : `https://mcp.context7.com/mcp`, outils `context7_*` (resolve-library-id, query-docs).
 Coût : gratuit.
-Usage : doc officielle des librairies/frameworks (Flutter, packages…). Skill : `architecture-flutter`.
+Usage : doc officielle des librairies/frameworks (Expo, React Native, packages…). Skill : `architecture-expo`.
 
-## Flutter SDK
-Statut : ⚠️ NON installé. `winget install Google.Flutter` échoue (paquet inexistant sur winget).
-Installation manuelle : télécharger SDK → https://docs.flutter.dev/get-started/install/windows (zip) → dézipper (ex. `C:\flutter`) → ajouter `C:\flutter\bin` au PATH utilisateur → `flutter doctor`. Pas de `flutter create` tant qu'aucune app choisie.
-Coût : gratuit.
-Skills : `architecture-flutter`, `gauntlet-loop`, `deploiement-stores`.
+## Expo SDK / React Native (framework — ADR-003)
+Statut : ✅ prêt (Node v24 + npm présents ; `eas-cli` installé globalement).
+Stack : React Native + Expo SDK (TypeScript, Expo Router, NativeWind, Zustand).
+Coût : gratuit (SDK open source). Skills : `architecture-expo`, `gauntlet-loop`, `deploiement-stores`.
 
-## Fastlane (build/export iOS+Android)
-Statut : ⚠️ requiert Flutter + Ruby + signature Apple/Google d'abord. À activer en phase G6.
-Coût : gratuit (open source). Skills : `deploiement-stores`.
+## Expo Skills officielles (agents IA)
+Statut : ✅ installés 2026-08-31 (26 skills) dans `.opencode/skills/` via `npx skills add expo/skills`.
+Portée : 6 skills EAS (`eas-app-stores`, `eas-hosting`, `eas-observe`, `eas-simulator`,
+`eas-update-insights`, `eas-workflows`) + 20 skills Expo SDK (`expo-overview` = point d'entrée,
+`expo-router`, `expo-native-ui`, `expo-design-system`, `expo-animation`, `expo-tailwind-setup`,
+`expo-ui`, `expo-data-fetching`, `expo-examples`, `expo-upgrade`, `expo-project-structure`,
+`expo-dev-client`, `expo-dom`, `expo-web-to-native`, `expo-module`, `expo-brownfield`,
+`expo-app-clip`, `expo-skill-feedback`, `expo-skill-eval`, `expo-migrate-module`).
+Règle : charger `expo-overview` en PREMIER pour toute tâche Expo/EAS (il route vers le bon skill).
+Source : https://docs.expo.dev/skills/
 
-## Codemagic (CI/CD)
-Statut : 🔑 clé manquante (`CODEMAGIC_API_TOKEN`). Config `codemagic.yaml` à créer par app. Tier gratuit + pay-as-you-go pour builds Apple.
+## EAS (build/CI/CD)
+Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` à remplir dans `config/api-keys.env`.
+Rôle : builds cloud iOS/Android, certificats Apple + keystores gérés automatiquement, soumission
+stores (`eas submit`), mises à jour OTA (`eas update`), CI via EAS Workflows (.eas/workflows/).
+Coût : 15 builds iOS + 15 Android/mois gratuits, puis ~2-4 $/build iOS à l'usage.
 Skills : `deploiement-stores`.
+
+## Flutter SDK (abandonné)
+Statut : ❌ plus nécessaire — abandonné au profit de React Native + Expo (ADR-003, migration 2026-08-31).
+Rien n'était installé ; ne PAS réinstaller. Skills associés supprimés/renommés (`architecture-expo`, `dev-expo`).
+
+## Fastlane (metadata en appoint)
+Statut : ⚠️ optionnel — autorisé en appoint pour l'upload de metadata/screenshots stores
+(deliver/supply), sous réserve d'avoir Ruby. Les builds passent par EAS (pas fastlane).
+Coût : gratuit (open source). Skills : `deploiement-stores`.
 
 ## fal.ai (agrégateur images — Recraft, Ideogram, Nano Banana…)
 Statut : 🔑 clé manquante (`FAL_KEY`). UNE clé = plusieurs modèles, facturation à l'image. Obtenir : https://fal.ai.
@@ -69,14 +87,14 @@ Coût : gratuit (open source) ; rendu sur votre machine. Skills : `video-remotio
 
 ## Supabase (backend)
 Statut : 🔑 clé manquante (`SUPABASE_URL`, `SUPABASE_ANON_KEY`). Par app, phase backend. Obtenir : https://supabase.com.
-Coût : gratuit sous quotas. Skills : `dev-flutter`.
+Coût : gratuit sous quotas. Skills : `dev-expo`.
 
 ## RevenueCat (monétisation abonnement)
 Statut : 🔑 clé manquante (`REVENUECAT_API_KEY`). Gratuit sous seuil de revenus. Skills : `deploiement-stores`, `product-manager`.
 
 ## PostHog (analytics produit)
 Statut : ⚠️ non configuré (pas de clé dans api-keys.env). À ajouter si besoin analytics.
-Coût : gratuit sous seuil. Skills : `architecture-flutter`.
+Coût : gratuit sous seuil. Skills : `architecture-expo`.
 
 ## Astro / Cloudflare (page store / landing)
 Statut : ⚠️ non configuré. Astro (gratuit) + Cloudflare Pages (gratuit). Pour les landing pages marketing. Skills : `visuels-marketing`, `marketeur`.
@@ -107,8 +125,10 @@ Skills : `recherche-marche`, `analyste-concurrents`.
 Skills : selon agent.
 
 ## Récapitulatif des clés manquantes à obtenir
-FAL_KEY (fal.ai) · KIE_API_KEY (optionnel) · ELEVENLABS_API_KEY (optionnel) · CODEMAGIC_API_TOKEN · GOOGLE_PLAY_SERVICE_ACCOUNT_JSON · APP_STORE_CONNECT_* · REVENUECAT_API_KEY · SUPABASE_URL/ANON · ANTHROPIC_API_KEY.
+EXPO_TOKEN (expo.dev — Access Tokens) · GOOGLE_PLAY_SERVICE_ACCOUNT_JSON · APP_STORE_CONNECT_* ·
+REVENUECAT_API_KEY · SUPABASE_URL/ANON · FAL_KEY (fal.ai) · KIE_API_KEY (optionnel) ·
+ELEVENLABS_API_KEY (optionnel) · ANTHROPIC_API_KEY.
 
 ## Manuels à faire
-- Installer Flutter SDK (link officiel + PATH).
+- Remplir `EXPO_TOKEN` dans `config/api-keys.env` (https://expo.dev → Settings → Access Tokens).
 - Installer Remotion en phase marketing.

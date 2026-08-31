@@ -27,3 +27,25 @@
   à volume sur iOS), outils payants (AppTweak/Sensor Tower = inutiles, Appfigures suffit).
 - Conséquences : base de données marché complète pour choisir une app ; prochaine étape = choix
   d'1-2 sous-niches par l'utilisateur puis PRD (G3).
+
+## ADR-003 — Framework : React Native + Expo (remplace ADR-001)
+- Date : 2026-08-27
+- Contexte : réévaluation après recherche approfondie août 2026. ADR-001 (Flutter) est REMPLACÉ.
+- Décision : React Native + Expo SDK (TypeScript) pour toutes les apps.
+- Raisons :
+  1. EAS Build génère et gère automatiquement certificats iOS, provisioning et keystores
+     ("Let Expo handle it") — zéro configuration Apple manuelle, aucun Mac requis.
+  2. EAS Submit fonctionne sous Windows ; `eas build --platform ios --auto-submit`
+     envoie sur TestFlight en une commande.
+  3. EAS Update : mises à jour OTA sans review store (paywall, correctifs) — Flutter
+     n'a pas d'équivalent officiel.
+  4. Expo fournit des Skills officielles pour agents IA + un serveur MCP Expo (docs
+     live, logs de build, TestFlight) : l'écosystème le mieux instrumenté pour un
+     développement 100 % par agents.
+  5. Communauté JS/TS plus vaste = plus de données d'entraînement pour les agents.
+  6. Synergie : Remotion (vidéos marketing) est en React — même paradigme partout.
+- Compromis acceptés : rendu moins uniforme iOS/Android que Flutter (le gauntlet-loop
+  juge des screenshots réels, donc compensé) ; écosystème npm plus fragmenté (limité
+  en restant dans les modules Expo SDK curés autant que possible).
+- Conséquences : skills réécrits (architecture-expo, deploiement-stores). Codemagic
+  n'est plus utilisé.

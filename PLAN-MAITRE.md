@@ -2,9 +2,9 @@
 
 ## Vision
 Une usine à applications mobiles pilotée par OpenCode : recherche de marché data-first,
-analyse concurrentielle automatisée, développement Flutter autonome avec contrôle qualité
-par boucle gauntlet, publication et marketing semi-automatisés. L'humain (toi) valide aux
-checkpoints stratégiques ; les agents exécutent le reste.
+analyse concurrentielle automatisée, développement Expo / React Native autonome avec
+contrôle qualité par boucle gauntlet, publication et marketing semi-automatisés. L'humain
+(toi) valide aux checkpoints stratégiques ; les agents exécutent le reste.
 
 ## Principe directeur : DATA-FIRST
 Aucune décision produit sans données. On ne part jamais d'une idée : on part du marché.
@@ -19,7 +19,7 @@ monétisation des concurrents) avant tout investissement de temps.
 | G2 | 2. Analyse concurrentielle | Scraping stores, avis, screenshots, gaps, monétisation | L'angle produit |
 | G3 | 3. Spec produit | PRD : promesse, parcours utilisateur, features, monétisation | Le PRD |
 | G4 | 4. Design | Design system + écrans générés en images | Le style graphique |
-| — | 5. Développement | App Flutter complète, autonome, gauntlet sur surfaces critiques | — |
+| — | 5. Développement | App Expo/React Native complète, autonome, gauntlet sur surfaces critiques | — |
 | G5 | 6. Test device | Build APK sur ton téléphone, itérations UX | Le produit final |
 | G6 | 7. Export | Build signé + fiches store complètes | La publication |
 | G7 | 8-9. Marketing | Direction créative → validation → assets en autonomie | La direction créative |
@@ -30,6 +30,14 @@ Première app = complexité MINIMALE : pas de backend custom, monétisation simp
 de bout en bout et encaisser un premier revenu. Chaque friction est documentée dans
 `brain/learnings.md`. Ensuite seulement, on monte en ambition (abonnements, backend,
 multi-marchés).
+
+## Stack technique (ADR-003)
+- Framework : Expo SDK + React Native + TypeScript
+- Routing/état : Expo Router, Zustand, TanStack Query, NativeWind
+- CI/CD : EAS Build/Submit/Update — 15 builds iOS + 15 Android/mois gratuits, puis ~2-4 $/build iOS à l'usage
+- Crashs : Sentry
+- Tests : Jest (logique) + Maestro (E2E)
+- Mises à jour OTA : EAS Update (correctifs JS sans review store)
 
 ## Contrôle qualité : la boucle gauntlet (surfaces critiques uniquement)
 Pour chaque surface critique (onboarding, home, paywall, icône, screenshots store,
@@ -49,9 +57,11 @@ visuels marketing) :
 - `brain/logs/` — journal daté de chaque exécution
 
 ## Coûts récurrents (ordre de grandeur)
-- Google Play : 25 $ une fois. Apple Developer : 99 $/an (plus tard, quand tu passes sur iOS).
-- Codemagic : tier gratuit + paiement à l'usage — PAS besoin d'un abonnement mensuel ;
-  tu ne paies que quand tu buildes pour Apple.
+- Google Play : 25 $ une fois. Apple Developer : 99 $/an.
+- EAS Build : 15 builds iOS + 15 Android/mois gratuits, puis ~2-4 $/build iOS à l'usage
+  (builds cloud, certifs Apple gérées automatiquement — aucun Mac requis).
+- EAS Update : mises à jour OTA JS illimitées selon le plan.
 - Appfigures : API au crédit, plans abordables (bien moins cher que Sensor Tower).
 - RevenueCat : gratuit sous un seuil de revenus mensuels — parfait pour démarrer.
+- Sentry : gratuit sous un seuil d'événements — crashs dès le MVP.
 - Scrapers (google-play-scraper, app-store-scraper) : gratuits et open source.

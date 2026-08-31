@@ -18,9 +18,7 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
 6. SÉCURITÉ : aucune clé API en dur, nulle part. Toujours `{env:NOM_CLE}`.
 7. LANGUE : français avec l'utilisateur. Code et commentaires en anglais. Metadata store
    dans la langue du marché cible.
-8. MARCHÉ : focus sur les gros marchés US (et internationaux). PAS de double récolte FR par
-   défaut — le marché français n'est pas prioritaire pour l'instant. Ne lancer une récolte
-   fr-fr que sur demande explicite ou pour une faille spécifique identifiée (recherche séparée).
+8. FRAMEWORK : React Native + Expo (ADR-003). Aucune exception sans décision explicite.
 9. MÉTHODOLOGIE SOUS-NICHE (décision utilisateur 2026-08-27) : ne JAMAIS écarter une niche
    en la jugeant "trop concurrentielle" sans avoir creusé ses sous-niches en longue traîne.
    Funnel obligatoire : niche → sous-niche → micro-sous-niche, jusqu'au bon ratio
@@ -37,9 +35,10 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
 10. PLATEFORME : focus iOS pour l'argent (historiquement 92 % des revenus utilisateur sur
    App Store, apps payantes). Android en second pour confirmer et pour les apps gratuites
    monétisées (abonnements/déblocages). Toujours scorer les deux si possible.
-11. STACK (décision utilisateur 2026-08-27) : développement en **React Native** (PAS Flutter).
-   Toute analyse technique/stack des apps se raisonne en React Native (modules natifs pour
-   audio, IA, 3D, caméra, etc.). Les skills architecture-flutter/dev-flutter sont obsolètes.
+11. STACK (décision utilisateur 2026-08-27, migré 2026-08-31) : développement en
+    **React Native + Expo SDK** (TypeScript, Expo Router, NativeWind, Zustand).
+    Toute analyse technique/stack des apps se raisonne en React Native (modules natifs
+    pour audio, IA, 3D, caméra, etc.). Le skill de référence est `architecture-expo`.
 12. ORGANISATION (décision utilisateur 2026-08-29) : **UN SEUL fichier de travail par tâche**,
    lisible par l'utilisateur. Pas de duplication de données dans plusieurs fichiers. Pour la
    recherche de marché, LE fichier unique des mots-clés scorés = `brain/marche/scoring/appfigures-insights.csv`
@@ -125,9 +124,9 @@ G5 Tests UX → G6 Export → G7 Marketing.
 | analyste-concurrents | Phase 2 : scraping, avis, gaps, monétisation | subagent |
 | product-manager | Phase 3 : PRD, promesse, parcours, monétisation | subagent |
 | designer | Phase 4 : design system, écrans, icône | subagent |
-| dev-flutter | Phase 5 : architecture et code Flutter | subagent |
+| dev-expo | Phase 5 : architecture et code Expo / React Native | subagent |
 | critique | Juge aveugle du gauntlet-loop | subagent |
-| devops | Build, CI Codemagic, fastlane, publication | subagent |
+| devops | Build, CI EAS Build/Submit/Update, publication | subagent |
 | marketeur | ASO, carrousels, vidéos Remotion | subagent |
 
 ## État du pipeline

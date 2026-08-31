@@ -2,7 +2,7 @@
 
 ## Setup factory
 Statut : ✅ PRÊT (scrapers + MCP + runtime validés) — 2026-08-26
-Blocages : Flutter SDK à installer manuellement · clés génération/back à récupérer (voir brain/outils.md).
+Blocages : `EXPO_TOKEN` à remplir (expo.dev → Access Tokens) · clés génération/back à récupérer (voir brain/outils.md).
 
 | App | Niche | Phase | Prochain gate | Dernière MAJ |
 |---|---|---|---|---|

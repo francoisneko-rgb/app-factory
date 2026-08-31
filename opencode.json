@@ -10,11 +10,22 @@
       "type": "remote",
       "url": "https://mcp.context7.com/mcp",
       "enabled": true
+    },
+    "expo": {
+      "type": "remote",
+      "url": "https://mcp.expo.dev/mcp",
+      "enabled": true
     }
   },
   "permission": {
     "edit": "allow",
-    "bash": "allow",
+    "bash": {
+      "*": "allow",
+      "npx expo*": "allow",
+      "eas *": "allow",
+      "npx create-expo-app*": "allow",
+      "npx maestro*": "ask"
+    },
     "web": "allow",
     "external_directory": { "~/secrets/**": "deny", "*": "allow" }
   }

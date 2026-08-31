@@ -4,7 +4,7 @@
 - **Agent** : chercheur-niches
 - **Pipeline** : App Factory — Phase 1 (Gate G1)
 - **Marché scruté** : Google Play US (lang EN) + contrôles FR
-- **Stratégie alignée** : première app à complexité minimale (pas de backend, monétisation simple, solo dev Flutter 2-4 semaines)
+- **Stratégie alignée** : première app à complexité minimale (pas de backend, monétisation simple, solo dev React Native (Expo) 2-4 semaines)
 
 ---
 
@@ -163,7 +163,7 @@ Pondération : Demande 25% · Concurrence 25% · Monétisation 25% · Tendance 1
 - **Demande prouvée** : le leader « I am » (Monkey Taps) cumule **10M+ installs et 310k ratings**, preuve d'un gros volume de marché.
 - **Concurrence battable** : le leader date de **2016 (10 ans)** et un entrant récent (déc 2023) atteint déjà **100k+ installs avec 4.88★** : la place pour un acteur soigné, au design moderne, existe et est démontrée.
 - **Monétisation simple** : modèles existants mêlent IAP + abonnements + **lifetime à $24.99** (ThinkUp). On peut lancer avec un simple « premium unlock » unique ou pub, sans RevenueCat/abonnement.
-- **Faisabilité maximale** : base de citations + reminders + widget, **zéro backend**, solo dev Flutter en 2-4 semaines.
+- **Faisabilité maximale** : base de citations + reminders + widget, **zéro backend**, solo dev React Native (Expo) en 2-4 semaines.
 - **Tendance positive** : la niche « manifestation/self-love » est portée par TikTok, et l'entrant 2023 confirme la vélocité.
 
 **Risque principal** : la niche est visual/brand-heavy (le design et les visuels font vendre). À mitiger par le gauntlet-loop sur onboarding + icône + screenshots store.
