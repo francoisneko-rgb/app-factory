@@ -77,3 +77,12 @@
   cloner template-app vers apps/<nom>.
 - Conséquences : chaque app part de la même base validée (typecheck + tests + bundling OK),
   on ne configure plus jamais un projet de zéro.
+
+## ADR-006 — Workflow de développement par agents (2026-08-31)
+- Date : 2026-08-31
+- Décision : AGENTS.md par app + prompts en 4 parties + revue CodeRabbit obligatoire
+  par PR + skills officielles des services (Expo, Clerk, Stream) installées au scope
+  projet + PostHog wizard/MCP par app.
+- Source : pratiques éprouvées de cours de production 2026 (JSMastery), cohérentes avec
+  notre gauntlet-loop (le critique = revue visuelle, CodeRabbit = revue code).
+- Note : numéroté ADR-006 car ADR-005 est déjà pris par le template golden.

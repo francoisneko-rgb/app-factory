@@ -43,3 +43,39 @@ description: Stack et standards 2026 — structure projet, données, état, pack
   production (autoIncrement). CI : EAS Workflows (push git → build/submit).
 - Limites Expo Go connues : notifications push (SDK 53+), MMKV → créer un development
   build (eas build --profile development) dès qu'un module natif custom est requis.
+
+## Pièges connus NativeWind v5 (documentés, ne pas réapprendre)
+- Override lightningcss obligatoire dans package.json (version pinée) ; après tout
+  override : supprimer node_modules + package-lock.json et réinstaller, sinon sans effet.
+- react-native-css est un peer dependency requis pour les builds natifs (erreur Metro sinon).
+- className ne fonctionne PAS sur SafeAreaView et quelques composants natifs → utiliser
+  les tokens de constants/theme.ts en style classique pour ces composants uniquement.
+- Importer global.css dans le root layout.
+
+## Patterns FlatList éprouvés
+- Écran qui doit scroller d'un bloc : tout le contenu au-dessus de la liste va dans
+  ListHeaderComponent (jamais de ScrollView parent de même direction — conflit + warning).
+- Imbriquer un FlatList horizontal dans un FlatList vertical est OK (directions différentes).
+- contentContainerClassName / padding bottom pour ne pas passer sous la tab bar.
+- ListEmptyComponent obligatoire (état vide soigné).
+- Pour les très longues listes : FlashList (déjà dans la stack).
+
+## Pattern chargement au focus
+- Données d'un écran rechargées au retour sur l'écran : useFocusEffect + useCallback,
+  pas un useEffect au montage seul.
+
+## Provider et splash
+- SplashScreen.preventAutoHideAsync() au chargement du module, jusqu'aux fonts chargées.
+- Providers critiques (Clerk, PostHog) placés pour charger EN PARALLÈLE des fonts
+  (ne pas les enfermer derrière un font-gate : le temps de démarrage compte).
+
+## PostHog par app (setup automatique)
+- npx -y @posthog/wizard@latest : wizard IA qui scanne le codebase, propose un plan
+  d'événements, installe et configure tout. Le lancer APRÈS les premières features.
+- Accepter l'installation du serveur MCP PostHog proposée à la fin : les agents pourront
+  interroger les analytics en langage naturel ("quel écran a le plus de drop-off ?") et
+  proposer des correctifs — boucle d'amélioration post-lancement.
+- Identifier l'utilisateur (posthog.identify) après chaque sign-in ; posthog.reset()
+  APRÈS signOut (jamais avant — désynchronisation).
+- Événements MVP obligatoires : app opened, onboarding complété, action cœur de l'app,
+  paywall vu, paywall converti. Dashboards créables en langage naturel via PostHog AI.

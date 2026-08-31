@@ -1,8 +1,13 @@
 # État du pipeline — source de vérité
 
 ## Setup factory
-Statut : ✅ PRÊT (scrapers + MCP + runtime validés) — 2026-08-26
-Blocages : `EXPO_TOKEN` à remplir (expo.dev → Access Tokens) · clés génération/back à récupérer (voir brain/outils.md).
+Statut : ✅ PRÊT COMPLET — 2026-08-31 (fondation Expo + template golden)
+- Framework : React Native + Expo SDK 57 (ADR-003) — skills `architecture-expo` + `performance-expo`.
+- Template golden `template-app/` validé (ADR-005) : toute app = clone de template-app (jamais de zéro).
+- 26 skills Expo officiels + MCP Expo (https://mcp.expo.dev/mcp) dans opencode.json.
+- Stack app : NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle (opt.), Jest+Maestro, eas.json 3 profils.
+- Workflow agents (ADR-006) : skill `workflow-agents` (prompts 4 parties) + `revue-code` (CodeRabbit avant merge) — règle 18 AGENTS.md.
+- Blocages manuels : `EXPO_TOKEN` à remplir (expo.dev → Access Tokens) · clés génération/back à récupérer (voir brain/outils.md) · CodeRabbit à activer sur GitHub.
 
 | App | Niche | Phase | Prochain gate | Dernière MAJ |
 |---|---|---|---|---|

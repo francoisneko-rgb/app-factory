@@ -18,3 +18,9 @@ montrer la valeur), jamais de piège au retour.
 2. Événement analytics dès l'affichage (`paywall_viewed`) et sur conversion.
 3. Tester 2-3 variantes (prix, position croix, wording) avant de figer.
 4. EAS Update permet de corriger un paywall déployé sans nouvelle review store.
+
+## Note Clerk Billing
+Clerk propose du billing (abonnements) couplé à l'auth, gratuit jusqu'à 50k MAU.
+RÈGLE : pour des biens numériques dans l'app, RevenueCat (IAP natif stores) reste le
+choix principal — conformité App Store/Play. Clerk Billing = option pertinente seulement
+si l'app a une forte composante web avec paiement hors stores. Demander validation.

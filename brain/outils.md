@@ -117,6 +117,15 @@ Statut : 🔑 clé manquante (`REVENUECAT_API_KEY`). Gratuit sous seuil de reven
 ## PostHog (analytics produit)
 Statut : ⚠️ non configuré (pas de clé dans api-keys.env). À ajouter si besoin analytics.
 Coût : gratuit sous seuil. Skills : `architecture-expo`.
+Setup par app (automatique) :
+- `npx -y @posthog/wizard@latest` : wizard IA qui scanne le codebase, propose un plan
+  d'événements, installe et configure tout. À lancer APRÈS les premières features.
+- Accepter le serveur MCP PostHog proposé en fin de wizard : les agents interrogent les
+  analytics en langage naturel ("quel écran a le plus de drop-off ?") et proposent des
+  correctifs — boucle post-lancement.
+- posthog.identify après chaque sign-in ; posthog.reset() APRÈS signOut (jamais avant).
+- Événements MVP obligatoires : app opened, onboarding complété, action cœur, paywall vu,
+  paywall converti. Dashboards via PostHog AI.
 
 ## Astro / Cloudflare (page store / landing)
 Statut : ⚠️ non configuré. Astro (gratuit) + Cloudflare Pages (gratuit). Pour les landing pages marketing. Skills : `visuels-marketing`, `marketeur`.

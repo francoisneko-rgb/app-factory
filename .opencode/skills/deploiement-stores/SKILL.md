@@ -35,3 +35,15 @@ Uniquement pour la couche JS — tout changement natif exige un nouveau build.
 - Landing page avec /support et /privacy AVANT soumission (skill landing-page).
 - Web (si demandé) : `npx expo export --platform web` puis `eas deploy --prod`.
 - Log de chaque build/soumission/update dans `brain/logs/`.
+
+## Détails de soumission qui coûtent cher si ratés
+- bundleIdentifier (iOS) et package (Android) : com.<toi>.<app> — IMMUABLES après la
+  première soumission. Choisir définitivement, jamais de "temp" ou "test".
+- eas build --platform ios demande le compte Apple avec 2FA ; répondre "standard/exempt
+  encryption" (ITSAppUsesNonExemptEncryption false) pour une app standard.
+- TestFlight : corriger "missing compliance" (chiffrement standard) avant de pouvoir tester.
+- Échec de build à l'étape "dependency installation" (npm ci) = package-lock.json
+  désynchronisé → supprimer node_modules + package-lock.json, npm install, committer le
+  lock, relancer le build.
+- Durée build : 5-15 min. Surveiller les logs sur expo.dev (activity).
+- Google Play : vérification d'identité du compte développeur à anticiper.

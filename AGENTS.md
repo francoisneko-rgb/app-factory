@@ -113,6 +113,11 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
      "besoin/fonction" ; l'hypercasual vit de la pub (Water Sort $5K malgré 790K dl) ; les apps
      leaders avec UI datée/abo forcé/glitchs = opportunités de disruption.
    - **Prochaine étape** : choisir 1-2 sous-niches (gaps ci-dessus) → PRD (G3).
+18. WORKFLOW (décision utilisateur 2026-08-31, cours production) : le skill `workflow-agents`
+    régit tout brief d'agent (prompt en 4 parties, une tâche par prompt, contraintes de
+    protection, référence visuelle). Toute feature passe par la boucle du skill `revue-code`
+    (CodeRabbit) avant merge. Ajoutée en règle 18 (et non 9) pour ne pas renuméroter les
+    règles existantes référencées ailleurs (ex. règle 16).
 
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
