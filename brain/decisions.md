@@ -1,4 +1,4 @@
-# Journal des décisions (format ADR)
+﻿# Journal des décisions (format ADR)
 
 ## ADR-000 — Exemple
 - Date :
@@ -77,6 +77,29 @@
   cloner template-app vers apps/<nom>.
 - Conséquences : chaque app part de la même base validée (typecheck + tests + bundling OK),
   on ne configure plus jamais un projet de zéro.
+
+## ADR-008 — Spec-Driven Development (Spec Kit) comme colonne vertébrale
+- Date ：2026-09-01
+- Contexte ：risque documenté du vibe coding non structuré(context rot, code
+    inmaintenable, divergences silencieuses). L'utilisateur n'est pas programmeur ：
+    l'architecture ne peut pas vivre"dans sa tête" → elle vit dans des fichiers。
+- Décision ：GitHub Spec Kit installé au projet；pipeline G3.5 spec → G3.6 plan
+    (agent architecte) → G3.7 tasks → implement tâche par tâche ；la spec est la source
+    de vérité. Alternatives écartées ：BMAD(duplique nos agents,, Kiro(IDE séparé。
+- Conséquences ：gates G3.5-G3.7 ajoutés；agent architecte créé；règles anti-context-rot
+    dans workflow-agents；arborescence feature-based obligatoire。
+
+## ADR-007 — Capacité jeux mobiles (2D + 3D simple)
+- Date : 2026-09-01
+- Contexte : la recherche de niches V2 a identifié des jeux (éducatifs, cartes, mots,
+  2D simple) avec ratio demande/concurrence favorable.
+- Décision : la factory accepte les jeux 2D et la 3D simple, SANS moteur externe.
+  Composition : RN pur + Reanimated + Gesture Handler (niveau 1), + Skia (niveau 2),
+  + Matter.js (physique), filament + GLB pour la 3D simple.
+- Règle bloquante : catégorie Enfants = pas d'analytics/pubs tiers → modèle payant.
+- Exclusions : react-native-game-engine (dormant), Phaser WebView, Unity (hors scope).
+- Conséquences : skill `jeux-mobiles` créé (équipement 2 min via docs/GAME-ADDONS.md
+  du template) ; les jeux restent soumis aux gates G1-G7 + gauntlet-loop standard.
 
 ## ADR-006 — Workflow de développement par agents (2026-08-31)
 - Date : 2026-08-31

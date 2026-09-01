@@ -1,8 +1,8 @@
-# OUTILS — Mémoire de la factory
+﻿# OUTILS — Mémoire de la factory
 
 > Relire AVANT chaque tâche pour savoir ce dont on dispose.
 > Légende statut : ✅ prêt · 🔑 clé manquante · ⚠️ action manuelle / à installer.
-> MAJ : 2026-08-31 (fondation Expo — template golden + stack 2026)
+> MAJ : 2026-09-01 (capacité jeux mobiles — ADR-007 + skill jeux-mobiles)
 
 ## Scrapers stores (Google Play + App Store) — `tools/scrapers/`
 Statut : ✅ prêt (npm install fait, tous validés sur apps réelles).
@@ -71,8 +71,27 @@ Rôle : docs Expo live, versions SDK, builds EAS, workflows, TestFlight. Redéma
 - **CodeRabbit** : review de code IA sur les PR GitHub (qualité en solo).
 Coût : tout gratuit/open source (Clerk/PostHog/Sentry/RevenueCat gratuits sous seuils).
 
+## Librairies jeux mobiles (ADR-007, skill `jeux-mobiles`)
+Statut : ✅ prêt (npm) — installables via `npx expo install`, jamais dans le template de base.
+- **@shopify/react-native-skia** : rendu GPU 2D (Metal/Vulkan via JSI) — canvas, sprites, effets. Niveau 2.
+- **matter-js** : moteur physique 2D (gravité, collisions) — Matter simule, Skia rend, Reanimated orchestre. Niveau 3.
+- **react-native-filament** : rendu 3D PBR natif (C++) — modèles .glb, physique Bullet incluse. Dépend : react-native-worklets-core.
+- **expo-audio** : sons/musique (feedback + ambiance de jeu).
+- **react-native-svg** : rendu SVG vectoriel (Recraft → UI) ; alternative légère à Skia.
+Interdit : react-native-game-engine (dormant), Phaser WebView, Unity (hors factory).
+Équipement d'une app-jeu : voir `template-app/docs/GAME-ADDONS.md`.
+
+## Spec Kit — Spec-Driven Development (ADR-008)
+Statut : ✅ installé 2026-09-01 (CLI via uv tool install, intégration opencode).
+Rôle : aucun code de feature sans spec → plan → tasks validés (gates G3.5-G3.7, règle 10 AGENTS.md).
+CLI : `specify` (dans `~\.local\bin\specify.exe` — uv installé via winget astral-sh.uv).
+Commandes `/speckit.*` (dans `.opencode/commands/`) : constitution (une fois par projet, depuis AGENTS.md), specify (spec depuis PRD + rapport concurrentiel,, clarify (questions de désambiguïsation,, plan (architecture technique par l'agent architecte,, tasks (découpe des tâches,, analyze (cohérence spec/plan/tasks,, implement (une tâche par session,, converge (état du codebase → tasks restantes,, checklist, taskstoissues.
+Structure : `.specify/` (config + templates + scripts ps + workflow) ; specs dans `specs/` à la racine.
+Commandes utiles : `specify check` (outils), `specify integration list` (intégrations), `specify workflow` (workflows).
+Référence : https://github.com/github/spec-kit
+
 ## EAS (build/CI/CD)
-Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` à remplir dans `config/api-keys.env`.
+Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` remplie + activée (2026-09-01, eas whoami OK).
 Rôle : builds cloud iOS/Android, certificats Apple + keystores gérés automatiquement, soumission
 stores (`eas submit`), mises à jour OTA (`eas update`), CI via EAS Workflows (.eas/workflows/).
 Coût : 15 builds iOS + 15 Android/mois gratuits, puis ~2-4 $/build iOS à l'usage.

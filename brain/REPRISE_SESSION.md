@@ -27,11 +27,17 @@
 - Logs : `brain/logs/AAAA-MM-JJ-<phase>-<sujet>.md`. pipeline/etat.md = état du pipeline.
 - Fichier unique mots-clés scorés : `brain/marche/scoring/appfigures-insights.csv`.
 
+## Setup terminé (2026-09-01)
+- Compte Expo : francoiscoiscois (francoisneko@gmail.com) — 2e compte "francoiscoiscoiss-team" présent mais non utilisé.
+- MCP Expo connecté (opencode mcp list → expo connected).
+- EXPO_TOKEN créé + écrit config/api-keys.env + activé via install-api-keys.ps1 (validé eas whoami).
+- ⚠️ Toujours fermer/rouvrir le terminal après modif de config/api-keys.env.
+
 ## Prochaines actions manuelles utilisateur (avant/après redémarrage)
-1. Redémarrer opencode (charger skills Expo + MCP Expo).
-2. Login OAuth Expo au premier usage du MCP (bouton "Sign in").
-3. Remplir `EXPO_TOKEN` dans config/api-keys.env (expo.dev → Access Tokens).
-4. Activer CodeRabbit sur GitHub (github.com/apps/coderabbitai) ou extension éditeur.
+1. ~~Redémarrer opencode (charger skills Expo + MCP Expo).~~ ✅
+2. ~~Login OAuth Expo au premier usage du MCP.~~ ✅
+3. ~~Remplir EXPO_TOKEN dans config/api-keys.env.~~ ✅
+4. CodeRabbit : **REPORTÉ** (essai gratuit 14 j puis payant) — pas urgent, à activer le moment venu si besoin.
 5. (Plus tard) Clés services quand une app en a besoin : SENTRY_*, CLERK_*, REVENUECAT_*, POSTHOG, STREAM_*.
 
 ## Prochains commits attendus

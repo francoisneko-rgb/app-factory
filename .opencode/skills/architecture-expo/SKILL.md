@@ -6,10 +6,19 @@ description: Stack et standards 2026 — structure projet, données, état, pack
 
 ## Création de projet
 - TOUJOURS partir de `template-app/` (clone préconfiguré), jamais de zéro.
-- Dernier SDK Expo (55+). Structure src/ : app/ (routes Expo Router), components/,
-  lib/ (storage, api), utils/, constants/ (tokens de thème).
+
+- AUCUN code avant que spec/plan/tasks soient validés (gates G3.5-G3.7, Spec Kit,
+   règle 19 AGENTS.md).
+- Dernier SDK Expo (55+. Arborescence FEATURE-BASED obligatoire :
+   src/app/ (routes Expo Router : composition + navigation UNIQUEMENT, pas de logique),
+   src/features/<domaine>/{screens,components,hooks,api,store,types,index.ts},
+   src/components/ui/ (UI générique uniquement), src/services/ (API, analytics, storage),
+   src/constants/ (tokens thème), src/utils/ (fonctions pures).
+   Règles : une feature n'importe jamais les internes d'une autre (surface publique
+   index.ts) ; shared UI reste étroit ; fichiers petits, une responsabilité.
+
 - Installer un package : TOUJOURS `npx expo install <pkg>` (version compatible SDK
-  garantie) — jamais npm install direct pour des packages natifs.
+   garantie) — jamais npm install direct pour des packages natifs.
 
 ## Stack imposée
 | Besoin | Outil | Note |

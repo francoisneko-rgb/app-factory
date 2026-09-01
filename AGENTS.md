@@ -1,4 +1,4 @@
-# APP FACTORY — Constitution
+﻿# APP FACTORY — Constitution
 
 ## Mission
 Créer des applications mobiles rentables, de la recherche de niche à la publication,
@@ -119,6 +119,12 @@ en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orc
     (CodeRabbit) avant merge. Ajoutée en règle 18 (et non 9) pour ne pas renuméroter les
     règles existantes référencées ailleurs (ex. règle 16).
 
+19. SPEC-DRIVEN (décision utilisateur 2026-09-01, Spec Kit) ：aucun code de feature
+     sans spec/plan/tasks validés aux gates G3.5-G3.7. La spec est la source de vérité ；
+     si le code s'écarte, on corrige le code OU on met à jour la spec explicitement —
+     jamais de divergence silencieuse. Ajoutée en règle 19 (et non 10) pour ne pas
+     renuméroter les règles existantes(ex. règle 10 = PLATEFORME. Détail ：ADR-008。
+
 
 ## Pipeline (détail dans PLAN-MAITRE.md)
 G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →
@@ -132,7 +138,7 @@ G5 Tests UX → G6 Export → G7 Marketing.
 | analyste-concurrents | Phase 2 : scraping, avis, gaps, monétisation | subagent |
 | product-manager | Phase 3 : PRD, promesse, parcours, monétisation | subagent |
 | designer | Phase 4 : design system, écrans, icône | subagent |
-| dev-expo | Phase 5 : architecture et code Expo / React Native | subagent |
+| dev-expo | Phase 5 : architecture et code Expo / React Native. Pour les jeux, applique en plus le skill `jeux-mobiles` | subagent |
 | critique | Juge aveugle du gauntlet-loop | subagent |
 | devops | Build, CI EAS Build/Submit/Update, publication | subagent |
 | marketeur | ASO, carrousels, vidéos Remotion | subagent |
