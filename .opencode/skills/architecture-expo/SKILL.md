@@ -53,6 +53,16 @@ description: Stack et standards 2026 — structure projet, données, état, pack
 - Limites Expo Go connues : notifications push (SDK 53+), MMKV → créer un development
   build (eas build --profile development) dès qu'un module natif custom est requis.
 
+## Design system（contrat visuel versionné）
+- **Composants UI ：`react-native-reusables` comme base（copy-paste, on possède la
+  source—le standard de l'ère agentique, compatible NativeWind）. HeroUI RN acceptable
+  si composant spécifique manquant（skill `pipeline-design`）。
+- Le **DESIGN.md de l'app**（`brain/apps/<app>/design/DESIGN.md`）est la **source de vérité
+  visuelle**—`constants/theme.ts` en est la traduction code（tokens identiques, jamais
+  de divergence entre le contrat et le code）. Toute nouvelle feature lit le DESIGN.md avant
+  de styler。
+- Icône, splash, écrans critiques passent par le gauntlet-loop（skill `icones-app` +
+  `pipeline-design`）。
 ## Pièges connus NativeWind v5 (documentés, ne pas réapprendre)
 - Override lightningcss obligatoire dans package.json (version pinée) ; après tout
   override : supprimer node_modules + package-lock.json et réinstaller, sinon sans effet.

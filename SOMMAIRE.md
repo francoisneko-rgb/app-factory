@@ -21,9 +21,10 @@ Règles de circulation : les learnings remontent de l'app → brain/learnings.md
 | Comment me demander les choses (mode d'emploi des échanges) | GUIDES-UTILISATEUR.md |
 | Pipeline détaillé (gates, multi-apps) | PLAN-MAITRE.md |
 | État des apps (source de vérité, 1 ligne/app) | pipeline/etat.md |
-| Décisions (ADR-001→010) | brain/decisions.md |
+| Décisions (ADR-001→012) | brain/decisions.md |
 | Outils/scripts + clés + statuts | brain/outils.md |
 | Enseignements (ce qui a marché/échoué) | brain/learnings.md |
+| Canaux d'acquisition (référence ASO + organique + payant, benchmarks 2026) | brain/canaux-acquisition.md |
 | Marché : niches scorées, tendances | brain/niches.md, brain/tendances.md |
 | Recherche marché approfondie (mémoire/état) | brain/REPRISE_RECHERCHE.md |
 | Clusters sondés (~340k mots-clés, CSV bruts) | brain/marche/mots-cles/ (INDEX_CLUSTERS.md) |

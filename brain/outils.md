@@ -117,6 +117,28 @@ Statut ：✅ natif git。Rôle ：parallélisme encadré——chaque agent trav
 - **testeur-qa**（Phase 5bis）：exécute les flux Maestro, vérifie les critères d'acceptation de  `tasks.md`, chasse les bugs avec preuves（captures）→ `brain/apps/<app>/tests/AAAA-MM-JJ-qa.md` + `PLAN-CORRECTIFS.md`。Couche "comportement"（CodeRabbit=code, critique=UX/stratégie）。Boucle QA plafonnée à 3 rounds（règle 11 AGENTS.md）；retour utilisateur prioritaire（ `template-app/docs/RETOUR-UTILISATEUR.md`）。
 
 
+## OpenDesign（MCP/skill design — ADR-011）
+Statut ：✅ installé 2026-09-01（desktop app v0.21.1, Windows x64, open source Apache-2.0）。BYOK：utilise nos modèles, aucune clé supplémentaire。Rôle ：moteur de design par agents——140+ design systems de référence（Apple, Linear, brutalist, editorial...）, skills composables, et DESIGN.md（contrat de marque versionné）; génère les artefacts web（landing, decks, prototypes）。Intégration OpenCode ：MCP configuré dans `~/.config/opencode/opencode.jsonc`（serveur `open-design`, 22 outils, daemon local sur port dynamique + pipe sidecar stable）。CLI ：`od`（wrapper dans `%LOCALAPPDATA%\Programs\Open Design\bin\od.cmd`）。Vérifié 2026-09-01 ：daemon répond（liste des design systems OK）, handshake MCP OK。Skill ：`pipeline-design`。
+
+## Refero Styles（références de design）
+Statut ：⚠️ service web（styles.refero.design）— à explorer via Playwright（étape 2 du skill pipeline-design）。Chaque référence fournit couleurs, type, spacing, composants ET un DESIGN.md prêt pour agents。Rôle ：élargir les références au-delà des concurrents de la niche（mood, couleur, typo）＋ flows complets de vrais produits。Skill ：`pipeline-design`。
+
+## react-native-reusables（base composants — ADR-011）
+Statut ：✅ dans la stack（copy-paste, source possédée, compatible NativeWind）。Rôle ：base composants UI des apps（composants par copie, on possède la source——standard de l'ère agentique）。HeroUI RN acceptable si composant spécifique manquant。Skills ：`architecture-expo`, `pipeline-design`。
+
+## Modèles design——GLM-5.3-Flash et HY4-preview（voir config/modeles.md）
+Statut ：✅ référencés dans `config/modeles.md`（registre des modèles, ADR-011）。GLM-5.3-Flash（""Ox Alpha""）= défaut BULK + éco VISION；HY4-preview = candidat CERVEAU à tester。
+
+
+## Conversion store（A/B natif + benchmarks — ADR-012）
+- **Product Page Optimization**（iOS natif）：A/B sur icône/screenshots/preview via App
+  Store Connect, jusqu'à 3 traitements, trafic réel, 1 variable à la fois, min 7 jours。
+- **Store Listing Experiments**（Play natif）：même discipline sur Google Play。
+- **Benchmarks conversion 2026**（skill store-conversion）：CVR médian indie iOS 31,2 %,
+  top quartile 42,8 %（notre barre）; 60-70 % des décisions d'install se jouent sur les
+  screenshots（3 premiers frames =  ẟ80-90 % de l'impact）；headline optimal 3-7 mots
+  （chaque 5 mots en plus = -12 % conversion）；captions +23 %；localisation +30-40 %；
+  screenshots pro vs brut +76 %（+91 % avec IA）。
 ## EAS (build/CI/CD)
 Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` remplie + activée (2026-09-01, eas whoami OK).
 Rôle : builds cloud iOS/Android, certificats Apple + keystores gérés automatiquement, soumission

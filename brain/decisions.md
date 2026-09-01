@@ -1,4 +1,4 @@
-﻿# Journal des décisions (format ADR)
+# Journal des décisions (format ADR)
 
 ## ADR-000 — Exemple
 - Date :
@@ -134,3 +134,22 @@
 - Conséquences : SOMMAIRE.md + COMMANDES.md créés à la racine ; AGENTS.md resserré
   (10 règles + agents + bootstrap, ≤120 lignes) ; arborescence et cycle FORGE documentés
   dans PLAN-MAITRE.md ; skills nouveaux référencés dans COMMANDES.md.
+
+## ADR-011 — Pipeline design ：extraction + DESIGN.md + OpenDesign
+- Date ：2026-09-01
+- Décision ：le design part des codes extraits des concurrents + références Refero
+  （DESIGN.md fournis）, formalisé en DESIGN.md versionné par app ；OpenDesign（open
+  source, adaptateur OpenCode）génère les artefacts web ；traduction en tokens RN pour
+  l'app ；gauntlet-loop valide contre les concurrents. react-native-reusables = base
+  composants. Correction modèles ：GLM-5.3-Flash（= "Ox Alpha"）devient le défaut BULK
+  et l'éco VISION ；HY4-preview en candidat CERVEAU à tester。
+- Raison ：le design comme différenciateur n°1 de la factory ；fini le design inventé。
+
+
+## ADR-012 — Conversion store ：arc narratif PAS, benchmarks 2026, ASO dual-store
+- Date ：2026-09-01
+- Décision ：skill store-conversion（framework Hero/Tension/Résolution/Preuve/CTA,
+  variantes par type d'app, specs 2026, A/B natif PPO + Store Listing Experiments,
+  barre de qualité = top quartile 42,8 % CVR）；réécriture aso-metadata（Apple champs
+  déclarés vs Play full-text 2-3 % densité）；canaux-acquisition.md en référence
+  （organique d'abord, payant quand LTV/CAC ≥  ẟ3, ASA en premier canal payant）。

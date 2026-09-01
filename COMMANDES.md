@@ -11,11 +11,11 @@
 | `SCAN <marché/catégorie>` | Skill `recherche-marche` sur la cible → rapport + scoring `brain/niches.md` |
 | `DÉCORTIQUE <app concurrente>` | Skill `reverse-engineering-concurrent` → carte écrans/flux/features (`CARTE.md`) |
 | `FORGE <nom-app>` | Création normalisée de l'app（section 2 SOMMAIRE） + gates G3→G3.7（PRD→spec→plan→tasks） |
-| `STYLE <nom-app>` | Phase G4 design（designer + gauntlet sur écrans clés） |
+| `STYLE <nom-app>` | Phase G4 design（skill `pipeline-design` ：extraction concurrents → Refero → DESIGN.md → génération → traduction RN → gauntlet） |
 | `BÂTIT <nom-app>` | Implémentation `tasks.md`,1 tâche =1 session =  ẟ1 PR revue CodeRabbit, puis TESTE automatiquement à chaque milestone |
 | `TESTE <nom-app>` | Boucle QA complète ：testeur-qa（flux Maestro + critères + bugs）→ correctifs → re-vérifie. Prépare le build APK preview pour ton test personnel. |
 | `GAUNTLET <surface>` | Boucle `gauntlet-loop` sur la surface（icône, paywall, screenshots…） |
-| `EMBALLAGE <nom-app>` | G6-G7 ：ASO, screenshots, store listing, landing page |
+| `EMBALLAGE <nom-app>` | store-conversion (screenshots narratifs, icône, preview, descriptions par store) + aso-metadata + landing-page |
 | `LANCE <nom-app>` | Build EAS + soumission stores（après validation G6） |
 | `PROMOUVOIS <nom-app>` | Assets marketing（carrousels, vidéos Remotion） |
 | `PILOTE <nom-app>` | Skill `post-lancement` ：avis, analytics PostHog, itérations |
