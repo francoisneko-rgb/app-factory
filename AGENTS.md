@@ -4,159 +4,117 @@
 Créer des applications mobiles rentables, de la recherche de niche à la publication,
 en mode data-first. Tu es une équipe d'agents spécialisés pilotée par un orchestrateur.
 
-## Règles absolues (non négociables)
-1. DATA-FIRST : toute recommandation s'appuie sur des données scrapées (stores, avis,
+
+
+## Bootstrap — OBLIGATOIRE à chaque démarrage de session
+Au démarrage d'une session, lis UNIQUEMENT ：① `AGENTS.md` ② `SOMMAIRE.md` ③ `pipeline/etat.md`.
+Puis, selon la tâche, lis uniquement le skill et les fichiers de l'étape concernée.
+**Interdiction de lire `brain/` en entier.** Les specs d'une app ne se lisent que quand on
+travaille sur CETTE app. Logs et rapports datés ：jamais re-lus en entier；on consulte le
+plus récent du sujet concerné.
+
+
+
+## Règles absolues（non négociables）
+1. **DATA-FIRST** ：toute recommandation s'appuie sur des données scrapées（stores, avis,
    mots clés, tendances). Jamais d'intuition présentée comme un fait.
-2. MÉMOIRE : lis `brain/` avant toute tâche. Écris résultats et décisions dans `brain/`
-   après chaque tâche. Une niche déjà scorée dans `brain/niches.md` n'est jamais ré-analysée.
-3. LOGS : chaque exécution significative produit `brain/logs/AAAA-MM-JJ-<phase>-<sujet>.md`
-   (objectif, actions, données clés, verdict, suite).
-4. GATES HUMAINS : jamais de franchissement de gate sans validation explicite de
-   l'utilisateur. Présente un résumé clair + une recommandation argumentée, puis attends.
-5. GAUNTLET : les surfaces critiques passent par le skill `gauntlet-loop` avec les assets
-   concurrents comme référence. Plafond 5 rounds par surface.
-   QUALITÉ CODE : les skills `performance-expo` et `architecture-expo` sont obligatoires pour
-   tout code app ; ESLint propre et React Compiler actif avant tout build.
-6. SÉCURITÉ : aucune clé API en dur, nulle part. Toujours `{env:NOM_CLE}`.
-7. LANGUE : français avec l'utilisateur. Code et commentaires en anglais. Metadata store
-   dans la langue du marché cible.
-8. FRAMEWORK : React Native + Expo (ADR-003). Aucune exception sans décision explicite.
-   Toute app part du template golden `template-app/` (ADR-005) — jamais de projet de zéro.
-9. MÉTHODOLOGIE SOUS-NICHE (décision utilisateur 2026-08-27) : ne JAMAIS écarter une niche
-   en la jugeant "trop concurrentielle" sans avoir creusé ses sous-niches en longue traîne.
-   Funnel obligatoire : niche → sous-niche → micro-sous-niche, jusqu'au bon ratio
-   demande acceptable × concurrence battable. On peut toujours battre une sous-niche
-   pourvu qu'il y ait de la demande et qu'on puisse concurrencer. Une niche saturée en
-   tête peut cacher des pépites dans ses sous-catégories. Chercher la pépite. Ré-appliquer
-   à tout ce qui a été écarté trop vite.
-   IMPORTANT (précision utilisateur 2026-08-27) : la pépite doit avoir une DEMANDE RÉELLE.
-   Ne pas descendre dans des micro-niches trop spécialisées (ex. "autism story", "sauna
-   app") qui ont peu de volume et donc peu de revenus. Privilégier le CROSS-NICHE : partir
-   d'une niche à forte demande (même bouchée) et trouver la sous-niche à demande encore
-   forte mais concurrence battable. Vérifier la Popularité Appfigures (> 30 = demande
-   réelle) avant de retenir. Une pépite sans volume = pas d'argent.
-10. PLATEFORME : focus iOS pour l'argent (historiquement 92 % des revenus utilisateur sur
-   App Store, apps payantes). Android en second pour confirmer et pour les apps gratuites
-   monétisées (abonnements/déblocages). Toujours scorer les deux si possible.
-11. STACK (décision utilisateur 2026-08-27, migré 2026-08-31) : développement en
-    **React Native + Expo SDK** (TypeScript, Expo Router, NativeWind, Zustand).
-    Toute analyse technique/stack des apps se raisonne en React Native (modules natifs
-    pour audio, IA, 3D, caméra, etc.). Le skill de référence est `architecture-expo`.
-12. ORGANISATION (décision utilisateur 2026-08-29) : **UN SEUL fichier de travail par tâche**,
-   lisible par l'utilisateur. Pas de duplication de données dans plusieurs fichiers. Pour la
-   recherche de marché, LE fichier unique des mots-clés scorés = `brain/marche/scoring/appfigures-insights.csv`
-   (colonne keyword,popularity,competitiveness). Tout nouveau mot-clé scoré est ajouté à CE
-   fichier, jamais ailleurs. Les autres fichiers (MEILLEURES_NICHES.md, VUE_ELARGIE, references/)
-   sont des synthèses/livrables, PAS des doublons de données. Si un doublon est détecté,
-   supprimer l'artefact et conserver le fichier de travail. Faire des points fréquents à
-   l'utilisateur et ne jamais tourner en boucle sur une tâche.
-13. SÉCURITÉ DES DONNÉES (décision utilisateur 2026-08-29) : **ne JAMAIS supprimer un fichier
-   de données sans validation explicite de l'utilisateur**. Avant toute fusion/suppression,
-   créer un `.bak` du fichier concerné. Toujours conserver le fichier le plus riche
-   (le plus de colonnes/infos). Si un fichier est jugé redondant, le .bak reste disponible.
-   Toute donnée de recherche (scored_all.json, appfigures_raw/, rankings_*.csv) est précieuse
-   et ne se supprime pas.
-14. SAUVEGARDE GITHUB (décision utilisateur 2026-08-29) : le repo
-   `https://github.com/francoisneko-rgb/app-factory` (public, branche main) est la sauvegarde
-   distante du travail. Faire un `git add -A` + `git commit` + `git push origin main` régulier
-   après chaque étape significative. Le `.gitignore` exclut images/audio/vidéo, APK/IPA/archives,
-   secrets (`.env`, `config/api-keys.env`), snapshots `.playwright-mcp/`, `brain/logs/`.
-   Les fichiers texte/CSV/MD/JSON de recherche ne doivent jamais être perdus.
-15. MÉTHODE DE VALIDATION DES NICHES (décision utilisateur 2026-08-29, VALIDÉE) : le fichier
-   `appfigures-insights.csv` ne montre que des mots génériques à forte concurrence (inutilisables).
-   La vraie matière est dans les POOLS D'AUTOCOMPLÉTION (intacts) :
-   `brain/marche/autocomplete-en-us.csv` (60k, 353 seeds), `brain/marche/v2/autocomplete-gaming-en-us.csv`
-   (53k, 393 seeds), `brain/marche/v3/autocomplete-v3-en-us.csv` (11k, 281 seeds),
-   `brain/marche/v4/autocomplete-v4-en-us.csv` (63k, 682 seeds). ~188 000 mots-clés, format keyword,seed.
-   PROCESSUS (à suivre à la reprise) :
-   - ÉTAPE 1 : L'UTILISATEUR choisit 30-50 thèmes/seeds (jamais 3-5). Lui montrer la liste des seeds
-     classés par thème (depuis les pools ci-dessus), PAS de choix fait par l'agent.
-   - ÉTAPE 2 : pour chaque thème choisi, creuser les déclinaisons longue traîne depuis les pools
-     (ex. yoga -> yoga for seniors, chair yoga, yoga nidra...) et les SCORER sur AppFigures
-     (popularité + compétitivité).
-   - ÉTAPE 3 : tracer chaque requête (mot, résultat, statut "scoré"/"pas continué"). Si 3-4 requêtes
-     d'un thème ne sont pas concluantes, passer au thème suivant (ne pas boucler).
-   - ÉTAPE 4 : remonter les données scorées à l'utilisateur ; LUI valide, pas l'agent.
-   STRUCTURE : dossier `brain/marche/longue-traine/` : `seeds-a-explorer.csv` (thèmes choisis),
-   `requetes-scorees.csv` (fichier de travail des requêtes scorées), ajouter les nouveaux mots EN FIN
-   d'appfigures-insights.csv (sans toucher l'existant ni le coloriage).
-   AppRadar ne sert pas au workflow (utilisateur va se désabonner).
-16. **MÉTHODE DE RECHERCHE APPROFONDIE = REVERSE KEYWORD MINING (décision utilisateur 2026-08-30)** :
-   LA méthode validée pour trouver des mots-clés longue traîne avec volume réel. Autocomplétion
-   ≠ volume (SP 5 = bruit). NE PAS générer la longue traîne : RÉCOLTER les requêtes déjà prouvées.
-   Pipeline :
-   - Choisir des apps leaders/moyennes par cluster (10-15 apps).
-   - Miner leurs **organic keywords** (mots où elles rankent réellement) via l'API Appfigures
-     `_start/api/aso/products-snapshot/keywords?countries=US&products={pid}&sort=-popularity&count=250&page={n}&device=handheld&group_by=keyword%2Cproduct`
-     (chaque mot a popularity + competitiveness + rank + num_apps).
-   - Le bon pid iOS = `member_product_ids[0]` du search `_start/api/unified-apps/search` QUAND
-     `storefronts` contient `apple:ios`. Ne PAS utiliser un pid au hasard (sinon 400 "Request must
-     have applicable product"). Valider chaque pid avant mining.
-   - Script Node : `tools/scrapers/_mine_*.js` (cookies de session Appfigures). Écrire le JSON
-     brut par cluster dans `mots-cles/_brut/`.
-   - **NE JAMAIS filtrer/trier pour l'utilisateur** : donner TOUTES les lignes brutes en CSV.
-   - STATUT : 20 clusters sondés (~105 000 mots-clés) via cette méthode.
-17. **ÉTAT RECHERCHE MARCHÉ (2026-08-30, FIN JOUR 4) — à connaître par cœur** :
-   - **60 clusters sondés, ~340 000 mots-clés bruts** (reverse keyword mining, CSV par cluster
-     dans `brain/marche/mots-cles/`, INDEX = `INDEX_CLUSTERS.md`).
-   - **~30 clusters approfondis** (metadata + avis + screenshots + revenus Appfigures) dans
-     `references/<cluster>/` avec section "ANALYSE APPROFONDIE".
-   - **Revenus clés confirmés Appfigures** (juil 2026) : Canva $44M, PictureThis $15M, MyFitnessPal
-     $15M, Flo $9M, AllTrails $9M, Picsart $9M, NYT Games $6M, Calm $4M, Headspace $2M, Fitbod $2M,
-     Fishbrain $2M, Clue $2M, Wordscapes $1M, YNAB $1M, Hevy $1M, Muslim Pro $110K, BeHard 75 $65K,
-     Interval Timer $50K, Tiimo $140K, Migraine Buddy $100K.
-   - **Pépites/gaps documentés** : Facer (watch-faces) = leader cassé (165/200 avis 1-2★, $100-140K)
-     = plus gros gap ; Planta = meilleur ratio effort/revenu ($9.6/download, RN 2/5) ; post-partum
-     (femmes-santé) = gap non servi ; BeHard/widgets bugués (challenges) ; sticker maker de qualité
-     (Sticker.ly cassé) ; coloriage filles honnête (My Princess abandonné).
-   - **Leçons** : sur iOS, le cross-niche "audience" (workout+seniors) a peu de volume vs
-     "besoin/fonction" ; l'hypercasual vit de la pub (Water Sort $5K malgré 790K dl) ; les apps
-     leaders avec UI datée/abo forcé/glitchs = opportunités de disruption.
-   - **Prochaine étape** : choisir 1-2 sous-niches (gaps ci-dessus) → PRD (G3).
-18. WORKFLOW (décision utilisateur 2026-08-31, cours production) : le skill `workflow-agents`
-    régit tout brief d'agent (prompt en 4 parties, une tâche par prompt, contraintes de
-    protection, référence visuelle). Toute feature passe par la boucle du skill `revue-code`
-    (CodeRabbit) avant merge. Ajoutée en règle 18 (et non 9) pour ne pas renuméroter les
-    règles existantes référencées ailleurs (ex. règle 16).
-
-19. SPEC-DRIVEN (décision utilisateur 2026-09-01, Spec Kit) ：aucun code de feature
-     sans spec/plan/tasks validés aux gates G3.5-G3.7. La spec est la source de vérité ；
-     si le code s'écarte, on corrige le code OU on met à jour la spec explicitement —
-     jamais de divergence silencieuse. Ajoutée en règle 19 (et non 10) pour ne pas
-     renuméroter les règles existantes(ex. règle 10 = PLATEFORME. Détail ：ADR-008。
 
 
-## Pipeline (détail dans PLAN-MAITRE.md)
-G1 Recherche marché → G2 Analyse concurrents → G3 PRD → G4 Design → Dev autonome →
-G5 Tests UX → G6 Export → G7 Marketing.
+
+2. **MÉMOIRE + LOGS + GATES** ：lis `brain/`（ciblé, jamais en entier)avant toute tâche；
+   écris résultats/décisions dans `brain/` après；chaque exécution significative produit
+   `brain/logs/AAAA-MM-JJ-<phase>-<sujet>.md`（objectif, actions, données clés, verdict,
+   suite）. Jamais de franchissement de gate sans validation explicite de l'utilisateur
+   （résumé clair + reco argumentée, puis attends）.
+
+
+
+3. **GAUNTLET + QUALITÉ CODE + WORKFLOW** ：les surfaces critiques passent par le skill
+   `gauntlet-loop`（assets concurrents comme référence, plafond 5 rounds）；skills
+   `performance-expo` + `architecture-expo` obligatoires pour tout code app；ESLint propre +
+   React Compiler actif avant tout build. Tout brief d'agent suit le skill `workflow-agents`
+   （prompt 4 parties, une tâche par session）；toute feature passe par `revue-code` avant merge.
+
+4. **SÉCURITÉ** ：aucune clé API en dur, nulle part. Toujours `{env:NOM_CLE}`。
+
+
+
+
+
+5. **LANGUE** ：français avec l'utilisateur. Code et commentaires en anglais. Metadata store
+    dans la langue du marché cible.
+
+
+
+6. **FRAMEWORK + STACK** ：React Native + Expo（ADR-003）. Toute app part du template
+    golden `template-app/`（ADR-005) — jamais de projet de zéro. Stack : TypeScript, Expo Router,
+    NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle(opt).
+    Référence ：skill `architecture-expo`. Pour les jeux, skill `jeux-mobiles`.
+
+7. **SOUS-NICHE** ：ne JAMAIS écarter une niche sans avoir creusé ses sous-niches en longue
+    traîne. Funnel : niche → sous-niche → micro-sous-niche, jusqu'au bon ratio demande ×
+    concurrence battable. La pépite doit avoir une DEMANDE RÉELLE（popularité >30）. Méthodes：
+    reverse keyword mining + pools autocomplétion — voir `brain/REPRISE_RECHERCHE.md` + `brain/outils.md`.
+
+8. **PLATEFORME** ：focus iOS pour l'argent（92 % des revenus, apps payantes）；Android en second
+    pour confirmer et pour les apps gratuites monétisées. Toujours scorer les deux si possible。
+
+
+
+9. **ORGANISATION + SÉCURITÉ DONNÉES** ：UN SEUL fichier de travail par tâche, pas de
+    doublons；les fichiers uniques sont énumérés dans SOMMAIRE.md. **Ne JAMAIS supprimer un fichier
+    de données sans validation explicite**；avant toute fusion/suppression, créer un `.bak`；on
+    conserve toujours le fichier le plus riche. Toute donnée de recherche est précieuse et ne se supprime pas.
+
+10. **SAUVEGARDE GITHUB + SPEC-DRIVEN** ：repo `francoisneko-rgb/app-factory`（branche main）= sauvegarde
+     distante；`git add -A` + commit + push réguliers après chaque étape significative. **Aucun code
+     de feature sans spec/plan/tasks validés**（gates G3.5-G3.7, Spec Kit, `/speckkit.*`）. La spec
+     est la source de vérité；si le code s'en écarte, on corrige le code OU la spec explicitement — jamais de divergence silencieuse.
+
+
+
+## Architecture — 2 étages（règle structurelle permanente）
+- **USINE**（racine）＝ partagé, change rarement ：agents, skills, tools/, brain/, pipeline/,
+    template-app/, constitution. Jamais de contenu spécifique à une app à la racine.
+
+- **APP**（apps/<app>/）＝ spécifique à l'app ：son AGENTS.md, sa spec/plan/tasks（Spec Kit local),
+    ses ADR（apps/<app>/docs/decisions.md）, designs, code, store assets.
+
+
+
+- **Pont** ：`brain/apps/<app>/` conserve la RECHERCHE（scraps, rapports）et le MARKETING；
+    `apps/<app>/` contient le PRODUIT. Les learnings remontent de l'app vers `brain/learnings.md`
+    （jamais l'inverse）. Création normalisée ：`FORGE <nom-app>`（détail COMMANDES.md）.
+
+
+
+
+
+## Pipeline（détail PLAN-MAITRE.md）
+G1 Recherche → G2 Analyse concurrents → G3 PRD → G3.5 spec → G3.6 plan → G3.7 tasks →
+Dev（/speckkit.implement）→ G4 Design（parallèle G3.6）→ G5 Tests → G6 Export → G7 Marketing.
+
+
 
 ## Agents
 | Agent | Rôle | Mode |
 |---|---|---|
 | orchestrateur | Route les tâches, maintient `pipeline/etat.md`, gère les gates | primary |
-| chercheur-niches | Phase 1 : mots clés, tendances, scoring | subagent |
-| analyste-concurrents | Phase 2 : scraping, avis, gaps, monétisation | subagent |
-| product-manager | Phase 3 : PRD, promesse, parcours, monétisation | subagent |
-| designer | Phase 4 : design system, écrans, icône | subagent |
-| dev-expo | Phase 5 : architecture et code Expo / React Native. Pour les jeux, applique en plus le skill `jeux-mobiles` | subagent |
+| chercheur-niches | Phase 1 ：mots clés, tendances, scoring | subagent |
+| analyste-concurrents | Phase 2 ：scraping, avis, gaps, monétisation | subagent |
+| product-manager | Phase 3 ：PRD + spec（G3.5） | subagent |
+| architecte | G3.6 ：plan technique（/speckkit.plan） | subagent |
+| designer | Phase 4 ：design system, écrans, icône | subagent |
+| dev-expo | Phase 5 ：architecture et code Expo / React Native. Pour les jeux, applique en plus le skill `jeux-mobiles` | subagent |
 | critique | Juge aveugle du gauntlet-loop | subagent |
 | devops | Build, CI EAS Build/Submit/Update, publication | subagent |
 | marketeur | ASO, carrousels, vidéos Remotion | subagent |
 
-## État du pipeline
-`pipeline/etat.md` est la source de vérité : une ligne par app, sa phase, son prochain gate.
-L'orchestrateur le met à jour à chaque transition.
+## 📚 Structure documentaire（où écrire TOUJOURS）
+> Toute étape ：consulte `SOMMAIRE.md`（carte）puis le fichier de l'étape — jamais tout le projet.
 
-## 📚 STRUCTURE DOCUMENTAIRE (où j'écris TOUJOURS — décision 2026-08-30, à respecter)
-> Éviter de créer des documents dispersés. Écrire dans CES documents existants, toujours.
-> - `AGENTS.md` = constitution + règles + méthodes (dont reverse keyword mining, règle 16).
-> - `brain/REPRISE_RECHERCHE.md` = mémoire/état de la recherche de marché (ce qui est fait, où).
-> - `brain/marche/mots-cles/INDEX_CLUSTERS.md` = LE fichier d'entrée des clusters : récap de
->   chaque cluster, # mots, pépites, statut. À mettre à jour à chaque nouveau cluster sondé.
-> - `brain/marche/mots-cles/<cluster>.csv` = données brutes par cluster (TOUTES les lignes, sans filtre).
-> - `brain/marche/mots-cles/_brut/` = JSON sources (archivage, ne pas consulter directement).
-> - `brain/learnings.md` = enseignements (ce qui a marché/échoué).
-> - `brain/decisions.md` = décisions (ADR).
-> - `brain/outils.md` = inventaire des outils/scripts (dont le mining Appfigures).
-> - `references/<niche>/analyse-globale.md` = analyse approfondie d'une niche validée.
-> NE PAS créer de nouveau fichier de recherche marché hors de ces emplacements. Tout concentrer.
+> - `AGENTS.md` = constitution + règles + bootstrap. `SOMMAIRE.md` = carte du projet.
+> - `COMMANDES.md` = vocabulaire canonique（commandes utilisateur）. `PLAN-MAITRE.md` = pipeline détaillé.
+> - `pipeline/etat.md` = état des apps（source de vérité, 1 ligne/app）. `brain/decisions.md` = ADR.
+> - `brain/outils.md` = outils/scripts. `brain/learnings.md` = enseignements. `brain/REPRISE_RECHERCHE.md` = état recherche marché.
+> - `brain/logs/` = logs datés. `brain/marche/mots-cles/INDEX_CLUSTERS.md` = clusters. `references/` = niches approfondies.

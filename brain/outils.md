@@ -4,6 +4,17 @@
 > Légende statut : ✅ prêt · 🔑 clé manquante · ⚠️ action manuelle / à installer.
 > MAJ : 2026-09-01 (capacité jeux mobiles — ADR-007 + skill jeux-mobiles)
 
+
+
+## Navigation （bootstrap et index, ADR-009）
+- `SOMMAIRE.md`（racine）= carte complète du projet（arborescence, où vit quoi, commandes,
+  état pointeur）。À lire en 2e（après AGENTS.md）, jamais plus。
+- `COMMANDES.md`（racine）= vocabulaire canonique（RADAR, SCAN, DÉCORTIQUE, FORGE, STYLE,
+  BÂTIT, GAUNTLET, EMBALLAGE, LANCE, PROMOUVOIS, PILOTE）。Détail des skills pointés।
+- Règle bootstrap：au démarrage de session, lire UNIQUEMENT AGENTS.md + SOMMAIRE.md
+  + pipeline/etat.md；puis le skill et les fichiers de l'étape concernée；interdiction de lire
+  brain/ en entier；logs datés jamais re-lus en entier（consulter le plus récent）。
+
 ## Scrapers stores (Google Play + App Store) — `tools/scrapers/`
 Statut : ✅ prêt (npm install fait, tous validés sur apps réelles).
 Dépendances : node + `npm install` (déjà fait). Librairies : `google-play-scraper` v10 (ESM → `.default`), `app-store-scraper`.

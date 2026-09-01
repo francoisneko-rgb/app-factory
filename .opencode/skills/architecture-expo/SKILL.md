@@ -88,3 +88,7 @@ description: Stack et standards 2026 — structure projet, données, état, pack
   APRÈS signOut (jamais avant — désynchronisation).
 - Événements MVP obligatoires : app opened, onboarding complété, action cœur de l'app,
   paywall vu, paywall converti. Dashboards créables en langage naturel via PostHog AI.
+## Internationalisation (i18n)
+- i18n dès le premier écran ( expo-localization + i18n-js, fichiers de traduction par locale。
+- Zéro texte en dur dans les composants—la factory vise plusieurs marchés。
+- Metadata store dans la langue du marché cible(règle 5 AGENTS.md)。

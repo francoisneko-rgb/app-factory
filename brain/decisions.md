@@ -109,3 +109,17 @@
 - Source : pratiques éprouvées de cours de production 2026 (JSMastery), cohérentes avec
   notre gauntlet-loop (le critique = revue visuelle, CodeRabbit = revue code).
 - Note : numéroté ADR-006 car ADR-005 est déjà pris par le template golden.
+
+## ADR-009 — Structure multi-apps et efficacité tokens
+- Date : 2026-09-01
+- Décision : architecture deux étages(usine racine / apps autonomes) ; Spec Kit et
+  AGENTS.md par app ; SOMMAIRE.md comme index léger ; bootstrap limité à 3 fichiers ;
+  COMMANDES.md comme vocabulaire canonique ; skills reverse-engineering-concurrent et
+  post-lancement ajoutés.
+
+- Raison : 5-20 apps prévues ; sans séparation usine/app et sans index, le contexte
+  explose(context rot) et les specs se mélangent.
+
+- Conséquences : SOMMAIRE.md + COMMANDES.md créés à la racine ; AGENTS.md resserré
+  (10 règles + agents + bootstrap, ≤120 lignes) ; arborescence et cycle FORGE documentés
+  dans PLAN-MAITRE.md ; skills nouveaux référencés dans COMMANDES.md.
