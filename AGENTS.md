@@ -114,7 +114,7 @@ Dev（/speckkit.implement）→ G4 Design（parallèle G3.6）→ G5 Tests → G
 > Toute étape ：consulte `SOMMAIRE.md`（carte）puis le fichier de l'étape — jamais tout le projet.
 
 > - `AGENTS.md` = constitution + règles + bootstrap. `SOMMAIRE.md` = carte du projet.
-> - `COMMANDES.md` = vocabulaire canonique（commandes utilisateur）. `PLAN-MAITRE.md` = pipeline détaillé.
+> - `COMMANDES.md` = vocabulaire canonique（commandes utilisateur）. `GUIDES-UTILISATEUR.md` = mode d'emploi des échanges. `PLAN-MAITRE.md` = pipeline détaillé.
 > - `pipeline/etat.md` = état des apps（source de vérité, 1 ligne/app）. `brain/decisions.md` = ADR.
 > - `brain/outils.md` = outils/scripts. `brain/learnings.md` = enseignements. `brain/REPRISE_RECHERCHE.md` = état recherche marché.
 > - `brain/logs/` = logs datés. `brain/marche/mots-cles/INDEX_CLUSTERS.md` = clusters. `references/` = niches approfondies.

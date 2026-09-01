@@ -18,6 +18,7 @@ Règles de circulation : les learnings remontent de l'app → brain/learnings.md
 |---|---|
 | Règles absolues + agents + bootstrap | AGENTS.md |
 | Vocabulaire canonique (commandes utilisateur) | COMMANDES.md |
+| Comment me demander les choses (mode d'emploi des échanges) | GUIDES-UTILISATEUR.md |
 | Pipeline détaillé (gates, multi-apps) | PLAN-MAITRE.md |
 | État des apps (source de vérité, 1 ligne/app) | pipeline/etat.md |
 | Décisions (ADR-001→009) | brain/decisions.md |
@@ -59,4 +60,4 @@ Puis, selon la tâche : le skill et les fichiers de l'étape concernée UNIQUEME
 
 ## Glossaire des commandes
 `RADAR` · `SCAN` · `DÉCORTIQUE` · `FORGE` · `STYLE` · `BÂTIT` · `GAUNTLET` ·
-`EMBALLAGE` · `LANCE` · `PROMOUVOIS` · `PILOTE` → détail dans COMMANDES.md.
+`EMBALLAGE` · `LANCE` · `PROMOUVOIS` · `PILOTE` → détail dans COMMANDES.md + exemples dans GUIDES-UTILISATEUR.md.

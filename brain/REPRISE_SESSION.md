@@ -1,44 +1,54 @@
 # REPRISE SESSION — à lire à CHAQUE début de session
 
-> Mémoire de travail de la factory. Dernière MAJ : 2026-08-31 (fondation Expo terminée).
+> Mémoire de travail de la factory. Dernière MAJ : 2026-09-01 (consolidation finale — ADR-009.
+> Bootstrap OBLIGATOIRE ：① AGENTS.md ② SOMMAIRE.md ③ pipeline/etat.md — puis skill+fichiers de l'étape concernée.
+
+
 
 ## État global
-- Framework : **React Native + Expo SDK 57** (ADR-003). Flutter ABANDONNÉ (ne jamais proposer).
-- **Template golden `template-app/`** validé (ADR-005) : toute nouvelle app = `cp -r template-app apps/<nom>`,
-  puis renommer (package.json name, app.json name/slug/scheme), `npm install`, `npx expo start`.
-- Stack : NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle (opt.), Jest+Maestro.
-- Skills clés factory : `architecture-expo`, `performance-expo`, `workflow-agents`, `revue-code`,
-  `gauntlet-loop`, `deploiement-stores`, `paywall-monetisation`, `icones-app`, `animations-lottie`.
-- 26 skills Expo officiels installés (dans `.opencode/skills/`) + MCP Expo `https://mcp.expo.dev/mcp`.
-- Workflow (règle 18 AGENTS.md) : briefs en 4 parties (workflow-agents) + revue CodeRabbit avant merge (revue-code).
+- Framework ：**React Native + Expo SDK 57**（ADR-003）. Flutter ABANDONNÉ（ne jamais proposer。
+- **Template golden `template-app/`** validé（ADR-005）：toute nouvelle app = `cp -r template-app apps/<nom>`,
+  puis renommer（package.json name, app.json name/slug/scheme）, `npm install`, `npx expo start`.
+- Stack ：NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle（opt.）, Jest+Maestro。
+
+- **SPEC-DRIVEN（ADR-008, règle 19）** ：GitHub Spec Kit installé（intégration opencode, `.specify/` + 10 commandes `/speckkit.*`）。Aucun code sans spec/plan/tasks validés aux gates G3.5-G3.7。
+- **Structure 2 étages（ADR-009）** ：USINE（racine）＝ partagé；APP（apps/<app>/）＝ spécifique；pont＝ `brain/apps/<app>/`。Index léger SOMMAIRE.md + vocabulaire COMMANDES.md + bootstrap 3 fichiers。
+- **Capacité jeux mobiles（ADR-007）** ：skill `jeux-mobiles`（2D Skia/Matter + 3D filament。
+- Skills clés factory ：`architecture-expo`, `performance-expo`, `workflow-agents`, `revue-code`,
+  `gauntlet-loop`, `deploiement-stores`, `paywall-monetisation`, `icones-app`, `animations-lottie`,
+  `reverse-engineering-concurrent`, `post-lancement`。＋26 skills Expo officiels + MCP Expo。
+- Workflow（règle 18）：briefs en 4 parties（workflow-agents, anti-context-rot）+ revue CodeRabbit avant merge（revue-code。
+
+
 
 ## Règles d'or
-- DATA-FIRST : toute reco s'appuie sur les données scrapées (pas d'intuition).
-- Lire `brain/` avant toute tâche ; écrire résultats dans `brain/` après.
-- Jamais de gate franchi sans validation explicite de l'utilisateur.
-- Jamais de suppression de fichier de données sans validation + .bak.
-- Pas de clé API en dur : toujours `{env:NOM_CLE}`.
-- Langue : français avec l'utilisateur ; code en anglais.
-- Prochaine étape produit : choisir 1-2 sous-niches (gaps documentés règle 17 AGENTS.md) → PRD (G3).
+- DATA-FIRST ：toute reco s'appuie sur des données scrapées（pas d'intuition）。
+- Lire `brain/`（ciblé）avant toute tâche ；écrire résultats dans `brain/` après。
+- Jamais de gate franchi sans validation explicite de l'utilisateur。
 
-## Où écrire (STRUCTURE DOCUMENTAIRE)
-- AGENTS.md = constitution + règles. brain/decisions.md = ADR. brain/learnings.md = enseignements.
-- brain/outils.md = outils/scripts. brain/marche/mots-cles/INDEX_CLUSTERS.md = clusters.
-- Logs : `brain/logs/AAAA-MM-JJ-<phase>-<sujet>.md`. pipeline/etat.md = état du pipeline.
-- Fichier unique mots-clés scorés : `brain/marche/scoring/appfigures-insights.csv`.
+- Jamais de suppression de fichier de données sans validation + .bak。
+- Pas de clé API en dur ：toujours `{env:NOM_CLE}`。Langue ：français avec l'utilisateur ；code en anglais。
 
-## Setup terminé (2026-09-01)
-- Compte Expo : francoiscoiscois (francoisneko@gmail.com) — 2e compte "francoiscoiscoiss-team" présent mais non utilisé.
-- MCP Expo connecté (opencode mcp list → expo connected).
-- EXPO_TOKEN créé + écrit config/api-keys.env + activé via install-api-keys.ps1 (validé eas whoami).
-- ⚠️ Toujours fermer/rouvrir le terminal après modif de config/api-keys.env.
 
-## Prochaines actions manuelles utilisateur (avant/après redémarrage)
-1. ~~Redémarrer opencode (charger skills Expo + MCP Expo).~~ ✅
-2. ~~Login OAuth Expo au premier usage du MCP.~~ ✅
-3. ~~Remplir EXPO_TOKEN dans config/api-keys.env.~~ ✅
-4. CodeRabbit : **REPORTÉ** (essai gratuit 14 j puis payant) — pas urgent, à activer le moment venu si besoin.
-5. (Plus tard) Clés services quand une app en a besoin : SENTRY_*, CLERK_*, REVENUECAT_*, POSTHOG, STREAM_*.
+- **Prochaine étape produit** ：choisir 1-2 sous-niches（gaps documentés）→ PRD（G3）。Voir `brain/REPRISE_RECHERCHE.md` pour l'état exact de la recherche。
 
-## Prochains commits attendus
-- Commit "enrichissement workflow agents" (skills workflow-agents/revue-code + ADR-006 + règle 18) — prêt à pousser.
+
+
+## Commandes utilisateur（détail COMMANDES.md, exemples GUIDES-UTILISATEUR.md）
+`RADAR` · `SCAN <marché>` · `DÉCORTIQUE <app concurrente>` · `FORGE <nom-app>` ·
+`STYLE <nom-app>` · `BÂTIT <nom-app>` · `GAUNTLET <surface>` · `EMBALLAGE <nom-app>` ·
+`LANCE <nom-app>` · `PROMOUVOIS <nom-app>` · `PILOTE <nom-app>`
+
+
+## Setup terminé（2026-09-01）
+- Compte Expo ：francoiscoiscois（francoisneko@gmail.com）— 2e compte"francoiscoiscoiss-team" présent mais non utilisé。
+- MCP Expo connecté（opencode mcp list → expo connected）。EXPO_TOKEN actif（eas whoami OK。
+- ⚠️ Toujours fermer/rouvrir le terminal après modif de config/api-keys.env。
+
+- `uv` + `specify` installés（binaires dans `~\.local\bin\`）pour Spec Kit；`opencode mcp auth expo` déjà fait。
+
+
+
+## Prochaines actions manuelles utilisateur（quand besoin）
+1. CodeRabbit ：**REPORTÉ**（essai gratuit 14 j puis payant）— pas urgent, à activer le moment venu si besoin。
+2.（Plus tard） Clés services quand une app en a besoin ：SENTRY_*, CLERK_*, REVENUECAT_*, POSTHOG, STREAM_*。
