@@ -1,6 +1,6 @@
 ﻿# SOMMAIRE — Carte du projet App Factory
 
-> L'index léger de toute la factory. Pour toute étape, consulte SOMMAIRE.md puis le fichier de l'étape — jamais tout le projet. (ADR-009)
+> L'index léger de toute la factory. Pour toute étape, consulte SOMMAIRE.md puis le fichier de l'étape — jamais tout le projet. (ADR-010)
 
 ## Arborescence — les 2 étages
 
@@ -21,7 +21,7 @@ Règles de circulation : les learnings remontent de l'app → brain/learnings.md
 | Comment me demander les choses (mode d'emploi des échanges) | GUIDES-UTILISATEUR.md |
 | Pipeline détaillé (gates, multi-apps) | PLAN-MAITRE.md |
 | État des apps (source de vérité, 1 ligne/app) | pipeline/etat.md |
-| Décisions (ADR-001→009) | brain/decisions.md |
+| Décisions (ADR-001→010) | brain/decisions.md |
 | Outils/scripts + clés + statuts | brain/outils.md |
 | Enseignements (ce qui a marché/échoué) | brain/learnings.md |
 | Marché : niches scorées, tendances | brain/niches.md, brain/tendances.md |
@@ -59,5 +59,5 @@ Puis, selon la tâche : le skill et les fichiers de l'étape concernée UNIQUEME
 
 
 ## Glossaire des commandes
-`RADAR` · `SCAN` · `DÉCORTIQUE` · `FORGE` · `STYLE` · `BÂTIT` · `GAUNTLET` ·
+`RADAR` · `SCAN` · `DÉCORTIQUE` · `FORGE` · `STYLE` · `BÂTIT` · `TESTE` · `GAUNTLET` ·
 `EMBALLAGE` · `LANCE` · `PROMOUVOIS` · `PILOTE` → détail dans COMMANDES.md + exemples dans GUIDES-UTILISATEUR.md.

@@ -1,6 +1,6 @@
 # REPRISE SESSION — à lire à CHAQUE début de session
 
-> Mémoire de travail de la factory. Dernière MAJ : 2026-09-01 (consolidation finale — ADR-009.
+> Mémoire de travail de la factory. Dernière MAJ : 2026-09-01 (pipeline v2 — ADR-009.
 > Bootstrap OBLIGATOIRE ：① AGENTS.md ② SOMMAIRE.md ③ pipeline/etat.md — puis skill+fichiers de l'étape concernée.
 
 
@@ -12,7 +12,8 @@
 - Stack ：NativeWind, Zustand+MMKV, TanStack Query, RHF+zod, FlashList, Reanimated, Drizzle（opt.）, Jest+Maestro。
 
 - **SPEC-DRIVEN（ADR-008, règle 19）** ：GitHub Spec Kit installé（intégration opencode, `.specify/` + 10 commandes `/speckkit.*`）。Aucun code sans spec/plan/tasks validés aux gates G3.5-G3.7。
-- **Structure 2 étages（ADR-009）** ：USINE（racine）＝ partagé；APP（apps/<app>/）＝ spécifique；pont＝ `brain/apps/<app>/`。Index léger SOMMAIRE.md + vocabulaire COMMANDES.md + bootstrap 3 fichiers。
+- **Structure 2 étages（ADR-010）** ：USINE（racine）＝ partagé；APP（apps/<app>/）＝ spécifique；pont＝ `brain/apps/<app>/`。Index léger SOMMAIRE.md + vocabulaire COMMANDES.md + bootstrap 3 fichiers。
+- **Pipeline v2（ADR-009）** ：analyste-visuel（screenshots → wireflow/IA）＋ testeur-qa（Maestro, critères, preuves par capture）；3 couches de revue distinctes（CodeRabbit=code, testeur-qa=comportement, critique=UX/stratégie＋ avocat du diable pré-code）；vérification étagée（unitaire→PR→5-8 flux Maestro→gauntlet）；parallélisme encadré（worktrees, fichier unique, merge séquentiel）；boucle QA plafonnée à 3 rounds； retour utilisateur prioritaire via `template-app/docs/RETOUR-UTILISATEUR.md`。
 - **Capacité jeux mobiles（ADR-007）** ：skill `jeux-mobiles`（2D Skia/Matter + 3D filament。
 - Skills clés factory ：`architecture-expo`, `performance-expo`, `workflow-agents`, `revue-code`,
   `gauntlet-loop`, `deploiement-stores`, `paywall-monetisation`, `icones-app`, `animations-lottie`,

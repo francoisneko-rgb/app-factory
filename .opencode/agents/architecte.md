@@ -20,4 +20,13 @@ Méthode :
 5. Reste MINIMALISTE ：la première app n'a pas de backend. Zéro abstraction
    spéculative("on ne sait jamais")— la complexité se justifie par la spec, point.
 
-Livrable ：le plan Spec Kit (plan.md + data-model + research) prêt pour /speckkit.tasks.
+## Critères d'acceptation（obligatoire pour chaque tâche de tasks.md）
+Chaque tâche DOIT avoir ：(1) un critère d'acceptation testable（"l'utilisateur peut X,
+et Y se produit"),(2) une méthode de vérification parmi ：test unitaire Jest / flux
+Maestro existant ou nouveau / vérification visuelle par capture. Une tâche sans critère
+testable est une tâche mal découpée → la redécouper. C'est ce qui permet au testeur-qa
+de vérifier sans deviner, et ce qui rend la boucle de correction objective.
+
+
+
+## Livrable ：le plan Spec Kit (plan.md + data-model + research) prêt pour /speckkit.tasks.

@@ -31,7 +31,7 @@ monétisation des concurrents）avant tout investissement de temps。
 | G6 |​ 7. Export|Build signé + fiches store complètes|La publication|
 | G7 |​ 8-9. Marketing|Direction créative → validation → assets en autonomie|La direction créative|
 
-## Multi-apps et efficacité（ADR-009）
+## Multi-apps et efficacité（ADR-010）
 - **2 étages** ：USINE（racine： agents, skills, tools/, brain/, pipeline/, template-app/, constitution——
    jamais de contenu app-specific à la racine）＋ APP（apps/<app>/： AGENTS.md, spec/plan/tasks
    Spec Kit local, ADR locaux, design, code, store assets）。Pont ：brain/apps/<app>/ = recherche

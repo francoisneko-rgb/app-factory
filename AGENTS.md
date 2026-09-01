@@ -72,6 +72,11 @@ plus récent du sujet concerné.
      est la source de vérité；si le code s'en écarte, on corrige le code OU la spec explicitement — jamais de divergence silencieuse.
 
 
+11. **BOUCLE QA** ：testeur-qa produit PLAN-CORRECTIFS.md → dev-expo corrige par ordre
+     d'impact（1 correctif = 1 session）→ testeur-qa re-vérifie. Plafond ：3 rounds.
+     Si non résolu après 3 rounds → escalade à l'utilisateur avec historique complet。
+
+
 
 ## Architecture — 2 étages（règle structurelle permanente）
 - **USINE**（racine）＝ partagé, change rarement ：agents, skills, tools/, brain/, pipeline/,
@@ -102,11 +107,13 @@ Dev（/speckkit.implement）→ G4 Design（parallèle G3.6）→ G5 Tests → G
 | orchestrateur | Route les tâches, maintient `pipeline/etat.md`, gère les gates | primary |
 | chercheur-niches | Phase 1 ：mots clés, tendances, scoring | subagent |
 | analyste-concurrents | Phase 2 ：scraping, avis, gaps, monétisation | subagent |
+| analyste-visuel | Phase 2b ：screenshots → inventaire UI, wireflow, architecture de l'information（`CARTE-VISUELLE.md`）— au service de DÉCORTIQUE | subagent |
 | product-manager | Phase 3 ：PRD + spec（G3.5） | subagent |
 | architecte | G3.6 ：plan technique（/speckkit.plan） | subagent |
 | designer | Phase 4 ：design system, écrans, icône | subagent |
 | dev-expo | Phase 5 ：architecture et code Expo / React Native. Pour les jeux, applique en plus le skill `jeux-mobiles` | subagent |
-| critique | Juge aveugle du gauntlet-loop | subagent |
+| critique | Juge aveugle du gauntlet-loop（post-build）＋ avocat du diable（pré-code, attaque PRD/spec） | subagent |
+| testeur-qa | Phase 5bis ：QA fonctionnelle（Maestro, critères d'acceptation, bugs avec preuves）→ PLAN-CORRECTIFS.md | subagent |
 | devops | Build, CI EAS Build/Submit/Update, publication | subagent |
 | marketeur | ASO, carrousels, vidéos Remotion | subagent |
 

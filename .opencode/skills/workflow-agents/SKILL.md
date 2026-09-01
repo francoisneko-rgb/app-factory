@@ -52,6 +52,30 @@ il doit rester au-dessus. Ne change rien d'autre." Ne jamais re-expliquer la fea
 
 
 
+## Parallélisme de code（règle de sécurité）
+- DÉFAUT ：développement SÉQUENTIEL. Un dev-expo, une tâche, une session, une PR。
+- Parallèle AUTORISÉ seulement si ：tâches sans aucun fichier commun, chaque agent dans
+  son git worktree（git worktree add ../<app>-<feature>）, base = snapshot figé de main,
+  et merge SÉQUENTIEL（un PR à la fois, vérification après chaque merge, on n'avance
+  pas sur une base cassée）。
+- RÈGLE DU FICHIER UNIQUE ：les fichiers chauds（router, app.json/app.config, theme,
+  package.json, stores partagés）n'appartiennent jamais à deux agents en même temps。
+- En cas de doute ：séquentiel. Le parallélisme économise du temps, pas du chaos。
+
+
+
+## Vérification étagée（coût maîtrisé）
+1. Tests unitaires Jest ：toute logique métier（gratuit, automatique, à chaque commit）。
+2. CodeRabbit ：chaque PR（revue code）。
+3. Maestro E2E ：5-8 flux critiques par app MAXIMUM, pas plus—les maintenir coûte
+   cher, les cibler sur ce qui tue l'app s'il casse. Possible en CI via EAS Workflows。
+
+4. Gauntlet-loop ：surfaces critiques uniquement（déjà plafonné à 5 rounds）。
+5. Testeur-qa ：à chaque fin de milestone（pas à chaque tâche）。
+Ne jamais empiler les 5 couches sur une même micro-tâche。
+
+
+
 ## Docs à jour et skills de services
 - Si le doute existe sur la version d'une librairie ：coller la doc actuelle(bouton
     "Copy as Markdown" des docs modernes) APRÈS les instructions, séparée par un diviseur。

@@ -1,16 +1,16 @@
-﻿# OUTILS — Mémoire de la factory
+# OUTILS — Mémoire de la factory
 
 > Relire AVANT chaque tâche pour savoir ce dont on dispose.
 > Légende statut : ✅ prêt · 🔑 clé manquante · ⚠️ action manuelle / à installer.
-> MAJ : 2026-09-01 (capacité jeux mobiles — ADR-007 + skill jeux-mobiles)
+> MAJ : 2026-09-01 (pipeline v2 — ADR-009 ：agents vision/QA, Maestro, worktree)
 
 
 
-## Navigation （bootstrap et index, ADR-009）
+## Navigation（bootstrap et index, ADR-010）
 - `SOMMAIRE.md`（racine）= carte complète du projet（arborescence, où vit quoi, commandes,
   état pointeur）。À lire en 2e（après AGENTS.md）, jamais plus。
 - `COMMANDES.md`（racine）= vocabulaire canonique（RADAR, SCAN, DÉCORTIQUE, FORGE, STYLE,
-  BÂTIT, GAUNTLET, EMBALLAGE, LANCE, PROMOUVOIS, PILOTE）。Détail des skills pointés।
+  BÂTIT, TESTE, GAUNTLET, EMBALLAGE, LANCE, PROMOUVOIS, PILOTE）。Détail des skills pointés।
 - Règle bootstrap：au démarrage de session, lire UNIQUEMENT AGENTS.md + SOMMAIRE.md
   + pipeline/etat.md；puis le skill et les fichiers de l'étape concernée；interdiction de lire
   brain/ en entier；logs datés jamais re-lus en entier（consulter le plus récent）。
@@ -90,7 +90,7 @@ Statut : ✅ prêt (npm) — installables via `npx expo install`, jamais dans le
 - **expo-audio** : sons/musique (feedback + ambiance de jeu).
 - **react-native-svg** : rendu SVG vectoriel (Recraft → UI) ; alternative légère à Skia.
 Interdit : react-native-game-engine (dormant), Phaser WebView, Unity (hors factory).
-Équipement d'une app-jeu : voir `template-app/docs/GAME-ADDONS.md`.
+Équipement d'une app-jeu : voir `t`template-app/docs/GAME-ADDONS.md`.
 
 ## Spec Kit — Spec-Driven Development (ADR-008)
 Statut : ✅ installé 2026-09-01 (CLI via uv tool install, intégration opencode).
@@ -100,6 +100,22 @@ Commandes `/speckit.*` (dans `.opencode/commands/`) : constitution (une fois par
 Structure : `.specify/` (config + templates + scripts ps + workflow) ; specs dans `specs/` à la racine.
 Commandes utiles : `specify check` (outils), `specify integration list` (intégrations), `specify workflow` (workflows).
 Référence : https://github.com/github/spec-kit
+
+## Maestro （E2E）
+Statut ：présent dans template-app/（stack 2026 ：Jest+Maestro；`e2e/smoke.yml`）。CLI ：`maestro`（local, iOS/Android）。Cloud ：Maestro Cloud via EAS Workflows（E2E en CI）。Coût ：gratuit（usage limité）。Rôle ：exécuter les 5-8 flux critiques par app（onboarding, action cœur, paywall, navigation）— jamais plus（coût de maintenance）。Agent ：	`testeur-qa`。
+
+
+
+## git worktree（parallélisme de code）
+Statut ：✅ natif git。Rôle ：parallélisme encadré——chaque agent travaille dans `git worktree add ../<app>-<feature>`（base = snapshot figé de main）, merge SÉQUENTIEL（un PR à la fois, vérification après chaque merge）。Fichiers chauds（router, app.json/app.config, theme, package.json, stores partagés）jamais partagés entre agents（règle du fichier unique, skill `workflow-agents`）。
+
+
+
+## Agents revue — QA et vision（ADR-009）
+- **analyste-visuel**（Phase 2b）：screenshots concurrents → inventaire UI, wireflow, architecture de l'information（`CARTE-VISUELLE.md`）, au service de DÉCORTIQUE。
+
+- **testeur-qa**（Phase 5bis）：exécute les flux Maestro, vérifie les critères d'acceptation de  `tasks.md`, chasse les bugs avec preuves（captures）→ `brain/apps/<app>/tests/AAAA-MM-JJ-qa.md` + `PLAN-CORRECTIFS.md`。Couche "comportement"（CodeRabbit=code, critique=UX/stratégie）。Boucle QA plafonnée à 3 rounds（règle 11 AGENTS.md）；retour utilisateur prioritaire（ `template-app/docs/RETOUR-UTILISATEUR.md`）。
+
 
 ## EAS (build/CI/CD)
 Statut : ✅ `eas-cli` installé globalement (eas --version OK). Clé `EXPO_TOKEN` remplie + activée (2026-09-01, eas whoami OK).

@@ -110,7 +110,18 @@
   notre gauntlet-loop (le critique = revue visuelle, CodeRabbit = revue code).
 - Note : numéroté ADR-006 car ADR-005 est déjà pris par le template golden.
 
-## ADR-009 — Structure multi-apps et efficacité tokens
+## ADR-009 — Pipeline v2：vision, QA 3 couches, parallélisme encadré
+- Date ：2026-09-01
+- Décision ：agents analyste-visuel（screenshots → wireflow/IA）et testeur-qa（Maestro,
+  critères d'acceptation, preuves par capture）ajoutés ；3 couches de revue distinctes。
+  （CodeRabbit=code, testeur-qa=comportement, critique=UX/stratégie + avocat du diable
+  pré-code） ；vérification étagée（unitaire → PR → 5-8 flux Maestro → gauntlet） ；
+  parallélisme de code encadré（worktrees, fichier unique, merge séquentiel） ；
+  boucle QA plafonnée à 3 rounds ；retour utilisateur via modèle structuré, prioritaire。
+- Source ：plan v2 proposé par l'utilisateur, consolidé par recherche des meilleures
+  pratiques multi-agents et E2E 2026.
+
+## ADR-010 — Structure multi-apps et efficacité tokens
 - Date : 2026-09-01
 - Décision : architecture deux étages(usine racine / apps autonomes) ; Spec Kit et
   AGENTS.md par app ; SOMMAIRE.md comme index léger ; bootstrap limité à 3 fichiers ;
