@@ -15,3 +15,8 @@ description: Boucle d'amélioration continue après publication— avis, analyti
    favorisent les apps maintenues)。Notes de version orientées bénéfice。
 5. LOG ：brain/apps/<app>/pilotage/AAAA-MM-JJ.md — métriques, décisions, actions。
 6. REMONTÉE USINE ：tout apprentissage généralisable → brain/learnings.md。
+
+## Évolutions post-publication（OPENSPEC）
+Toute évolution d'une app publiée（feature, fix majeur）passe par OpenSpec
+（propose→apply→verify→archive）, jamais par un prompt direct. Les bugs simples
+restent en prompt de réparation classique（workflow-agents）.

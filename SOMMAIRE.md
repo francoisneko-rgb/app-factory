@@ -7,7 +7,7 @@
 | Étage | Contenu | Où |
 |---|---|---|
 | **USINE** (racine, partagé, change rarement) | Agents, skills, tools/, brain/ (marché, tendances, décisions, learnings, outils), pipeline/, template-app/, constitution | Racine |
-| **APP** (apps/<app>/) | AGENTS.md, spec/plan/tasks (Spec Kit local), docs/decisions.md, design/, code/, store assets/ | apps/<app>/ |
+| **APP** (apps/<app>/) | AGENTS.md, spec/plan/tasks (Spec Kit local), openspec/ (évolutions post-v1), docs/decisions.md, design/, code/, store assets/ | apps/<app>/ |
 | **Pont** | Recherche + concurrence + marketing de l'app | brain/apps/<app>/ |
 
 Règles de circulation : les learnings remontent de l'app → brain/learnings.md. La factory n'écrit PAS dans l'app (sauf via agents). Zéro contenu app-specific à la racine.
@@ -35,7 +35,7 @@ Règles de circulation : les learnings remontent de l'app → brain/learnings.md
 
 | Création | Commande |
 |---|---|
-| Niche validée G2 → `FORGE <nom-app>` | `cp -r template-app apps/<nom-app>` + `specify init` DANS l'app (Spec Kit local) + AGENTS.md + brain/apps/<nom-app>/{concurrence,design,store,marketing}/ + ligne dans etat.md + entrée SOMMAIRE |
+| Niche validée G2 → `FORGE <nom-app>` | `cp -r template-app apps/<nom-app>` + `specify init` DANS l'app (Spec Kit local) + `openspec init` DANS l'app (évolutions post-v1, OpenCode supporté nativement) + AGENTS.md + brain/apps/<nom-app>/{concurrence,design,store,marketing}/ + ligne dans etat.md + entrée SOMMAIRE |
 | Spec → plan → tasks | G3.5 `/speckit.specify/clarify` → G3.6 `/speckit.plan` → G3.7 `/speckit.tasks` |
 | Code | `/speckit.implement` (1 tâche =1 session =1 PR revue CodeRabbit) |
 | Design (parallèle G3.6) | G4, skill designer + gauntlet |

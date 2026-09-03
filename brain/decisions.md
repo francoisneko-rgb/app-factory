@@ -152,4 +152,23 @@
   variantes par type d'app, specs 2026, A/B natif PPO + Store Listing Experiments,
   barre de qualité = top quartile 42,8 % CVR）；réécriture aso-metadata（Apple champs
   déclarés vs Play full-text 2-3 % densité）；canaux-acquisition.md en référence
-  （organique d'abord, payant quand LTV/CAC ≥  ẟ3, ASA en premier canal payant）。
+  （organique d'abord, payant quand LTV/CAC ≥ 3, ASA en premier canal payant）。
+
+## ADR-013 — OpenSpec pour les évolutions post-v1（complément de Spec Kit）
+- Date ：2026-09-03
+- Décision ：Spec Kit conserve la création（greenfield, gates G3.5-G3.7）；OpenSpec
+   prend les évolutions post-publication（deltas explore/propose/apply/verify/archive,
+   support natif OpenCode）. Règle d'or modèle ：jamais d'économie sur CERVEAU/CODE
+   pendant spec/plan/implement（mesuré ：2 bugs vs 5 à spec égale）. Niveau d'autonomie
+   officiel ：3-4 avec gates ；niveau 5 = spikes jetables uniquement.
+- Source ：retours d'expérience Spec Kit （test réel）, OpenSpec（test réel）, dark
+   factory（Cole Medin, 2026）.
+
+## ADR-014 — Mode simple ：complexité encapsulée
+- Date ：2026-09-03
+- Décision ：communication 100 % français simple ；outils internes jamais mentionnés
+   à l'utilisateur ；voie PETIT FIX hors boucle ；OpenSpec différé jusqu'à besoin réel
+   d'évolution lourde post-v1（les petits correctifs restent en prompt direct）；raffinage des
+   prompts d'agents = au retour du premier run réel, pas avant。
+- Raison ：l'utilisateur n'est pas programmeur ；la complexité sert la qualité mais
+   ne doit jamais fuir dans l'interface humaine。

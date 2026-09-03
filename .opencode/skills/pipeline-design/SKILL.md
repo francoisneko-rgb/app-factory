@@ -69,3 +69,19 @@ utilisateur obligatoire（gate G4）sur 2-3 directions générées en images。
 ## Étape 6 — Validation
 Gauntlet-loop obligatoire ：nos écrans vs screenshots des leaders, test aveugle.
 Critères ：crédibilité pro en  ẟ3 s, hiérarchie, désirabilité, cohérence de nicheよ
+
+## Étape 7 — Le design = différenciateur n°1（avis utilisateur, 2026-09-03）
+Le design peut nous démarquer MÊME à fonctions égales. Ne jamais copier ：
+on analyse pour faire mieux. Sources d'analyse, combinées：
+- **Couleurs, fonts, polices** des concurrents（déjà extraits étape 1）——qu'est-ce
+  qui fonctionne bien / mal, et comment on fait mieux；
+- **1-2 captures d'écran** analysées par IA（voir le style, l'ambiance, les choix
+  typographiques d'un coup d'œil）；
+- **Les avis de l'utilisateur** sur ce qu'il aime/n'aime pas（"j'aime leurs couleurs",
+  "leur tutoriel est trop long"…）——chaque avis oriente le design；
+- **Le style adapté à la thématique** de l'app（pas une recette universelle）:
+  nature = fond blanc + verts + photos de plantes；lycéen = polices et codes
+  visuels adaptés à cet âge；premium = sombre + ocre… Le design doit "parler"
+  le langage visuel du public visé。
+Livrable ：chaque décision de style justifiée dans DESIGN.md（"pourquoi ce choix
+démarque / sert mieux le public"）——jamais un style choisi par défaut。

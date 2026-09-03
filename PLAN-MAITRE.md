@@ -37,8 +37,11 @@ monétisation des concurrents）avant tout investissement de temps。
    Spec Kit local, ADR locaux, design, code, store assets）。Pont ：brain/apps/<app>/ = recherche
    + concurrence + marketing. Learnings remontent de l'app → brain/learnings.md（jamais l'inverse）。
 - **Cycle de vie FORGE** ：niche validée G2 → `cp -r template-app apps/<nom-app>` + `specify init`
-   DANS l'app + AGENTS.md de l'app + brain/apps/<nom-app>/{concurrence,design,store,marketing}/
-   + ligne dans `pipeline/etat.md` + entrée `SOMMAIRE.md`. Détail ：COMMANDES.md.
+    DANS l'app + AGENTS.md de l'app + brain/apps/<nom-app>/{concurrence,design,store,marketing}/
+    + ligne dans `pipeline/etat.md` + entrée `SOMMAIRE.md`. Détail ：COMMANDES.md.
+    Post-v1 ：après le clone, `openspec init` DANS `apps/<app>/`（sélectionner OpenCode,
+    supporté nativement）→ l'app a donc `.specify/`（création, Spec Kit）ET `openspec/`
+    （évolutions, deltas post-publication—— voir ADR-013）.
 .
 - **Bootstrap 3 fichiers** ：au démarrage de session, lire UNIQUEMENT AGENTS.md + SOMMAIRE.md
    + pipeline/etat.md. Puis le skill et les fichiers de l'étape concernée. Interdiction de lire
@@ -96,3 +99,13 @@ visuels marketing）：
 - RevenueCat ：gratuit sous un seuil de revenus mensuels—parfait pour démarrer。
 - Sentry ：gratuit sous un seuil d'événements—crashs dès le MVP。
 - Scrapers（google-play-scraper, app-store-scraper）：gratuits et open source。
+
+
+
+
+
+## Niveau d'autonomie（échelle de Dan Shapiro, 5 niveaux）
+La factory opère au niveau 3-4 par design ：les agents écrivent tout le code, mais
+l'utilisateur valide la direction à chaque gate（G1-G7）et les tâches critiques. Le niveau 5（"dark factory", zéro validation）est réservé aux prototypes jetables
+（spike d'idée）：autorisé uniquement sur demande explicite avec le mot "SPIKE",
+dans un dossier apps/_spikes/, jamais pour une app destinée aux stores。

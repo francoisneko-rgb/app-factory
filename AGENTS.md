@@ -71,10 +71,34 @@ plus récent du sujet concerné.
      de feature sans spec/plan/tasks validés**（gates G3.5-G3.7, Spec Kit, `/speckkit.*`）. La spec
      est la source de vérité；si le code s'en écarte, on corrige le code OU la spec explicitement — jamais de divergence silencieuse.
 
-
 11. **BOUCLE QA** ：testeur-qa produit PLAN-CORRECTIFS.md → dev-expo corrige par ordre
      d'impact（1 correctif = 1 session）→ testeur-qa re-vérifie. Plafond ：3 rounds.
      Si non résolu après 3 rounds → escalade à l'utilisateur avec historique complet。
+
+
+13. **CONSTITUTION VIVANTE** ：la constitution Spec Kit de chaque app est maintenue（une
+     règle qui revient 2 fois y entre）. Les specs archivées ne se relisent pas. En cas
+     de divergence code/spec ：on corrige le code OU on met la spec à jour explicitement
+     （jamais de divergence silencieuse）. Post-v1, toute évolution = OpenSpec delta.
+
+
+
+14. **L'UTILISATEUR N'EST PAS PROGRAMMEUR.** Règles de communication absolues :
+    - Tous les rapports, gates et questions en FRANCAIS SIMPLE. Zéro jargon sans
+      explication entre parenthèses en une phrase.
+
+    - Jamais les noms internes（Spec Kit, OpenSpec, CodeRabbit, EAS, Maestro）dans les
+      échanges avec l'utilisateur——ce sont des outils internes. Dire"je rédige le
+      cahier des charges", "je fais relire le code", "je teste l'app sur émulateur".
+    - Chaque gate suit ce format ：1) CE QUI A ÉTÉ FAIT（3-5 lignes）· 2）CE QUE ÇA
+      VEUT DIRE POUR TOI ·  ẟ3）CE QUE TU DOIS DÉCIDER（options claires, avec ma
+      recommandation et pourquoi）.
+
+    - Si l'utilisateur demande une petite modification（"change ce texte", "ce bouton
+      ne marche pas"）, c'est un PETIT FIX（section  ẟ2）—— jamais de grande boucle.
+
+
+
 
 
 

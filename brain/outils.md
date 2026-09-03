@@ -93,11 +93,18 @@ Interdit : react-native-game-engine (dormant), Phaser WebView, Unity (hors facto
 Équipement d'une app-jeu : voir `t`template-app/docs/GAME-ADDONS.md`.
 
 ## Spec Kit — Spec-Driven Development (ADR-008)
-Statut : ✅ installé 2026-09-01 (CLI via uv tool install, intégration opencode).
+Statut : ✅ installé 2026-09-01 (CLI via uv tool install, intégration opencode.
 Rôle : aucun code de feature sans spec → plan → tasks validés (gates G3.5-G3.7, règle 10 AGENTS.md).
-CLI : `specify` (dans `~\.local\bin\specify.exe` — uv installé via winget astral-sh.uv).
-Commandes `/speckit.*` (dans `.opencode/commands/`) : constitution (une fois par projet, depuis AGENTS.md), specify (spec depuis PRD + rapport concurrentiel,, clarify (questions de désambiguïsation,, plan (architecture technique par l'agent architecte,, tasks (découpe des tâches,, analyze (cohérence spec/plan/tasks,, implement (une tâche par session,, converge (état du codebase → tasks restantes,, checklist, taskstoissues.
+CLI : `specify` (dans `~\.local\bin\specify.exe` — uv installé via winget astral-sh.uv.
+Commandes `/speckit.*` (dans `.opencode/commands/`) : constitution (une fois par projet, depuis AGENTS.md), specify (spec depuis PRD + rapport concurrentiel,, clarify (questions de désambiguïsation,, plan (architecture technique par l'agent architecte,, tasks (découpe des tâches,, analyze (cohérence spec/plan/tasks,, implement (une tâche par session,, converge (état du codebase → tasks restantes,, checklist, taskstoissues..
 Structure : `.specify/` (config + templates + scripts ps + workflow) ; specs dans `specs/` à la racine.
+
+## OpenSpec（complément de Spec Kit — ADR-013）
+Statut ：✅ installé 2026-09-03（CLI global `openspec` v1.12.0, via `npm install -g @fission-ai/openspec`；support natif OpenCode）。Node ≥  ẟ20.19.0 requis（présent： v24.19.0）。
+Rôle ：deltas post-v1 — toute évolution d'une app déjà publiée（feature, fix majeur）passe par son cycle`/opsx: explore → propose → apply → verify → archive`. Les specs deviennent vivantes（`openspec/specs/` mis à jour + `openspec/changes/` archivés）au lieu de s'empiler。
+Commandes utiles ：`openspec --version`（PATH）, `openspec init`（dans une app）, `openspec update`（MAJ CLI + skills projet）。
+Règle ：Spec Kit = CRÉATION（greenfield, gates G3.5-G3.7 inchangés）；OpenSpec = ÉVOLUTION post-publication。À la création d'une app（cycle FORGE）：après le clone du template, `openspec init` DANS `apps/<app>/`（sélectionner OpenCode, supporté nativement）→ l'app a donc `.specify/`（création）ET `openspec/`（évolutions。
+Référence ：https://openspec.dev
 Commandes utiles : `specify check` (outils), `specify integration list` (intégrations), `specify workflow` (workflows).
 Référence : https://github.com/github/spec-kit
 

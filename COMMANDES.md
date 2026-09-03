@@ -19,3 +19,4 @@
 | `LANCE <nom-app>` | Build EAS + soumission stores（après validation G6） |
 | `PROMOUVOIS <nom-app>` | Assets marketing（carrousels, vidéos Remotion） |
 | `PILOTE <nom-app>` | Skill `post-lancement` ：avis, analytics PostHog, itérations |
+| `"PETIT FIX <nom-app> : <description en langage naturel>"` | Correction rapide hors boucle lourde ：l'agent corrige directement, test rapide ciblé, commit, et me montre le résultat. Pour tout ce qui est petit（texte, couleur, bug ponctuel, ajustement）. Réservé aux changements mineurs——toute nouvelle feature passe par FORGE/la spec. |

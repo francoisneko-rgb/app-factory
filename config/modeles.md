@@ -4,6 +4,15 @@
 
 
 
+## RÈGLE D'OR（mesurée sur projet réel）
+Le framework ne compense JAMAIS le modèle. Pendant spec, plan, tasks et implement：
+toujours le meilleur modèle disponible du rôle（CERVEAU/CODE）, aucune économie.
+
+Les modèles éco sont réservés à BULK et aux tests de nouveaux modèlesんUn bug évité à la spec coûte 100x moins cher qu'un bug corrigé en production。
+
+
+
+
 ## DÉFAUT TÂCHES SIMPLES（installation, gestion, actions courantes）
 - **openrouter/deepseek/deepseek-v4-flash-0731**——le modèle par défaut actuel, gardé（choix utilisateur 2026-09-01）：rapide, léger, parfait pour tout ce qui ne prend pas de place et n'a pas besoin de beaucoup de réflexion。Ne pas le changer pour ces tâches。
 
