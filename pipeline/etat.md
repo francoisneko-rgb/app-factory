@@ -20,7 +20,7 @@ Statut : ✅ PRÊT COMPLET — 2026-09-01 (fondation Expo + Spec Kit)
 
 | App | Niche | Phase | Prochain gate | Dernière MAJ |
 |---|---|---|---|---|
-| _(app #1 non nommée)_ | Daily affirmations (proposée) | 1/7 | G1 (validation niche) | 2026-08-21 |
+| **Nami** (APP #1 VALIDÉE 2026-09-26) | Challenges 75 jours — tracker personalisable | G3 PRD | G3 (validation PRD) | 2026-09-26 |
 | _(candidat)_ | Body/full-body tracking games | 2/7 → G3 | G3 (validation PRD) | 2026-08-24 |
 | _(candidat)_ | Active games kids (outdoors/camp) |  ẟ2/7 | backup |​ 2026-08-24 |
 | _(candidat)_ | Fitness programme personnalisé |​ 2/7 | rejetée G2 |​ 2026-08-24 |
