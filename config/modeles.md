@@ -1,6 +1,13 @@
 # REGISTRE DES MODÈLES — coûts et rôles
 
-> MAJ ：2026-09-01 （pipeline design — ADR-011 ：GLM-5.3-Flash en BULK défaut + éco VISION, HY4-preview en candidat CERVEAU）＋ préférence utilisateur：garder DeepSeek V4 Flash 0731 en défaut des tâches simples。
+> MAJ : 2026-09-26 (arbitrage modèles frontière, benchmarks juillet-sept. 2026)
+> + ADR-011 conservé (GLM-5.3-Flash BULK + DeepSeek V4 Flash défaut simple).
+
+## MAPPING OFFICIEL SEPT. 2026 — « plan with frontier, implement with flash »
+| Rôle tidle | Modèle | Pourquoi (données sept. 2026) |
+|---|---|---|
+| **PLANNING/ANALYSE/REVIEW (CERVEAU Léger)** | **moonshotai/kimi-k3** | #4-#6 mondial (79,9/100 BenchLM) ; SWE Marathon #1 ; **Design Arena frontend #1 (1679 Elo)** = le meilleur pour générer/revoyer des UI ; 1,05M ctx ; **accepte les images** (indispensable : revoyer screenshots design/avis) ; agentic 89,5. $3/$15 par 1M. |
+| **PLANNING alternatif (si budget serré)** | **z-ai/glm-5.3** (complet, PAS la flash) | Intelligence égale à Kimi K3 (tie 60 AA ; SWE-bench 94,2% vs 93,8% ; Terminal-Bench 86,5% vs 80,9%) et 3,4x moins cher ($1,40/$4,40). **Limite : TEXTE SEUL, pas d'images** → exclus pour toute tâche qui voit des screenshots (design, gauntlet, QA). |
 
 
 
