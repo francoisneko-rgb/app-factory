@@ -238,3 +238,10 @@ ELEVENLABS_API_KEY (optionnel) · ANTHROPIC_API_KEY.
 ## Manuels à faire
 - Remplir `EXPO_TOKEN` dans `config/api-keys.env` (https://expo.dev → Settings → Access Tokens).
 - Installer Remotion en phase marketing.
+## BUG Navigateur intégré (2026-09-26) - CONNU
+- Le navigateur Playwright a plante pendant le telechargement Drive (drive-download 16h22) puis ne repond plus OBLIGAIREMENT (attente 10 min Systeme). Suspecter crash de session (trop d'images/onglets?).
+- CONTOURNEMENT VALIDÉ : telecharger les fichiers du Drive à la main, aussi bien avoir le chemin C:\Users\ACER\Downloads\*.zip a l'orchestrateur. Maintenant : deplacer une fois, verifier, extraire en local par bash (Expand-Archive) -- ne JAMAIS relancer un clic drive lente.
+- Avant de re-jouer le MCP Drive/navigateur : faire redemarrer la session opencode par l'utilisateur si navigateur demande (plante silencieusement). Contacter la console/une fenetre Chromium planter: verifier process 'chrome.exe' or 'node' playwright.
+
+## MODELE - Economie (dec elephant 2026-09-26)
+- L'utilisateur veut: DeepSeek V4 Flash pour LE PLUS de taches (tokens trop chers avec le modele de base). Le modele de SESSION est choisi par l'utilisateur dans OpenCode (seconde autour du nom de modele) ; le registre config/modeles.md reste LA regle: plan/review=Kimi K3, code/heavy writing=DeepSeek Flash, bulk=GLM Flash. Rappeler l'utilisateur pin: basculer le session par defaut sur deepseek-v4-flash pour economiser.

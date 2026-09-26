@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>75 Challenge — 3 pistes de style (G4 exploration)</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: -apple-system, 'Segoe UI', sans-serif; background: #f2f2f4; padding: 24px; }
+  h1 { text-align:center; font-size: 20px; margin-bottom: 4px; color:#111; }
+  .sub { text-align:center; font-size: 13px; color:#555; margin-bottom: 28px; }
+  .row { display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; }
+  .panel { width: 340px; }
+  .panel h2 { font-size: 16px; text-align:center; margin-bottom: 12px; color:#111; }
+  .panel p.desc { font-size: 12.5px; color:#666; text-align:center; margin-bottom: 12px; line-height: 1.5; }
+  .screen { width: 300px; height: 600px; margin: 0 auto 16px; border-radius: 28px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,.18); border: 6px solid #1a1a1a; position: relative; font-size: 12px; }
+  .screen .notch { position:absolute; top:8px; left:50%; transform:translateX(-50%); width:90px; height:18px; background:#1a1a1a; border-radius:10px; z-index:5;}
+  .label { position:absolute; bottom:6px; right:10px; font-size:9px; opacity:.55; background:rgba(0,0,0,.35); color:#fff; padding:2px 6px; border-radius:6px; }
+
+  /* ============ PISTE A — SPORTIF ÉNERGIE CLAIR ============ */
+  .A { background:#faf8f4; color:#16130e; font-family: 'Segoe UI', sans-serif; }
+  .A .head { padding: 34px 18px 10px; display:flex; justify-content:space-between; align-items:center;}
+  .A .day { font-size:11px; color:#8a8578; letter-spacing: .12em; text-transform:uppercase;}
+  .A .date { font-size:22px; font-weight:800; }
+  .A .streak { background:#16130e; color:#fff; border-radius: 999px; padding: 5px 10px; font-weight:700; font-size:11px;}
+  .A .card { margin: 10px 14px; background:#fff; border-radius: 18px; padding: 14px; box-shadow: 0 1px 3px rgba(20,15,5,.06); }
+  .A .ring { width:118px; height:118px; border-radius:50%; background: conic-gradient(#ff5c2b 0 72%, #efe9df 72% 100%); margin: 6px auto; display:flex; align-items:center; justify-content:center; }
+  .A .ring > div { width: 92px; height:92px; border-radius:50%; background:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center;}
+  .A .pct { font-size:24px; font-weight:800; }
+  .A .task { display:flex; align-items:center; gap:10px; padding:8px 0; border-bottom:1px solid #f1ede6;}
+  .A .task:last-child { border:none; }
+  .A .cb { width:22px; height:22px; border-radius:7px; background:#ff5c2b; color:#fff; display:flex; align-items:center; justify-content:center; font-weight:900; font-size:13px; flex:none;}
+  .A .cb.off { background:#f1ede6; color:transparent; }
+  .A .t { font-weight:600; font-size:12.5px; }
+  .A .s { color:#9b948a; font-size:10.5px; }
+  .A .cta { margin:8px 14px 0; background:#ff5c2b; color:#fff; text-align:center; padding:13px; border-radius:14px; font-weight:800; font-size:13px; }
+  .A .paywall { background:#fbf9f5; color:#16130e; padding: 34px 18px 0; text-align:center;}
+  .A .paywall .k { font-size:10.5px; letter-spacing:.14em; color:#ff5c2b; font-weight:800; text-transform:uppercase;}
+  .A .paywall h3 { font-size:21px; font-weight:900; margin:8px 0 4px; line-height:1.2;}
+  .A .opt { border:1.5px solid #e9e3d8; border-radius:14px; padding:11px; margin:8px 0; display:flex; justify-content:space-between; align-items:center; background:#fff;}
+  .A .opt.pop { border-color:#ff5c2b; background:#fff6f1;}
+  .A .price { font-weight:900; font-size:14px;}
+  .A .per { font-size:9.5px; color:#9b948a;}
+  .A .sign { margin:10px auto; width:200px; height:54px; border:1.5px dashed #d8d1c2; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#a49c8c; font-size:10px;}
+
+  /* ============ PISTE B — SOMBRE PREMIUM ============ */
+  .B { background:#0e1114; color:#eef2f4; font-family: 'Segoe UI', sans-serif;}
+  .B .head { padding: 34px 18px 10px; display:flex; justify-content:space-between; align-items:center;}
+  .B .day { font-size:11px; color:#8fa2b3; letter-spacing:.14em; text-transform:uppercase;}
+  .B .date { font-size:22px; font-weight:900;}
+  .B .streak { background:linear-gradient(90deg,#22d3a5,#14b8c4); color:#04211c; border-radius:999px; padding:5px 10px; font-weight:800; font-size:11px;}
+  .B .big { margin:10px 14px; border-radius:20px; padding:18px; background:linear-gradient(160deg,#16202a,#101820); border:1px solid #1f2c37;}
+  .B .bignum { font-size:44px; font-weight:900; background:linear-gradient(90deg,#22d3a5,#14b8c4); -webkit-background-clip:text; background-clip:text; color:transparent;}
+  .B .cap { font-size:10.5px; color:#7f93a6; letter-spacing:.08em; text-transform:uppercase;}
+  .B .bar { height:8px; background:#1c2a35; border-radius:99px; margin-top:10px; overflow:hidden;}
+  .B .bar > div { height:100%; width:72%; background:linear-gradient(90deg,#22d3a5,#14b8c4); border-radius:99px;}
+  .B .wrow { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid #16ession222930;}
+  .B .wrow { border-bottom:1px solid #17222c;}
+  .B .ico { width:30px;height:30px;border-radius:9px; background:#16222c; display:flex;align-items:center;justify-content:center; flex:none; font-size:14px;}
+  .B .ok { color:#22d3a5; font-weight:800; font-size:15px; margin-left:auto;}
+  .B .todo { color:#55677a; font-weight:700; font-size:13px; margin-left:auto;}
+  .B .cta { margin:8px 14px 0; background:linear-gradient(90deg,#22d3a5,#14b8c4); color:#04211c; text-align:center; padding:13px; border-radius:14px; font-weight:900; font-size:13px;}
+  .B .paywall { padding:34px 18px 0; text-align:center;}
+  .B .paywall .k { color:#22d3a5; font-size:10.5px; letter-spacing:.16em; font-weight:900; text-transform:uppercase;}
+  .B .paywall h3 { font-size:20px; font-weight:900; margin:8px 0 4px; line-height:1.25;}
+  .B .opt { border:1.5px solid #22303c; border-radius:14px; padding:11px; margin:8px 0; display:flex; justify-content:space-between; align-items:center; background:#101820;}
+  .B .opt.pop { border-color:#22d3a5; background:#0e2019;}
+  .B .price { font-weight:900; font-size:14px;}
+  .B .per { font-size:9.5px; color:#7f93a6;}
+  .B .stat { display:flex; gap:8px; justify-content:center; margin-top:12px;}
+  .B .stat div { background:#101820; border:1px solid #22303c; border-radius:12px; padding:8px 10px; font-size:10px; color:#c6d4df;}
+  .B .stat b { display:block; font-size:14px; color:#22d3a5;}
+
+  /* ============ PISTE C — MIXTE CHALEUR ORG ============ */
+  .C { background:#fffdf9; color:#231a12; font-family: Georgia, 'Times New Roman', serif;}
+  .C .head { padding: 34px 18px 10px; display:flex; justify-content:space-between; align-items:center; font-family:'Segoe UI',sans-serif;}
+  .C .day { font-size:11px; color:#b08954; letter-spacing:.16em; text-transform:uppercase;}
+  .C .date { font-size:22px; font-weight:800;}
+  .C .streak { border:1.5px solid #233c2f; color:#233c2f; border-radius:999px; padding:5px 10px; font-weight:700; font-size:11px; font-family:'Segoe UI',sans-serif;}
+  .C .hero { margin:10px 14px; border-radius:20px; background:#f3ede1; padding:16px; text-align:center;}
+  .C .hero .n { font-family:Georgia,serif; font-size:34px; font-weight:700; color:#233c2f;}
+  .C .hero .c { font-size:11px; color:#8d7a5f; margin-top:2px;}
+  .C .task { display:flex; align-items:center; gap:10px; padding:9px 0; border-bottom:1px solid #efe8db; font-family:'Segoe UI',sans-serif;}
+  .C .task:last-child{border:none;}
+  .C .cb { width:22px; height:22px; border-radius:50%; background:#233c2f; color:#f3ede1; display:flex;align-items:center;justify-content:center; font-weight:900; font-size:12px; flex:none;}
+  .C .cb.off { background:#efe8db; color:transparent; }
+  .C .t { font-weight:600; font-size:12.5px;}
+  .C .s { color:#a08e74; font-size:10.5px;}
+  .C .water { margin:10px 14px; background:#eef4f2; border-radius:16px; padding:12px 14px; font-family:'Segoe UI',sans-serif; display:flex; align-items:center; gap:10px;}
+  .C .fill { flex:1; height:10px; background:#dfe9e6; border-radius:99px; overflow:hidden;}
+  .C .fill > div { width:62%; height:100%; background:#4f9d8e; border-radius:99px;}
+  .C .wlabel { font-size:11px; color:#3f6b60; font-weight:700;}
+  .C .cta { margin:8px 14px 0; background:#233c2f; color:#f6ead9; text-align:center; padding:13px; border-radius:14px; font-weight:800; font-size:13px; font-family:'Segoe UI',sans-serif;}
+  .C .paywall { padding:34px 18px 0; text-align:center; font-family:'Segoe UI',sans-serif;}
+  .C .paywall .k { color:#b08954; font-size:10.5px; letter-spacing:.16em; font-weight:800; text-transform:uppercase;}
+  .C .paywall h3 { font-family:Georgia,serif; font-size:20px; margin:8px 0 4px; line-height:1.3; color:#231a12;}
+  .C .opt { border:1.5px solid #e5dcc9; border-radius:14px; padding:11px; margin:8px 0; display:flex; justify-content:space-between; align-items:center; background:#fff;}
+  .C .opt.pop { border-color:#233c2f; background:#f4f7f4;}
+  .C .price { font-weight:900; font-size:14px;}
+  .C .per { font-size:9.5px; color:#a08e74;}
+</style>
+</head>
+<body>
+<h1>75 Challenge — 3 pistes de style</h1>
+<div class="sub">Chaque piste montre 4 écrans clés : tableau de bord du jour · boucle quotidienne · moment "signature/contrat" · paywall</div>
+<div class="row">
+
+  <!-- ================= PISTE A ================= -->
+  <div class="panel">
+    <h2>PISTE A — Sportif énergie clair</h2>
+    <p class="desc">Fond clair, orange énergie, cartes blanches. Le plus "app grand public pour tous" — lisibilité maximale</p>
+    <div class="screen A"><div class="label" style="color:#fff;">A1 · tableau du jour</div><div class="notch"></div>
+      <div class="head"><div><div class="day">Jour 23 / 75</div><div class="date">Samedi</div></div><div class="streak">🔥 23 jours</div></div>
+      <div class="card"><div class="ring"><div><div class="pct">72%</div><div style="font-size:9px;color:#9b948a;">4/6 fait</div></div></div></div>
+      <div class="card">
+        <div class="task"><div class="cb">✓</div><div><div class="t">Entraînement 1 — extérieur</div><div class="s">45 min teriminé</div></div></div>
+        <div class="task"><div class="cb">✓</div><div><div class="t">Entraînement 2 — salle</div><div class="s">Terminé</div></div></div>
+        <div class="task"><div class="cb off">·</div><div><div class="t">Eau — 6 verrestie</div><div class="s">4/6 verres</div></div></div>
+        <div class="task"><div class="cb off">·</div><div><div class="t">Lire 10 pages</div><div class="s">0/10</div></div></div>
+      </div>
+      <div class="cta">Terminer la journée</div>
+    </div>
+    <div class="screen A"><div class="label" style="color:#fff;">A2 · contrat à signer</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">Avant de commencer</div>
+        <h3>Signe ton<br>contrat</h3>
+        <p style="font-size:11px;color:#8a8578;margin-bottom:10px;">Ton challenge commence quand tu le signes. 75 jours. Pas d'excuses.</p>
+        <div class="sign">✍️ signe ici</div>
+        <div style="font-size:10.5px;color:#9b948a;">Départ : 26 sept. · Fin : 11 déc.</div>
+        <div style="font-size:10.5px;color:#9b948a;display:flex;justify-content:center;gap:14px;margin-top:6px;"><span>📍 sans compte</span><span>🔒 100% local</span></div>
+      </div>
+    </div>
+    <div class="screen A"><div class="label" style="color:#fff;">A3 · paywall (croix ✓)</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">Le détail qui manque</div>
+        <h3>Deviens discipliné,<br>pas abonné</h3>
+        <div class="opt pop"><div><b>Achat unique</b><div class="per">À toi pour toujours</div></div><div class="price">$19.99</div></div>
+        <div class="opt"><div><b>Par an</b><div class="per">Annule en 1 tap</div></div><div class="price">$29.99</div></div>
+        <div class="cta">Commencer sans pub</div>
+        <div style="font-size:9.5px;color:#c9c3b8;text-align:center;margin-top:8px;">✕ Non merci — je continue gratuitement</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= PISTE B ================= -->
+  <div class="panel">
+    <h2>PISTE B — Sombre premium (BeHard×)</h2>
+    <p class="desc">Noir profond, teal lumineux, gros chiffres. Le style "gym / discipline" dominant du segment</p>
+    <div class="screen B"><div class="label" style="color:#fff;">B1 · tableau du jour</div><div class="notch"></div>
+      <div class="head"><div><div class="day">Jour 23 / 75</div><div class="date">Samedi</div></div><div class="streak">23-DAY STREAK</div></div>
+      <div class="big"><div class="cap">Progression du challenge</div><div class="bignum">31%</div><div class="bar"><div></div></div></div>
+      <div class="big" style="padding:12px 18px;">
+        <div class="wrow"><div class="ico">🥤</div><div><div class="s">Eau 3.0 L</div></div><div class="ok">✓</div></div>
+        <div class="wrow"><div class="ico">🏃</div><div><div class="s">2 entraînements</div></div><div class="ok">✓</div></div>
+        <div class="wrow"><div class="ico">📖</div><div><div class="s">10 pages</div></div><div class="todo">2/10</div></div>
+        <div class="wrow"><div class="ico">📸</div><div><div class="s">Photo du jour</div></div><div class="todo">—</div></div>
+      </div>
+      <div class="cta">Finir le jour 23</div>
+    </div>
+    <div class="screen B"><div class="label" style="color:#fff;">B2 · contrat sombre</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">Le pacte</div>
+        <h3>Le jour où tu<br>signes change tout</h3>
+        <p style="font-size:11px;color:#7f93a6;margin-bottom:10px;">75 jours. Chaque jour complété compte. Chaque échec remet le compteur à zéro. Es-tu prêt ?</p>
+        <div class="sign" style="width:200px;height:54px;border:1.5px dashed #22303c;border-radius:10px;display:flex;align-items:center;justify-content:center;color:#5c7186;font-size:10px;margin:10px auto;">✍️ signature</div>
+        <div style="font-size:10.5px;color:#7f93a6;display:flex;justify-content:center;gap:14px;"><span>🔒 sans serveur</span><span>🏠 tes données chez toi</span></div>
+      </div>
+    </div>
+    <div class="screen B"><div class="label" style="color:#fff;">B3 · paywall</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">75 Challenge PRO</div>
+        <h3>Libère la<br>puissance complète</h3>
+        <div class="stat"><div><b>87%</b>finissent+pro</div><div><b>75</b>jours suivis</div><div><b>0</b>pub, à jamais</div></div>
+        <div class="opt pop" style="margin-top:12px;"><div><b>Achat unique</b><div class="per">À toi pour toujours</div></div><div class="price">$19.99</div></div>
+        <div class="opt"><div><b>Par an</b><div class="per">Annule en 1 tap</div></div><div class="price">$29.99</div></div>
+        <div class="cta">Libérer Premium</div>
+        <div style="font-size:9.5px;color:#3d4c5b;text-align:center;margin-top:8px;">✕ Continuer en gratuit</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= PISTE C ================= -->
+  <div class="panel">
+    <h2>PISTE C — Mixte chaleureux</h2>
+    <p class="desc">Éditorial doux (crème/vert foncé/or), serif. Le plus distinctif des 3 — "copie personne" (anti-gris)</p>
+    <div class="screen C"><div class="label" style="color:#fff;">C1 · tableau du jour</div><div class="notch"></div>
+      <div class="head"><div><div class="day">Jour 23 / 75</div><div class="date">samedi, 23e marche</div></div><div class="streak">23 jours tenus</div></div>
+      <div class="hero"><div class="n">72%</div><div class="c">de la journée terminée</div></div>
+      <div class="task"><div class="cb">✓</div><div><div class="t">Entraînement — extérieur</div><div class="s">Terminé </div></div></div>
+      <div class="task"><div class="cb off">·</div><div><div class="t">10 pages</div><div class="s">commence par 5 min</div></div></div>
+      <div class="water"><div class="wlabel">💧 Eau</div><div class="fill"><div></div></div><div class="wlabel">62%</div></div>
+      <div class="cta">Clôturer le jour</div>
+    </div>
+    <div class="screen C"><div class="label" style="color:#fff;">C2 · contrat éditorial</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">L'engagement</div>
+        <h3 style="font-family:Georgia,serif;">« Je m'engage<br>pour 75 jours. »</h3>
+        <p style="font-size:11px;color:#a08e74;margin-bottom:10px;">Signe ci-dessous. Ton challenge commence le jour de la signature.</p>
+        <div class="sign" style="width:200px;height:54px;border:1.5px dashed #e5dcc9;border-radius:10px;display:flex;align-items:center;justify-content:center;color:#c4b9a2;font-size:10px;margin:10px auto;">✍️ signature</div>
+        <div style="font-size:10.5px;color:#a08e74;display:flex;justify-content:center;gap:14px;"><span>住所 aucun compte</span><span>100% local</span></div>
+      </div>
+    </div>
+    <div class="screen C"><div class="label" style="color:#fff;">C3 · paywall</div><div class="notch"></div>
+      <div class="paywall">
+        <div class="k">Ton allié quotidien</div>
+        <h3>Offre-le<br>à ton discipline</h3>
+        <div class="opt pop"><div><b>Achat unique</b><div class="per">À toi pour toujours</div></div><div class="price">$19.99</div></div>
+        <div class="opt"><div><b>Par an</b><div class="per">Annule en 1 tap</div></div><div class="price">$29.99</div></div>
+        <div class="cta bg" style="background:#233c2f;">Continuer</div>
+        <div style="font-size:9.5px;color:#d9cfc0;text-align:center;margin-top:8px;">✕ Non merci</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

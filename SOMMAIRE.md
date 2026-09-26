@@ -63,3 +63,4 @@ Puis, selon la tâche : le skill et les fichiers de l'étape concernée UNIQUEME
 ## Glossaire des commandes
 `RADAR` · `SCAN` · `DÉCORTIQUE` · `FORGE` · `STYLE` · `BÂTIT` · `TESTE` · `GAUNTLET` ·
 `EMBALLAGE` · `LANCE` · `PROMOUVOIS` · `PILOTE` → détail dans COMMANDES.md + exemples dans GUIDES-UTILISATEUR.md.
+| ETAT du projet 75 Challenge (app #1 — fichier de reprise session) | brain/apps/75challenge/ETAT.md |
