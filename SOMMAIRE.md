@@ -23,6 +23,7 @@ Règles de circulation : les learnings remontent de l'app → brain/learnings.md
 | État des apps (source de vérité, 1 ligne/app) | pipeline/etat.md |
 | Décisions (ADR-001→012) | brain/decisions.md |
 | Outils/scripts + clés + statuts | brain/outils.md |
+| RÈGLE MODÈLES (plan=frontier Kimi K3, review=Kimi K3, implement=DeepSeek V4.1 Flash, bulk=GLM-5.3-Flash — à relire AVANT chaque choix de modèle) | config/modeles.md |
 | Enseignements (ce qui a marché/échoué) | brain/learnings.md |
 | Canaux d'acquisition (référence ASO + organique + payant, benchmarks 2026) | brain/canaux-acquisition.md |
 | Marché : niches scorées, tendances | brain/niches.md, brain/tendances.md |
