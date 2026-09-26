@@ -120,8 +120,16 @@ plus récent du sujet concerné.
 
 
 ## Pipeline（détail PLAN-MAITRE.md）
-G1 Recherche → G2 Analyse concurrents → G3 PRD → G3.5 spec → G3.6 plan → G3.7 tasks →
+G1 Recherche → G2 Analyse concurrents → **G2bis BRAINSTORM** → G3 PRD → G3.5 spec → G3.6 plan → G3.7 tasks →
 Dev（/speckkit.implement）→ G4 Design（parallèle G3.6）→ G5 Tests → G6 Export → G7 Marketing.
+
+**G2bis — BRAINSTORMING OBLIGATOIRE（règle permanente, toutes les apps — décision utilisateur
+2026-09-26, ADR-016）（cadre brave）**: AUCUN cahier des charges（PRD/spec）n'est rédigé avant
+que le brainstorming utilisateur+orchestrateur n'ait été fait et validé : ce que l'app fera,
+comment elle se positionne, ce qu'on copie/améliore chez les concurrents, ce qu'elle aura de
+particulier. Entrées requises : captures d'écran réelles des concurrents analysées + un
+produit gratuit comparable exploré + avis de l'utilisateur. Le PRD (G3) n'écrit QUE ce que le
+brainstorm a conclu — pas avant.
 
 
 

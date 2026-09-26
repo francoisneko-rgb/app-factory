@@ -172,3 +172,8 @@
    prompts d'agents = au retour du premier run réel, pas avant。
 - Raison ：l'utilisateur n'est pas programmeur ；la complexité sert la qualité mais
    ne doit jamais fuir dans l'interface humaine。
+
+## ADR-016 — Brainstorming obligatoire avant tout PRD (2026-09-26, toutes les apps)
+- Contexte : le veut l'utilisateur ; le PRD era trop presse après la validation de la niche.
+- Décision : nouveau gate G2bis permanent dans le pipeline (règle AGENTS.md). Aucun PRD/spec avant validation du brainstorm (positionnement, features, différences, ce qu'on copie) avec captures des concurrents analyses + un produit gratuit comparable + avis utilisateur.
+- Consequence : pour TOUTE app future (75 Challenge inclus), sequence = G1 > G2 > **G2bis brainstorm** > G3 PRD > G3.5-3.7 spec/plan/tasks.
