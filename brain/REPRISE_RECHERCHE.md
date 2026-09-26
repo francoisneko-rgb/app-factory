@@ -1,5 +1,11 @@
 # REPRISE — Recherche de marché (état à jour, un seul fichier de travail)
 
+> ⭐ **RÈGLE MÉMOIRE (décision utilisateur 2026-09-26)** : à la question « Quels sont les
+> meilleurs projets ? » OU pour toute info importante sur les recherches de niche/revenus,
+> CONSULTER EN PREMIER `brain/marche/scoring/CONSOLIDE_SHORTLIST_ARGENT.md`
+> (shortlist consolidée : revenus concurrents + complexité + potentiel an 1). C'est LE fichier
+> de référence pour trancher entre les niches.
+
 Dernière mise à jour : 2026-08-30 (jour 4, fin)
 Accès payants Appfigures : ~3 jours restants.
 
@@ -83,6 +89,7 @@ Voir règle 17 AGENTS.md pour le résumé complet + INDEX_CLUSTERS.md pour le d�
 - **`brain/marche/scoring/appfigures-insights.csv`** → LE fichier de travail unique (1182 mots-clés, pop/comp).
 - `brain/marche/scoring/MEILLEURES_NICHES.md` → synthèse des clusters (65+) + verdicts.
 - `brain/marche/scoring/VUE_ELARGIE_45_NICHES.md` → les 45+ niches à faire valider (LE fichier pour trancher).
+- `brain/marche/scoring/CONSOLIDE_SHORTLIST_ARGENT.md` → SHORTLIST consolidée : revenus concurrents + complexité + potentiel an 1 (LE fichier de décision, créé 2026-09-26).
 - `brain/REPRISE_RECHERCHE.md` → ce fichier = mémoire/état.
 - `references/<niche>/analyse-globale.md` → analyse concurrentielle détaillée par niche approfondie.
 - `brain/marche/scoring/appfigures_raw/` → related/rankings par pépite (données payantes brutes).
