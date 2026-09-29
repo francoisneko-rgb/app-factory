@@ -1,4 +1,10 @@
-/** @type {import('tailwindcss').Config} */
+/**
+ * 75 Challenge — NativeWind theme.
+ * Must stay in sync with `src/constants/theme.ts` (the single source of truth).
+ * Token names are 1:1 with DESIGN.md; classes are generated as
+ * `bg-surface`, `text-on-surface`, `border-border-subtle`, `bg-badge-amber`, …
+ * @type {import('tailwindcss').Config}
+ */
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   presets: [require("nativewind/preset")],
@@ -6,24 +12,46 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand: {
-          DEFAULT: "#208AEF",
-          foreground: "#FFFFFF",
-        },
-        background: "#FFFFFF",
-        surface: "#F0F0F3",
-        "surface-selected": "#E0E1E6",
-        content: "#000000",
-        "content-secondary": "#60646C",
-        border: "#E5E7EB",
-      },
-      spacing: {
-        "4.5": 18,
+        surface: "#FFFFFF",
+        "on-surface": "#0A0A0A",
+        "surface-secondary": "#F7F7F5",
+        "text-secondary": "#6B6B6B",
+        "text-tertiary": "#A0A0A0",
+        "border-subtle": "#E8E8E6",
+        "badge-amber": "#F7C84A",
+        "badge-sage": "#B5CCA8",
+        "badge-peach": "#F0C4B0",
+        "badge-lemon": "#EDE89A",
+        checkmark: "#111111",
+        "on-checkmark": "#FFFFFF",
+        "chip-bg": "#FFFFFF",
+        "chip-border": "#E0E0E0",
+        "on-chip": "#0A0A0A",
+        error: "#E05252",
+        success: "#5BAD6B",
       },
       borderRadius: {
-        sm: 8,
-        md: 12,
-        lg: 16,
+        badge: 12,
+        photo: 8,
+        card: 16,
+        button: 16,
+        pill: 9999,
+      },
+      fontFamily: {
+        sans: ["Inter", "system-ui", "sans-serif"],
+        script: ["Caveat", "cursive"],
+        display: ["'Playfair Display'", "serif"],
+      },
+      fontSize: {
+        h1: 24,
+        h2: 18,
+        body: 15,
+        "body-medium": 15,
+        label: 13,
+        caption: 11,
+        "badge-number": 13,
+        script: 28,
+        display: 32,
       },
     },
   },
