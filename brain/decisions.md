@@ -173,6 +173,39 @@
 - Raison ：l'utilisateur n'est pas programmeur ；la complexité sert la qualité mais
    ne doit jamais fuir dans l'interface humaine。
 
+## ADR-017 — Design depuis image : outil externe design-system (BuilderOS) en mode actif, comparatif avec pipeline-design
+- Date : 2026-09-28
+- Contexte : l'utilisateur veut montrer des images (apps ou sites) et que l'agent reproduise
+  le design avec une haute fidélité (couleurs, polices, placements, espacements, effets,
+  boutons). Les designs générés par notre méthode (pipeline-design) ont été jugés mauvais
+  par l'utilisateur lors de tests réels. L'outil externe "design-system" (BuilderOS, MIT,
+  v1.1, skills.sh) propose un flux discipliné : image → design.md (format Google) +
+  design.html (style guide visuel lisible par l'humain dans le navigateur). L'utilisateur
+  décide : installer l'outil externe, le mettre en MODE ACTIF, garder notre pipeline-design
+  en MODE DÉSACTIVÉ, et trancher par comparatif réel sur ses captures.
+- Décision : le skill `design-system` (BuilderOS) est installé dans
+  `.opencode/skills/design-system/` (copie du repo officiel buildgreatproducts/builder-os,
+  licence MIT). Pendant le comparatif : analyse d'image → design = via design-system
+  (BuilderOS) ; pipeline-design reste installé mais non utilisé par défaut (veille).
+  Connexion au pipeline : le design.md produit (format design.md de Google, déjà le nôtre)
+  alimente brain/apps/<app>/design/DESIGN.md → validation G4 → traduction tokens RN →
+  gauntlet. La fidélité cible : très proche de l'image (pas 100 % à la fin — l'utilisateur
+  ajustera), capacité de copier précisément si voulu. Limites actées : polices propriétaires
+  (Apple/Google) remplacées par équivalents système ; marque (logo/nom/illustrations) d'un
+  concurrent non copiée.
+- Alternatives écartées : enrichir pipeline-design d'abord (reste le plan B si le comparatif
+  le montre meilleur) ; ne rien installer.
+- Conséquences : deux méthodes cohabitent temporairement (comparatif) ; verdict après test
+  réel sur captures fournies par l'utilisateur ; si design-system gagne, on garde l'outil
+  et on porte ses leçons (notamment design.html) dans le pipeline ; si pipeline-design gagne,
+  l'outil est retiré et on enrichit notre méthode des briques manquantes.
+- VERDICT (2026-09-28, même jour) : outil RETENU comme mode actif, méthode validée par
+  l'utilisateur. AGENT DE VISION = sonnet-quality (claude-sonnet-4.6, abonnement — le
+  modèle de base deepseek-v4-flash ne lit pas les images). pipeline-design en veille.
+  BUG découvert : IDs périmés pour kimi-k3 et qwen-max dans ~/.config/opencode/opencode.jsonc
+  (à corriger : opencode-go/kimi-k3, qwen/qwen3-max — nécessite redémarrage). Détail de la
+  session : brain/logs/2026-09-28-design-workflow-valide.md.
+
 ## ADR-016 — Brainstorming obligatoire avant tout PRD (2026-09-26, toutes les apps)
 - Contexte : le veut l'utilisateur ; le PRD era trop presse après la validation de la niche.
 - Décision : nouveau gate G2bis permanent dans le pipeline (règle AGENTS.md). Aucun PRD/spec avant validation du brainstorm (positionnement, features, différences, ce qu'on copie) avec captures des concurrents analyses + un produit gratuit comparable + avis utilisateur.

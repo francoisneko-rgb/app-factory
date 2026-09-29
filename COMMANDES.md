@@ -10,8 +10,8 @@
 | `RADAR` | Skill `radar-tendances` → signaux du moment, mise à jour `brain/tendances.md` |
 | `SCAN <marché/catégorie>` | Skill `recherche-marche` sur la cible → rapport + scoring `brain/niches.md` |
 | `DÉCORTIQUE <app concurrente>` | Skill `reverse-engineering-concurrent` → carte écrans/flux/features (`CARTE.md`) |
-| `FORGE <nom-app>` | Création normalisée de l'app（section 2 SOMMAIRE） + gates G3→G3.7（PRD→spec→plan→tasks） |
-| `STYLE <nom-app>` | Phase G4 design（skill `pipeline-design` ：extraction concurrents → Refero → DESIGN.md → génération → traduction RN → gauntlet） |
+| `FORGE <nom-app>` | Création normalisée de l'app（section 2 SOMMAIRE） + gates G3→G3.7（PRD→spec→plan→tasks）. Tout le contenu produit（ETAT, design, spec, code）va dans `apps/<nom-app>/`；`brain/apps/<nom-app>/` = recherche + marketing uniquement |
+| `STYLE <nom-app>` | Phase G4 design. MODE ACTIF depuis ADR-017 (2026-09-28, comparatif en cours) ：si l'utilisateur fournit des images（screenshots app/site）, passer par le skill `design-system`（BuilderOS）→ carnet design.md + page de contrôle visuel design.html → validation utilisateur → traduction RN → gauntlet. Notre skill `pipeline-design` = mode veille（réactivable si meilleur verdict）. |
 | `BÂTIT <nom-app>` | Implémentation `tasks.md`,1 tâche =1 session =  ẟ1 PR revue CodeRabbit, puis TESTE automatiquement à chaque milestone |
 | `TESTE <nom-app>` | Boucle QA complète ：testeur-qa（flux Maestro + critères + bugs）→ correctifs → re-vérifie. Prépare le build APK preview pour ton test personnel. |
 | `GAUNTLET <surface>` | Boucle `gauntlet-loop` sur la surface（icône, paywall, screenshots…） |

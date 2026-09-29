@@ -20,7 +20,7 @@ Statut : ✅ PRÊT COMPLET — 2026-09-01 (fondation Expo + Spec Kit)
 
 | App | Niche | Phase | Prochain gate | Dernière MAJ |
 |---|---|---|---|---|
-| **75 Challenge** (APP #1 VALIDÉE 2026-09-26) | Challenges 75 jours — tracker personalisable | G2b→G3 PRD | G3 (validation PRD) | 2026-09-26 |
+| **75 Challenge** (APP #1 VALIDÉE 2026-09-26) | Challenges 75 jours — tracker personalisable | G3 validé → G3.5 spec | G3.5 (validation spec) | 2026-09-29 |
 | _(candidat)_ | Body/full-body tracking games | 2/7 → G3 | G3 (validation PRD) | 2026-08-24 |
 | _(candidat)_ | Active games kids (outdoors/camp) |  ẟ2/7 | backup |​ 2026-08-24 |
 | _(candidat)_ | Fitness programme personnalisé |​ 2/7 | rejetée G2 |​ 2026-08-24 |

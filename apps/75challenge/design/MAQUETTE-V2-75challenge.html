@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>75 Challenge — Maquette v2 (thème éditorial pastel)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  /* ====================================================
+     TOKENS — mirror de DESIGN.md (thème 75 Challenge)
+     ==================================================== */
+  :root {
+    --surface: #FFFFFF;
+    --on-surface: #0A0A0A;
+    --surface-secondary: #F7F7F5;
+    --text-secondary: #6B6B6B;
+    --text-tertiary: #A0A0A0;
+    --border-subtle: #E8E8E6;
+    --card: #FFFFFF;
+    --badge-amber: #F7C84A;
+    --badge-sage: #B5CCA8;
+    --badge-peach: #F0C4B0;
+    --badge-lemon: #EDE89A;
+    --accent-green: #5BAD6B;
+    --checkmark: #111111;
+    --on-checkmark: #FFFFFF;
+    --chip-bg: #FFFFFF;
+    --chip-border: #E0E0E0;
+    --on-chip: #0A0A0A;
+    --error: #E05252;
+    --success: #5BAD6B;
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-script: 'Caveat', 'Pacifico', cursive;
+    --font-sans: 'Inter', -apple-system, Helvetica, sans-serif;
+    --r-none: 0px; --r-xs: 4px; --r-sm: 8px; --r-md: 12px;
+    --r-lg: 16px; --r-xl: 20px; --r-full: 9999px;
+    --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 20px;
+    --s6: 24px; --s8: 32px; --s10: 40px; --s12: 48px; --s16: 64px;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: var(--font-sans);
+    background: #EDEDEA;
+    color: #111;
+    line-height: 1.5;
+    padding: 0 0 90px;
+  }
+
+  /* ============ GUIDE HEADER ============ */
+  .guide-header {
+    background: #fff;
+    border-bottom: 1px solid #DDD;
+    padding: 30px 40px 24px;
+  }
+  .guide-header h1 {
+    font-family: var(--font-display);
+    font-size: 28px; font-weight: 700; letter-spacing: -0.01em;
+    margin-bottom: 6px;
+  }
+  .guide-header p { font-size: 13px; color: #666; max-width: 860px; }
+  .guide-header .badges { margin-top: 14px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .guide-tag {
+    font-size: 11px; font-weight: 600; padding: 5px 12px;
+    border-radius: var(--r-full); border: 1px solid #DDD; background: #FAFAF8; color: #444;
+  }
+
+  .section { max-width: 1180px; margin: 40px auto 0; padding: 0 24px; }
+  .section-title {
+    font-size: 11px; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: #999; margin-bottom: 20px;
+    padding-bottom: 8px; border-bottom: 1px solid #DDD;
+  }
+  .intro-note { font-size: 13px; color: #666; max-width: 860px; margin-bottom: 24px; }
+
+  /* ============ PHONE ============ */
+  .phones-row {
+    display: flex; gap: 26px; justify-content: center;
+    flex-wrap: wrap; align-items: flex-start;
+  }
+  .phone-wrap { text-align: center; }
+  .phone-label {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.07em; color: #888; margin-bottom: 10px;
+  }
+  .phone {
+    width: 360px; min-height: 760px;
+    border-radius: 40px; background: var(--surface);
+    box-shadow: 0 22px 60px rgba(0,0,0,0.18), 0 0 0 1px rgba(0,0,0,0.08);
+    overflow: hidden; position: relative;
+    display: flex; flex-direction: column;
+    text-align: left;
+  }
+  .phone-notch {
+    width: 110px; height: 26px; background: #000;
+    border-radius: 0 0 18px 18px; margin: 0 auto; flex-shrink: 0;
+  }
+  .phone-statusbar {
+    display: flex; justify-content: space-between;
+    padding: 8px 22px 0; font-size: 11px; font-weight: 600;
+    color: var(--on-surface); flex-shrink: 0;
+  }
+  .phone-content { flex: 1; overflow: hidden; display: flex; flex-direction: column; }
+  .phone-nav {
+    display: flex; justify-content: space-around; padding: 10px 12px;
+    border-top: 1px solid var(--border-subtle); background: var(--surface); flex-shrink: 0;
+  }
+  .nav-item {
+    display: flex; flex-direction: column; align-items: center; gap: 2px;
+    font-size: 9px; font-weight: 500; color: var(--text-tertiary);
+  }
+  .nav-item.active { color: var(--on-surface); }
+  .nav-icon { font-size: 17px; line-height: 1; }
+  .phone-home-bar {
+    height: 18px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .home-bar { width: 110px; height: 4px; background: rgba(0,0,0,0.2); border-radius: var(--r-full); }
+
+  /* ============ COMPONENTS SHARED ============ */
+  .screen-title {
+    font-family: var(--font-sans); font-size: 24px; font-weight: 700;
+    color: var(--on-surface); letter-spacing: -0.02em;
+  }
+  .screen-sub { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
+  .head-block { padding: 18px 20px 12px; border-bottom: 1px solid var(--border-subtle); }
+  .head-block.center { text-align: center; }
+
+  .chip {
+    display: inline-flex; align-items: center; gap: 5px;
+    background: var(--chip-bg); color: var(--on-chip);
+    font-family: var(--font-sans); font-size: 13px; font-weight: 500;
+    border-radius: var(--r-full); padding: 6px 14px; height: 32px;
+    border: 1px solid var(--chip-border); box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    white-space: nowrap;
+  }
+  .chip.selected { border-color: var(--on-surface); box-shadow: inset 0 0 0 1px var(--on-surface); }
+
+  .task-badge {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 30px; height: 30px; border-radius: var(--r-md);
+    font-family: var(--font-sans); font-size: 13px; font-weight: 700;
+    color: var(--on-surface); flex-shrink: 0;
+  }
+  .tb-1 { background: var(--badge-amber); }
+  .tb-2 { background: var(--badge-sage); }
+  .tb-3 { background: var(--badge-peach); }
+  .tb-4 { background: var(--badge-lemon); }
+  .tb-more { background: var(--surface-secondary); border: 1px solid var(--border-subtle); }
+
+  .task-row {
+    display: flex; align-items: center; gap: 12px;
+    padding: 12px 20px; border-bottom: 1px solid var(--border-subtle);
+    background: var(--surface); font-size: 14px; color: var(--on-surface);
+  }
+  .task-row:last-child { border-bottom: none; }
+  .task-text { flex: 1; line-height: 1.4; }
+  .task-check-empty {
+    width: 24px; height: 24px; border-radius: var(--r-full);
+    border: 2px solid var(--border-subtle); flex-shrink: 0;
+  }
+  .task-check-done {
+    width: 24px; height: 24px; border-radius: var(--r-full);
+    background: var(--checkmark); color: #fff;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-size: 12px; flex-shrink: 0;
+  }
+
+  .btn-primary {
+    display: block; width: 100%; text-align: center;
+    background: var(--on-surface); color: #fff;
+    font-family: var(--font-sans); font-size: 15px; font-weight: 600;
+    border: none; border-radius: var(--r-lg); padding: 15px 24px;
+    cursor: pointer;
+  }
+  .btn-ghost {
+    display: block; width: 100%; text-align: center;
+    background: var(--surface); color: var(--on-surface);
+    font-family: var(--font-sans); font-size: 15px; font-weight: 600;
+    border: 1px solid var(--border-subtle); border-radius: var(--r-lg); padding: 15px 24px;
+    cursor: pointer;
+  }
+  .close-x {
+    position: absolute; top: 14px; right: 18px;
+    width: 32px; height: 32px; border-radius: var(--r-full);
+    background: var(--surface-secondary); border: 1px solid var(--border-subtle);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; color: var(--text-secondary);
+  }
+
+  .script-day {
+    font-family: var(--font-script); font-size: 34px; font-weight: 600;
+    color: var(--on-surface); line-height: 1;
+  }
+  .progress-track {
+    height: 6px; background: var(--border-subtle);
+    border-radius: var(--r-full); overflow: hidden;
+  }
+  .progress-fill { height: 100%; background: var(--on-surface); border-radius: var(--r-full); }
+  .u-label {
+    font-family: var(--font-sans); font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-tertiary);
+  }
+
+  /* --- Onboarding / accroche --- */
+  .ob-head { text-align: center; padding: 26px 20px 8px; }
+  .ob-playfair {
+    font-family: var(--font-display); font-size: 32px; font-weight: 700;
+    letter-spacing: -0.01em; line-height: 1.12; color: var(--on-surface);
+  }
+  .ob-playfair em { font-style: italic; }
+  .ob-sub { font-size: 14px; color: var(--text-secondary); margin-top: 10px; padding: 0 16px; }
+  .ob-hero {
+    height: 150px; margin: 18px 20px; border-radius: var(--r-lg);
+    background: linear-gradient(135deg, #D6DCD1 0%, #C9CEC0 100%);
+    display: flex; align-items: center; justify-content: center;
+    color: #777; font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase;
+  }
+
+  /* --- Choix challenge --- */
+  .choix-list { padding: 16px 20px; display: flex; flex-direction: column; gap: 12px; }
+  .choix-card {
+    background: var(--card); border: 1px solid var(--border-subtle);
+    border-radius: var(--r-lg); padding: 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .choix-card.selected { border-color: var(--on-surface); box-shadow: inset 0 0 0 1px var(--on-surface); }
+  .choix-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+  .choix-name { font-family: var(--font-sans); font-size: 16px; font-weight: 700; color: var(--on-surface); }
+  .choix-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.4; }
+  .radio-dot {
+    width: 22px; height: 22px; border-radius: var(--r-full);
+    border: 2px solid var(--chip-border); flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .radio-dot.on { border-color: var(--on-surface); }
+  .radio-dot.on::after { content: ''; width: 10px; height: 10px; border-radius: 50%; background: var(--on-surface); }
+
+  /* --- Contrat signature --- */
+  .sig-scroll { padding: 20px 20px 12px; flex: 1; overflow: hidden; }
+  .sig-card {
+    background: var(--card); border-radius: var(--r-lg); padding: 18px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+  }
+  .sig-title { font-family: var(--font-sans); font-size: 18px; font-weight: 700; letter-spacing: -0.01em; }
+  .sig-item {
+    display: flex; gap: 10px; align-items: flex-start;
+    font-size: 13px; color: var(--on-surface); padding: 7px 0;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+  .sig-item:last-child { border-bottom: none; }
+  .sig-num {
+    flex-shrink: 0; width: 20px; height: 20px; border-radius: var(--r-xs);
+    font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center;
+  }
+  .sig-zone {
+    margin-top: 14px; height: 120px; border: 1.5px dashed var(--chip-border);
+    border-radius: var(--r-md); display: flex; align-items: flex-end; justify-content: flex-start;
+    padding: 8px 12px; position: relative; background: var(--surface-secondary);
+  }
+  .sig-zone .sig-draw {
+    position: absolute; left: 12px; right: 12px; bottom: 8px; height: 60px;
+    font-family: var(--font-script); font-size: 46px; color: var(--on-surface);
+    opacity: 0.85;
+  }
+  .sig-hint { font-size: 11px; color: var(--text-tertiary); text-align: center; margin-top: 8px; }
+  .sig-actions { padding: 12px 20px 16px; display: flex; flex-direction: column; gap: 10px; }
+
+  /* --- Paywall --- */
+  .pw-head { text-align: center; padding: 22px 20px 6px; }
+  .pw-hero-img {
+    height: 130px; margin: 12px 20px 4px; border-radius: var(--r-lg);
+    background: linear-gradient(135deg, #D9DFD3 0%, #C7CCC0 100%);
+    display: flex; align-items: center; justify-content: center;
+    color: #777; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  .pw-options { padding: 12px 20px 16px; display: flex; flex-direction: column; gap: 12px; }
+  .pw-card {
+    background: var(--card); border: 1px solid var(--border-subtle);
+    border-radius: var(--r-lg); padding: 16px; position: relative;
+  }
+  .pw-card.featured { border: 2px solid var(--on-surface); }
+  .pw-pop {
+    position: absolute; top: -9px; left: 16px;
+    font-size: 10px; font-weight: 700; letter-spacing: 0.04em;
+    background: var(--on-surface); color: #fff;
+    padding: 3px 10px; border-radius: var(--r-full);
+  }
+  .pw-row { display: flex; align-items: center; justify-content: space-between; }
+  .pw-name { font-size: 14px; font-weight: 700; color: var(--on-surface); }
+  .pw-price { font-family: var(--font-sans); font-size: 22px; font-weight: 700; letter-spacing: -0.02em; }
+  .pw-price small { font-size: 12px; font-weight: 400; color: var(--text-secondary); }
+  .pw-perk { font-size: 12px; color: var(--text-secondary); margin-top: 6px; line-height: 1.4; }
+  .pw-foot { padding: 0 20px 14px; text-align: center; }
+  .pw-trust { font-size: 11px; color: var(--text-tertiary); line-height: 1.5; }
+  .pw-cancel { font-size: 11px; color: var(--accent-green); font-weight: 600; margin-top: 6px; }
+  .pw-cta { padding: 0 20px 14px; }
+
+  /* --- Dashboard --- */
+  .dash-head { padding: 18px 20px 10px; border-bottom: 1px solid var(--border-subtle); }
+  .dash-hero {
+    height: 130px; margin: 12px 20px 4px; border-radius: var(--r-lg);
+    background: linear-gradient(135deg, #D6DCD1 0%, #C9CEC0 100%);
+    display: flex; align-items: center; justify-content: center;
+    color: #777; font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em;
+  }
+  .dash-day { padding: 12px 20px 4px; display: flex; align-items: center; justify-content: space-between; }
+  .dash-progress { padding: 6px 20px 12px; }
+  .dash-progress .prog-label { font-size: 10px; color: var(--text-tertiary); margin-top: 4px; text-align: right; }
+  .dash-tasks-label { padding: 6px 20px 4px; }
+  .dash-list { flex: 1; overflow: hidden; }
+
+  /* --- Calendrier --- */
+  .cal-head { padding: 18px 20px 10px; border-bottom: 1px solid var(--border-subtle); }
+  .cal-grid {
+    padding: 14px 20px; display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; flex: 1;
+  }
+  .cal-day-label {
+    font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--text-tertiary); text-align: center; padding-bottom: 4px;
+  }
+  .cal-day {
+    aspect-ratio: 1; border-radius: var(--r-xs); display: flex; align-items: center; justify-content: center;
+    font-size: 10px; font-weight: 500; background: var(--surface-secondary); color: var(--text-tertiary);
+  }
+  .cal-day.done { background: var(--on-surface); color: var(--on-checkmark); font-weight: 700; }
+  .cal-day.amber { background: var(--badge-amber); color: var(--on-surface); }
+  .cal-day.sage { background: var(--badge-sage); color: var(--on-surface); }
+  .cal-day.peach { background: var(--badge-peach); color: var(--on-surface); }
+  .cal-day.today { border: 2px solid var(--on-surface); background: var(--surface); color: var(--on-surface); font-weight: 700; }
+  .cal-day.empty { background: transparent; }
+  .cal-legend { padding: 0 20px 14px; display: flex; gap: 12px; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 10px; color: var(--text-secondary); }
+  .legend-dot { width: 10px; height: 10px; border-radius: var(--r-xs); flex-shrink: 0; }
+</style>
+</head>
+<body>
+
+<div class="guide-header">
+  <h1>75 Challenge — Maquette v2 <em style="font-style:italic;">Thème éditorial pastel</em></h1>
+  <p>Parcours complet de l'app (sans la partie « social ») construit 100 % depuis les tokens du thème
+  (DESIGN.md). 6 écrans : accroche → choix du challenge → contrat signé au doigt → paywall →
+  dashboard du jour → liste des règles → calendrier de progression.</p>
+  <div class="badges">
+    <span class="guide-tag">Fond blanc pur</span>
+    <span class="guide-tag">4 pastels ambre→sauge→pêche→citron</span>
+    <span class="guide-tag">CTA = rectangle noir</span>
+    <span class="guide-tag">Script Caveat « jour N »</span>
+    <span class="guide-tag">Aucun écran social (hors v1)</span>
+  </div>
+</div>
+
+<!-- ============ SCREEN 1 : ONBOARDING / ACCROCHE ============ -->
+<div class="section">
+  <div class="section-title">1 — Accroche (écran d'arrivée)</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 1 · Accroche</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content">
+          <div class="ob-head">
+            <div class="ob-playfair">Start <em>your</em> challenge</div>
+            <div class="ob-sub">75 jours. 5 règles. Une seule décision : commencer aujourd'hui.</div>
+          </div>
+          <div class="ob-hero"><span>progress photo</span></div>
+          <div style="padding:8px 20px 12px; display:flex; gap:8px; flex-wrap:wrap;">
+            <span class="chip selected">✓ 75 Day Hard</span>
+            <span class="chip">75 Soft</span>
+            <span class="chip">75 Medium</span>
+          </div>
+          <div style="flex:1;"></div>
+          <div style="padding:14px 20px 18px; display:flex; flex-direction:column; gap:10px;">
+            <button class="btn-primary">Commencer</button>
+            <button class="btn-ghost">Voir les règles</button>
+          </div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ SCREEN 2 : CHOIX CHALLENGE ============ -->
+<div class="section">
+  <div class="section-title">2 — Choix du challenge</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 2 · Choisir mon défi</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content">
+          <div class="head-block">
+            <div class="screen-title">Choisis ton défi</div>
+            <div class="screen-sub">Intensité à ton niveau</div>
+          </div>
+          <div class="choix-list">
+            <div class="choix-card selected">
+              <div class="choix-top">
+                <div class="choix-name">75 Day Hard</div>
+                <div class="radio-dot on"></div>
+              </div>
+              <div class="choix-desc">Le défi complet : 2 séances, diète stricte, lecture, photo. 75 jours.</div>
+            </div>
+            <div class="choix-card">
+              <div class="choix-top">
+                <div class="choix-name">75 Soft</div>
+                <div class="radio-dot"></div>
+              </div>
+              <div class="choix-desc">Une version douce et durable pour installer les bonnes habitudes.</div>
+            </div>
+            <div class="choix-card">
+              <div class="choix-top">
+                <div class="choix-name">75 Medium</div>
+                <div class="radio-dot"></div>
+              </div>
+              <div class="choix-desc">Entre les deux : un vrai défi sans l'extrême.</div>
+            </div>
+            <div class="choix-card">
+              <div class="choix-top">
+                <div class="choix-name">Personnalisé</div>
+                <div class="radio-dot"></div>
+              </div>
+              <div class="choix-desc">Crée tes propres règles (durée, tâches). 100 % à toi.</div>
+            </div>
+          </div>
+          <div style="padding:12px 20px 18px;">
+            <button class="btn-primary">Continuer</button>
+          </div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ SCREEN 3 : CONTRAT SIGNÉ ============ -->
+<div class="section">
+  <div class="section-title">3 — Contrat / engagement (signé au doigt)</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 3 · Je m'engage</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content" style="position:relative;">
+          <div class="close-x">✕</div>
+          <div class="sig-scroll">
+            <div class="sig-card">
+              <div class="sig-title" style="margin-bottom:10px;">Mon contrat 75</div>
+              <div class="sig-item">
+                <span class="sig-num tb-1">1</span>
+                <span>Suivre une alimentation stricte (pas de repas triche, pas d'alcool)</span>
+              </div>
+              <div class="sig-item">
+                <span class="sig-num tb-2">2</span>
+                <span>2 séances de 45 min par jour, dont une en extérieur</span>
+              </div>
+              <div class="sig-item">
+                <span class="sig-num tb-3">3</span>
+                <span>Lire 10 pages d'un livre non-fiction / développement</span>
+              </div>
+              <div class="sig-item">
+                <span class="sig-num tb-4">4</span>
+                <span>Prendre une photo de progression chaque jour</span>
+              </div>
+              <div class="sig-item">
+                <span class="sig-num tb-more">5</span>
+                <span>Boire 3,7 L d'eau (règle personnalisée)</span>
+              </div>
+              <div class="sig-zone">
+                <div class="sig-draw">Léa</div>
+              </div>
+              <div class="sig-hint">Signe ici avec ton doigt</div>
+            </div>
+          </div>
+          <div class="sig-actions">
+            <button class="btn-primary">J'accepte et je m'engage</button>
+            <button class="btn-ghost">Je réfléchis encore</button>
+          </div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ SCREEN 4 : PAYWALL ============ -->
+<div class="section">
+  <div class="section-title">4 — Paywall (achat unique + abonnement transparent)</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 4 · Débloquer 75</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content" style="position:relative;">
+          <div class="close-x">✕</div>
+          <div class="pw-head">
+            <div class="ob-playfair" style="font-size:26px;">Deviens la personne qui <em>termine</em></div>
+            <div class="ob-sub" style="font-size:13px;">+6 256 personnes ont commencé ce mois-ci</div>
+          </div>
+          <div class="pw-hero-img"><span>progress photo</span></div>
+          <div class="pw-options">
+            <div class="pw-card featured">
+              <div class="pw-pop">POUR TOUJOURS</div>
+              <div class="pw-row">
+                <div class="pw-name">Accès complet</div>
+                <div class="pw-price">$19.99</div>
+              </div>
+              <div class="pw-perk">Paiement unique. L'app est à toi, à vie. Sans abonnement, sans surprise.</div>
+            </div>
+            <div class="pw-card">
+              <div class="pw-row">
+                <div class="pw-name">Abonnement</div>
+                <div class="pw-price">$29.99<small>/an</small></div>
+              </div>
+              <div class="pw-perk">Tous les défis et mises à jour. Annulable en 1 tap.</div>
+            </div>
+          </div>
+          <div class="pw-cta">
+            <button class="btn-primary">Débloquer pour toujours — $19.99</button>
+          </div>
+          <div class="pw-foot">
+            <div class="pw-trust">Paiement sécurisé. Sans engagement. Croix toujours visible, jamais de piège.</div>
+            <div class="pw-cancel">Annuler à tout moment · une seule pression</div>
+          </div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ SCREEN 5 : DASHBOARD JOUR ============ -->
+<div class="section">
+  <div class="section-title">5 — Dashboard du jour</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 5 · Aujourd'hui</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content">
+          <div class="dash-head">
+            <div class="screen-title">75 Day Hard</div>
+            <div class="screen-sub" style="color:var(--accent-green); font-weight:500;">+6 256 joined</div>
+          </div>
+          <div class="dash-hero"><span>progress photo</span></div>
+          <div class="dash-day">
+            <div class="script-day">day 32</div>
+            <div style="font-size:12px; color:var(--text-secondary);">32 / 75</div>
+          </div>
+          <div class="dash-progress">
+            <div class="progress-track"><div class="progress-fill" style="width:42%;"></div></div>
+            <div class="prog-label">42% complete</div>
+          </div>
+          <div class="dash-tasks-label"><span class="u-label">Today's tasks</span></div>
+          <div class="dash-list">
+            <div class="task-row"><span class="task-badge tb-1">1</span><span class="task-text">Suivre une alimentation stricte</span><span class="task-check-done">✓</span></div>
+            <div class="task-row"><span class="task-badge tb-2">2</span><span class="task-text">2 séances de 45 min</span><span class="task-check-done">✓</span></div>
+            <div class="task-row"><span class="task-badge tb-3">3</span><span class="task-text">Lire 10 pages</span><span class="task-check-empty"></span></div>
+            <div class="task-row"><span class="task-badge tb-4">4</span><span class="task-text">Photo de progression</span><span class="task-check-empty"></span></div>
+            <div class="task-row"><span class="task-badge tb-more">5</span><span class="task-text">Boire 3,7 L d'eau</span><span class="task-check-empty"></span></div>
+          </div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item active"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item"><div class="nav-icon">◫</div><span>Règles</span></div>
+          <div class="nav-item"><div class="nav-icon">◷</div><span>Calendrier</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+
+    <!-- ============ SCREEN 6 : LISTE DES RÈGLES ============ -->
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 6 · Mes règles</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content">
+          <div class="head-block">
+            <div class="screen-title" style="font-size:22px;">Mes règles</div>
+            <div class="screen-sub">75 Hard · Jour 32 / 75</div>
+          </div>
+          <div class="task-row"><span class="task-badge tb-1">1</span><span class="task-text">Alimentation stricte (pas de repas triche, pas d'alcool)</span><span class="task-check-done">✓</span></div>
+          <div class="task-row"><span class="task-badge tb-2">2</span><span class="task-text">2 séances de 45 min / jour, une en extérieur</span><span class="task-check-done">✓</span></div>
+          <div class="task-row"><span class="task-badge tb-3">3</span><span class="task-text">Lire 10 pages non-fiction / développement</span><span class="task-check-empty"></span></div>
+          <div class="task-row"><span class="task-badge tb-4">4</span><span class="task-text">Prendre une photo de progression / jour</span><span class="task-check-empty"></span></div>
+          <div class="task-row"><span class="task-badge tb-more">5</span><span class="task-text">Boire 3,7 L d'eau</span><span class="task-check-empty"></span></div>
+          <div style="padding:16px 20px 8px; border-top:1px solid var(--border-subtle);">
+            <div class="u-label" style="margin-bottom:10px;">Type de challenge</div>
+            <div style="display:flex; gap:8px; flex-wrap:wrap;">
+              <span class="chip selected">✓ 75 Day Hard</span>
+              <span class="chip" style="border-color:var(--border-subtle); box-shadow:none; color:var(--text-secondary);">75 Soft</span>
+              <span class="chip" style="border-color:var(--border-subtle); box-shadow:none; color:var(--text-secondary);">75 Medium</span>
+            </div>
+          </div>
+          <div style="flex:1;"></div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item active"><div class="nav-icon">◫</div><span>Règles</span></div>
+          <div class="nav-item"><div class="nav-icon">◷</div><span>Calendrier</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ SCREEN 7 : CALENDRIER ============ -->
+<div class="section">
+  <div class="section-title">6 — Calendrier de progression</div>
+  <div class="phones-row">
+    <div class="phone-wrap">
+      <div class="phone-label">Screen 7 · Progression</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar"><span>9:41</span><span>●●● 5G ■■</span></div>
+        <div class="phone-content">
+          <div class="cal-head">
+            <div class="screen-title" style="font-size:22px;">Progression</div>
+            <div class="screen-sub">32 jours terminés · 43 restants</div>
+          </div>
+          <div class="cal-grid">
+            <div class="cal-day-label">M</div><div class="cal-day-label">T</div><div class="cal-day-label">W</div><div class="cal-day-label">T</div><div class="cal-day-label">F</div><div class="cal-day-label">S</div><div class="cal-day-label">S</div>
+            <div class="cal-day done">1</div><div class="cal-day done">2</div><div class="cal-day done">3</div><div class="cal-day done">4</div><div class="cal-day done">5</div><div class="cal-day done">6</div><div class="cal-day done">7</div>
+            <div class="cal-day done">8</div><div class="cal-day done">9</div><div class="cal-day done">10</div><div class="cal-day done">11</div><div class="cal-day done">12</div><div class="cal-day done">13</div><div class="cal-day done">14</div>
+            <div class="cal-day done">15</div><div class="cal-day done">16</div><div class="cal-day done">17</div><div class="cal-day done">18</div><div class="cal-day done">19</div><div class="cal-day amber">20</div><div class="cal-day sage">21</div>
+            <div class="cal-day peach">22</div><div class="cal-day amber">23</div><div class="cal-day done">24</div><div class="cal-day done">25</div><div class="cal-day done">26</div><div class="cal-day done">27</div><div class="cal-day done">28</div>
+            <div class="cal-day done">29</div><div class="cal-day done">30</div><div class="cal-day done">31</div><div class="cal-day today">32</div><div class="cal-day">33</div><div class="cal-day">34</div><div class="cal-day">35</div>
+            <div class="cal-day">36</div><div class="cal-day">37</div><div class="cal-day">38</div><div class="cal-day">39</div><div class="cal-day">40</div><div class="cal-day">41</div><div class="cal-day">42</div>
+            <div class="cal-day">43</div><div class="cal-day">44</div><div class="cal-day">45</div><div class="cal-day">46</div><div class="cal-day">47</div><div class="cal-day">48</div><div class="cal-day">49</div>
+            <div class="cal-day">50</div><div class="cal-day">51</div><div class="cal-day">52</div><div class="cal-day">53</div><div class="cal-day">54</div><div class="cal-day">55</div><div class="cal-day">56</div>
+            <div class="cal-day">57</div><div class="cal-day">58</div><div class="cal-day">59</div><div class="cal-day">60</div><div class="cal-day">61</div><div class="cal-day">62</div><div class="cal-day">63</div>
+            <div class="cal-day">64</div><div class="cal-day">65</div><div class="cal-day">66</div><div class="cal-day">67</div><div class="cal-day">68</div><div class="cal-day">69</div><div class="cal-day">70</div>
+            <div class="cal-day">71</div><div class="cal-day">72</div><div class="cal-day">73</div><div class="cal-day">74</div><div class="cal-day">75</div><div class="cal-day empty"></div><div class="cal-day empty"></div>
+          </div>
+          <div class="cal-legend">
+            <div class="legend-item"><div class="legend-dot" style="background:var(--on-surface);border-radius:2px;"></div>Jour complet</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--badge-amber);border-radius:2px;"></div>Partiel</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--surface-secondary);border:1px solid #DDD;border-radius:2px;"></div>À venir</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--surface);border:2px solid var(--on-surface);border-radius:2px;"></div>Aujourd'hui</div>
+          </div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item"><div class="nav-icon">◫</div><span>Règles</span></div>
+          <div class="nav-item active"><div class="nav-icon">◷</div><span>Calendrier</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="intro-note" style="margin-top:20px;">
+    <strong>À noter :</strong> la maquette couvre le parcours personnel complet dans le thème.
+    Les écrans « social / amis » de la source (Her75) sont retirés car l'app est sans fonction
+    sociale en v1. Tous les composants (couleurs, typos, rayons, ombres) découlent des tokens
+    du DESIGN.md — rien n'est codé en dur.
+  </div>
+</div>
+
+</body>
+</html>

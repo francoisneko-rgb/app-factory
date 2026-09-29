@@ -33,11 +33,12 @@ monétisation des concurrents）avant tout investissement de temps。
 
 ## Multi-apps et efficacité（ADR-010）
 - **2 étages** ：USINE（racine： agents, skills, tools/, brain/, pipeline/, template-app/, constitution——
-   jamais de contenu app-specific à la racine）＋ APP（apps/<app>/： AGENTS.md, spec/plan/tasks
+   jamais de contenu app-specific à la racine）＋ APP（apps/<app>/： AGENTS.md, ETAT.md, spec/plan/tasks
    Spec Kit local, ADR locaux, design, code, store assets）。Pont ：brain/apps/<app>/ = recherche
    + concurrence + marketing. Learnings remontent de l'app → brain/learnings.md（jamais l'inverse）。
 - **Cycle de vie FORGE** ：niche validée G2 → `cp -r template-app apps/<nom-app>` + `specify init`
-    DANS l'app + AGENTS.md de l'app + brain/apps/<nom-app>/{concurrence,design,store,marketing}/
+    DANS l'app + AGENTS.md de l'app + `apps/<nom-app>/ETAT.md` + `apps/<nom-app>/design/`
+    + `brain/apps/<nom-app>/{concurrence,marketing}/`（recherche）
     + ligne dans `pipeline/etat.md` + entrée `SOMMAIRE.md`. Détail ：COMMANDES.md.
     Post-v1 ：après le clone, `openspec init` DANS `apps/<app>/`（sélectionner OpenCode,
     supporté nativement）→ l'app a donc `.specify/`（création, Spec Kit）ET `openspec/`

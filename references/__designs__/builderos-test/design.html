@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Design System — 75 Challenge Apps (Her 75 × 75 Soft)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ─── CSS TOKENS ─────────────────────────────────────────── */
+  :root {
+    --color-bg-primary:   #FFFFFF;
+    --color-bg-secondary: #FAFAF8;
+    --color-bg-tertiary:  #F5F5F0;
+    --color-bg-skeleton:  #F0F0F0;
+
+    --color-brand-primary: #E8885A;
+    --color-brand-light:   #F4B896;
+    --color-brand-xlight:  #FEF0E8;
+
+    --color-task-water: #4ECDC4;
+    --color-task-food:  #F4A261;
+    --color-task-read:  #FFD166;
+    --color-task-train: #F86B6B;
+
+    --color-chip-1: #F5ECD7;
+    --color-chip-2: #FADADD;
+    --color-chip-3: #F5E6D3;
+    --color-chip-4: #E8F4FD;
+
+    --color-success:       #34C759;
+    --color-success-light: #E8F8EE;
+
+    --color-n900: #1A1A1A;
+    --color-n700: #3A3A3A;
+    --color-n500: #6B6B6B;
+    --color-n400: #888888;
+    --color-n300: #C7C7CC;
+    --color-n100: #F2F2F7;
+
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-sans:  'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+    --radius-sm:   6px;
+    --radius-md:   10px;
+    --radius-lg:   16px;
+    --radius-xl:   24px;
+    --radius-pill: 999px;
+
+    --shadow-card: 0 2px 8px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --border-sep: 1px solid #F0F0F0;
+  }
+
+  /* ─── RESET & BASE ───────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: var(--font-sans);
+    background: #F5F5F0;
+    color: var(--color-n900);
+    line-height: 1.5;
+    padding: 40px 24px 80px;
+  }
+  h1, h2, h3 { font-family: var(--font-sans); }
+  a { color: var(--color-brand-primary); text-decoration: none; }
+
+  /* ─── LAYOUT ─────────────────────────────────────────────── */
+  .page-header {
+    max-width: 900px;
+    margin: 0 auto 56px;
+    text-align: center;
+  }
+  .page-header h1 {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.15;
+    margin-bottom: 8px;
+  }
+  .page-header p {
+    font-size: 15px;
+    color: var(--color-n400);
+  }
+
+  .section {
+    max-width: 900px;
+    margin: 0 auto 56px;
+  }
+  .section-title {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--color-n400);
+    margin-bottom: 24px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--color-bg-skeleton);
+  }
+
+  .grid { display: flex; flex-wrap: wrap; gap: 16px; }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+
+  /* ─── COLOUR PALETTE ─────────────────────────────────────── */
+  .swatch-group { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
+  .swatch-group-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: var(--color-n400);
+    width: 100%;
+    margin-top: 8px;
+  }
+  .swatch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+  }
+  .swatch-dot {
+    width: 56px;
+    height: 56px;
+    border-radius: var(--radius-md);
+    border: 1px solid rgba(0,0,0,0.06);
+  }
+  .swatch-hex {
+    font-size: 11px;
+    color: var(--color-n500);
+    font-variant-numeric: tabular-nums;
+  }
+  .swatch-name {
+    font-size: 10px;
+    color: var(--color-n400);
+    text-align: center;
+    max-width: 64px;
+  }
+
+  /* ─── TYPOGRAPHY ─────────────────────────────────────────── */
+  .type-specimen { background: var(--color-bg-primary); border-radius: var(--radius-lg); padding: 28px 24px; box-shadow: var(--shadow-card); }
+  .type-row { padding: 14px 0; border-bottom: var(--border-sep); display: flex; align-items: baseline; gap: 20px; }
+  .type-row:last-child { border-bottom: none; }
+  .type-meta { font-size: 11px; color: var(--color-n400); min-width: 160px; flex-shrink: 0; }
+
+  .t-2xl       { font-family: var(--font-serif); font-style: italic; font-size: 36px; font-weight: 700; line-height: 1.15; }
+  .t-xl        { font-family: var(--font-serif); font-style: italic; font-size: 28px; font-weight: 700; line-height: 1.2; }
+  .t-lg        { font-size: 22px; font-weight: 700; line-height: 1.27; }
+  .t-md        { font-size: 17px; font-weight: 600; line-height: 1.41; }
+  .t-base      { font-size: 15px; font-weight: 400; line-height: 1.47; }
+  .t-sm        { font-size: 13px; font-weight: 400; line-height: 1.38; color: var(--color-n500); }
+  .t-xs        { font-size: 11px; font-weight: 500; line-height: 1.45; letter-spacing: 0.5px; color: var(--color-n400); }
+
+  /* ─── SPACING ────────────────────────────────────────────── */
+  .spacing-row { display: flex; align-items: center; gap: 16px; padding: 8px 0; }
+  .spacing-bar { background: var(--color-brand-xlight); border: 1.5px solid var(--color-brand-light); border-radius: 3px; height: 16px; }
+  .spacing-label { font-size: 12px; color: var(--color-n500); min-width: 80px; }
+  .spacing-value { font-size: 12px; color: var(--color-n400); font-variant-numeric: tabular-nums; }
+
+  /* ─── RADIUS ─────────────────────────────────────────────── */
+  .radius-demo { display: flex; flex-wrap: wrap; gap: 16px; }
+  .radius-box {
+    width: 72px; height: 72px;
+    background: var(--color-brand-xlight);
+    border: 2px solid var(--color-brand-light);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 4px;
+  }
+  .radius-box span:first-child { font-size: 11px; font-weight: 600; color: var(--color-brand-primary); }
+  .radius-box span:last-child  { font-size: 10px; color: var(--color-n400); }
+
+  /* ─── COMPONENTS ─────────────────────────────────────────── */
+  .comp-card { background: var(--color-bg-primary); border-radius: var(--radius-lg); padding: 24px; box-shadow: var(--shadow-card); }
+  .comp-title { font-size: 13px; font-weight: 600; color: var(--color-n400); letter-spacing: 0.4px; margin-bottom: 16px; }
+
+  /* Task Rings */
+  .rings-row { display: flex; gap: 20px; flex-wrap: wrap; }
+  .ring-item { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+  .ring-wrap { position: relative; width: 80px; height: 80px; }
+  .ring-wrap svg { width: 80px; height: 80px; transform: rotate(-90deg); }
+  .ring-track { fill: none; stroke: #F2F2F7; stroke-width: 7; }
+  .ring-progress { fill: none; stroke-width: 7; stroke-linecap: round; transition: stroke-dashoffset 0.6s ease; }
+  .ring-icon { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); font-size: 20px; }
+  .ring-label { font-size: 11px; color: var(--color-n500); text-align: center; font-weight: 500; }
+  .ring-sublabel { font-size: 10px; color: var(--color-n400); text-align: center; }
+
+  /* Task Rows */
+  .task-list { display: flex; flex-direction: column; }
+  .task-row {
+    display: flex; align-items: center; gap: 12px;
+    padding: 12px 0; border-bottom: var(--border-sep);
+    min-height: 56px;
+  }
+  .task-row:last-child { border-bottom: none; }
+  .task-icon-wrap {
+    width: 36px; height: 36px; border-radius: var(--radius-icon, 8px);
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    font-size: 18px;
+  }
+  .task-content { flex: 1; }
+  .task-name { font-size: 15px; font-weight: 600; color: var(--color-n900); }
+  .task-sub  { font-size: 13px; color: var(--color-n400); margin-top: 1px; }
+  .task-chevron { color: var(--color-n300); font-size: 14px; }
+  .task-check { width: 22px; height: 22px; border-radius: 50%; background: var(--color-success); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .task-check::after { content: '✓'; color: white; font-size: 12px; font-weight: 700; }
+
+  /* Challenge Chips (Her 75) */
+  .challenge-list { display: flex; flex-direction: column; gap: 0; }
+  .challenge-row {
+    display: flex; align-items: flex-start; gap: 12px;
+    padding: 14px 0; border-bottom: var(--border-sep);
+  }
+  .challenge-row:last-child { border-bottom: none; }
+  .num-chip {
+    width: 28px; height: 28px; border-radius: var(--radius-icon, 8px);
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    font-size: 13px; font-weight: 700; color: var(--color-n900);
+  }
+  .challenge-text { font-size: 15px; font-weight: 600; color: var(--color-n900); line-height: 1.3; }
+  .challenge-sub  { font-size: 13px; color: var(--color-n500); margin-top: 2px; }
+
+  /* Badges */
+  .badges-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .badge {
+    display: inline-flex; align-items: center; gap: 5px;
+    padding: 5px 12px; border-radius: var(--radius-pill);
+    font-size: 12px; font-weight: 600;
+  }
+  .badge-completed { background: var(--color-task-read); color: var(--color-n700); }
+  .badge-type     { background: white; border: 1.5px solid var(--color-n300); color: var(--color-n700); }
+  .badge-count    { background: var(--color-brand-xlight); color: var(--color-brand-primary); }
+  .badge-success  { background: var(--color-success-light); color: var(--color-success); }
+
+  /* Buttons */
+  .buttons-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .btn {
+    height: 48px; padding: 0 24px; border-radius: var(--radius-md);
+    font-family: var(--font-sans); font-size: 16px; font-weight: 600;
+    cursor: pointer; border: none; display: inline-flex; align-items: center; justify-content: center;
+    transition: opacity 0.15s ease;
+  }
+  .btn:hover { opacity: 0.88; }
+  .btn-primary   { background: var(--color-brand-primary); color: white; }
+  .btn-secondary { background: transparent; border: 1.5px solid var(--color-brand-primary); color: var(--color-brand-primary); }
+  .btn-ghost     { background: var(--color-n100); color: var(--color-n700); }
+  .btn-sm        { height: 36px; padding: 0 16px; font-size: 14px; border-radius: var(--radius-sm); }
+  .btn-disabled  { background: var(--color-n300); color: white; cursor: not-allowed; }
+
+  /* Calendar Grid */
+  .cal-grid { display: grid; grid-template-columns: repeat(10, 1fr); gap: 4px; max-width: 340px; }
+  .cal-cell {
+    aspect-ratio: 1; border-radius: var(--radius-sm);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; font-weight: 500; color: var(--color-n300);
+    background: transparent;
+  }
+  .cal-cell.past     { background: var(--color-brand-light); color: white; }
+  .cal-cell.today    { background: var(--color-brand-primary); color: white; font-weight: 700; }
+  .cal-cell.completed { background: var(--color-success); color: white; }
+
+  /* Social Row */
+  .social-list { display: flex; flex-direction: column; }
+  .social-row {
+    display: flex; align-items: flex-start; gap: 12px;
+    padding: 14px 0; border-bottom: var(--border-sep);
+  }
+  .social-row:last-child { border-bottom: none; }
+  .avatar {
+    width: 52px; height: 52px; border-radius: 50%; flex-shrink: 0;
+    background: linear-gradient(135deg, var(--color-brand-light), var(--color-task-water));
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px; font-weight: 700; color: white;
+  }
+  .social-content { flex: 1; }
+  .social-name    { font-size: 15px; font-weight: 600; color: var(--color-n900); }
+  .social-day     { font-size: 13px; color: var(--color-n400); }
+  .social-tasks   { margin-top: 4px; }
+  .social-task-item { font-size: 13px; color: var(--color-n500); line-height: 1.6; }
+  .social-check   { width: 22px; height: 22px; border-radius: 50%; background: var(--color-success); display: flex; align-items: center; justify-content: center; flex-shrink: 0; margin-top: 2px; }
+  .social-check::after { content: '✓'; color: white; font-size: 12px; font-weight: 700; }
+
+  /* Colour Picker Row */
+  .color-picker-row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .color-pick { width: 28px; height: 28px; border-radius: 50%; cursor: pointer; transition: transform 0.15s; }
+  .color-pick:hover { transform: scale(1.15); }
+  .color-pick.selected { outline: 3px solid white; box-shadow: 0 0 0 5px rgba(0,0,0,0.15); }
+
+  /* Stepper */
+  .stepper { display: flex; align-items: center; gap: 12px; }
+  .stepper-btn {
+    width: 32px; height: 32px; border-radius: 50%;
+    background: var(--color-n100); border: none;
+    font-size: 20px; font-weight: 400; color: var(--color-n700);
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    line-height: 1;
+  }
+  .stepper-val { font-size: 17px; font-weight: 600; min-width: 32px; text-align: center; }
+
+  /* Toggle */
+  .toggle-row { display: flex; align-items: center; gap: 12px; }
+  .toggle-wrap { position: relative; width: 51px; height: 31px; }
+  .toggle-wrap input { opacity: 0; width: 0; height: 0; }
+  .toggle-track {
+    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+    background: var(--color-n300); border-radius: 31px; transition: 0.2s;
+  }
+  .toggle-track.on { background: var(--color-success); }
+  .toggle-thumb {
+    position: absolute; top: 2px; left: 2px;
+    width: 27px; height: 27px; border-radius: 50%; background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    transition: 0.2s;
+  }
+  .toggle-track.on .toggle-thumb { left: 22px; }
+
+  /* Day one card */
+  .day-one-card {
+    background: white; border-radius: var(--radius-lg); padding: 20px;
+    box-shadow: var(--shadow-card); max-width: 260px;
+  }
+  .day-one-title { font-family: var(--font-serif); font-style: italic; font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+  .day-one-date  { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; color: var(--color-n400); text-transform: uppercase; margin-bottom: 14px; }
+  .day-one-list  { list-style: none; }
+  .day-one-list li { font-size: 13px; color: var(--color-n500); padding: 3px 0; display: flex; gap: 8px; }
+  .day-one-list li span:first-child { font-weight: 600; color: var(--color-n900); min-width: 14px; }
+
+  /* Mobile screen mockup */
+  .phone-mockup {
+    width: 240px; background: white; border-radius: 32px;
+    border: 8px solid #1A1A1A; overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+    position: relative;
+  }
+  .phone-notch {
+    height: 28px; background: #1A1A1A;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .phone-notch-inner { width: 90px; height: 16px; background: #1A1A1A; border-radius: 0 0 12px 12px; }
+  .phone-screen { padding: 16px; }
+  .phone-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+  .phone-title  { font-size: 18px; font-weight: 700; color: var(--color-n900); }
+  .phone-icon   { color: var(--color-n400); font-size: 18px; }
+
+  .mockup-section { display: flex; gap: 32px; flex-wrap: wrap; align-items: flex-start; }
+
+  /* Icon grid demo */
+  .icon-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; max-width: 240px; }
+  .icon-cell {
+    width: 36px; height: 36px; border-radius: var(--radius-sm);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px; background: var(--color-n100); color: var(--color-n500);
+    transition: background 0.15s;
+  }
+  .icon-cell:hover { background: var(--color-brand-xlight); color: var(--color-brand-primary); }
+
+  /* Info note */
+  .note {
+    background: var(--color-brand-xlight); border-left: 3px solid var(--color-brand-primary);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 12px 16px;
+    font-size: 13px; color: var(--color-n700); margin-top: 16px;
+  }
+
+  /* ─── MEDIA QUERIES ──────────────────────────────────────── */
+  @media (max-width: 640px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    .mockup-section { justify-content: center; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══ PAGE HEADER ═══════════════════════════════════════════ -->
+<header class="page-header">
+  <h1>Design System<br><em style="font-weight:400">75 Challenge Apps</em></h1>
+  <p>Extrait de "75 Day Challenge – Soft Edition" × "Her 75" — captures App Store — 2026-09-28<br>
+  Pour usage interne — référence uniquement, pas de copie directe</p>
+</header>
+
+<!-- ═══ 1. PALETTE ════════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">01 — Palette de couleurs</div>
+  <div class="comp-card">
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Brand — Terracotta/Salmon</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#E8885A"></div><div class="swatch-hex">#E8885A</div><div class="swatch-name">primary</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F4B896"></div><div class="swatch-hex">#F4B896</div><div class="swatch-name">light</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#FEF0E8"></div><div class="swatch-hex">#FEF0E8</div><div class="swatch-name">xlight</div></div>
+    </div>
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Tâches fonctionnelles (App A)</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#4ECDC4"></div><div class="swatch-hex">#4ECDC4</div><div class="swatch-name">water</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F4A261"></div><div class="swatch-hex">#F4A261</div><div class="swatch-name">food</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#FFD166"></div><div class="swatch-hex">#FFD166</div><div class="swatch-name">read</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F86B6B"></div><div class="swatch-hex">#F86B6B</div><div class="swatch-name">train</div></div>
+    </div>
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Chips pastels (Her 75)</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#F5ECD7"></div><div class="swatch-hex">#F5ECD7</div><div class="swatch-name">chip-1</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#FADADD"></div><div class="swatch-hex">#FADADD</div><div class="swatch-name">chip-2</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F5E6D3"></div><div class="swatch-hex">#F5E6D3</div><div class="swatch-name">chip-3</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#E8F4FD"></div><div class="swatch-hex">#E8F4FD</div><div class="swatch-name">chip-4</div></div>
+    </div>
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Success / Status</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#34C759"></div><div class="swatch-hex">#34C759</div><div class="swatch-name">success</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#E8F8EE"></div><div class="swatch-hex">#E8F8EE</div><div class="swatch-name">success-lt</div></div>
+    </div>
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Neutrals</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#1A1A1A"></div><div class="swatch-hex">#1A1A1A</div><div class="swatch-name">n-900</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#3A3A3A"></div><div class="swatch-hex">#3A3A3A</div><div class="swatch-name">n-700</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#6B6B6B"></div><div class="swatch-hex">#6B6B6B</div><div class="swatch-name">n-500</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#888888"></div><div class="swatch-hex">#888888</div><div class="swatch-name">n-400</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#C7C7CC"></div><div class="swatch-hex">#C7C7CC</div><div class="swatch-name">n-300</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F2F2F7; border: 1px solid #E5E5E5;"></div><div class="swatch-hex">#F2F2F7</div><div class="swatch-name">n-100</div></div>
+    </div>
+
+    <div class="swatch-group">
+      <span class="swatch-group-label">Backgrounds</span>
+      <div class="swatch"><div class="swatch-dot" style="background:#FFFFFF; border:1px solid #E5E5E5;"></div><div class="swatch-hex">#FFFFFF</div><div class="swatch-name">bg-primary</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#FAFAF8; border:1px solid #E5E5E5;"></div><div class="swatch-hex">#FAFAF8</div><div class="swatch-name">bg-secondary</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F5F5F0; border:1px solid #E5E5E5;"></div><div class="swatch-hex">#F5F5F0</div><div class="swatch-name">bg-tertiary</div></div>
+      <div class="swatch"><div class="swatch-dot" style="background:#F0F0F0; border:1px solid #E5E5E5;"></div><div class="swatch-hex">#F0F0F0</div><div class="swatch-name">skeleton</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 2. TYPOGRAPHIE ════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">02 — Typographie</div>
+  <div class="type-specimen">
+    <div class="type-row">
+      <div class="type-meta">serif-italic-xl<br>36px / 700 italic<br>Playfair Display</div>
+      <div class="t-2xl">Become that girl</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">serif-italic-lg<br>28px / 700 italic<br>Playfair Display</div>
+      <div class="t-xl">Follow your routine</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">sans-xl<br>22px / 700<br>Inter / SF Pro</div>
+      <div class="t-lg">Day 1 · 75 Day Hard</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">sans-md / section<br>17px / 600</div>
+      <div class="t-md">Daily Tasks 1/4 · Add Rule</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">sans-base / body<br>15px / 400</div>
+      <div class="t-base">Follow a strict diet (no cheat meals, no alcohol)</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">sans-sm / sub<br>13px / 400</div>
+      <div class="t-sm">Only drink on social occasions · 1 day recovery/week</div>
+    </div>
+    <div class="type-row">
+      <div class="type-meta">sans-xs / label<br>11px / 500 +0.5px</div>
+      <div class="t-xs">COMPLETED · 4/8 RULES · 11:45AM</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 3. ESPACEMENT + RAYONS ════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">03 — Espacement & Rayons</div>
+  <div class="grid-2">
+    <div class="comp-card">
+      <div class="comp-title">Échelle d'espacement (grille 4pt)</div>
+      <div class="spacing-row"><div class="spacing-label">space-1</div><div class="spacing-bar" style="width:4px"></div><div class="spacing-value">4px</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-2</div><div class="spacing-bar" style="width:8px"></div><div class="spacing-value">8px</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-3</div><div class="spacing-bar" style="width:12px"></div><div class="spacing-value">12px</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-4</div><div class="spacing-bar" style="width:16px"></div><div class="spacing-value">16px — padding standard</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-5</div><div class="spacing-bar" style="width:20px"></div><div class="spacing-value">20px — padding écran</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-6</div><div class="spacing-bar" style="width:24px"></div><div class="spacing-value">24px — gap sections</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-8</div><div class="spacing-bar" style="width:32px"></div><div class="spacing-value">32px — entre sections</div></div>
+      <div class="spacing-row"><div class="spacing-label">space-10</div><div class="spacing-bar" style="width:40px"></div><div class="spacing-value">40px — marges top</div></div>
+    </div>
+    <div class="comp-card">
+      <div class="comp-title">Rayons de coin (border-radius)</div>
+      <div class="radius-demo">
+        <div class="radius-box" style="border-radius:6px"><span>sm</span><span>6px</span></div>
+        <div class="radius-box" style="border-radius:10px"><span>md</span><span>10px</span></div>
+        <div class="radius-box" style="border-radius:16px"><span>lg</span><span>16px</span></div>
+        <div class="radius-box" style="border-radius:24px"><span>xl</span><span>24px</span></div>
+        <div class="radius-box" style="border-radius:999px; width:72px; height:32px;"><span>pill</span><span>999px</span></div>
+      </div>
+      <div class="note">Règle : cartes = lg (16px) · boutons = md (10px) · icônes carrées = sm (6-8px) · badges = pill</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 4. TASK RINGS ════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">04 — Composant : Task Rings (App A)</div>
+  <div class="comp-card">
+    <div class="comp-title">Anneaux de progression circulaires — 4 types de tâches</div>
+    <div class="rings-row">
+      <!-- Water ring 75% -->
+      <div class="ring-item">
+        <div class="ring-wrap">
+          <svg viewBox="0 0 80 80"><circle class="ring-track" cx="40" cy="40" r="33"/><circle class="ring-progress" cx="40" cy="40" r="33" stroke="#4ECDC4" stroke-dasharray="207.3" stroke-dashoffset="52"/></svg>
+          <div class="ring-icon">💧</div>
+        </div>
+        <div class="ring-label">Drink water</div>
+        <div class="ring-sublabel">3 litres</div>
+      </div>
+      <!-- Food ring 50% -->
+      <div class="ring-item">
+        <div class="ring-wrap">
+          <svg viewBox="0 0 80 80"><circle class="ring-track" cx="40" cy="40" r="33"/><circle class="ring-progress" cx="40" cy="40" r="33" stroke="#F4A261" stroke-dasharray="207.3" stroke-dashoffset="104"/></svg>
+          <div class="ring-icon">🥗</div>
+        </div>
+        <div class="ring-label">Eat well</div>
+        <div class="ring-sublabel">Social only</div>
+      </div>
+      <!-- Read ring 30% -->
+      <div class="ring-item">
+        <div class="ring-wrap">
+          <svg viewBox="0 0 80 80"><circle class="ring-track" cx="40" cy="40" r="33"/><circle class="ring-progress" cx="40" cy="40" r="33" stroke="#FFD166" stroke-dasharray="207.3" stroke-dashoffset="145"/></svg>
+          <div class="ring-icon">📖</div>
+        </div>
+        <div class="ring-label">Read 10 pages</div>
+        <div class="ring-sublabel">Any book</div>
+      </div>
+      <!-- Train ring 0% -->
+      <div class="ring-item">
+        <div class="ring-wrap">
+          <svg viewBox="0 0 80 80"><circle class="ring-track" cx="40" cy="40" r="33"/><circle class="ring-progress" cx="40" cy="40" r="33" stroke="#F86B6B" stroke-dasharray="207.3" stroke-dashoffset="207"/></svg>
+          <div class="ring-icon" style="color:var(--color-n300)">🏃</div>
+        </div>
+        <div class="ring-label">Train 45 mins</div>
+        <div class="ring-sublabel">1 day recovery</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 5. TASK ROWS ══════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">05 — Composant : Task Rows</div>
+  <div class="grid-2">
+    <div class="comp-card">
+      <div class="comp-title">Style App A — Avec chevron (éditable)</div>
+      <div class="task-list">
+        <div class="task-row">
+          <div class="task-icon-wrap" style="background:#E0F9F7"><span style="font-size:18px">💧</span></div>
+          <div class="task-content"><div class="task-name">Drink water</div><div class="task-sub">3 litres</div></div>
+          <div class="task-chevron">›</div>
+        </div>
+        <div class="task-row">
+          <div class="task-icon-wrap" style="background:#FEF0E3"><span style="font-size:18px">🥗</span></div>
+          <div class="task-content"><div class="task-name">Eat well</div><div class="task-sub">Only drink on social occasions</div></div>
+          <div class="task-chevron">›</div>
+        </div>
+        <div class="task-row">
+          <div class="task-icon-wrap" style="background:#FFF8E0"><span style="font-size:18px">📖</span></div>
+          <div class="task-content"><div class="task-name">Read 10 pages</div><div class="task-sub">Any book</div></div>
+          <div class="task-chevron">›</div>
+        </div>
+        <div class="task-row">
+          <div class="task-icon-wrap" style="background:#FEE8E8"><span style="font-size:18px">🏃</span></div>
+          <div class="task-content"><div class="task-name">Train 45 mins</div><div class="task-sub">1 day recovery/week</div></div>
+          <div class="task-chevron">›</div>
+        </div>
+      </div>
+    </div>
+    <div class="comp-card">
+      <div class="comp-title">Style App B — Chips numérotées (Her 75)</div>
+      <div class="challenge-list">
+        <div class="challenge-row">
+          <div class="num-chip" style="background:#F5ECD7">1</div>
+          <div><div class="challenge-text">Follow a strict diet</div><div class="challenge-sub">No cheat meals, no alcohol</div></div>
+        </div>
+        <div class="challenge-row">
+          <div class="num-chip" style="background:#FADADD">2</div>
+          <div><div class="challenge-text">Do two 45-minute workouts</div><div class="challenge-sub">One must be outside</div></div>
+        </div>
+        <div class="challenge-row">
+          <div class="num-chip" style="background:#F5E6D3">3</div>
+          <div><div class="challenge-text">Read 10 pages</div><div class="challenge-sub">Non-fiction / self-development</div></div>
+        </div>
+        <div class="challenge-row">
+          <div class="num-chip" style="background:#E8F4FD">4</div>
+          <div><div class="challenge-text">Take a progress picture</div><div class="challenge-sub">Every day</div></div>
+        </div>
+        <div class="challenge-row">
+          <div class="num-chip" style="background:#F0F0F0">5</div>
+          <div><div class="challenge-text">Become that girl</div><div class="challenge-sub"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 6. BADGES ════════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">06 — Composant : Badges & Pills</div>
+  <div class="comp-card">
+    <div class="comp-title">Variantes de badges</div>
+    <div class="badges-row">
+      <span class="badge badge-completed">COMPLETED</span>
+      <span class="badge badge-type">✓ 75 Day Hard</span>
+      <span class="badge badge-type">✓ 75 Medium</span>
+      <span class="badge badge-type">✓ 75 Soft</span>
+      <span class="badge badge-count">4/8</span>
+      <span class="badge badge-success">✓ Done</span>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 7. BOUTONS ════════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">07 — Composant : Boutons</div>
+  <div class="comp-card">
+    <div class="comp-title">Variantes de boutons</div>
+    <div class="buttons-row">
+      <button class="btn btn-primary">Add Rule</button>
+      <button class="btn btn-secondary">Restore</button>
+      <button class="btn btn-ghost">Cancel</button>
+      <button class="btn btn-primary btn-sm">Start</button>
+      <button class="btn btn-disabled" disabled>Disabled</button>
+    </div>
+    <div class="note">Règle hauteur : 48px standard · 36px compact · radius md (10px) toujours</div>
+  </div>
+</section>
+
+<!-- ═══ 8. CONTRÔLES FORMULAIRE ════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">08 — Composant : Contrôles & Formulaire</div>
+  <div class="grid-2">
+    <div class="comp-card">
+      <div class="comp-title">Stepper + Toggle</div>
+      <div style="display:flex; flex-direction:column; gap:20px;">
+        <div>
+          <div class="t-sm" style="margin-bottom:8px; color:var(--color-n500)">Stepper — Split task</div>
+          <div class="stepper">
+            <button class="stepper-btn">−</button>
+            <span class="stepper-val">2</span>
+            <button class="stepper-btn">+</button>
+          </div>
+        </div>
+        <div>
+          <div class="t-sm" style="margin-bottom:8px; color:var(--color-n500)">Toggle — Forgiving Mode</div>
+          <div class="toggle-row">
+            <div class="toggle-wrap">
+              <div class="toggle-track">
+                <div class="toggle-thumb"></div>
+              </div>
+            </div>
+            <span class="t-base">Off</span>
+          </div>
+          <div class="toggle-row" style="margin-top:8px">
+            <div class="toggle-wrap">
+              <div class="toggle-track on">
+                <div class="toggle-thumb"></div>
+              </div>
+            </div>
+            <span class="t-base">On</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="comp-card">
+      <div class="comp-title">Sélecteur couleur</div>
+      <div class="color-picker-row">
+        <div class="color-pick" style="background:#34C759"></div>
+        <div class="color-pick selected" style="background:#F86B6B"></div>
+        <div class="color-pick" style="background:#007AFF"></div>
+        <div class="color-pick" style="background:#BF5AF2"></div>
+        <div class="color-pick" style="background:#FF2D55"></div>
+        <div class="color-pick" style="background:#FF9500"></div>
+        <div class="color-pick" style="background:#E8885A"></div>
+        <div class="color-pick" style="background:#4ECDC4"></div>
+        <div class="color-pick" style="background:#FFD166"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 9. CALENDRIER 75 JOURS ════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">09 — Composant : Grille calendrier 75 jours</div>
+  <div class="comp-card">
+    <div class="comp-title">Jours 1-75 — passé / aujourd'hui / futur</div>
+    <div class="cal-grid" id="cal"></div>
+    <div class="note">Passé = terracotta · Aujourd'hui = brand-primary bold · Futur = neutre · Complété = vert</div>
+  </div>
+</section>
+
+<!-- ═══ 10. CARTE "DAY ONE" (Her 75) ══════════════════════════ -->
+<section class="section">
+  <div class="section-title">10 — Composant : Carte partage social "Day One"</div>
+  <div class="comp-card">
+    <div class="comp-title">Carte générée pour le partage — fond photo, carteblanche flottante</div>
+    <div class="mockup-section">
+      <div class="day-one-card">
+        <div class="day-one-title">day one</div>
+        <div class="day-one-date">Mar 16 → April 24</div>
+        <ul class="day-one-list">
+          <li><span>1</span><span>Strict diet</span></li>
+          <li><span>2</span><span>2 workouts, 1 outside</span></li>
+          <li><span>3</span><span>10 pages, non-fiction</span></li>
+          <li><span>4</span><span>Progress pic</span></li>
+        </ul>
+      </div>
+      <div>
+        <div class="t-sm" style="color:var(--color-n500); max-width:260px; line-height:1.7">
+          Fond : photo lifestyle pleine hauteur (filtre naturel chaud)<br>
+          Carte : fond blanc, radius-lg, shadow-card<br>
+          Titre : Playfair Display italic<br>
+          Typographie mixte : serif pour les moments éditoriaux, sans pour les listes
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 11. FEED SOCIAL ════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">11 — Composant : Feed activité amis (Her 75)</div>
+  <div class="comp-card">
+    <div class="comp-title">Ligne ami avec tâches du jour</div>
+    <div class="social-list">
+      <div class="social-row">
+        <div class="avatar">M</div>
+        <div class="social-content">
+          <div style="display:flex; justify-content:space-between; align-items:center">
+            <span class="social-name">Maddy</span>
+            <div class="social-check"></div>
+          </div>
+          <div class="social-day">Day 75</div>
+          <div class="social-tasks">
+            <div class="social-task-item">Walk 10,000 steps</div>
+            <div class="social-task-item">Read 10 pages</div>
+            <div class="social-task-item">Workout · <span style="color:var(--color-n300)">11:45am</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="social-row">
+        <div class="avatar" style="background: linear-gradient(135deg, #FADADD, #F4A261)">A</div>
+        <div class="social-content">
+          <div style="display:flex; justify-content:space-between; align-items:center">
+            <span class="social-name">Anna</span>
+            <div class="social-check"></div>
+          </div>
+          <div class="social-day">Day 75</div>
+          <div class="social-tasks">
+            <div class="social-task-item">Walk 10,000 steps</div>
+            <div class="social-task-item">Workout</div>
+          </div>
+        </div>
+      </div>
+      <div class="social-row">
+        <div class="avatar" style="background: linear-gradient(135deg, #E8F4FD, #4ECDC4)">B</div>
+        <div class="social-content">
+          <div style="display:flex; justify-content:space-between; align-items:center">
+            <span class="social-name">Blake</span>
+            <div style="width:22px; height:22px; border-radius:50%; background:var(--color-n100); border:1.5px solid var(--color-n300)"></div>
+          </div>
+          <div class="social-day">Day 74 · en cours…</div>
+          <div class="social-tasks">
+            <div class="social-task-item">Follow a strict diet</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 12. MAQUETTE TÉLÉPHONE ════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">12 — Aperçu : Écran principal (App A)</div>
+  <div class="comp-card">
+    <div class="mockup-section">
+      <div class="phone-mockup">
+        <div class="phone-notch"><div class="phone-notch-inner"></div></div>
+        <div class="phone-screen">
+          <div class="phone-header">
+            <div class="phone-title">Day 49</div>
+            <div class="phone-icon">≡</div>
+          </div>
+          <div style="text-align:center; font-size:11px; color:var(--color-n400); font-style:italic; margin-bottom:12px; line-height:1.4">
+            "You don't have to be great to start,<br>but you have to start to be great."
+          </div>
+          <div style="background:var(--color-n100); height:4px; border-radius:2px; margin-bottom:16px; position:relative">
+            <div style="background:var(--color-brand-primary); width:65%; height:4px; border-radius:2px;"></div>
+          </div>
+          <div style="font-size:13px; font-weight:600; color:var(--color-brand-primary); margin-bottom:12px">Daily Tasks 3/4</div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px">
+            <div style="display:flex; flex-direction:column; align-items:center; gap:6px">
+              <div style="position:relative; width:56px; height:56px;">
+                <svg width="56" height="56" viewBox="0 0 56 56" style="transform:rotate(-90deg)"><circle fill="none" stroke="#F2F2F7" stroke-width="5" cx="28" cy="28" r="22"/><circle fill="none" stroke="#4ECDC4" stroke-width="5" stroke-linecap="round" stroke-dasharray="138.2" stroke-dashoffset="35" cx="28" cy="28" r="22"/></svg>
+                <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:14px">💧</span>
+              </div>
+              <span style="font-size:10px; color:var(--color-n500); text-align:center">Drink water</span>
+            </div>
+            <div style="display:flex; flex-direction:column; align-items:center; gap:6px">
+              <div style="position:relative; width:56px; height:56px;">
+                <svg width="56" height="56" viewBox="0 0 56 56" style="transform:rotate(-90deg)"><circle fill="none" stroke="#F2F2F7" stroke-width="5" cx="28" cy="28" r="22"/><circle fill="none" stroke="#F4A261" stroke-width="5" stroke-linecap="round" stroke-dasharray="138.2" stroke-dashoffset="69" cx="28" cy="28" r="22"/></svg>
+                <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:14px">🥗</span>
+              </div>
+              <span style="font-size:10px; color:var(--color-n500); text-align:center">Eat well</span>
+            </div>
+            <div style="display:flex; flex-direction:column; align-items:center; gap:6px">
+              <div style="position:relative; width:56px; height:56px;">
+                <svg width="56" height="56" viewBox="0 0 56 56" style="transform:rotate(-90deg)"><circle fill="none" stroke="#F2F2F7" stroke-width="5" cx="28" cy="28" r="22"/><circle fill="none" stroke="#FFD166" stroke-width="5" stroke-linecap="round" stroke-dasharray="138.2" stroke-dashoffset="138" cx="28" cy="28" r="22"/></svg>
+                <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%; font-size:14px; color:#C7C7CC">📖</span>
+              </div>
+              <span style="font-size:10px; color:var(--color-n500); text-align:center">Read pages</span>
+            </div>
+            <div style="display:flex; flex-direction:column; align-items:center; gap:6px">
+              <div style="position:relative; width:56px; height:56px;">
+                <svg width="56" height="56" viewBox="0 0 56 56" style="transform:rotate(-90deg)"><circle fill="none" stroke="#F2F2F7" stroke-width="5" cx="28" cy="28" r="22"/><circle fill="none" stroke="#F86B6B" stroke-width="5" stroke-linecap="round" stroke-dasharray="138.2" stroke-dashoffset="20" cx="28" cy="28" r="22"/></svg>
+                <span style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:14px">🏃</span>
+              </div>
+              <span style="font-size:10px; color:var(--color-n500); text-align:center">Train 45m</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="flex:1; max-width:340px;">
+        <div class="t-md" style="margin-bottom:12px">Notes d'implémentation</div>
+        <ul style="font-size:13px; color:var(--color-n500); line-height:2; padding-left:16px;">
+          <li>Fond : <code style="font-size:11px; background:#F2F2F7; padding:1px 5px; border-radius:4px">#FFFFFF</code> pur partout</li>
+          <li>Rings SVG — <code style="font-size:11px; background:#F2F2F7; padding:1px 5px; border-radius:4px">strokeLinecap="round"</code></li>
+          <li>Grille 2×2 pour les rings</li>
+          <li>Progress bar 4px, radius 2px, couleur brand</li>
+          <li>Citation : italic 11px, centré, gris</li>
+          <li>Section label couleur brand (terracotta)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 13. OMBRES ════════════════════════════════════════════ -->
+<section class="section">
+  <div class="section-title">13 — Ombres & Profondeur</div>
+  <div class="grid-3">
+    <div style="background:white; border-radius:var(--radius-lg); padding:24px; text-align:center;">
+      <div class="t-sm" style="color:var(--color-n400); margin-bottom:8px">none</div>
+      <div class="t-base">Flat — App A</div>
+      <div class="t-sm">Préféré aux ombres</div>
+    </div>
+    <div style="background:white; border-radius:var(--radius-lg); padding:24px; text-align:center; box-shadow: 0 2px 8px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);">
+      <div class="t-sm" style="color:var(--color-n400); margin-bottom:8px">shadow-card</div>
+      <div class="t-base">Cartes Her 75</div>
+      <div class="t-sm">0 2px 8px rgba(0,0,0,0.06)</div>
+    </div>
+    <div style="background:white; border-radius:var(--radius-lg); padding:24px; text-align:center; border: var(--border-sep);">
+      <div class="t-sm" style="color:var(--color-n400); margin-bottom:8px">border-separator</div>
+      <div class="t-base">Séparateurs</div>
+      <div class="t-sm">1px solid #F0F0F0</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FOOTER ════════════════════════════════════════════════ -->
+<footer style="max-width:900px; margin:0 auto; padding-top:32px; border-top: var(--border-sep); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+  <div>
+    <div class="t-md">Design System — 75 Challenge Apps</div>
+    <div class="t-sm">Extrait par BuilderOS · 2026-09-28 · Référence interne uniquement</div>
+  </div>
+  <div style="display:flex; gap:8px; flex-wrap:wrap;">
+    <span class="badge badge-type">Light mode only</span>
+    <span class="badge badge-type">iOS-first</span>
+    <span class="badge badge-count">Warm Minimal</span>
+  </div>
+</footer>
+
+<!-- ═══ JS — Génération calendrier ════════════════════════════ -->
+<script>
+  const cal = document.getElementById('cal');
+  for (let i = 1; i <= 75; i++) {
+    const cell = document.createElement('div');
+    cell.className = 'cal-cell';
+    cell.textContent = i;
+    if (i <= 44)      cell.classList.add('past');
+    else if (i === 45) cell.classList.add('today');
+    else if (i === 49 || i === 30 || i === 22) cell.classList.add('completed');
+    cal.appendChild(cell);
+  }
+</script>
+
+</body>
+</html>

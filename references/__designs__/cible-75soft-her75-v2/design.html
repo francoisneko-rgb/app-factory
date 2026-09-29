@@ -1,0 +1,1366 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Her75 — Design System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  /* ====================================================
+     CSS CUSTOM PROPERTIES — mirror of design.md tokens
+     ==================================================== */
+  :root {
+    /* Colors */
+    --color-surface: #FFFFFF;
+    --color-on-surface: #0A0A0A;
+    --color-surface-secondary: #F7F7F5;
+    --color-text-secondary: #6B6B6B;
+    --color-text-tertiary: #A0A0A0;
+    --color-border-subtle: #E8E8E6;
+    --color-story-bg: #C8DCF0;
+    --color-card: #FFFFFF;
+    --color-badge-amber: #F7C84A;
+    --color-badge-sage: #B5CCA8;
+    --color-badge-peach: #F0C4B0;
+    --color-badge-lemon: #EDE89A;
+    --color-accent-green: #5BAD6B;
+    --color-checkmark: #111111;
+    --color-on-checkmark: #FFFFFF;
+    --color-chip-bg: #FFFFFF;
+    --color-chip-border: #E0E0E0;
+    --color-on-chip: #0A0A0A;
+    --color-error: #E05252;
+    --color-success: #5BAD6B;
+
+    /* Typography */
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-script: 'Caveat', 'Pacifico', cursive;
+    --font-sans: 'Inter', -apple-system, Helvetica, sans-serif;
+
+    /* Rounded */
+    --rounded-none: 0px;
+    --rounded-xs: 4px;
+    --rounded-sm: 8px;
+    --rounded-md: 12px;
+    --rounded-lg: 16px;
+    --rounded-xl: 20px;
+    --rounded-full: 9999px;
+
+    /* Spacing */
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-8: 32px;
+    --space-10: 40px;
+    --space-12: 48px;
+    --space-16: 64px;
+  }
+
+  /* ====================================================
+     GUIDE CHROME (neutral reference layout)
+     ==================================================== */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--font-sans);
+    background: #F2F2F0;
+    color: #111;
+    line-height: 1.5;
+    padding: 0 0 80px;
+  }
+
+  .guide-header {
+    background: #fff;
+    border-bottom: 1px solid #DDD;
+    padding: 32px 40px 28px;
+  }
+  .guide-header h1 {
+    font-family: var(--font-display);
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin-bottom: 4px;
+  }
+  .guide-header p {
+    font-size: 13px;
+    color: #666;
+  }
+  .guide-header p a { color: #666; }
+
+  .section {
+    max-width: 1000px;
+    margin: 40px auto 0;
+    padding: 0 24px;
+  }
+  .section-title {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #DDD;
+  }
+
+  /* ====================================================
+     1. COLORS
+     ==================================================== */
+  .swatch-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .swatch {
+    width: 120px;
+  }
+  .swatch-block {
+    width: 120px;
+    height: 60px;
+    border-radius: var(--rounded-sm);
+    border: 1px solid rgba(0,0,0,0.06);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  .swatch-name {
+    font-size: 11px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 2px;
+  }
+  .swatch-hex {
+    font-size: 10px;
+    color: #888;
+    font-family: monospace;
+  }
+  .swatch-group-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #AAA;
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 4px;
+  }
+
+  /* ====================================================
+     2. TYPOGRAPHY
+     ==================================================== */
+  .type-specimen {
+    background: #fff;
+    border-radius: var(--rounded-sm);
+    padding: 20px 24px;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: baseline;
+    gap: 24px;
+    border: 1px solid #EEE;
+  }
+  .type-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #AAA;
+    min-width: 110px;
+    flex-shrink: 0;
+  }
+  .type-spec {
+    font-size: 10px;
+    color: #AAA;
+    font-family: monospace;
+    min-width: 220px;
+    flex-shrink: 0;
+    align-self: center;
+  }
+  .type-example { flex: 1; }
+
+  /* ====================================================
+     3. SPACING
+     ==================================================== */
+  .spacing-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+  .spacing-bar {
+    height: 16px;
+    background: var(--color-badge-sage);
+    border-radius: var(--rounded-xs);
+    flex-shrink: 0;
+  }
+  .spacing-label {
+    font-size: 11px;
+    color: #666;
+    font-family: monospace;
+    min-width: 120px;
+  }
+
+  /* ====================================================
+     4. RADIUS
+     ==================================================== */
+  .radius-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .radius-sample {
+    width: 64px;
+    height: 64px;
+    background: var(--color-badge-amber);
+    border: 2px solid rgba(0,0,0,0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .radius-token {
+    font-size: 10px;
+    font-weight: 700;
+    color: #555;
+    margin-top: 6px;
+    font-family: monospace;
+  }
+  .radius-val {
+    font-size: 9px;
+    color: #999;
+    font-family: monospace;
+  }
+
+  /* ====================================================
+     5. ELEVATION
+     ==================================================== */
+  .elevation-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .elevation-card {
+    background: #fff;
+    border-radius: var(--rounded-lg);
+    padding: 20px 24px;
+    width: 200px;
+    font-size: 12px;
+    color: #555;
+  }
+  .elevation-name {
+    font-size: 11px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 4px;
+  }
+
+  /* ====================================================
+     6. COMPONENTS
+     ==================================================== */
+  .component-group {
+    margin-bottom: 32px;
+  }
+  .component-group-title {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #999;
+    margin-bottom: 12px;
+  }
+  .component-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    background: var(--color-surface-secondary);
+    padding: 16px;
+    border-radius: var(--rounded-sm);
+    margin-bottom: 8px;
+  }
+
+  /* Challenge chip */
+  .chip-challenge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: var(--color-chip-bg);
+    color: var(--color-on-chip);
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.4;
+    border-radius: var(--rounded-full);
+    padding: 6px 14px;
+    height: 32px;
+    border: 1px solid var(--color-chip-border);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    white-space: nowrap;
+  }
+
+  /* Task badges */
+  .task-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: var(--rounded-md);
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--color-on-surface);
+    flex-shrink: 0;
+  }
+  .task-badge-1 { background: var(--color-badge-amber); }
+  .task-badge-2 { background: var(--color-badge-sage); }
+  .task-badge-3 { background: var(--color-badge-peach); }
+  .task-badge-4 { background: var(--color-badge-lemon); }
+
+  /* Task row */
+  .task-row-demo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--color-border-subtle);
+    background: var(--color-surface);
+    font-family: var(--font-sans);
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--color-on-surface);
+  }
+  .task-row-demo:last-child { border-bottom: none; }
+
+  /* Checkmark */
+  .checkmark-done {
+    width: 28px;
+    height: 28px;
+    border-radius: var(--rounded-full);
+    background: var(--color-checkmark);
+    color: var(--color-on-checkmark);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .checkmark-done-hover {
+    background: var(--color-text-secondary);
+  }
+
+  /* Day card */
+  .day-card {
+    background: var(--color-card);
+    border-radius: var(--rounded-lg);
+    padding: 20px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+    max-width: 280px;
+  }
+  .day-card-script {
+    font-family: var(--font-script);
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--color-on-surface);
+    margin-bottom: 2px;
+  }
+  .day-card-date {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--color-text-secondary);
+    margin-bottom: 12px;
+  }
+  .day-card-item {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--color-on-surface);
+    padding: 3px 0;
+  }
+
+  /* Star badge */
+  .star-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: var(--rounded-full);
+    background: var(--color-accent-green);
+    color: #fff;
+    font-size: 10px;
+  }
+
+  /* Avatar */
+  .avatar-circle {
+    width: 44px;
+    height: 44px;
+    border-radius: var(--rounded-full);
+    background: var(--color-surface-secondary);
+    border: 1px solid var(--color-border-subtle);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: var(--color-text-secondary);
+    flex-shrink: 0;
+  }
+
+  /* Friend row */
+  .friend-row-demo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--color-border-subtle);
+    background: var(--color-surface);
+  }
+  .friend-info { flex: 1; }
+  .friend-name {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-on-surface);
+  }
+  .friend-day {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    color: var(--color-text-secondary);
+  }
+  .friend-tasks {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    color: var(--color-text-secondary);
+    text-align: right;
+    line-height: 1.6;
+  }
+
+  /* ====================================================
+     7. DO'S AND DON'TS
+     ==================================================== */
+  .dos-donts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .do-col, .dont-col {
+    border-radius: var(--rounded-sm);
+    padding: 20px;
+  }
+  .do-col { background: #F0FAF0; border: 1px solid #C8E6C9; }
+  .dont-col { background: #FFF0F0; border: 1px solid #FFCDD2; }
+  .col-header {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 12px;
+  }
+  .do-col .col-header { color: #388E3C; }
+  .dont-col .col-header { color: #C62828; }
+  .rule-item {
+    font-size: 13px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 8px;
+    padding-left: 18px;
+    position: relative;
+  }
+  .rule-item::before {
+    position: absolute;
+    left: 0;
+    top: 1px;
+    font-weight: 700;
+  }
+  .do-col .rule-item::before { content: '✓'; color: #388E3C; }
+  .dont-col .rule-item::before { content: '✗'; color: #C62828; }
+
+  /* ====================================================
+     DÉMO ÉCRANS — phone mockups
+     ==================================================== */
+  .phones-row {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .phone {
+    width: 390px;
+    min-height: 844px;
+    border-radius: 44px;
+    background: var(--color-surface);
+    box-shadow: 0 24px 80px rgba(0,0,0,0.22), 0 0 0 1px rgba(0,0,0,0.08);
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .phone-notch {
+    width: 120px;
+    height: 30px;
+    background: #000;
+    border-radius: 0 0 20px 20px;
+    margin: 0 auto;
+    flex-shrink: 0;
+  }
+  .phone-statusbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 24px 0;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--color-on-surface);
+    flex-shrink: 0;
+  }
+  .phone-content {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* --- Screen 1: Dashboard du défi --- */
+  .screen-header-challenge {
+    padding: 20px 20px 12px;
+    border-bottom: 1px solid var(--color-border-subtle);
+  }
+  .screen-title {
+    font-family: var(--font-sans);
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--color-on-surface);
+    letter-spacing: -0.02em;
+  }
+  .screen-subtitle {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--color-accent-green);
+    font-weight: 500;
+    margin-top: 2px;
+  }
+  .challenge-hero-img {
+    width: 100%;
+    height: 160px;
+    background: linear-gradient(135deg, #D0D8CC 0%, #C8CCBE 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #888;
+    font-size: 12px;
+    font-family: var(--font-sans);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    position: relative;
+  }
+  .challenge-hero-img span {
+    background: rgba(255,255,255,0.6);
+    padding: 4px 10px;
+    border-radius: var(--rounded-xs);
+    font-size: 10px;
+  }
+  .day-indicator {
+    padding: 16px 20px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .day-number {
+    font-family: var(--font-script);
+    font-size: 32px;
+    font-weight: 600;
+    color: var(--color-on-surface);
+  }
+  .day-counter {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    color: var(--color-text-secondary);
+  }
+  .progress-bar-wrap {
+    padding: 0 20px 16px;
+  }
+  .progress-track {
+    height: 6px;
+    background: var(--color-border-subtle);
+    border-radius: var(--rounded-full);
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    width: 42%;
+    background: var(--color-on-surface);
+    border-radius: var(--rounded-full);
+  }
+  .progress-label {
+    font-family: var(--font-sans);
+    font-size: 10px;
+    color: var(--color-text-tertiary);
+    margin-top: 4px;
+    text-align: right;
+  }
+  .tasks-label {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-tertiary);
+    padding: 8px 20px 4px;
+  }
+  .task-list-block {
+    flex: 1;
+    overflow: hidden;
+  }
+
+  /* --- Screen 2: Task list --- */
+  .tasklist-header {
+    padding: 20px 20px 12px;
+    border-bottom: 1px solid var(--color-border-subtle);
+  }
+  .tasklist-title {
+    font-family: var(--font-sans);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--color-on-surface);
+    letter-spacing: -0.02em;
+  }
+  .tasklist-meta {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    margin-top: 3px;
+  }
+  .task-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--color-border-subtle);
+    background: var(--color-surface);
+  }
+  .task-text {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--color-on-surface);
+    line-height: 1.4;
+    flex: 1;
+  }
+  .task-check-empty {
+    width: 24px;
+    height: 24px;
+    border-radius: var(--rounded-full);
+    border: 2px solid var(--color-border-subtle);
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .task-check-done {
+    width: 24px;
+    height: 24px;
+    border-radius: var(--rounded-full);
+    background: var(--color-checkmark);
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  /* --- Screen 3: Calendrier 75 jours --- */
+  .calendar-header {
+    padding: 20px 20px 12px;
+    border-bottom: 1px solid var(--color-border-subtle);
+  }
+  .calendar-title {
+    font-family: var(--font-sans);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--color-on-surface);
+    letter-spacing: -0.02em;
+  }
+  .calendar-subtitle {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    margin-top: 3px;
+  }
+  .calendar-grid {
+    padding: 16px 20px;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+    flex: 1;
+  }
+  .cal-day-label {
+    font-family: var(--font-sans);
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-text-tertiary);
+    text-align: center;
+    padding-bottom: 4px;
+  }
+  .cal-day {
+    aspect-ratio: 1;
+    border-radius: var(--rounded-xs);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-sans);
+    font-size: 10px;
+    font-weight: 500;
+    background: var(--color-surface-secondary);
+    color: var(--color-text-tertiary);
+  }
+  .cal-day.done {
+    background: var(--color-on-surface);
+    color: var(--color-on-checkmark);
+    font-weight: 700;
+  }
+  .cal-day.amber { background: var(--color-badge-amber); color: var(--color-on-surface); }
+  .cal-day.sage { background: var(--color-badge-sage); color: var(--color-on-surface); }
+  .cal-day.peach { background: var(--color-badge-peach); color: var(--color-on-surface); }
+  .cal-day.today {
+    border: 2px solid var(--color-on-surface);
+    background: var(--color-surface);
+    color: var(--color-on-surface);
+    font-weight: 700;
+  }
+  .cal-day.empty {
+    background: transparent;
+  }
+  .calendar-legend {
+    padding: 0 20px 16px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-family: var(--font-sans);
+    font-size: 10px;
+    color: var(--color-text-secondary);
+  }
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: var(--rounded-xs);
+    flex-shrink: 0;
+  }
+  .phone-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 12px 16px;
+    border-top: 1px solid var(--color-border-subtle);
+    background: var(--color-surface);
+    flex-shrink: 0;
+  }
+  .nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+    font-family: var(--font-sans);
+    font-size: 9px;
+    font-weight: 500;
+    color: var(--color-text-tertiary);
+  }
+  .nav-item.active { color: var(--color-on-surface); }
+  .nav-icon { font-size: 18px; line-height: 1; }
+  .phone-home-bar {
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .home-bar {
+    width: 120px;
+    height: 4px;
+    background: rgba(0,0,0,0.2);
+    border-radius: var(--rounded-full);
+  }
+</style>
+</head>
+<body>
+
+<!-- ====================================================
+     HEADER
+     ==================================================== -->
+<div class="guide-header">
+  <h1>Her75 <em style="font-style:italic;">Design System</em></h1>
+  <p>75-day fitness challenge tracker · Light mode · Mirror of <code>design.md</code> — tokens → CSS vars → components → screen demos</p>
+</div>
+
+<!-- ====================================================
+     1. COLORS
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">1 — Colors</div>
+  <div class="swatch-grid">
+    <div class="swatch-group-label">Surfaces &amp; Text</div>
+
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-surface);border:1px solid #DDD;">
+        <span style="color:#333">Aa</span>
+      </div>
+      <div class="swatch-name">surface</div>
+      <div class="swatch-hex">#FFFFFF</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-on-surface);">
+        <span style="color:#fff;font-size:13px;">Aa</span>
+      </div>
+      <div class="swatch-name">on-surface</div>
+      <div class="swatch-hex">#0A0A0A</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-surface-secondary);border:1px solid #EEE;">
+        <span style="color:#555">Aa</span>
+      </div>
+      <div class="swatch-name">surface-secondary</div>
+      <div class="swatch-hex">#F7F7F5</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-text-secondary);">
+        <span style="color:#fff">Aa</span>
+      </div>
+      <div class="swatch-name">text-secondary</div>
+      <div class="swatch-hex">#6B6B6B</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-text-tertiary);">
+        <span style="color:#fff">Aa</span>
+      </div>
+      <div class="swatch-name">text-tertiary</div>
+      <div class="swatch-hex">#A0A0A0</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-border-subtle);border:1px solid #DDD;">
+        <span style="color:#555">—</span>
+      </div>
+      <div class="swatch-name">border-subtle</div>
+      <div class="swatch-hex">#E8E8E6</div>
+    </div>
+
+    <div class="swatch-group-label">Task Badges (observed on task list screen)</div>
+
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-badge-amber);">
+        <span style="color:#333;font-weight:700">1</span>
+      </div>
+      <div class="swatch-name">badge-amber</div>
+      <div class="swatch-hex">#F7C84A</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-badge-sage);">
+        <span style="color:#333;font-weight:700">2</span>
+      </div>
+      <div class="swatch-name">badge-sage</div>
+      <div class="swatch-hex">#B5CCA8</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-badge-peach);">
+        <span style="color:#333;font-weight:700">3</span>
+      </div>
+      <div class="swatch-name">badge-peach</div>
+      <div class="swatch-hex">#F0C4B0</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-badge-lemon);">
+        <span style="color:#333;font-weight:700">4</span>
+      </div>
+      <div class="swatch-name">badge-lemon</div>
+      <div class="swatch-hex">#EDE89A</div>
+    </div>
+
+    <div class="swatch-group-label">Contextual &amp; Semantic</div>
+
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-story-bg);">
+        <span style="color:#333">bg</span>
+      </div>
+      <div class="swatch-name">story-bg</div>
+      <div class="swatch-hex">#C8DCF0</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-accent-green);">
+        <span style="color:#fff">★</span>
+      </div>
+      <div class="swatch-name">accent-green</div>
+      <div class="swatch-hex">#5BAD6B</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-checkmark);">
+        <span style="color:#fff">✓</span>
+      </div>
+      <div class="swatch-name">checkmark</div>
+      <div class="swatch-hex">#111111</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-error);">
+        <span style="color:#fff">!</span>
+      </div>
+      <div class="swatch-name">error</div>
+      <div class="swatch-hex">#E05252</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-block" style="background:var(--color-success);">
+        <span style="color:#fff">✓</span>
+      </div>
+      <div class="swatch-name">success</div>
+      <div class="swatch-hex">#5BAD6B</div>
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     2. TYPOGRAPHY
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">2 — Typography</div>
+
+  <div class="type-specimen">
+    <div class="type-label">display</div>
+    <div class="type-spec">Playfair Display · 32px · 700 · -0.01em</div>
+    <div class="type-example" style="font-family:'Playfair Display',Georgia,serif;font-size:32px;font-weight:700;letter-spacing:-0.01em;line-height:1.15;">Start your challenge</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">display-italic</div>
+    <div class="type-spec">Playfair Display · 32px · 700i · -0.01em</div>
+    <div class="type-example" style="font-family:'Playfair Display',Georgia,serif;font-size:32px;font-weight:700;font-style:italic;letter-spacing:-0.01em;line-height:1.15;">Start <em>your</em> challenge</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">script</div>
+    <div class="type-spec">Caveat · 28px · 600 · 0em</div>
+    <div class="type-example" style="font-family:'Caveat',cursive;font-size:28px;font-weight:600;line-height:1.2;">day one</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">h1</div>
+    <div class="type-spec">Inter · 24px · 700 · -0.02em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:24px;font-weight:700;letter-spacing:-0.02em;line-height:1.2;">75 Day Hard</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">h2</div>
+    <div class="type-spec">Inter · 18px · 600 · -0.01em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:18px;font-weight:600;letter-spacing:-0.01em;line-height:1.3;">Today's Tasks</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">body</div>
+    <div class="type-spec">Inter · 15px · 400 · 0em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:15px;font-weight:400;line-height:1.5;">Follow a strict diet (no cheat meals, no alcohol)</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">body-medium</div>
+    <div class="type-spec">Inter · 15px · 500 · 0em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:15px;font-weight:500;line-height:1.5;">Do two 45-minute workouts per day</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">label</div>
+    <div class="type-spec">Inter · 13px · 500 · 0em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:13px;font-weight:500;line-height:1.4;">✓ 75 Soft &nbsp;&nbsp; ✓ 75 Medium</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">caption</div>
+    <div class="type-spec">Inter · 11px · 400 · +0.01em</div>
+    <div class="type-example" style="font-family:'Inter',sans-serif;font-size:11px;font-weight:400;letter-spacing:0.01em;line-height:1.4;color:#6B6B6B;">mar 16 → april 24 · Day 75</div>
+  </div>
+  <div class="type-specimen">
+    <div class="type-label">badge-number</div>
+    <div class="type-spec">Inter · 13px · 700 · 0em</div>
+    <div class="type-example">
+      <span class="task-badge task-badge-1">1</span>
+      <span class="task-badge task-badge-2" style="margin-left:6px;">2</span>
+      <span class="task-badge task-badge-3" style="margin-left:6px;">3</span>
+      <span class="task-badge task-badge-4" style="margin-left:6px;">4</span>
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     3. SPACING
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">3 — Spacing</div>
+  <div style="background:#fff;border-radius:var(--rounded-sm);padding:20px;border:1px solid #EEE;">
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-1)"></div><div class="spacing-label">--space-1 · 4px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-2)"></div><div class="spacing-label">--space-2 · 8px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-3)"></div><div class="spacing-label">--space-3 · 12px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-4)"></div><div class="spacing-label">--space-4 · 16px &nbsp;← padding standard</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-5)"></div><div class="spacing-label">--space-5 · 20px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-6)"></div><div class="spacing-label">--space-6 · 24px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-8)"></div><div class="spacing-label">--space-8 · 32px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-10)"></div><div class="spacing-label">--space-10 · 40px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-12)"></div><div class="spacing-label">--space-12 · 48px</div></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:var(--space-16)"></div><div class="spacing-label">--space-16 · 64px</div></div>
+  </div>
+</div>
+
+<!-- ====================================================
+     4. RADIUS
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">4 — Radius</div>
+  <div style="background:#fff;border-radius:var(--rounded-sm);padding:24px;border:1px solid #EEE;">
+    <div class="radius-grid">
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-none);"></div>
+        <div class="radius-token">none</div><div class="radius-val">0px</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-xs);"></div>
+        <div class="radius-token">xs</div><div class="radius-val">4px</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-sm);"></div>
+        <div class="radius-token">sm</div><div class="radius-val">8px · photos</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-md);"></div>
+        <div class="radius-token">md</div><div class="radius-val">12px · badges</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-lg);"></div>
+        <div class="radius-token">lg</div><div class="radius-val">16px · cards</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-xl);"></div>
+        <div class="radius-token">xl</div><div class="radius-val">20px</div>
+      </div>
+      <div style="text-align:center;">
+        <div class="radius-sample" style="border-radius:var(--rounded-full);width:64px;height:64px;"></div>
+        <div class="radius-token">full</div><div class="radius-val">9999px · chips/avatars</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     5. ELEVATION
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">5 — Elevation &amp; Depth</div>
+  <div class="elevation-grid">
+    <div class="elevation-card" style="box-shadow:none;border:1px solid var(--color-border-subtle);">
+      <div class="elevation-name">Flat (border-only)</div>
+      Task rows, friend rows. Depth from 1px divider lines only.
+    </div>
+    <div class="elevation-card" style="box-shadow:0 1px 3px rgba(0,0,0,0.08);border:1px solid var(--color-chip-border);">
+      <div class="elevation-name">Float (chips)</div>
+      Challenge selector pills. Light shadow + 1px border.
+    </div>
+    <div class="elevation-card" style="box-shadow:0 2px 12px rgba(0,0,0,0.10);">
+      <div class="elevation-name">Card</div>
+      Standard info cards floating over surface.
+    </div>
+    <div class="elevation-card" style="box-shadow:0 4px 16px rgba(0,0,0,0.12);background:var(--color-card);">
+      <div class="elevation-name">Story Card</div>
+      Day-one card over story-bg. Strongest shadow in the system.
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     6. COMPONENTS
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">6 — Components</div>
+
+  <!-- Challenge chips -->
+  <div class="component-group">
+    <div class="component-group-title">Challenge selector chips</div>
+    <div class="component-row" style="background:#E8E8E6;">
+      <span class="chip-challenge">✓ 75 Day Hard</span>
+      <span class="chip-challenge">✓ 75 Medium</span>
+      <span class="chip-challenge">✓ 75 Soft</span>
+      <span class="chip-challenge">&amp; More</span>
+    </div>
+  </div>
+
+  <!-- Task badges -->
+  <div class="component-group">
+    <div class="component-group-title">Task badges (numbered, per task order)</div>
+    <div class="component-row">
+      <span class="task-badge task-badge-1">1</span>
+      <span class="task-badge task-badge-2">2</span>
+      <span class="task-badge task-badge-3">3</span>
+      <span class="task-badge task-badge-4">4</span>
+      <span style="font-size:12px;color:#888;margin-left:8px;">Fixed color → task position, not completion state</span>
+    </div>
+  </div>
+
+  <!-- Task rows -->
+  <div class="component-group">
+    <div class="component-group-title">Task rows</div>
+    <div style="border-radius:var(--rounded-sm);overflow:hidden;border:1px solid var(--color-border-subtle);">
+      <div class="task-row-demo"><span class="task-badge task-badge-1">1</span><span>Follow a strict diet (no cheat meals, no alcohol)</span></div>
+      <div class="task-row-demo"><span class="task-badge task-badge-2">2</span><span>Do two 45-minute workouts per day, one must be outside</span></div>
+      <div class="task-row-demo"><span class="task-badge task-badge-3">3</span><span>Read 10 pages of a non-fiction/self-development book</span></div>
+      <div class="task-row-demo"><span class="task-badge task-badge-4">4</span><span>Take a progress picture every day</span></div>
+      <div class="task-row-demo" style="border-bottom:none;"><span class="task-badge" style="background:var(--color-surface-secondary);border:1px solid var(--color-border-subtle);border-radius:var(--rounded-md);width:30px;height:30px;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">5</span><span>Become that girl</span></div>
+    </div>
+  </div>
+
+  <!-- Checkmarks -->
+  <div class="component-group">
+    <div class="component-group-title">Checkmark — done state / hover state</div>
+    <div class="component-row">
+      <span class="checkmark-done">✓</span>
+      <span style="font-size:12px;color:#666;">Default (done)</span>
+      <span class="checkmark-done checkmark-done-hover" style="margin-left:20px;">✓</span>
+      <span style="font-size:12px;color:#666;">Hover state</span>
+      <span style="width:28px;height:28px;border-radius:9999px;border:2px solid var(--color-border-subtle);display:inline-flex;margin-left:20px;"></span>
+      <span style="font-size:12px;color:#666;">Undone state</span>
+    </div>
+  </div>
+
+  <!-- Day card + story bg -->
+  <div class="component-group">
+    <div class="component-group-title">Day-one card (on story background)</div>
+    <div class="component-row" style="background:var(--color-story-bg);border-radius:var(--rounded-sm);padding:24px;">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:16px;">
+        <div class="avatar-circle">👤</div>
+        <div>
+          <div style="font-family:var(--font-sans);font-size:13px;font-weight:600;">you</div>
+          <div style="font-family:var(--font-sans);font-size:11px;color:var(--color-text-secondary);">2min</div>
+        </div>
+        <span class="star-badge">★</span>
+      </div>
+      <div class="day-card">
+        <div class="day-card-script">day one</div>
+        <div class="day-card-date">mar 16 → april 24</div>
+        <div class="day-card-item">1 &nbsp; stric diet</div>
+        <div class="day-card-item">2 &nbsp; 2 workouts, 1 outside</div>
+        <div class="day-card-item">3 &nbsp; 10 pages, non-fiction</div>
+        <div class="day-card-item">4 &nbsp; progress pic</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Friend rows -->
+  <div class="component-group">
+    <div class="component-group-title">Friend rows (social accountability list)</div>
+    <div style="border-radius:var(--rounded-sm);overflow:hidden;border:1px solid var(--color-border-subtle);">
+      <div class="friend-row-demo">
+        <div class="avatar-circle">👤</div>
+        <div class="friend-info">
+          <div class="friend-name">Maddy</div>
+          <div class="friend-day">Day 75</div>
+        </div>
+        <div class="friend-tasks">
+          Walk 10,000 steps<br>Read 10 pages<br>Workout
+        </div>
+        <div class="checkmark-done" style="margin-left:8px;">✓</div>
+      </div>
+      <div class="friend-row-demo">
+        <div class="avatar-circle">👤</div>
+        <div class="friend-info">
+          <div class="friend-name">Anna</div>
+          <div class="friend-day">Day 75</div>
+        </div>
+        <div class="friend-tasks">
+          Walk 10,000 steps<br>Read 10 pages<br>Workout
+        </div>
+        <div class="checkmark-done" style="margin-left:8px;">✓</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     7. DO'S AND DON'TS
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">7 — Do's and Don'ts</div>
+  <div class="dos-donts">
+    <div class="do-col">
+      <div class="col-header">✓ Do</div>
+      <div class="rule-item">Keep screen backgrounds pure white on all task and tracking screens</div>
+      <div class="rule-item">Use the four pastel badge colors in fixed task-order sequence: amber → sage → peach → lemon</div>
+      <div class="rule-item">Use the script font (Caveat) only for emotional moment titles — "day N" markers</div>
+      <div class="rule-item">Keep task rows clean: badge + text + 1px divider, nothing else</div>
+      <div class="rule-item">Use full-radius pills only for challenge-selector chips, never for primary CTA buttons</div>
+      <div class="rule-item">Maintain the soft card shadow — it is the only depth signal in the system</div>
+    </div>
+    <div class="dont-col">
+      <div class="col-header">✗ Don't</div>
+      <div class="rule-item">Never use dark backgrounds, gradients, or neon accent colors</div>
+      <div class="rule-item">Never saturate the pastel badges — they must stay muted and earthy</div>
+      <div class="rule-item">Never mix the script font with body text or labels</div>
+      <div class="rule-item">Never border-wrap each task row as a card — use thin dividers only</div>
+      <div class="rule-item">Never center-align task or list content — everything is left-aligned</div>
+      <div class="rule-item">Never add a fifth badge color — the system has exactly four task slots</div>
+    </div>
+  </div>
+</div>
+
+<!-- ====================================================
+     DÉMO ÉCRANS — 3 maquettes mobiles
+     ==================================================== -->
+<div class="section">
+  <div class="section-title">Démo Écrans — 3 maquettes format téléphone (390×844px)</div>
+  <p style="font-size:12px;color:#888;margin-bottom:28px;">Chaque écran est construit entièrement depuis les tokens CSS ci-dessus. Aucune couleur ni taille n'est codée en dur.</p>
+
+  <div class="phones-row">
+
+    <!-- PHONE 1: Dashboard du défi -->
+    <div style="text-align:center;">
+      <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#888;margin-bottom:12px;">Screen 1 — Dashboard du défi</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar">
+          <span>9:41</span>
+          <span>●●● 5G ■■</span>
+        </div>
+        <div class="phone-content">
+          <div class="screen-header-challenge">
+            <div class="screen-title">75 Day Hard</div>
+            <div class="screen-subtitle">+6,256 joined</div>
+          </div>
+          <div class="challenge-hero-img">
+            <span>progress photo</span>
+          </div>
+          <div class="day-indicator">
+            <div class="day-number">day 32</div>
+            <div class="day-counter" style="font-family:var(--font-sans);font-size:12px;color:var(--color-text-secondary);">32 / 75</div>
+          </div>
+          <div class="progress-bar-wrap">
+            <div class="progress-track"><div class="progress-fill"></div></div>
+            <div class="progress-label">42% complete</div>
+          </div>
+          <div class="tasks-label">Today's tasks</div>
+          <div class="task-list-block">
+            <div class="task-item"><span class="task-badge task-badge-1">1</span><span class="task-text">Follow a strict diet</span><span class="task-check-done">✓</span></div>
+            <div class="task-item"><span class="task-badge task-badge-2">2</span><span class="task-text">Two 45-min workouts</span><span class="task-check-done">✓</span></div>
+            <div class="task-item"><span class="task-badge task-badge-3">3</span><span class="task-text">Read 10 pages</span><span class="task-check-empty"></span></div>
+            <div class="task-item"><span class="task-badge task-badge-4">4</span><span class="task-text">Take a progress picture</span><span class="task-check-empty"></span></div>
+            <div class="task-item"><span class="task-badge" style="background:var(--color-surface-secondary);border:1px solid var(--color-border-subtle);border-radius:var(--rounded-md);width:30px;height:30px;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">5</span><span class="task-text">Become that girl</span><span class="task-check-empty"></span></div>
+          </div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item active"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item"><div class="nav-icon">◫</div><span>Tasks</span></div>
+          <div class="nav-item"><div class="nav-icon">◷</div><span>Calendar</span></div>
+          <div class="nav-item"><div class="nav-icon">◎</div><span>Friends</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+
+    <!-- PHONE 2: Liste de tâches -->
+    <div style="text-align:center;">
+      <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#888;margin-bottom:12px;">Screen 2 — Liste de tâches</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar">
+          <span>9:41</span>
+          <span>●●● 5G ■■</span>
+        </div>
+        <div class="phone-content">
+          <div class="tasklist-header">
+            <div class="tasklist-title">Your Rules</div>
+            <div class="tasklist-meta">75 Hard · Day 32 of 75</div>
+          </div>
+          <div class="task-item"><span class="task-badge task-badge-1">1</span><span class="task-text">Follow a strict diet (no cheat meals, no alcohol)</span><span class="task-check-done">✓</span></div>
+          <div class="task-item"><span class="task-badge task-badge-2">2</span><span class="task-text">Do two 45-minute workouts per day, one must be outside</span><span class="task-check-done">✓</span></div>
+          <div class="task-item"><span class="task-badge task-badge-3">3</span><span class="task-text">Read 10 pages of a non-fiction / self-development book</span><span class="task-check-empty"></span></div>
+          <div class="task-item"><span class="task-badge task-badge-4">4</span><span class="task-text">Take a progress picture every day</span><span class="task-check-empty"></span></div>
+          <div class="task-item" style="border-bottom:none;"><span class="task-badge" style="background:var(--color-surface-secondary);border:1px solid var(--color-border-subtle);border-radius:var(--rounded-md);width:30px;height:30px;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">5</span><span class="task-text">Become that girl</span><span class="task-check-empty"></span></div>
+
+          <div style="padding:20px 20px 8px;border-top:1px solid var(--color-border-subtle);margin-top:auto;">
+            <div style="font-family:var(--font-sans);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--color-text-tertiary);margin-bottom:10px;">Challenge type</div>
+            <div style="display:flex;gap:8px;flex-wrap:wrap;">
+              <span class="chip-challenge">✓ 75 Day Hard</span>
+              <span class="chip-challenge" style="border-color:var(--color-border-subtle);box-shadow:none;color:var(--color-text-secondary);">75 Medium</span>
+              <span class="chip-challenge" style="border-color:var(--color-border-subtle);box-shadow:none;color:var(--color-text-secondary);">75 Soft</span>
+            </div>
+          </div>
+          <div style="flex:1;"></div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item active"><div class="nav-icon">◫</div><span>Tasks</span></div>
+          <div class="nav-item"><div class="nav-icon">◷</div><span>Calendar</span></div>
+          <div class="nav-item"><div class="nav-icon">◎</div><span>Friends</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+
+    <!-- PHONE 3: Calendrier 75 jours -->
+    <div style="text-align:center;">
+      <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#888;margin-bottom:12px;">Screen 3 — Calendrier 75 jours</div>
+      <div class="phone">
+        <div class="phone-notch"></div>
+        <div class="phone-statusbar">
+          <span>9:41</span>
+          <span>●●● 5G ■■</span>
+        </div>
+        <div class="phone-content">
+          <div class="calendar-header">
+            <div class="calendar-title">Progress</div>
+            <div class="calendar-subtitle">32 days completed · 43 remaining</div>
+          </div>
+          <div class="calendar-grid">
+            <!-- Day labels -->
+            <div class="cal-day-label">M</div><div class="cal-day-label">T</div><div class="cal-day-label">W</div><div class="cal-day-label">T</div><div class="cal-day-label">F</div><div class="cal-day-label">S</div><div class="cal-day-label">S</div>
+            <!-- Week 1 -->
+            <div class="cal-day done">1</div><div class="cal-day done">2</div><div class="cal-day done">3</div><div class="cal-day done">4</div><div class="cal-day done">5</div><div class="cal-day done">6</div><div class="cal-day done">7</div>
+            <!-- Week 2 -->
+            <div class="cal-day done">8</div><div class="cal-day done">9</div><div class="cal-day done">10</div><div class="cal-day done">11</div><div class="cal-day done">12</div><div class="cal-day done">13</div><div class="cal-day done">14</div>
+            <!-- Week 3 -->
+            <div class="cal-day done">15</div><div class="cal-day done">16</div><div class="cal-day done">17</div><div class="cal-day done">18</div><div class="cal-day done">19</div><div class="cal-day amber">20</div><div class="cal-day sage">21</div>
+            <!-- Week 4 -->
+            <div class="cal-day peach">22</div><div class="cal-day amber">23</div><div class="cal-day done">24</div><div class="cal-day done">25</div><div class="cal-day done">26</div><div class="cal-day done">27</div><div class="cal-day done">28</div>
+            <!-- Week 5 -->
+            <div class="cal-day done">29</div><div class="cal-day done">30</div><div class="cal-day done">31</div><div class="cal-day today">32</div><div class="cal-day">33</div><div class="cal-day">34</div><div class="cal-day">35</div>
+            <!-- Week 6 -->
+            <div class="cal-day">36</div><div class="cal-day">37</div><div class="cal-day">38</div><div class="cal-day">39</div><div class="cal-day">40</div><div class="cal-day">41</div><div class="cal-day">42</div>
+            <!-- Week 7 -->
+            <div class="cal-day">43</div><div class="cal-day">44</div><div class="cal-day">45</div><div class="cal-day">46</div><div class="cal-day">47</div><div class="cal-day">48</div><div class="cal-day">49</div>
+            <!-- Week 8 -->
+            <div class="cal-day">50</div><div class="cal-day">51</div><div class="cal-day">52</div><div class="cal-day">53</div><div class="cal-day">54</div><div class="cal-day">55</div><div class="cal-day">56</div>
+            <!-- Week 9 -->
+            <div class="cal-day">57</div><div class="cal-day">58</div><div class="cal-day">59</div><div class="cal-day">60</div><div class="cal-day">61</div><div class="cal-day">62</div><div class="cal-day">63</div>
+            <!-- Week 10 (7 days) -->
+            <div class="cal-day">64</div><div class="cal-day">65</div><div class="cal-day">66</div><div class="cal-day">67</div><div class="cal-day">68</div><div class="cal-day">69</div><div class="cal-day">70</div>
+            <!-- Last 5 days -->
+            <div class="cal-day">71</div><div class="cal-day">72</div><div class="cal-day">73</div><div class="cal-day">74</div><div class="cal-day">75</div><div class="cal-day empty"></div><div class="cal-day empty"></div>
+          </div>
+          <div class="calendar-legend">
+            <div class="legend-item"><div class="legend-dot" style="background:var(--color-on-surface);border-radius:2px;"></div>Full day</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--color-badge-amber);border-radius:2px;"></div>Partial</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--color-surface-secondary);border:1px solid #DDD;border-radius:2px;"></div>Upcoming</div>
+            <div class="legend-item"><div class="legend-dot" style="background:var(--color-surface);border:2px solid var(--color-on-surface);border-radius:2px;"></div>Today</div>
+          </div>
+        </div>
+        <div class="phone-nav">
+          <div class="nav-item"><div class="nav-icon">⊕</div><span>Today</span></div>
+          <div class="nav-item"><div class="nav-icon">◫</div><span>Tasks</span></div>
+          <div class="nav-item active"><div class="nav-icon">◷</div><span>Calendar</span></div>
+          <div class="nav-item"><div class="nav-icon">◎</div><span>Friends</span></div>
+        </div>
+        <div class="phone-home-bar"><div class="home-bar"></div></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div style="height:60px;"></div>
+</body>
+</html>

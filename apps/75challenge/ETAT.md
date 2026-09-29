@@ -1,9 +1,17 @@
 # 75 CHALLENGE — État du projet (fichier de reprise, unique)
 
-> Dernière mise à jour : 2026-09-26 au soir. Toute reprise de session commence ici.
-> Niche validée + analyse concurrentielle complète + design exploré (v1 rejetée par l'utilisateur
-> designer → v2 via références réelles pending). Prochaine étape : références pro (Refero via
-> l'utilisateur) → DESIGN.md pro → fin du brainstorm → PRD.
+> Dernière mise à jour : 2026-09-29. Toute reprise de session commence ici.
+> ✅ Design validé (gate G4-a) + ✅ brainstorming conclu + ✅ config modèles corrigée.
+> ⚠️ 2026-09-29 (fin) : config globale opencode réparée — kimi-k3 = `opencode-go/kimi-k3` (via OpenCode Go),
+> sonnet-quality = `anthropic/claude-sonnet-4-6` (les anciens IDs étaient invalides et
+> bloquaient le lancement du PRD). Reste à corriger au prochain démarrage : qwen-coder et
+> qwen-max pointent encore vers des IDs introuvables. Ne PAS re-vérifier les modèles :
+> lancer Kimi K3 directement.
+> **PROCHAINE ACTION IMMÉDIATE : relancer l'analyse concurrentielle profonde + le cahier
+> des charges (PRD, gate G3) avec le sous-agent Kimi K3** (le PRD rédigé au modèle éco est
+> À REMPLACER — ne pas l'utiliser).
+> ⚠️ Structure : le PRODUIT vit dans `apps/<app>/`（ETAT, design, PRD, spec…）；
+> `brain/apps/<app>/` = recherche + marketing uniquement.
 
 ## 1. LE PROJET
 - **Nom de travail : 75 Challenge** (« Nami » = faute de frappe utilisateur, jamais réutilisé).
@@ -20,15 +28,16 @@
   - **Challenge Habits** (5/10: moteur générique 9×3 intensités = 25/50/75j, coquille vide → à copier pour le MOTEUR)
 - Revenus (est. Appfigures juillet 2026) + détails : voir `analyse-globale.md` + `CONSOLIDE_SHORTLIST_ARGENT.md`.
 
-## 2. DÉCISIONS UTILISATEUR (validées au brainstorm, 2026-09-26)
-1. **Monétisation : achat unique ~$19.99 + abonnement annuel transparent** (~$29.99/an). Croix toujours
-   visible, jamais de piège, annulation 1 tap.
+## 2. DÉCISIONS UTILISATEUR (validées au brainstorm, 2026-09-26 + fin 2026-09-29)
+1. **Monétisation : achat unique à PRIX D'APPEL $4.99** (app de test, décision 2026-09-29 —
+   remplace le $19.99). Un seul achat à vie. Abonnement écarté en v1. Croix toujours
+   visible, jamais de piège.
 2. **Contrat signé au doigt** : OUI (confirmé facile techniquement — signature canvas).
 3. **AUCUNE fonction sociale en v1**. Juste un bouton "partager ma progression" (export image).
-4. **Le nom final DE contenir "75"** (donnée mots-clés : "30/60/90" = demande 5-10x plus faible).
-5. **Style** : la piste C (crème/vert foncé/or, éditorial) — PREFERÉE à la volée ; A (orange clair)
-   rejetée "cheap/IA", B (sombre) rejetée. MAIS → v1 des mockups rejetée globalement (trop génériques).
-6. **Références élargies acceptées** : habits génériques (lecture, diète, méditation...) = à offrir en
+4. **Nom final = « 75 Challenge »** (surfe sur le mot-clé « 75 », décision 2026-09-29).
+5. **Audience : unisexe** (hommes + femmes) — thème éditorial pastel non genré.
+6. **Style** : design choisi cible-75soft-her75-v2 → thème + maquette VALIDÉS (gate G4-a ✅).
+7. **Références élargies acceptées** : habits génériques (lecture, diète, méditation...) = à offrir en
    presets d'ajout MANUEL (pas le produit central). Cœur = les 5 règles 75 + custom tasks.
 
 ## 3. LE FONDS VISIBLE (ce qu'on copie/améliore — synthèse des cartes visuelles)
@@ -71,20 +80,19 @@
   10-20 écrans qu'il aime → dépose dans le Drive → l'agent analyse (couleurs actives, typo, mise en page,
   composants) → DESIGN.md niveau "mon monstre réel" → maquette v2 → validation → PRD.
 - OpenDesign local reste disponible (et le skill pipeline-design ; ADR + étapes détaillées SKILL.md).
-- Mockups v1 : `brain/apps/75challenge/design/STYLE-EXPLORATION-75challenge.html` (à garder comme
+- Mockups v1 : `apps/75challenge/design/STYLE-EXPLORATION-75challenge.html` (à garder comme
   document du processus, user a validé de "Interesting" mais pas le style).
 
 ## 7. PROCHAINES ETAPES (ordre strict)
-1. [ ] Utilisateur : dépose références Refero dans le Drive (10-20 écrans aimés).
-2. [ ] Agent : analyse des références → `brain/apps/75challenge/design/DESIGN.md` (palette, typo,
-       composants,onboarding/dashboard/paywall) — niveau designer.
-3. [ ] Maquette v2 (HTML réel haute fidélité, clair+sombre) → validation utilisateur (gate G4-a).
-4. [ ] Fin du brainstorm (positionnement final + features v1 + nom final avec "75" + 5 candidates de nom).
-5. [ ] PRD (G3) → spec → plan → tasks → code (template-app + FORGE).
-6. [ ] Deadlineون de lancement visé : avant JANVIER (pic de demande = résolutions du nouvel an).
+1. [x] Design choisi + thème + maquette → `apps/75challenge/design/` (validés G4-a).
+2. [x] Brainstorm conclu → `apps/75challenge/BRAINSTORM.md`.
+3. [x] Config modèles corrigée : agents via OpenCode (règle 15 AGENTS.md + config/modeles.md).
+4. [ ] **Relancer Kimi K3 : analyse concurrentielle profonde + PRD (G3)** → remplace PRD.md.
+5. [ ] Valider PRD (G3) → spec (G3.5) → plan (G3.6) → tasks (G3.7) → code (template-app + FORGE).
+6. [ ] Deadline de lancement visé : avant JANVIER (pic de demande = résolutions du nouvel an).
 
-## 8. QUESTIONS OUVERTES (à trancher al brainstorm fin)
-- Prix exacts (Abeni non capturé — hypothèse $12.99/m) ; ma reco reste 19,99 unique + 29,99/an.
-- Multi-listing (1 app 3 intensités — reco) vs 2 apps.
-- Presets physique (2e déconvenue) : les 5 règles深入人心 d'habituels (lecture/diete/eau) sinon
-  "presets d'ambiance" (meditation lecture diete) — refined at PRD.
+## 8. QUESTIONS OUVERTES (tranchées au brainstorm fin 2026-09-29)
+- Prix : **$4.99 achat unique** (test). Abonnement écarté v1.
+- Multi-listing : **1 app** (3 intensités + perso dedans).
+- Nom : **75 Challenge**.
+- Audience : unisexe.

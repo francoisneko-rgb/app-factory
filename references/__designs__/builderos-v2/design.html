@@ -1,0 +1,1890 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BuilderOS Challenge — Design System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   CSS CUSTOM PROPERTIES — mirrored from design.md YAML tokens
+   ============================================================ */
+:root {
+  /* Colors */
+  --color-primary: #FF6B35;
+  --color-on-primary: #FFFFFF;
+  --color-primary-soft: #FFF0EB;
+  --color-accent: #E8354A;
+  --color-on-accent: #FFFFFF;
+  --color-surface: #FFFFFF;
+  --color-on-surface: #1A1A1A;
+  --color-surface-raised: #FAF9F7;
+  --color-surface-card: #FFFFFF;
+  --color-on-surface-secondary: #6B6B6B;
+  --color-on-surface-tertiary: #A0A0A0;
+  --color-border: #EBEBEB;
+  --color-border-strong: #D0D0D0;
+  --color-task-water: #4EACD8;
+  --color-task-food: #F5A623;
+  --color-task-reading: #9B6B3A;
+  --color-task-workout: #E8354A;
+  --color-task-photo: #9B59B6;
+  --color-success: #2ECC71;
+  --color-on-success: #FFFFFF;
+  --color-warning: #F5A623;
+  --color-on-warning: #FFFFFF;
+  --color-error: #E8354A;
+  --color-on-error: #FFFFFF;
+  --color-info: #4EACD8;
+  --color-on-info: #FFFFFF;
+  --color-overlay: rgba(0,0,0,0.40);
+
+  /* Typography scale */
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  --type-display-size: 40px;
+  --type-display-weight: 800;
+  --type-display-lh: 1.1;
+  --type-display-ls: -0.03em;
+  --type-h1-size: 32px;
+  --type-h1-weight: 700;
+  --type-h1-lh: 1.15;
+  --type-h1-ls: -0.02em;
+  --type-h2-size: 24px;
+  --type-h2-weight: 700;
+  --type-h2-lh: 1.2;
+  --type-h2-ls: -0.01em;
+  --type-h3-size: 18px;
+  --type-h3-weight: 600;
+  --type-h3-lh: 1.3;
+  --type-h3-ls: -0.005em;
+  --type-body-size: 16px;
+  --type-body-weight: 400;
+  --type-body-lh: 1.5;
+  --type-body-medium-weight: 500;
+  --type-caption-size: 13px;
+  --type-caption-weight: 400;
+  --type-caption-lh: 1.4;
+  --type-caption-ls: 0.01em;
+  --type-label-size: 12px;
+  --type-label-weight: 600;
+  --type-label-lh: 1.3;
+  --type-label-ls: 0.06em;
+  --type-day-counter-size: 72px;
+  --type-day-counter-weight: 800;
+  --type-day-counter-lh: 1.0;
+  --type-day-counter-ls: -0.04em;
+
+  /* Rounded */
+  --rounded-none: 0px;
+  --rounded-sm: 6px;
+  --rounded-md: 12px;
+  --rounded-lg: 16px;
+  --rounded-xl: 20px;
+  --rounded-2xl: 28px;
+  --rounded-full: 999px;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  /* Elevation shadows */
+  --shadow-raised: 0 2px 8px rgba(0,0,0,0.06);
+  --shadow-modal: 0 -4px 24px rgba(0,0,0,0.12);
+  --shadow-card: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+/* ============================================================
+   STYLE GUIDE CHROME — neutral, not product UI
+   ============================================================ */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-family);
+  background: #F5F5F5;
+  color: #1A1A1A;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.sg-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 48px 32px 96px;
+}
+
+/* Header */
+.sg-header {
+  border-bottom: 2px solid #E0E0E0;
+  padding-bottom: 32px;
+  margin-bottom: 56px;
+}
+.sg-header h1 {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--color-primary);
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
+}
+.sg-header p {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+.sg-header .sg-meta {
+  display: inline-block;
+  background: #EEE;
+  border-radius: 4px;
+  padding: 3px 10px;
+  font-size: 12px;
+  color: #555;
+  margin-top: 8px;
+  font-family: monospace;
+}
+
+/* Section */
+.sg-section {
+  margin-bottom: 72px;
+}
+.sg-section-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #111;
+  letter-spacing: -0.01em;
+  margin-bottom: 4px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #E0E0E0;
+  margin-bottom: 28px;
+}
+.sg-section-title span {
+  font-size: 13px;
+  font-weight: 400;
+  color: #999;
+  margin-left: 10px;
+  letter-spacing: 0;
+}
+
+/* Token label */
+.sg-token {
+  font-family: monospace;
+  font-size: 11px;
+  color: #888;
+  margin-top: 4px;
+  display: block;
+}
+
+/* ============================================================
+   1. COLORS
+   ============================================================ */
+.sg-colors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+}
+.sg-swatch {
+  border-radius: 10px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.sg-swatch-color {
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+}
+.sg-swatch-info {
+  padding: 8px 10px;
+  background: white;
+}
+.sg-swatch-name {
+  font-size: 11px;
+  font-weight: 600;
+  color: #333;
+  line-height: 1.3;
+}
+.sg-swatch-hex {
+  font-family: monospace;
+  font-size: 11px;
+  color: #999;
+}
+
+.sg-colors-group {
+  margin-bottom: 20px;
+}
+.sg-colors-group-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #AAA;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 10px;
+}
+
+/* ============================================================
+   2. TYPOGRAPHY
+   ============================================================ */
+.sg-type-row {
+  display: flex;
+  align-items: baseline;
+  gap: 24px;
+  padding: 16px 0;
+  border-bottom: 1px solid #F0F0F0;
+}
+.sg-type-meta {
+  min-width: 180px;
+  flex-shrink: 0;
+}
+.sg-type-meta .sg-token { margin: 0; }
+.sg-type-spec {
+  font-size: 11px;
+  color: #AAA;
+  font-family: monospace;
+  line-height: 1.6;
+  margin-top: 4px;
+}
+.sg-type-specimen {
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+}
+
+/* ============================================================
+   3. SPACING
+   ============================================================ */
+.sg-spacing-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.sg-spacing-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.sg-spacing-bar {
+  background: var(--color-primary);
+  height: 20px;
+  border-radius: 3px;
+  opacity: 0.8;
+}
+.sg-spacing-label {
+  min-width: 80px;
+  font-family: monospace;
+  font-size: 12px;
+  color: #666;
+}
+.sg-spacing-value {
+  font-family: monospace;
+  font-size: 11px;
+  color: #AAA;
+}
+
+/* ============================================================
+   4. RADIUS
+   ============================================================ */
+.sg-radius-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-end;
+}
+.sg-radius-item {
+  text-align: center;
+}
+.sg-radius-box {
+  width: 80px;
+  height: 80px;
+  background: var(--color-primary);
+  opacity: 0.85;
+  margin: 0 auto 8px;
+}
+.sg-radius-label {
+  font-family: monospace;
+  font-size: 11px;
+  color: #666;
+  display: block;
+}
+.sg-radius-value {
+  font-family: monospace;
+  font-size: 11px;
+  color: #AAA;
+  display: block;
+}
+
+/* ============================================================
+   5. ELEVATION
+   ============================================================ */
+.sg-elevation-grid {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.sg-elevation-card {
+  background: var(--color-surface);
+  border-radius: var(--rounded-xl);
+  padding: 24px;
+  width: 200px;
+  text-align: center;
+}
+.sg-elevation-card .sg-token { text-align: center; }
+.sg-elevation-card p { font-size: 12px; color: #999; margin-top: 8px; }
+
+/* ============================================================
+   6. COMPONENTS
+   ============================================================ */
+.sg-component-group {
+  margin-bottom: 40px;
+}
+.sg-component-group-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px dashed #E0E0E0;
+}
+.sg-component-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.sg-component-label {
+  font-size: 11px;
+  color: #AAA;
+  font-family: monospace;
+  margin-top: 6px;
+  display: block;
+  text-align: center;
+}
+
+/* Actual component styles — all from CSS vars */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-family);
+  font-size: var(--type-body-size);
+  font-weight: var(--type-body-medium-weight);
+  height: 52px;
+  padding: 0 28px;
+  border-radius: var(--rounded-full);
+  transition: opacity .15s;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+.btn-primary-pressed {
+  background: #E55A25;
+  color: var(--color-on-primary);
+}
+.btn-primary-disabled {
+  background: var(--color-border);
+  color: var(--color-on-surface-tertiary);
+  cursor: not-allowed;
+}
+.btn-secondary {
+  background: var(--color-surface);
+  color: var(--color-primary);
+  border: 2px solid var(--color-primary);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--color-on-surface);
+  border: 2px solid var(--color-border-strong);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  padding: 0 14px;
+  border-radius: var(--rounded-full);
+  font-size: var(--type-label-size);
+  font-weight: var(--type-label-weight);
+  letter-spacing: var(--type-label-ls);
+  font-family: var(--font-family);
+  border: none;
+  cursor: pointer;
+}
+.chip-default { background: var(--color-border); color: var(--color-on-surface); }
+.chip-active { background: var(--color-primary); color: var(--color-on-primary); }
+
+.day-badge {
+  display: inline-flex;
+  align-items: center;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: var(--rounded-md);
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font-size: var(--type-label-size);
+  font-weight: var(--type-label-weight);
+  letter-spacing: var(--type-label-ls);
+  font-family: var(--font-family);
+}
+
+.task-card {
+  background: var(--color-surface-card);
+  border-radius: var(--rounded-xl);
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  box-shadow: var(--shadow-card);
+  width: 320px;
+  min-width: 280px;
+}
+.task-card-completed {
+  background: var(--color-primary-soft);
+}
+.task-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--rounded-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+.task-body { flex: 1; }
+.task-name {
+  font-size: var(--type-body-size);
+  font-weight: var(--type-body-medium-weight);
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+}
+.task-name.done {
+  text-decoration: line-through;
+  color: var(--color-on-surface-secondary);
+}
+.task-sub {
+  font-size: var(--type-caption-size);
+  color: var(--color-on-surface-tertiary);
+  font-family: var(--font-family);
+  margin-top: 2px;
+}
+.task-check {
+  width: 26px;
+  height: 26px;
+  border-radius: var(--rounded-full);
+  border: 2px solid var(--color-border-strong);
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+.task-check.checked {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: white;
+}
+
+.stat-card {
+  background: var(--color-surface-raised);
+  border-radius: var(--rounded-xl);
+  padding: 20px;
+  min-width: 140px;
+  box-shadow: var(--shadow-raised);
+}
+.stat-value {
+  font-size: var(--type-h1-size);
+  font-weight: var(--type-h1-weight);
+  color: var(--color-primary);
+  letter-spacing: var(--type-h1-ls);
+  font-family: var(--font-family);
+  line-height: var(--type-h1-lh);
+}
+.stat-label {
+  font-size: var(--type-caption-size);
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+  margin-top: 4px;
+}
+
+.input-field {
+  background: var(--color-surface-raised);
+  border: 1px solid var(--color-border);
+  border-radius: var(--rounded-lg);
+  padding: 14px 16px;
+  height: 52px;
+  font-family: var(--font-family);
+  font-size: var(--type-body-size);
+  color: var(--color-on-surface);
+  width: 280px;
+  outline: none;
+}
+.input-field:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(255,107,53,0.15);
+}
+.input-field::placeholder { color: var(--color-on-surface-tertiary); }
+
+.progress-ring-container {
+  width: 80px;
+  height: 80px;
+  position: relative;
+}
+.progress-ring-label {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-family);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-primary);
+  line-height: 1;
+}
+.progress-ring-label small {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--color-on-surface-tertiary);
+  margin-top: 2px;
+}
+
+.toast {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  border-radius: var(--rounded-lg);
+  font-family: var(--font-family);
+  font-size: var(--type-body-size);
+  font-weight: var(--type-body-medium-weight);
+}
+.toast-success { background: var(--color-success); color: var(--color-on-success); }
+.toast-error { background: var(--color-error); color: var(--color-on-error); }
+
+/* Calendar cell */
+.cal-cell {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--rounded-md);
+  font-family: var(--font-family);
+  font-size: var(--type-caption-size);
+  font-weight: 600;
+  cursor: pointer;
+}
+.cal-default { color: var(--color-on-surface-secondary); }
+.cal-today { background: var(--color-primary-soft); color: var(--color-primary); }
+.cal-completed { background: var(--color-primary); color: var(--color-on-primary); }
+.cal-failed { background: var(--color-error); color: var(--color-on-error); }
+
+/* Avatar */
+.avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--rounded-full);
+  background: var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+/* ============================================================
+   7. DO'S AND DON'TS
+   ============================================================ */
+.sg-dd-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+.sg-dd-col {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+.sg-dd-col h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.sg-dd-col.do h3 { color: var(--color-success); }
+.sg-dd-col.dont h3 { color: var(--color-error); }
+.sg-dd-col ul { list-style: none; }
+.sg-dd-col ul li {
+  font-size: 13px;
+  color: #444;
+  padding: 8px 0;
+  border-bottom: 1px solid #F5F5F5;
+  display: flex;
+  gap: 8px;
+  line-height: 1.4;
+}
+.sg-dd-col ul li:last-child { border: none; }
+.sg-dd-col ul li .icon { flex-shrink: 0; font-size: 15px; margin-top: 1px; }
+
+/* ============================================================
+   8. DEMO SCREENS — mobile phone mockups
+   ============================================================ */
+.sg-demo-intro {
+  background: linear-gradient(135deg, var(--color-primary-soft), #FFF8F5);
+  border-radius: var(--rounded-2xl);
+  padding: 24px 28px;
+  margin-bottom: 32px;
+  border: 1px solid rgba(255,107,53,0.15);
+}
+.sg-demo-intro h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 6px;
+}
+.sg-demo-intro p { font-size: 13px; color: #7A5A4A; line-height: 1.5; }
+
+.screens-row {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.phone-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.phone-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: #666;
+  text-align: center;
+}
+
+/* Phone shell */
+.phone {
+  width: 390px;
+  height: 844px;
+  background: var(--color-surface);
+  border-radius: 50px;
+  border: 8px solid #1A1A1A;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.25), 0 0 0 2px #333;
+  flex-shrink: 0;
+}
+.phone-notch {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 28px;
+  background: #1A1A1A;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  z-index: 100;
+}
+.phone-status-bar {
+  height: 44px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 24px 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+  flex-shrink: 0;
+}
+.phone-status-icons { display: flex; gap: 5px; align-items: center; font-size: 12px; }
+.phone-content {
+  height: calc(844px - 44px - 56px - 16px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+  gap: 0;
+}
+.phone-tabbar {
+  height: 56px;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 16px;
+  background: var(--color-surface);
+  margin: 8px 0 0;
+  flex-shrink: 0;
+}
+.tab-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  font-size: 10px;
+  font-family: var(--font-family);
+  color: var(--color-on-surface-tertiary);
+  font-weight: 500;
+}
+.tab-item.active { color: var(--color-primary); }
+.tab-icon { font-size: 20px; }
+
+/* Screen: Dashboard */
+.dash-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 16px 0 12px;
+}
+.dash-greeting {
+  font-size: 14px;
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+}
+.dash-name {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+  letter-spacing: -0.015em;
+  font-family: var(--font-family);
+  margin-top: 1px;
+}
+.dash-avatar { width: 40px; height: 40px; border-radius: var(--rounded-full); background: var(--color-primary-soft); display: flex; align-items: center; justify-content: center; font-size: 18px; }
+
+.day-hero {
+  background: linear-gradient(135deg, var(--color-primary), #FF8A5B);
+  border-radius: var(--rounded-2xl);
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  flex-shrink: 0;
+}
+.day-hero-text {}
+.day-hero-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: rgba(255,255,255,0.75);
+  letter-spacing: 0.05em;
+  font-family: var(--font-family);
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+.day-hero-number {
+  font-size: 64px;
+  font-weight: 800;
+  color: white;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  font-family: var(--font-family);
+}
+.day-hero-sub {
+  font-size: 13px;
+  color: rgba(255,255,255,0.8);
+  font-family: var(--font-family);
+  margin-top: 2px;
+}
+.day-hero-rings {
+  display: flex;
+  gap: 8px;
+}
+.mini-ring {
+  width: 52px;
+  height: 52px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mini-ring-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: white;
+  position: absolute;
+  font-family: var(--font-family);
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-on-surface);
+  letter-spacing: -0.005em;
+  font-family: var(--font-family);
+  margin-bottom: 10px;
+  margin-top: 4px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section-badge {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--color-on-surface-tertiary);
+  font-family: var(--font-family);
+  letter-spacing: 0;
+}
+
+.task-list { display: flex; flex-direction: column; gap: 10px; overflow: hidden; }
+.task-row {
+  background: var(--color-surface-card);
+  border-radius: var(--rounded-xl);
+  padding: 14px 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: var(--shadow-card);
+  flex-shrink: 0;
+}
+.task-row.done-row {
+  background: var(--color-primary-soft);
+}
+.t-icon {
+  width: 40px; height: 40px;
+  border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+.t-body { flex: 1; }
+.t-name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+  line-height: 1.2;
+}
+.t-name.struck { text-decoration: line-through; color: var(--color-on-surface-secondary); }
+.t-sub {
+  font-size: 12px;
+  color: var(--color-on-surface-tertiary);
+  font-family: var(--font-family);
+  margin-top: 2px;
+}
+.t-check {
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 13px;
+}
+.t-check.open { border: 2px solid var(--color-border-strong); }
+.t-check.done { background: var(--color-primary); color: white; }
+
+/* Screen: Checklist */
+.checklist-header {
+  padding: 16px 0 12px;
+  flex-shrink: 0;
+}
+.ch-day-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-family: var(--font-family);
+}
+.ch-title {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--color-on-surface);
+  letter-spacing: -0.02em;
+  font-family: var(--font-family);
+  margin-top: 2px;
+}
+.ch-progress-bar {
+  height: 6px;
+  background: var(--color-border);
+  border-radius: var(--rounded-full);
+  margin-top: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ch-progress-fill {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: var(--rounded-full);
+}
+.ch-progress-label {
+  font-size: 12px;
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+  margin-top: 5px;
+  margin-bottom: 12px;
+  flex-shrink: 0;
+}
+.checklist-items { display: flex; flex-direction: column; gap: 10px; overflow: hidden; }
+.cl-item {
+  background: var(--color-surface-card);
+  border-radius: var(--rounded-xl);
+  padding: 16px;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  box-shadow: var(--shadow-card);
+  flex-shrink: 0;
+}
+.cl-item.done { background: var(--color-primary-soft); }
+.cl-check {
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 1px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 14px;
+}
+.cl-check.open { border: 2px solid var(--color-border-strong); }
+.cl-check.done { background: var(--color-primary); color: white; }
+.cl-body { flex: 1; }
+.cl-name {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+  line-height: 1.3;
+}
+.cl-name.struck {
+  text-decoration: line-through;
+  color: var(--color-on-surface-secondary);
+}
+.cl-detail {
+  font-size: 12px;
+  color: var(--color-on-surface-tertiary);
+  font-family: var(--font-family);
+  margin-top: 3px;
+}
+.cl-cat {
+  width: 32px; height: 32px;
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.cl-quote {
+  background: var(--color-surface-raised);
+  border-radius: var(--rounded-lg);
+  padding: 12px 14px;
+  margin-bottom: 12px;
+  flex-shrink: 0;
+  border-left: 3px solid var(--color-primary);
+}
+.cl-quote-text {
+  font-size: 12px;
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* Screen: Calendar */
+.cal-header {
+  padding: 16px 0 8px;
+  flex-shrink: 0;
+}
+.cal-month {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--color-on-surface);
+  font-family: var(--font-family);
+  letter-spacing: -0.015em;
+}
+.cal-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cal-nav-btn {
+  width: 32px; height: 32px;
+  background: var(--color-surface-raised);
+  border-radius: var(--rounded-md);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid var(--color-border);
+}
+.cal-grid {
+  margin-top: 12px;
+  flex-shrink: 0;
+}
+.cal-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-bottom: 6px;
+}
+.cal-weekday {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--color-on-surface-tertiary);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-family: var(--font-family);
+}
+.cal-cells {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+.cal-c {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: var(--font-family);
+}
+.cc-empty {}
+.cc-future { color: var(--color-on-surface-tertiary); }
+.cc-ok { background: var(--color-primary); color: var(--color-on-primary); }
+.cc-fail { background: var(--color-error); color: var(--color-on-error); }
+.cc-today { background: var(--color-primary-soft); color: var(--color-primary); outline: 2px solid var(--color-primary); outline-offset: -2px; }
+
+.cal-stats {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+  flex-shrink: 0;
+}
+.cal-stat-box {
+  flex: 1;
+  background: var(--color-surface-raised);
+  border-radius: var(--rounded-lg);
+  padding: 14px 12px;
+  box-shadow: var(--shadow-raised);
+}
+.cal-stat-num {
+  font-size: 26px;
+  font-weight: 800;
+  color: var(--color-primary);
+  letter-spacing: -0.03em;
+  font-family: var(--font-family);
+  line-height: 1;
+}
+.cal-stat-lbl {
+  font-size: 11px;
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+  margin-top: 4px;
+}
+
+.cal-legend {
+  display: flex;
+  gap: 14px;
+  margin-top: 12px;
+  flex-shrink: 0;
+}
+.cal-leg-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--color-on-surface-secondary);
+  font-family: var(--font-family);
+}
+.cal-leg-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+</style>
+</head>
+<body>
+<div class="sg-page">
+
+  <!-- HEADER -->
+  <div class="sg-header">
+    <h1>BuilderOS Challenge</h1>
+    <p>Design system pour une application de défi fitness 75 jours — public mixte 20-40 ans, mode light, ton chaleureux et motivant.</p>
+    <p style="color:#999; font-size:13px; margin-top:6px;">Ce fichier est le miroir visuel de <code>design.md</code>. Tous les styles sont dérivés des tokens YAML définis dans ce fichier source.</p>
+    <span class="sg-meta">version: alpha · BuilderOS Challenge · design.html</span>
+  </div>
+
+  <!-- ── 1. COLORS ─────────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Couleurs <span>color tokens</span></div>
+
+    <div class="sg-colors-group">
+      <div class="sg-colors-group-label">Principal & Accent</div>
+      <div class="sg-colors-grid">
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-primary);color:white;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">primary</div><div class="sg-swatch-hex">#FF6B35</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-primary-soft);color:#FF6B35;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">primary-soft</div><div class="sg-swatch-hex">#FFF0EB</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-accent);color:white;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">accent</div><div class="sg-swatch-hex">#E8354A</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-colors-group">
+      <div class="sg-colors-group-label">Surfaces & Textes</div>
+      <div class="sg-colors-grid">
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-surface);color:#1A1A1A;border:1px solid #eee;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">surface</div><div class="sg-swatch-hex">#FFFFFF</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-surface-raised);color:#1A1A1A;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">surface-raised</div><div class="sg-swatch-hex">#FAF9F7</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-on-surface);color:white;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">on-surface</div><div class="sg-swatch-hex">#1A1A1A</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-on-surface-secondary);color:white;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">on-surface-secondary</div><div class="sg-swatch-hex">#6B6B6B</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-on-surface-tertiary);color:white;">Aa</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">on-surface-tertiary</div><div class="sg-swatch-hex">#A0A0A0</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-border);color:#333;">—</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">border</div><div class="sg-swatch-hex">#EBEBEB</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-colors-group">
+      <div class="sg-colors-group-label">Catégories de tâches</div>
+      <div class="sg-colors-grid">
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-task-water);color:white;">💧</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">task-water</div><div class="sg-swatch-hex">#4EACD8</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-task-food);color:white;">🥗</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">task-food</div><div class="sg-swatch-hex">#F5A623</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-task-reading);color:white;">📖</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">task-reading</div><div class="sg-swatch-hex">#9B6B3A</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-task-workout);color:white;">🏃</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">task-workout</div><div class="sg-swatch-hex">#E8354A</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-task-photo);color:white;">📸</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">task-photo</div><div class="sg-swatch-hex">#9B59B6</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-colors-group">
+      <div class="sg-colors-group-label">États sémantiques</div>
+      <div class="sg-colors-grid">
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-success);color:white;">✓ Succès</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">success</div><div class="sg-swatch-hex">#2ECC71</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-warning);color:white;">⚠ Avert.</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">warning</div><div class="sg-swatch-hex">#F5A623</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-error);color:white;">✕ Erreur</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">error</div><div class="sg-swatch-hex">#E8354A</div></div>
+        </div>
+        <div class="sg-swatch">
+          <div class="sg-swatch-color" style="background:var(--color-info);color:white;">ℹ Info</div>
+          <div class="sg-swatch-info"><div class="sg-swatch-name">info</div><div class="sg-swatch-hex">#4EACD8</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 2. TYPOGRAPHY ─────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Typographie <span>typography tokens · Inter</span></div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.day-counter</span>
+        <div class="sg-type-spec">72px / 800 / lh1.0 / ls-0.04em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-day-counter-size);font-weight:var(--type-day-counter-weight);line-height:var(--type-day-counter-lh);letter-spacing:var(--type-day-counter-ls);color:var(--color-primary)">42</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.display</span>
+        <div class="sg-type-spec">40px / 800 / lh1.1 / ls-0.03em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-display-size);font-weight:var(--type-display-weight);line-height:var(--type-display-lh);letter-spacing:var(--type-display-ls)">75 Jours</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.h1</span>
+        <div class="sg-type-spec">32px / 700 / lh1.15 / ls-0.02em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-h1-size);font-weight:var(--type-h1-weight);line-height:var(--type-h1-lh);letter-spacing:var(--type-h1-ls)">Transforme ta vie</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.h2</span>
+        <div class="sg-type-spec">24px / 700 / lh1.2 / ls-0.01em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-h2-size);font-weight:var(--type-h2-weight);line-height:var(--type-h2-lh);letter-spacing:var(--type-h2-ls)">Tâches du jour</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.h3</span>
+        <div class="sg-type-spec">18px / 600 / lh1.3 / ls-0.005em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-h3-size);font-weight:var(--type-h3-weight);line-height:var(--type-h3-lh);letter-spacing:var(--type-h3-ls)">Première séance</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.body</span>
+        <div class="sg-type-spec">16px / 400 / lh1.5</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-lh)">Boire 3 litres d'eau — le carburant de ton défi.</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.body-medium</span>
+        <div class="sg-type-spec">16px / 500 / lh1.5</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-body-size);font-weight:var(--type-body-medium-weight);line-height:var(--type-body-lh)">Commencer le défi</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.caption</span>
+        <div class="sg-type-spec">13px / 400 / lh1.4 / ls+0.01em</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-caption-size);font-weight:var(--type-caption-weight);line-height:var(--type-caption-lh);letter-spacing:var(--type-caption-ls);color:var(--color-on-surface-secondary)">45 min · 1 jour de récupération par semaine</div>
+    </div>
+
+    <div class="sg-type-row">
+      <div class="sg-type-meta">
+        <span class="sg-token">typography.label</span>
+        <div class="sg-type-spec">12px / 600 / lh1.3 / ls+0.06em · tnum</div>
+      </div>
+      <div class="sg-type-specimen" style="font-size:var(--type-label-size);font-weight:var(--type-label-weight);line-height:var(--type-label-lh);letter-spacing:var(--type-label-ls);font-feature-settings:'tnum';text-transform:uppercase">Jour 42 · 33 restants</div>
+    </div>
+  </div>
+
+  <!-- ── 3. SPACING ────────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Espacement <span>spacing tokens</span></div>
+    <div class="sg-spacing-grid">
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.1</span><div class="sg-spacing-bar" style="width:var(--space-1)"></div><span class="sg-spacing-value">4px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.2</span><div class="sg-spacing-bar" style="width:var(--space-2)"></div><span class="sg-spacing-value">8px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.3</span><div class="sg-spacing-bar" style="width:var(--space-3)"></div><span class="sg-spacing-value">12px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.4</span><div class="sg-spacing-bar" style="width:var(--space-4)"></div><span class="sg-spacing-value">16px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.5</span><div class="sg-spacing-bar" style="width:var(--space-5)"></div><span class="sg-spacing-value">20px — marge horizontale mobile</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.6</span><div class="sg-spacing-bar" style="width:var(--space-6)"></div><span class="sg-spacing-value">24px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.8</span><div class="sg-spacing-bar" style="width:var(--space-8)"></div><span class="sg-spacing-value">32px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.10</span><div class="sg-spacing-bar" style="width:var(--space-10)"></div><span class="sg-spacing-value">40px</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.12</span><div class="sg-spacing-bar" style="width:var(--space-12)"></div><span class="sg-spacing-value">48px — hauteur zone tactile min.</span></div>
+      <div class="sg-spacing-row"><span class="sg-spacing-label">spacing.16</span><div class="sg-spacing-bar" style="width:var(--space-16)"></div><span class="sg-spacing-value">64px</span></div>
+    </div>
+  </div>
+
+  <!-- ── 4. RADIUS ─────────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Rayons <span>rounded tokens</span></div>
+    <div class="sg-radius-grid">
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-none)"></div><span class="sg-radius-label">none</span><span class="sg-radius-value">0px</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-sm)"></div><span class="sg-radius-label">sm</span><span class="sg-radius-value">6px</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-md)"></div><span class="sg-radius-label">md</span><span class="sg-radius-value">12px — calendrier</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-lg)"></div><span class="sg-radius-label">lg</span><span class="sg-radius-value">16px — input</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-xl)"></div><span class="sg-radius-label">xl</span><span class="sg-radius-value">20px — cards</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-2xl)"></div><span class="sg-radius-label">2xl</span><span class="sg-radius-value">28px — hero</span></div>
+      <div class="sg-radius-item"><div class="sg-radius-box" style="border-radius:var(--rounded-full)"></div><span class="sg-radius-label">full</span><span class="sg-radius-value">999px — boutons</span></div>
+    </div>
+  </div>
+
+  <!-- ── 5. ELEVATION ──────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Élévation <span>elevation levels</span></div>
+    <div class="sg-elevation-grid">
+      <div class="sg-elevation-card" style="background:var(--color-surface);border:1px solid var(--color-border);">
+        <p style="font-size:13px;color:#333;font-weight:600;">Flat</p>
+        <span class="sg-token" style="text-align:center">border: 1px solid border</span>
+        <p>Surfaces neutres, séparateurs de section. Pas d'ombre.</p>
+      </div>
+      <div class="sg-elevation-card" style="box-shadow:var(--shadow-card);">
+        <p style="font-size:13px;color:#333;font-weight:600;">Raised · Card</p>
+        <span class="sg-token" style="text-align:center">0 1px 4px rgba(0,0,0,.08)</span>
+        <p>Cartes de tâches, items de liste.</p>
+      </div>
+      <div class="sg-elevation-card" style="background:var(--color-surface-raised);box-shadow:var(--shadow-raised);">
+        <p style="font-size:13px;color:#333;font-weight:600;">Raised · Surface</p>
+        <span class="sg-token" style="text-align:center">0 2px 8px rgba(0,0,0,.06)</span>
+        <p>Cartes de stat, panneaux secondaires. Fond off-white.</p>
+      </div>
+      <div class="sg-elevation-card" style="box-shadow:var(--shadow-modal);">
+        <p style="font-size:13px;color:#333;font-weight:600;">Modal / Sheet</p>
+        <span class="sg-token" style="text-align:center">0 -4px 24px rgba(0,0,0,.12)</span>
+        <p>Bottom sheets, modaux de configuration.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 6. COMPONENTS ─────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Composants <span>component tokens</span></div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Boutons</div>
+      <div class="sg-component-row">
+        <div style="text-align:center">
+          <button class="btn btn-primary">Commencer le défi</button>
+          <span class="sg-component-label">button-primary</span>
+        </div>
+        <div style="text-align:center">
+          <button class="btn btn-primary-pressed">Commencer le défi</button>
+          <span class="sg-component-label">button-primary-pressed</span>
+        </div>
+        <div style="text-align:center">
+          <button class="btn btn-primary-disabled" disabled>Commencer le défi</button>
+          <span class="sg-component-label">button-primary-disabled</span>
+        </div>
+      </div>
+      <div class="sg-component-row">
+        <div style="text-align:center">
+          <button class="btn btn-secondary">Personnaliser</button>
+          <span class="sg-component-label">button-secondary</span>
+        </div>
+        <div style="text-align:center">
+          <button class="btn btn-ghost">Annuler</button>
+          <span class="sg-component-label">button-ghost</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Chips & Badges</div>
+      <div class="sg-component-row">
+        <div style="text-align:center"><span class="chip chip-default">Difficile</span><span class="sg-component-label">chip-default</span></div>
+        <div style="text-align:center"><span class="chip chip-active">Moyen</span><span class="sg-component-label">chip-active</span></div>
+        <div style="text-align:center"><span class="chip chip-default">Facile</span><span class="sg-component-label">chip-default</span></div>
+        <div style="text-align:center;margin-left:16px"><span class="day-badge">Jour 42</span><span class="sg-component-label">day-badge</span></div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Cartes de tâches</div>
+      <div class="sg-component-row">
+        <div>
+          <div class="task-card">
+            <div class="task-icon" style="background:rgba(78,172,216,0.15)">💧</div>
+            <div class="task-body">
+              <div class="task-name">Boire de l'eau</div>
+              <div class="task-sub">3 litres · objectif quotidien</div>
+            </div>
+            <div class="task-check open"></div>
+          </div>
+          <span class="sg-component-label">card-task</span>
+        </div>
+        <div>
+          <div class="task-card task-card-completed">
+            <div class="task-icon" style="background:rgba(255,107,53,0.15)">🏃</div>
+            <div class="task-body">
+              <div class="task-name done">Première séance</div>
+              <div class="task-sub">45 min · extérieur</div>
+            </div>
+            <div class="task-check checked">✓</div>
+          </div>
+          <span class="sg-component-label">card-task-completed</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Cartes de statistiques</div>
+      <div class="sg-component-row">
+        <div><div class="stat-card"><div class="stat-value">42</div><div class="stat-label">Jours complétés</div></div><span class="sg-component-label">card-stat</span></div>
+        <div><div class="stat-card"><div class="stat-value">87%</div><div class="stat-label">Progression</div></div></div>
+        <div><div class="stat-card"><div class="stat-value">33</div><div class="stat-label">Jours restants</div></div></div>
+        <div><div class="stat-card"><div class="stat-value" style="color:var(--color-task-water)">18.5L</div><div class="stat-label">Eau bue</div></div></div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Anneau de progression</div>
+      <div class="sg-component-row">
+        <div style="text-align:center">
+          <div class="progress-ring-container">
+            <svg width="80" height="80" viewBox="0 0 80 80" style="transform:rotate(-90deg)">
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-border)" stroke-width="7"/>
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-primary)" stroke-width="7" stroke-dasharray="213.6" stroke-dashoffset="47" stroke-linecap="round"/>
+            </svg>
+            <div class="progress-ring-label">78%<small>eau</small></div>
+          </div>
+          <span class="sg-component-label">progress-ring (78%)</span>
+        </div>
+        <div style="text-align:center">
+          <div class="progress-ring-container">
+            <svg width="80" height="80" viewBox="0 0 80 80" style="transform:rotate(-90deg)">
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-border)" stroke-width="7"/>
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-task-workout)" stroke-width="7" stroke-dasharray="213.6" stroke-dashoffset="0" stroke-linecap="round"/>
+            </svg>
+            <div class="progress-ring-label" style="color:var(--color-task-workout)">100%<small>sport</small></div>
+          </div>
+          <span class="sg-component-label">progress-ring (100%)</span>
+        </div>
+        <div style="text-align:center">
+          <div class="progress-ring-container">
+            <svg width="80" height="80" viewBox="0 0 80 80" style="transform:rotate(-90deg)">
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-border)" stroke-width="7"/>
+              <circle cx="40" cy="40" r="34" fill="none" stroke="var(--color-task-reading)" stroke-width="7" stroke-dasharray="213.6" stroke-dashoffset="160" stroke-linecap="round"/>
+            </svg>
+            <div class="progress-ring-label" style="color:var(--color-task-reading)">25%<small>lecture</small></div>
+          </div>
+          <span class="sg-component-label">progress-ring (25%)</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Calendrier — cellules</div>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;">
+        <div style="text-align:center"><div class="cal-cell cal-default">3</div><span class="sg-component-label">future</span></div>
+        <div style="text-align:center"><div class="cal-cell cc-ok">1</div><span class="sg-component-label">completed</span></div>
+        <div style="text-align:center"><div class="cal-cell cc-fail">12</div><span class="sg-component-label">failed</span></div>
+        <div style="text-align:center"><div class="cal-cell cc-today">28</div><span class="sg-component-label">today</span></div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Champ de saisie</div>
+      <div class="sg-component-row">
+        <div>
+          <input class="input-field" type="text" placeholder="Nom de ta règle (ex: Boire de l'eau)" />
+          <span class="sg-component-label">input-field</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Toasts / Notifications</div>
+      <div class="sg-component-row">
+        <div>
+          <div class="toast toast-success">✓ Tâche complétée !</div>
+          <span class="sg-component-label">toast-success</span>
+        </div>
+        <div>
+          <div class="toast toast-error">✕ Défi réinitialisé</div>
+          <span class="sg-component-label">toast-error</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="sg-component-group">
+      <div class="sg-component-group-title">Avatar</div>
+      <div class="sg-component-row">
+        <div style="text-align:center">
+          <div class="avatar">🧑</div>
+          <span class="sg-component-label">avatar (44px)</span>
+        </div>
+        <div style="text-align:center">
+          <div class="avatar" style="width:52px;height:52px;font-size:22px;background:var(--color-primary-soft)">👩</div>
+          <span class="sg-component-label">avatar (52px)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 7. DO'S AND DON'TS ────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Do's & Don'ts</div>
+    <div class="sg-dd-grid">
+      <div class="sg-dd-col do">
+        <h3>✓ À faire</h3>
+        <ul>
+          <li><span class="icon">✓</span>Utiliser <code>primary</code> (#FF6B35) comme unique couleur interactive — cohérence totale.</li>
+          <li><span class="icon">✓</span>Toujours afficher le numéro du jour en évidence sur le dashboard (récompense psychologique).</li>
+          <li><span class="icon">✓</span>Colorer les icônes de tâches par catégorie (water/food/reading/workout/photo) pour reconnaissance instantanée.</li>
+          <li><span class="icon">✓</span>Respecter les zones tactiles minimum : 48px de hauteur pour tout élément cliquable.</li>
+          <li><span class="icon">✓</span>Utiliser <code>rounded.full</code> exclusivement pour boutons et chips — jamais pour cartes ou modaux.</li>
+          <li><span class="icon">✓</span>Minimum 12px entre les items de liste.</li>
+        </ul>
+      </div>
+      <div class="sg-dd-col dont">
+        <h3>✗ À ne pas faire</h3>
+        <ul>
+          <li><span class="icon">✗</span>Ne jamais utiliser plus de 2 couleurs vives sur le même écran (risque "foire visuelle").</li>
+          <li><span class="icon">✗</span>Ne jamais mettre du texte blanc sur <code>primary-soft</code> — contraste insuffisant (ratio ~2.5:1).</li>
+          <li><span class="icon">✗</span>Ne jamais activer un dark mode en v1 — hors scope, incohérent avec le ton chaleureux.</li>
+          <li><span class="icon">✗</span>Ne jamais créer de grille à 2 colonnes pour les cartes de tâches — zones tactiles trop petites.</li>
+          <li><span class="icon">✗</span>Ne jamais utiliser de police serif dans l'UI native (réservé aux assets marketing).</li>
+          <li><span class="icon">✗</span>Ne jamais afficher plus de 6 tâches au-dessus du fold sans scroll indicator.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 8. DÉMO ÉCRANS ────────────────────────────────────── -->
+  <div class="sg-section">
+    <div class="sg-section-title">Démo Écrans <span>maquettes mobiles 390×844 — tokens only</span></div>
+
+    <div class="sg-demo-intro">
+      <h3>Rendu token-first</h3>
+      <p>Ces 3 maquettes sont construites exclusivement à partir des tokens du design system définis ci-dessus. Aucune valeur hardcodée en dehors des variables CSS. Elles représentent les 3 écrans principaux : Dashboard (vue d'accueil), Checklist (tâches du jour), Calendrier (suivi 75 jours).</p>
+    </div>
+
+    <div class="screens-row">
+
+      <!-- ── SCREEN 1 : DASHBOARD ── -->
+      <div class="phone-wrapper">
+        <div class="phone-title">① Dashboard — Vue d'accueil</div>
+        <div class="phone">
+          <div class="phone-notch"></div>
+          <div style="display:flex;flex-direction:column;height:100%;padding-top:0">
+            <!-- Status bar -->
+            <div class="phone-status-bar">
+              <span>9:41</span>
+              <div class="phone-status-icons">
+                <span>●●●</span>
+                <span>WiFi</span>
+                <span>🔋</span>
+              </div>
+            </div>
+            <!-- Content -->
+            <div style="flex:1;overflow:hidden;display:flex;flex-direction:column;padding:0 20px">
+              <!-- Header -->
+              <div class="dash-header">
+                <div>
+                  <div class="dash-greeting">Bonjour 👋</div>
+                  <div class="dash-name">Sarah</div>
+                </div>
+                <div class="dash-avatar">🧘</div>
+              </div>
+              <!-- Day Hero -->
+              <div class="day-hero">
+                <div class="day-hero-text">
+                  <div class="day-hero-label">75 Hard · En cours</div>
+                  <div class="day-hero-number">42</div>
+                  <div class="day-hero-sub">33 jours restants · Continue !</div>
+                </div>
+                <div style="display:flex;flex-direction:column;gap:8px;align-items:center">
+                  <!-- Ring water -->
+                  <svg width="56" height="56" viewBox="0 0 56 56" style="transform:rotate(-90deg)">
+                    <circle cx="28" cy="28" r="22" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="5"/>
+                    <circle cx="28" cy="28" r="22" fill="none" stroke="white" stroke-width="5" stroke-dasharray="138.2" stroke-dashoffset="30" stroke-linecap="round"/>
+                  </svg>
+                  <span style="font-size:10px;color:rgba(255,255,255,0.85);font-family:var(--font-family);font-weight:600;margin-top:-50px;position:relative;z-index:2">78%</span>
+                </div>
+              </div>
+              <!-- Section tasks -->
+              <div class="section-title" style="margin-top:16px">
+                Tâches du jour
+                <span class="section-badge">3 / 5</span>
+              </div>
+              <!-- Task list -->
+              <div class="task-list">
+                <div class="task-row done-row">
+                  <div class="t-icon" style="background:rgba(255,107,53,0.15)">🏃</div>
+                  <div class="t-body">
+                    <div class="t-name struck">Première séance</div>
+                    <div class="t-sub">45 min · extérieur</div>
+                  </div>
+                  <div class="t-check done">✓</div>
+                </div>
+                <div class="task-row done-row">
+                  <div class="t-icon" style="background:rgba(245,166,35,0.15)">🥗</div>
+                  <div class="t-body">
+                    <div class="t-name struck">Régime strict</div>
+                    <div class="t-sub">Zéro alcool ni triche</div>
+                  </div>
+                  <div class="t-check done">✓</div>
+                </div>
+                <div class="task-row done-row">
+                  <div class="t-icon" style="background:rgba(155,107,58,0.15)">📖</div>
+                  <div class="t-body">
+                    <div class="t-name struck">Lire 10 pages</div>
+                    <div class="t-sub">Non-fiction uniquement</div>
+                  </div>
+                  <div class="t-check done">✓</div>
+                </div>
+                <div class="task-row">
+                  <div class="t-icon" style="background:rgba(78,172,216,0.15)">💧</div>
+                  <div class="t-body">
+                    <div class="t-name">Boire de l'eau</div>
+                    <div class="t-sub">2,3 / 3 litres</div>
+                  </div>
+                  <div class="t-check open"></div>
+                </div>
+                <div class="task-row">
+                  <div class="t-icon" style="background:rgba(155,89,182,0.15)">📸</div>
+                  <div class="t-body">
+                    <div class="t-name">Photo de progression</div>
+                    <div class="t-sub">Chaque jour</div>
+                  </div>
+                  <div class="t-check open"></div>
+                </div>
+              </div>
+            </div>
+            <!-- Tab bar -->
+            <div class="phone-tabbar">
+              <div class="tab-item active"><span class="tab-icon">🏠</span>Accueil</div>
+              <div class="tab-item"><span class="tab-icon">✅</span>Tâches</div>
+              <div class="tab-item"><span class="tab-icon">📅</span>Calendrier</div>
+              <div class="tab-item"><span class="tab-icon">📊</span>Stats</div>
+              <div class="tab-item"><span class="tab-icon">👤</span>Profil</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SCREEN 2 : CHECKLIST ── -->
+      <div class="phone-wrapper">
+        <div class="phone-title">② Checklist — Tâches du jour</div>
+        <div class="phone">
+          <div class="phone-notch"></div>
+          <div style="display:flex;flex-direction:column;height:100%">
+            <div class="phone-status-bar">
+              <span>9:41</span>
+              <div class="phone-status-icons"><span>●●●</span><span>WiFi</span><span>🔋</span></div>
+            </div>
+            <div style="flex:1;overflow:hidden;display:flex;flex-direction:column;padding:0 20px">
+              <!-- Header -->
+              <div class="checklist-header">
+                <div class="ch-day-label">Lundi 28 septembre</div>
+                <div class="ch-title">Jour 42 sur 75</div>
+              </div>
+              <!-- Quote -->
+              <div class="cl-quote">
+                <div class="cl-quote-text">"Tu n'as pas besoin d'être extraordinaire pour commencer, mais tu dois commencer pour être extraordinaire." — Zig Ziglar</div>
+              </div>
+              <!-- Progress -->
+              <div class="ch-progress-bar"><div class="ch-progress-fill" style="width:60%"></div></div>
+              <div class="ch-progress-label">3 sur 5 complétées · encore 2 à faire</div>
+              <!-- Filters -->
+              <div style="display:flex;gap:8px;margin-bottom:12px;flex-shrink:0">
+                <span class="chip chip-active">Toutes</span>
+                <span class="chip chip-default">À faire</span>
+                <span class="chip chip-default">✓ Faites</span>
+              </div>
+              <!-- Checklist items -->
+              <div class="checklist-items">
+                <div class="cl-item done">
+                  <div class="cl-cat" style="background:rgba(255,107,53,0.12)">🏃</div>
+                  <div class="cl-body">
+                    <div class="cl-name struck">Première séance d'entraînement</div>
+                    <div class="cl-detail">45 min · doit être en extérieur</div>
+                  </div>
+                  <div class="cl-check done">✓</div>
+                </div>
+                <div class="cl-item done">
+                  <div class="cl-cat" style="background:rgba(245,166,35,0.12)">🥗</div>
+                  <div class="cl-body">
+                    <div class="cl-name struck">Suivre le régime strict</div>
+                    <div class="cl-detail">Zéro alcool ni repas triche</div>
+                  </div>
+                  <div class="cl-check done">✓</div>
+                </div>
+                <div class="cl-item done">
+                  <div class="cl-cat" style="background:rgba(155,107,58,0.12)">📖</div>
+                  <div class="cl-body">
+                    <div class="cl-name struck">Lire 10 pages</div>
+                    <div class="cl-detail">Non-fiction · les livres audio ne comptent pas</div>
+                  </div>
+                  <div class="cl-check done">✓</div>
+                </div>
+                <div class="cl-item">
+                  <div class="cl-cat" style="background:rgba(78,172,216,0.12)">💧</div>
+                  <div class="cl-body">
+                    <div class="cl-name">Boire 3 litres d'eau</div>
+                    <div class="cl-detail">2,3 L bus · 0,7 L restants</div>
+                  </div>
+                  <div class="cl-check open"></div>
+                </div>
+                <div class="cl-item">
+                  <div class="cl-cat" style="background:rgba(155,89,182,0.12)">📸</div>
+                  <div class="cl-body">
+                    <div class="cl-name">Photo de progression</div>
+                    <div class="cl-detail">Une photo par jour · obligatoire</div>
+                  </div>
+                  <div class="cl-check open"></div>
+                </div>
+              </div>
+            </div>
+            <div class="phone-tabbar">
+              <div class="tab-item"><span class="tab-icon">🏠</span>Accueil</div>
+              <div class="tab-item active"><span class="tab-icon">✅</span>Tâches</div>
+              <div class="tab-item"><span class="tab-icon">📅</span>Calendrier</div>
+              <div class="tab-item"><span class="tab-icon">📊</span>Stats</div>
+              <div class="tab-item"><span class="tab-icon">👤</span>Profil</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── SCREEN 3 : CALENDAR ── -->
+      <div class="phone-wrapper">
+        <div class="phone-title">③ Calendrier — Suivi 75 jours</div>
+        <div class="phone">
+          <div class="phone-notch"></div>
+          <div style="display:flex;flex-direction:column;height:100%">
+            <div class="phone-status-bar">
+              <span>9:41</span>
+              <div class="phone-status-icons"><span>●●●</span><span>WiFi</span><span>🔋</span></div>
+            </div>
+            <div style="flex:1;overflow:hidden;display:flex;flex-direction:column;padding:0 20px">
+              <!-- Calendar header -->
+              <div class="cal-header">
+                <div class="cal-nav">
+                  <div class="cal-month">Septembre 2026</div>
+                  <div style="display:flex;gap:6px">
+                    <div class="cal-nav-btn">‹</div>
+                    <div class="cal-nav-btn">›</div>
+                  </div>
+                </div>
+              </div>
+              <!-- Calendar grid -->
+              <div class="cal-grid">
+                <div class="cal-weekdays">
+                  <div class="cal-weekday">L</div>
+                  <div class="cal-weekday">M</div>
+                  <div class="cal-weekday">M</div>
+                  <div class="cal-weekday">J</div>
+                  <div class="cal-weekday">V</div>
+                  <div class="cal-weekday">S</div>
+                  <div class="cal-weekday">D</div>
+                </div>
+                <div class="cal-cells">
+                  <!-- Week 1 (start offset Mon) -->
+                  <div class="cal-c cc-empty"></div>
+                  <div class="cal-c cc-ok">2</div>
+                  <div class="cal-c cc-ok">3</div>
+                  <div class="cal-c cc-ok">4</div>
+                  <div class="cal-c cc-ok">5</div>
+                  <div class="cal-c cc-ok">6</div>
+                  <div class="cal-c cc-ok">7</div>
+                  <!-- Week 2 -->
+                  <div class="cal-c cc-ok">8</div>
+                  <div class="cal-c cc-ok">9</div>
+                  <div class="cal-c cc-ok">10</div>
+                  <div class="cal-c cc-ok">11</div>
+                  <div class="cal-c cc-ok">12</div>
+                  <div class="cal-c cc-ok">13</div>
+                  <div class="cal-c cc-fail">14</div>
+                  <!-- Week 3 -->
+                  <div class="cal-c cc-ok">15</div>
+                  <div class="cal-c cc-ok">16</div>
+                  <div class="cal-c cc-ok">17</div>
+                  <div class="cal-c cc-ok">18</div>
+                  <div class="cal-c cc-ok">19</div>
+                  <div class="cal-c cc-ok">20</div>
+                  <div class="cal-c cc-ok">21</div>
+                  <!-- Week 4 -->
+                  <div class="cal-c cc-ok">22</div>
+                  <div class="cal-c cc-ok">23</div>
+                  <div class="cal-c cc-ok">24</div>
+                  <div class="cal-c cc-ok">25</div>
+                  <div class="cal-c cc-ok">26</div>
+                  <div class="cal-c cc-ok">27</div>
+                  <div class="cal-c cc-today">28</div>
+                  <!-- Week 5 (future) -->
+                  <div class="cal-c cc-future">29</div>
+                  <div class="cal-c cc-future">30</div>
+                  <div class="cal-c cc-empty"></div>
+                  <div class="cal-c cc-empty"></div>
+                  <div class="cal-c cc-empty"></div>
+                  <div class="cal-c cc-empty"></div>
+                  <div class="cal-c cc-empty"></div>
+                </div>
+              </div>
+              <!-- Legend -->
+              <div class="cal-legend">
+                <div class="cal-leg-item"><div class="cal-leg-dot" style="background:var(--color-primary)"></div>Complété</div>
+                <div class="cal-leg-item"><div class="cal-leg-dot" style="background:var(--color-error)"></div>Raté</div>
+                <div class="cal-leg-item"><div class="cal-leg-dot" style="background:var(--color-primary-soft);border:1px solid var(--color-primary)"></div>Aujourd'hui</div>
+                <div class="cal-leg-item"><div class="cal-leg-dot" style="background:var(--color-border)"></div>À venir</div>
+              </div>
+              <!-- Stats -->
+              <div class="cal-stats">
+                <div class="cal-stat-box">
+                  <div class="cal-stat-num">41</div>
+                  <div class="cal-stat-lbl">Jours ✓</div>
+                </div>
+                <div class="cal-stat-box">
+                  <div class="cal-stat-num" style="color:var(--color-error)">1</div>
+                  <div class="cal-stat-lbl">Jour raté</div>
+                </div>
+                <div class="cal-stat-box">
+                  <div class="cal-stat-num" style="color:var(--color-on-surface-secondary)">33</div>
+                  <div class="cal-stat-lbl">Restants</div>
+                </div>
+                <div class="cal-stat-box">
+                  <div class="cal-stat-num" style="font-size:20px">🔥 13</div>
+                  <div class="cal-stat-lbl">Streak actuel</div>
+                </div>
+              </div>
+              <!-- CTA -->
+              <div style="margin-top:14px;flex-shrink:0">
+                <button class="btn btn-primary" style="width:100%;justify-content:center">Voir mes stats complètes</button>
+              </div>
+            </div>
+            <div class="phone-tabbar">
+              <div class="tab-item"><span class="tab-icon">🏠</span>Accueil</div>
+              <div class="tab-item"><span class="tab-icon">✅</span>Tâches</div>
+              <div class="tab-item active"><span class="tab-icon">📅</span>Calendrier</div>
+              <div class="tab-item"><span class="tab-icon">📊</span>Stats</div>
+              <div class="tab-item"><span class="tab-icon">👤</span>Profil</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /screens-row -->
+  </div>
+
+  <div style="border-top:1px solid #E0E0E0;padding-top:24px;color:#BBB;font-size:12px;font-family:monospace;">
+    BuilderOS Challenge Design System · version alpha · Généré le 2026-09-28 · Source de vérité : design.md
+  </div>
+
+</div>
+</body>
+</html>

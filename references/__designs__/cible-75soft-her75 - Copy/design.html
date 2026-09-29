@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Challenge 75 — Design System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   TOKENS — source of truth (mirrored from design.md)
+   ============================================================ */
+:root {
+  /* Backgrounds & Surfaces */
+  --color-background:       #FFFFFF;
+  --color-surface:          #F9F9F7;
+  --color-surface-alt:      #F2F1EE;
+  --color-surface-card:     #FFFFFF;
+
+  /* Text */
+  --color-on-background:    #111111;
+  --color-on-surface:       #1A1A1A;
+  --color-on-surface-2:     #6B6B6B;
+  --color-on-surface-3:     #AAAAAA;
+
+  /* Accent */
+  --color-accent:           #FF6B5B;
+  --color-on-accent:        #FFFFFF;
+  --color-accent-soft:      #FFF0EE;
+
+  /* Category colors */
+  --color-cat-water:        #4DC8D8;
+  --color-cat-food:         #F4A24A;
+  --color-cat-reading:      #F0C84A;
+  --color-cat-workout:      #E8507A;
+  --color-cat-water-bg:     #E8F8FA;
+  --color-cat-food-bg:      #FEF3E7;
+  --color-cat-reading-bg:   #FEFAE7;
+  --color-cat-workout-bg:   #FDEDF2;
+
+  /* Gradients starts */
+  --color-grad-coral-s:     #FF8070;
+  --color-grad-coral-e:     #FF5A47;
+  --color-grad-teal-s:      #5BCFDA;
+  --color-grad-teal-e:      #2BB8C8;
+  --color-grad-amber-s:     #F5B84C;
+  --color-grad-amber-e:     #F09B20;
+  --color-grad-pink-s:      #F06090;
+  --color-grad-pink-e:      #E0407A;
+
+  /* Semantic */
+  --color-success:          #34C759;
+  --color-on-success:       #FFFFFF;
+  --color-success-soft:     #E8F8EE;
+  --color-warning:          #FF9F0A;
+  --color-error:            #FF3B30;
+  --color-border:           #E8E8E4;
+  --color-border-strong:    #C8C8C4;
+
+  /* Rule badges */
+  --color-badge-1:          #F5E8D8;
+  --color-badge-2:          #D8EEF0;
+  --color-badge-3:          #F5D8D8;
+  --color-badge-4:          #D8F0E4;
+  --color-badge-5:          #E8D8F5;
+
+  /* Typography */
+  --font-serif:   'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-sans:    'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --type-display-size:    40px;
+  --type-h1-size:         28px;
+  --type-h2-size:         22px;
+  --type-h3-size:         17px;
+  --type-body-size:       15px;
+  --type-caption-size:    12px;
+  --type-day-size:        64px;
+  --type-cal-size:        13px;
+  --type-btn-size:        15px;
+
+  /* Rounded */
+  --rounded-none:   0px;
+  --rounded-xs:     4px;
+  --rounded-sm:     8px;
+  --rounded-md:     12px;
+  --rounded-lg:     16px;
+  --rounded-xl:     20px;
+  --rounded-xxl:    28px;
+  --rounded-full:   9999px;
+
+  /* Spacing */
+  --space-1:   4px;
+  --space-2:   8px;
+  --space-3:   12px;
+  --space-4:   16px;
+  --space-5:   20px;
+  --space-6:   24px;
+  --space-8:   32px;
+  --space-10:  40px;
+  --space-12:  48px;
+  --space-16:  64px;
+  --space-20:  80px;
+}
+
+/* ============================================================
+   GUIDE CHROME (neutral, not product UI)
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background: #F5F5F2;
+  padding: 0 0 80px;
+}
+
+.guide-header {
+  background: #111;
+  color: #fff;
+  padding: 48px 40px 40px;
+}
+.guide-header h1 { font-family: var(--font-serif); font-style: italic; font-size: 36px; font-weight: 700; color: #fff; margin-bottom: 8px; }
+.guide-header p { color: #aaa; font-size: 14px; max-width: 600px; }
+.guide-header .badge { display: inline-block; margin-top: 12px; padding: 4px 10px; background: #333; border-radius: 4px; font-size: 11px; color: #aaa; font-family: monospace; }
+
+.section { max-width: 1100px; margin: 40px auto 0; padding: 0 24px; }
+.section-title { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #888; margin-bottom: 20px; padding-bottom: 8px; border-bottom: 1px solid #ddd; }
+
+.grid { display: grid; gap: 12px; }
+.grid-2  { grid-template-columns: repeat(2, 1fr); }
+.grid-3  { grid-template-columns: repeat(3, 1fr); }
+.grid-4  { grid-template-columns: repeat(4, 1fr); }
+.grid-5  { grid-template-columns: repeat(5, 1fr); }
+.grid-auto { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+
+.label { font-size: 11px; color: #888; font-family: monospace; margin-top: 6px; display: block; }
+.value { font-size: 11px; color: #555; font-family: monospace; display: block; }
+
+/* ============================================================
+   1. COLOR SWATCHES
+   ============================================================ */
+.swatch-card { border-radius: 10px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+.swatch-block { height: 72px; width: 100%; }
+.swatch-info { padding: 10px 12px; }
+.swatch-info .token { font-size: 11px; font-family: monospace; color: #333; font-weight: 600; }
+.swatch-info .hex   { font-size: 11px; font-family: monospace; color: #888; }
+.swatch-info .sample { font-size: 11px; margin-top: 4px; }
+
+.color-group-title { font-size: 12px; font-weight: 600; color: #555; margin: 24px 0 10px; letter-spacing: 0.04em; text-transform: uppercase; }
+
+/* ============================================================
+   2. TYPOGRAPHY SPECIMENS
+   ============================================================ */
+.type-row { background: #fff; border-radius: 10px; padding: 20px 24px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); margin-bottom: 8px; display: flex; align-items: baseline; gap: 32px; }
+.type-specimen { flex: 1; }
+.type-meta { min-width: 220px; font-size: 11px; color: #888; font-family: monospace; line-height: 1.8; }
+
+/* ============================================================
+   3. SPACING
+   ============================================================ */
+.spacing-row { display: flex; align-items: center; gap: 16px; margin-bottom: 8px; }
+.spacing-bar { background: var(--color-accent); border-radius: 3px; height: 16px; flex-shrink: 0; }
+.spacing-label { font-family: monospace; font-size: 12px; color: #555; }
+
+/* ============================================================
+   4. RADIUS
+   ============================================================ */
+.radius-card { background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.08); width: 80px; height: 80px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.radius-label { font-size: 10px; font-family: monospace; color: #888; margin-top: 6px; text-align: center; }
+
+/* ============================================================
+   5. ELEVATION
+   ============================================================ */
+.elev-card { background: #fff; border-radius: 16px; padding: 20px 24px; }
+.elev-label { font-size: 11px; font-family: monospace; color: #888; margin-top: 8px; }
+
+/* ============================================================
+   6. COMPONENTS
+   ============================================================ */
+.component-section { background: #fff; border-radius: 12px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); margin-bottom: 16px; }
+.component-title { font-size: 12px; font-weight: 700; color: #333; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.05em; }
+.component-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 12px; }
+
+/* Task rings */
+.ring-wrap { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.ring { width: 80px; height: 80px; border-radius: 50%; position: relative; display: flex; align-items: center; justify-content: center; }
+.ring svg { position: absolute; top: 0; left: 0; transform: rotate(-90deg); }
+.ring-label { font-size: 11px; font-weight: 600; color: inherit; }
+.ring-name { font-size: 10px; color: #888; font-family: monospace; }
+
+/* Rule cards */
+.rule-card { background: var(--color-surface-card); border-radius: var(--rounded-lg); padding: 0 var(--space-4); height: 64px; display: flex; align-items: center; gap: var(--space-3); box-shadow: 0 2px 8px rgba(0,0,0,0.06); min-width: 280px; }
+.rule-badge-num { width: 36px; height: 36px; border-radius: var(--rounded-md); display: flex; align-items: center; justify-content: center; font-family: var(--font-sans); font-size: 15px; font-weight: 700; flex-shrink: 0; }
+.rule-text { flex: 1; font-family: var(--font-sans); font-size: var(--type-body-size); color: var(--color-on-surface); }
+.rule-check { color: var(--color-on-surface-3); font-size: 16px; }
+
+/* Calendar */
+.cal-grid { display: grid; grid-template-columns: repeat(10, 36px); gap: 4px; }
+.cal-cell { width: 36px; height: 36px; border-radius: var(--rounded-sm); display: flex; align-items: center; justify-content: center; font-family: var(--font-sans); font-size: var(--type-cal-size); font-weight: 500; }
+
+/* Buttons */
+.btn { display: inline-flex; align-items: center; justify-content: center; border: none; cursor: pointer; font-family: var(--font-sans); font-size: var(--type-btn-size); font-weight: 600; letter-spacing: 0.005em; border-radius: var(--rounded-full); padding: 0 32px; height: 52px; text-decoration: none; }
+.btn-primary  { background: var(--color-on-background); color: var(--color-background); }
+.btn-primary-pressed { background: #333; color: var(--color-background); }
+.btn-accent   { background: var(--color-accent); color: var(--color-on-accent); }
+.btn-ghost    { background: transparent; color: var(--color-on-surface); border: 1.5px solid var(--color-border-strong); }
+
+/* Chips */
+.chip { display: inline-flex; align-items: center; border-radius: var(--rounded-full); padding: 0 14px; height: 28px; font-family: var(--font-sans); font-size: 12px; font-weight: 600; }
+.chip-default { background: var(--color-surface-alt); color: var(--color-on-surface-2); }
+.chip-active  { background: var(--color-on-background); color: var(--color-background); }
+
+/* Tags */
+.tag-completed { display: inline-flex; align-items: center; background: var(--color-success); color: var(--color-on-success); border-radius: var(--rounded-full); padding: 0 12px; height: 24px; font-size: 12px; font-weight: 600; }
+
+/* Challenge headers */
+.challenge-header-demo { border-radius: var(--rounded-xxl); padding: 24px; color: #fff; min-height: 100px; display: flex; flex-direction: column; justify-content: flex-end; }
+.challenge-header-demo h3 { font-family: var(--font-sans); font-size: var(--type-h2-size); font-weight: 700; color: #fff; }
+.challenge-header-demo p { font-family: var(--font-sans); font-size: var(--type-body-size); color: rgba(255,255,255,0.8); margin-top: 4px; }
+
+/* Avatars */
+.avatar { border-radius: 50%; background: var(--color-surface-alt); overflow: hidden; display: flex; align-items: center; justify-content: center; font-weight: 700; color: var(--color-on-surface-2); font-family: var(--font-sans); }
+.avatar-sm { width: 36px; height: 36px; font-size: 14px; }
+.avatar-lg { width: 56px; height: 56px; font-size: 18px; }
+
+/* Dos and Donts */
+.dd-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.dd-col { background: #fff; border-radius: 12px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.dd-col h4 { font-size: 13px; font-weight: 700; margin-bottom: 16px; }
+.dd-col.dos h4 { color: #1a7a3a; }
+.dd-col.donts h4 { color: #c0392b; }
+.dd-item { display: flex; gap: 10px; margin-bottom: 10px; font-size: 13px; line-height: 1.5; color: #444; }
+.dd-icon { font-size: 15px; flex-shrink: 0; margin-top: 1px; }
+
+/* ============================================================
+   DEMO SCREENS
+   ============================================================ */
+.screens-section { max-width: 1200px; margin: 48px auto 0; padding: 0 24px; }
+.screens-section .section-title { font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #888; margin-bottom: 24px; padding-bottom: 8px; border-bottom: 1px solid #ddd; }
+.screens-row { display: flex; gap: 32px; flex-wrap: wrap; justify-content: center; }
+
+/* Phone shell */
+.phone { width: 390px; background: var(--color-background); border-radius: 48px; overflow: hidden; box-shadow: 0 24px 64px rgba(0,0,0,0.18), 0 2px 8px rgba(0,0,0,0.08), inset 0 0 0 1px rgba(0,0,0,0.08); flex-shrink: 0; }
+.phone-status { background: var(--color-background); height: 50px; display: flex; align-items: center; justify-content: space-between; padding: 0 28px; }
+.phone-status .time { font-family: var(--font-sans); font-size: 15px; font-weight: 600; color: var(--color-on-background); }
+.phone-status .icons { display: flex; gap: 6px; align-items: center; }
+.phone-status .icons span { font-size: 12px; color: var(--color-on-background); }
+.phone-content { padding: 0 0 32px; overflow: hidden; }
+.phone-label { text-align: center; font-size: 12px; color: #888; margin-top: 16px; font-family: monospace; }
+
+/* ---- SCREEN 1: Dashboard ---- */
+.s1-header { background: linear-gradient(135deg, var(--color-grad-coral-s), var(--color-grad-coral-e)); padding: 20px 20px 28px; border-radius: 0 0 32px 32px; }
+.s1-header-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.s1-header-top .app-name { font-family: var(--font-sans); font-size: 13px; font-weight: 600; color: rgba(255,255,255,0.85); }
+.s1-header-top .streak { background: rgba(255,255,255,0.25); border-radius: var(--rounded-full); padding: 4px 10px; font-size: 12px; font-weight: 600; color: #fff; }
+.s1-day-hero { display: flex; align-items: baseline; gap: 8px; }
+.s1-day-number { font-family: var(--font-sans); font-size: 64px; font-weight: 800; color: #fff; line-height: 1; letter-spacing: -0.03em; }
+.s1-day-label { font-family: var(--font-sans); font-size: 17px; font-weight: 400; color: rgba(255,255,255,0.75); }
+.s1-quote { font-family: var(--font-serif); font-style: italic; font-size: 13px; color: rgba(255,255,255,0.8); margin-top: 8px; line-height: 1.4; }
+
+.s1-body { padding: 20px 20px 0; }
+.s1-section-label { font-family: var(--font-sans); font-size: 13px; font-weight: 600; color: var(--color-on-surface-2); margin-bottom: 14px; display: flex; justify-content: space-between; }
+.s1-section-label span { font-weight: 400; color: var(--color-accent); }
+
+.s1-rings { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin-bottom: 20px; }
+.s1-ring-card { background: var(--color-surface-card); border-radius: var(--rounded-xl); padding: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); display: flex; align-items: center; gap: 12px; }
+.s1-ring-icon { width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; position: relative; }
+.s1-ring-icon svg { position: absolute; top: 0; left: 0; }
+.s1-ring-info { flex: 1; min-width: 0; }
+.s1-ring-name { font-size: 13px; font-weight: 600; color: var(--color-on-surface); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.s1-ring-prog { font-size: 11px; color: var(--color-on-surface-2); margin-top: 2px; }
+.s1-ring-check { font-size: 16px; flex-shrink: 0; }
+
+.s1-nav { height: 60px; border-top: 1px solid var(--color-border); display: flex; align-items: center; justify-content: space-around; padding: 0 12px; margin-top: 8px; }
+.s1-nav-item { display: flex; flex-direction: column; align-items: center; gap: 3px; font-size: 10px; color: var(--color-on-surface-3); flex: 1; }
+.s1-nav-item.active { color: var(--color-on-background); }
+.s1-nav-icon { font-size: 20px; }
+
+/* ---- SCREEN 2: Task List ---- */
+.s2-header { padding: 16px 20px 0; }
+.s2-title { font-family: var(--font-sans); font-size: var(--type-h2-size); font-weight: 700; color: var(--color-on-background); }
+.s2-subtitle { font-family: var(--font-sans); font-size: var(--type-body-size); color: var(--color-on-surface-2); margin-top: 2px; }
+
+.s2-chips { display: flex; gap: 8px; padding: 16px 20px; overflow-x: auto; }
+.s2-chips::-webkit-scrollbar { display: none; }
+
+.s2-rules { padding: 0 20px; display: flex; flex-direction: column; gap: 10px; }
+
+.s2-cat-header { font-size: 12px; font-weight: 700; color: var(--color-on-surface-2); text-transform: uppercase; letter-spacing: 0.05em; margin: 16px 0 8px; padding-left: 4px; }
+
+/* ---- SCREEN 3: Calendar ---- */
+.s3-header { padding: 16px 20px 0; }
+.s3-title { font-family: var(--font-serif); font-style: italic; font-size: 28px; font-weight: 700; color: var(--color-on-background); }
+.s3-tag { display: inline-flex; align-items: center; background: var(--color-success-soft); color: var(--color-success); border-radius: var(--rounded-full); padding: 4px 12px; font-size: 12px; font-weight: 600; margin-top: 6px; }
+
+.s3-stats { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; padding: 16px 20px; }
+.s3-stat { background: var(--color-surface); border-radius: var(--rounded-lg); padding: 12px; text-align: center; }
+.s3-stat-num { font-size: 22px; font-weight: 800; color: var(--color-on-background); font-family: var(--font-sans); letter-spacing: -0.02em; }
+.s3-stat-label { font-size: 10px; color: var(--color-on-surface-2); margin-top: 2px; }
+
+.s3-cal-wrap { padding: 0 20px; }
+.s3-cal-label { font-size: 12px; font-weight: 600; color: var(--color-on-surface-2); margin-bottom: 10px; }
+.s3-cal { display: grid; grid-template-columns: repeat(10, 1fr); gap: 3px; }
+.s3-cell { aspect-ratio: 1; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 500; font-family: var(--font-sans); }
+.s3-cell.done  { background: var(--color-accent); color: #fff; }
+.s3-cell.today { background: var(--color-on-background); color: #fff; }
+.s3-cell.empty { background: var(--color-surface-alt); color: var(--color-on-surface-3); }
+.s3-cell.cur   { background: var(--color-surface-alt); color: var(--color-on-surface-2); border: 1.5px solid var(--color-border-strong); }
+
+.s3-legend { display: flex; gap: 16px; padding: 12px 20px 0; }
+.s3-leg { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--color-on-surface-2); }
+.s3-leg-dot { width: 10px; height: 10px; border-radius: 3px; flex-shrink: 0; }
+</style>
+</head>
+<body>
+
+<!-- ============================================================
+     HEADER
+     ============================================================ -->
+<div class="guide-header">
+  <h1>Challenge 75 <em style="font-style:italic">Design System</em></h1>
+  <p>Design system for a 75-day fitness challenge app — fusing the structured colorful ring UI of 75 Soft with the editorial white-space and serif typography of Her 75.</p>
+  <span class="badge">Mirror of design.md — human-readable style guide</span>
+</div>
+
+<!-- ============================================================
+     1. COLORS
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">1 — Colors</div>
+
+  <div class="color-group-title">Backgrounds & Surfaces</div>
+  <div class="grid grid-auto">
+    <div class="swatch-card"><div class="swatch-block" style="background:#FFFFFF;border:1px solid #eee;"></div><div class="swatch-info"><span class="token">background</span><span class="hex">#FFFFFF</span><span class="sample" style="color:#1A1A1A">Body text on bg</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#F9F9F7;"></div><div class="swatch-info"><span class="token">surface</span><span class="hex">#F9F9F7</span><span class="sample" style="color:#1A1A1A">Screen bg</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#F2F1EE;"></div><div class="swatch-info"><span class="token">surface-alt</span><span class="hex">#F2F1EE</span><span class="sample" style="color:#1A1A1A">Card bg alt</span></div></div>
+  </div>
+
+  <div class="color-group-title">Text</div>
+  <div class="grid grid-auto">
+    <div class="swatch-card"><div class="swatch-block" style="background:#111111;"></div><div class="swatch-info"><span class="token">on-background</span><span class="hex">#111111</span><span class="sample" style="background:#111;color:#fff;padding:2px 4px;border-radius:3px;font-size:10px">Primary text</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#6B6B6B;"></div><div class="swatch-info"><span class="token">on-surface-2</span><span class="hex">#6B6B6B</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#AAAAAA;"></div><div class="swatch-info"><span class="token">on-surface-3</span><span class="hex">#AAAAAA</span></div></div>
+  </div>
+
+  <div class="color-group-title">Brand Accent</div>
+  <div class="grid grid-auto">
+    <div class="swatch-card"><div class="swatch-block" style="background:#FF6B5B;"></div><div class="swatch-info"><span class="token">accent</span><span class="hex">#FF6B5B</span><span class="sample" style="color:#FF6B5B">CTA color</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#FFF0EE;"></div><div class="swatch-info"><span class="token">accent-soft</span><span class="hex">#FFF0EE</span></div></div>
+  </div>
+
+  <div class="color-group-title">Category Colors (rings)</div>
+  <div class="grid grid-4">
+    <div class="swatch-card"><div class="swatch-block" style="background:#4DC8D8;"></div><div class="swatch-info"><span class="token">cat-water</span><span class="hex">#4DC8D8</span><div class="swatch-block" style="background:#E8F8FA;height:24px;border-radius:4px;margin-top:4px;"></div><span class="hex">bg: #E8F8FA</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#F4A24A;"></div><div class="swatch-info"><span class="token">cat-food</span><span class="hex">#F4A24A</span><div class="swatch-block" style="background:#FEF3E7;height:24px;border-radius:4px;margin-top:4px;"></div><span class="hex">bg: #FEF3E7</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#F0C84A;"></div><div class="swatch-info"><span class="token">cat-reading</span><span class="hex">#F0C84A</span><div class="swatch-block" style="background:#FEFAE7;height:24px;border-radius:4px;margin-top:4px;"></div><span class="hex">bg: #FEFAE7</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#E8507A;"></div><div class="swatch-info"><span class="token">cat-workout</span><span class="hex">#E8507A</span><div class="swatch-block" style="background:#FDEDF2;height:24px;border-radius:4px;margin-top:4px;"></div><span class="hex">bg: #FDEDF2</span></div></div>
+  </div>
+
+  <div class="color-group-title">Challenge Header Gradients</div>
+  <div class="grid grid-4">
+    <div class="swatch-card"><div class="swatch-block" style="background:linear-gradient(135deg,#FF8070,#FF5A47);"></div><div class="swatch-info"><span class="token">grad-coral</span><span class="hex">#FF8070 → #FF5A47</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:linear-gradient(135deg,#5BCFDA,#2BB8C8);"></div><div class="swatch-info"><span class="token">grad-teal</span><span class="hex">#5BCFDA → #2BB8C8</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:linear-gradient(135deg,#F5B84C,#F09B20);"></div><div class="swatch-info"><span class="token">grad-amber</span><span class="hex">#F5B84C → #F09B20</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:linear-gradient(135deg,#F06090,#E0407A);"></div><div class="swatch-info"><span class="token">grad-pink</span><span class="hex">#F06090 → #E0407A</span></div></div>
+  </div>
+
+  <div class="color-group-title">Semantic States</div>
+  <div class="grid grid-auto">
+    <div class="swatch-card"><div class="swatch-block" style="background:#34C759;"></div><div class="swatch-info"><span class="token">success</span><span class="hex">#34C759</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#E8F8EE;"></div><div class="swatch-info"><span class="token">success-soft</span><span class="hex">#E8F8EE</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#FF9F0A;"></div><div class="swatch-info"><span class="token">warning</span><span class="hex">#FF9F0A</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#FF3B30;"></div><div class="swatch-info"><span class="token">error</span><span class="hex">#FF3B30</span></div></div>
+  </div>
+
+  <div class="color-group-title">Rule Badge Backgrounds (Her 75 style)</div>
+  <div class="grid grid-5">
+    <div class="swatch-card"><div class="swatch-block" style="background:#F5E8D8;"></div><div class="swatch-info"><span class="token">badge-1</span><span class="hex">#F5E8D8</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#D8EEF0;"></div><div class="swatch-info"><span class="token">badge-2</span><span class="hex">#D8EEF0</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#F5D8D8;"></div><div class="swatch-info"><span class="token">badge-3</span><span class="hex">#F5D8D8</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#D8F0E4;"></div><div class="swatch-info"><span class="token">badge-4</span><span class="hex">#D8F0E4</span></div></div>
+    <div class="swatch-card"><div class="swatch-block" style="background:#E8D8F5;"></div><div class="swatch-info"><span class="token">badge-5</span><span class="hex">#E8D8F5</span></div></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     2. TYPOGRAPHY
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">2 — Typography</div>
+
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Playfair Display',Georgia,serif;font-size:40px;font-weight:700;font-style:italic;line-height:1.1;letter-spacing:-0.01em;color:#111;">Start your challenge</span></div>
+    <div class="type-meta">display-serif-italic<br>Playfair Display Italic Bold<br>40px / 700 / lh 1.1<br>→ Remplaçant : Playfair Display<br>(Georgia en fallback)</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Playfair Display',Georgia,serif;font-size:40px;font-weight:700;line-height:1.1;letter-spacing:-0.01em;color:#111;">Follow your routine</span></div>
+    <div class="type-meta">display-serif<br>Playfair Display Bold<br>40px / 700 / lh 1.1</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:28px;font-weight:700;line-height:1.2;letter-spacing:-0.02em;color:#111;">75 Day Hard Challenge</span></div>
+    <div class="type-meta">h1<br>Inter Bold<br>28px / 700 / lh 1.2</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:22px;font-weight:700;line-height:1.25;letter-spacing:-0.01em;color:#111;">Daily Tasks 1/4</span></div>
+    <div class="type-meta">h2<br>Inter Bold<br>22px / 700 / lh 1.25</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:17px;font-weight:600;line-height:1.3;color:#111;">Drink water · 3 litres</span></div>
+    <div class="type-meta">h3<br>Inter SemiBold<br>17px / 600 / lh 1.3</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:15px;font-weight:400;line-height:1.5;color:#1A1A1A;">Follow a strict diet (no cheat meals, no alcohol)</span></div>
+    <div class="type-meta">body<br>Inter Regular<br>15px / 400 / lh 1.5</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:15px;font-weight:500;line-height:1.5;color:#1A1A1A;">Do two 45-minute workouts per day</span></div>
+    <div class="type-meta">body-medium<br>Inter Medium<br>15px / 500 / lh 1.5</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:12px;font-weight:400;line-height:1.4;color:#6B6B6B;">Day 49 · 26 days remaining</span></div>
+    <div class="type-meta">caption<br>Inter Regular<br>12px / 400 / lh 1.4</div>
+  </div>
+  <div class="type-row">
+    <div class="type-specimen"><span style="font-family:'Inter',sans-serif;font-size:64px;font-weight:800;line-height:1;letter-spacing:-0.03em;color:#111;">49</span></div>
+    <div class="type-meta">day-number<br>Inter ExtraBold<br>64px / 800 / lh 1.0<br>Dashboard hero only</div>
+  </div>
+</div>
+
+<!-- ============================================================
+     3. SPACING
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">3 — Spacing</div>
+  <div style="background:#fff;border-radius:12px;padding:24px;box-shadow:0 1px 4px rgba(0,0,0,0.06);">
+    <div class="spacing-row"><div class="spacing-bar" style="width:4px;"></div><span class="spacing-label">space-1 · 4px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:8px;"></div><span class="spacing-label">space-2 · 8px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:12px;"></div><span class="spacing-label">space-3 · 12px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:16px;"></div><span class="spacing-label">space-4 · 16px — card internal padding</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:20px;"></div><span class="spacing-label">space-5 · 20px — screen horizontal padding</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:24px;"></div><span class="spacing-label">space-6 · 24px — section gap</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:32px;"></div><span class="spacing-label">space-8 · 32px — section top margin</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:40px;"></div><span class="spacing-label">space-10 · 40px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:48px;"></div><span class="spacing-label">space-12 · 48px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:64px;"></div><span class="spacing-label">space-16 · 64px</span></div>
+    <div class="spacing-row"><div class="spacing-bar" style="width:80px;"></div><span class="spacing-label">space-20 · 80px</span></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     4. RADIUS
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">4 — Border Radius</div>
+  <div style="display:flex;flex-wrap:wrap;gap:16px;background:#fff;border-radius:12px;padding:24px;box-shadow:0 1px 4px rgba(0,0,0,0.06);">
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:0px;border:1.5px solid #ddd;"></div><div class="radius-label">none · 0px</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:4px;border:1.5px solid #ddd;"></div><div class="radius-label">xs · 4px</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:8px;border:1.5px solid #ddd;"></div><div class="radius-label">sm · 8px<br>calendar cells</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:12px;border:1.5px solid #ddd;"></div><div class="radius-label">md · 12px<br>badges</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:16px;border:1.5px solid #ddd;"></div><div class="radius-label">lg · 16px<br>rule cards</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:20px;border:1.5px solid #ddd;"></div><div class="radius-label">xl · 20px<br>progress cards</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:28px;border:1.5px solid #ddd;"></div><div class="radius-label">xxl · 28px<br>challenge headers</div></div>
+    <div style="text-align:center;"><div class="radius-card" style="border-radius:9999px;border:1.5px solid #ddd;"></div><div class="radius-label">full · 9999px<br>buttons, chips, rings</div></div>
+  </div>
+</div>
+
+<!-- ============================================================
+     5. ELEVATION
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">5 — Elevation & Depth</div>
+  <div class="grid grid-3" style="align-items:start;">
+    <div>
+      <div class="elev-card" style="box-shadow:none;border:1px solid #E8E8E4;">Flat — border only<br><small style="color:#888">chips, calendar cells, nav</small></div>
+      <div class="elev-label">elevation-0 · border: 1px solid border</div>
+    </div>
+    <div>
+      <div class="elev-card" style="box-shadow:0 2px 8px rgba(0,0,0,0.06);">Soft shadow<br><small style="color:#888">task cards, rule cards</small></div>
+      <div class="elev-label">elevation-1 · 0 2px 8px rgba(0,0,0,0.06)</div>
+    </div>
+    <div>
+      <div class="elev-card" style="box-shadow:0 8px 24px rgba(0,0,0,0.10);">Medium shadow<br><small style="color:#888">modals, bottom sheets</small></div>
+      <div class="elev-label">elevation-2 · 0 8px 24px rgba(0,0,0,0.10)</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     6. COMPONENTS
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">6 — Components</div>
+
+  <!-- Task Rings -->
+  <div class="component-section">
+    <div class="component-title">Task Rings</div>
+    <div class="component-row">
+      <!-- Water ring 66% -->
+      <div class="ring-wrap">
+        <div class="ring" style="background:#E8F8FA;color:#4DC8D8;">
+          <svg width="80" height="80" viewBox="0 0 80 80"><circle cx="40" cy="40" r="34" fill="none" stroke="#E8F8FA" stroke-width="6"/><circle cx="40" cy="40" r="34" fill="none" stroke="#4DC8D8" stroke-width="6" stroke-dasharray="213.6" stroke-dashoffset="70" stroke-linecap="round"/></svg>
+          <span class="ring-label">2/3</span>
+        </div>
+        <span class="ring-name">water</span>
+      </div>
+      <!-- Food ring 100% -->
+      <div class="ring-wrap">
+        <div class="ring" style="background:#FEF3E7;color:#F4A24A;">
+          <svg width="80" height="80" viewBox="0 0 80 80"><circle cx="40" cy="40" r="34" fill="none" stroke="#FEF3E7" stroke-width="6"/><circle cx="40" cy="40" r="34" fill="none" stroke="#F4A24A" stroke-width="6" stroke-dasharray="213.6" stroke-dashoffset="0" stroke-linecap="round"/></svg>
+          <span style="font-size:20px;">✓</span>
+        </div>
+        <span class="ring-name">food</span>
+      </div>
+      <!-- Reading ring 0% -->
+      <div class="ring-wrap">
+        <div class="ring" style="background:#FEFAE7;color:#F0C84A;">
+          <svg width="80" height="80" viewBox="0 0 80 80"><circle cx="40" cy="40" r="34" fill="none" stroke="#FEFAE7" stroke-width="6"/><circle cx="40" cy="40" r="34" fill="none" stroke="#F0C84A" stroke-width="6" stroke-dasharray="213.6" stroke-dashoffset="213.6" stroke-linecap="round"/></svg>
+          <span class="ring-label" style="color:#F0C84A;">0/1</span>
+        </div>
+        <span class="ring-name">reading</span>
+      </div>
+      <!-- Workout ring 50% -->
+      <div class="ring-wrap">
+        <div class="ring" style="background:#FDEDF2;color:#E8507A;">
+          <svg width="80" height="80" viewBox="0 0 80 80"><circle cx="40" cy="40" r="34" fill="none" stroke="#FDEDF2" stroke-width="6"/><circle cx="40" cy="40" r="34" fill="none" stroke="#E8507A" stroke-width="6" stroke-dasharray="213.6" stroke-dashoffset="106.8" stroke-linecap="round"/></svg>
+          <span class="ring-label">1/2</span>
+        </div>
+        <span class="ring-name">workout</span>
+      </div>
+    </div>
+    <span class="label">task-ring-[water|food|reading|workout] · size: 80px · border-radius: full</span>
+  </div>
+
+  <!-- Rule Cards -->
+  <div class="component-section">
+    <div class="component-title">Rule Cards (Her 75 style)</div>
+    <div style="display:flex;flex-direction:column;gap:10px;max-width:400px;">
+      <div class="rule-card"><div class="rule-badge-num" style="background:#F5E8D8;color:#8B5A2B;">1</div><span class="rule-text">Follow a strict diet (no cheat meals)</span><span class="rule-check">›</span></div>
+      <div class="rule-card"><div class="rule-badge-num" style="background:#D8EEF0;color:#2B6B8B;">2</div><span class="rule-text">Do two 45-minute workouts per day</span><span class="rule-check">›</span></div>
+      <div class="rule-card"><div class="rule-badge-num" style="background:#F5D8D8;color:#8B2B2B;">3</div><span class="rule-text">Read 10 pages of non-fiction</span><span class="rule-check">›</span></div>
+      <div class="rule-card"><div class="rule-badge-num" style="background:#D8F0E4;color:#2B8B5A;">4</div><span class="rule-text">Take a progress picture every day</span><span class="rule-check">›</span></div>
+      <div class="rule-card"><div class="rule-badge-num" style="background:#E8D8F5;color:#5A2B8B;">5</div><span class="rule-text">Drink 1 gallon of water (3.7L)</span><span class="rule-check">›</span></div>
+    </div>
+    <span class="label">rule-card · height: 64px · rounded: lg (16px) · badge-1 to badge-5</span>
+  </div>
+
+  <!-- Buttons -->
+  <div class="component-section">
+    <div class="component-title">Buttons</div>
+    <div class="component-row">
+      <button class="btn btn-primary">Start the challenge</button>
+      <button class="btn btn-primary-pressed">Pressed state</button>
+      <button class="btn btn-accent">Log today</button>
+      <button class="btn btn-ghost">Learn more</button>
+    </div>
+    <span class="label">button-primary / button-accent / button-ghost · height: 52px · rounded: full</span>
+  </div>
+
+  <!-- Chips -->
+  <div class="component-section">
+    <div class="component-title">Difficulty Chips</div>
+    <div class="component-row">
+      <span class="chip chip-active">75 Hard</span>
+      <span class="chip chip-default">75 Medium</span>
+      <span class="chip chip-default">75 Soft</span>
+    </div>
+    <div class="component-row" style="margin-top:8px;">
+      <span class="chip chip-default">75 Hard</span>
+      <span class="chip chip-active">75 Medium</span>
+      <span class="chip chip-default">75 Soft</span>
+    </div>
+    <span class="label">chip-difficulty / chip-difficulty-active · height: 28px · rounded: full</span>
+  </div>
+
+  <!-- Tags -->
+  <div class="component-section">
+    <div class="component-title">Tags & Badges</div>
+    <div class="component-row">
+      <span class="tag-completed">✓ COMPLETED</span>
+      <span style="background:#E8F8EE;color:#1a7a3a;border-radius:9999px;padding:4px 12px;font-size:12px;font-weight:600;">Day 49 done</span>
+      <span style="background:#FFF0EE;color:#FF6B5B;border-radius:9999px;padding:4px 12px;font-size:12px;font-weight:600;">In progress</span>
+    </div>
+    <span class="label">tag-completed · success / accent-soft variants · height: 24px · rounded: full</span>
+  </div>
+
+  <!-- Challenge Headers -->
+  <div class="component-section">
+    <div class="component-title">Challenge Header Variants</div>
+    <div class="grid grid-4">
+      <div><div class="challenge-header-demo" style="background:linear-gradient(135deg,#FF8070,#FF5A47);"><p>75 Hard</p><h3>Transform your life</h3></div></div>
+      <div><div class="challenge-header-demo" style="background:linear-gradient(135deg,#5BCFDA,#2BB8C8);"><p>75 Medium</p><h3>Visualize your journey</h3></div></div>
+      <div><div class="challenge-header-demo" style="background:linear-gradient(135deg,#F5B84C,#F09B20);"><p>75 Soft</p><h3>Personalize your challenge</h3></div></div>
+      <div><div class="challenge-header-demo" style="background:linear-gradient(135deg,#F06090,#E0407A);"><p>Custom</p><h3>Add your own rules</h3></div></div>
+    </div>
+    <span class="label">challenge-header · rounded: xxl (28px) · 4 gradient variants</span>
+  </div>
+
+  <!-- Calendar 75 days -->
+  <div class="component-section">
+    <div class="component-title">Calendar — 75 Days Grid</div>
+    <div style="max-width:420px;">
+      <div style="display:grid;grid-template-columns:repeat(10,1fr);gap:3px;">
+        <!-- Days 1-49 completed (coral) -->
+        <script>
+          // Inline the cells since no JS framework
+        </script>
+        <!-- We'll render statically -->
+        <!-- Row 1: 1-10 done -->
+        <div class="s3-cell done">1</div><div class="s3-cell done">2</div><div class="s3-cell done">3</div><div class="s3-cell done">4</div><div class="s3-cell done">5</div><div class="s3-cell done">6</div><div class="s3-cell done">7</div><div class="s3-cell done">8</div><div class="s3-cell done">9</div><div class="s3-cell done">10</div>
+        <div class="s3-cell done">11</div><div class="s3-cell done">12</div><div class="s3-cell done">13</div><div class="s3-cell done">14</div><div class="s3-cell done">15</div><div class="s3-cell done">16</div><div class="s3-cell done">17</div><div class="s3-cell done">18</div><div class="s3-cell done">19</div><div class="s3-cell done">20</div>
+        <div class="s3-cell done">21</div><div class="s3-cell done">22</div><div class="s3-cell done">23</div><div class="s3-cell done">24</div><div class="s3-cell done">25</div><div class="s3-cell done">26</div><div class="s3-cell done">27</div><div class="s3-cell done">28</div><div class="s3-cell done">29</div><div class="s3-cell done">30</div>
+        <div class="s3-cell done">31</div><div class="s3-cell done">32</div><div class="s3-cell done">33</div><div class="s3-cell done">34</div><div class="s3-cell done">35</div><div class="s3-cell done">36</div><div class="s3-cell done">37</div><div class="s3-cell done">38</div><div class="s3-cell done">39</div><div class="s3-cell done">40</div>
+        <div class="s3-cell done">41</div><div class="s3-cell done">42</div><div class="s3-cell done">43</div><div class="s3-cell done">44</div><div class="s3-cell done">45</div><div class="s3-cell done">46</div><div class="s3-cell done">47</div><div class="s3-cell done">48</div><div class="s3-cell done">49</div>
+        <!-- Day 50 today -->
+        <div class="s3-cell today">50</div>
+        <!-- 51-75 future -->
+        <div class="s3-cell empty">51</div><div class="s3-cell empty">52</div><div class="s3-cell empty">53</div><div class="s3-cell empty">54</div><div class="s3-cell empty">55</div><div class="s3-cell empty">56</div><div class="s3-cell empty">57</div><div class="s3-cell empty">58</div><div class="s3-cell empty">59</div><div class="s3-cell empty">60</div>
+        <div class="s3-cell empty">61</div><div class="s3-cell empty">62</div><div class="s3-cell empty">63</div><div class="s3-cell empty">64</div><div class="s3-cell empty">65</div><div class="s3-cell empty">66</div><div class="s3-cell empty">67</div><div class="s3-cell empty">68</div><div class="s3-cell empty">69</div><div class="s3-cell empty">70</div>
+        <div class="s3-cell empty">71</div><div class="s3-cell empty">72</div><div class="s3-cell empty">73</div><div class="s3-cell empty">74</div><div class="s3-cell empty">75</div>
+      </div>
+      <div style="display:flex;gap:16px;margin-top:12px;">
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:#6B6B6B;"><div style="width:10px;height:10px;border-radius:3px;background:#FF6B5B;flex-shrink:0;"></div>Completed</div>
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:#6B6B6B;"><div style="width:10px;height:10px;border-radius:3px;background:#111;flex-shrink:0;"></div>Today</div>
+        <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:#6B6B6B;"><div style="width:10px;height:10px;border-radius:3px;background:#F2F1EE;border:1px solid #C8C8C4;flex-shrink:0;"></div>Upcoming</div>
+      </div>
+    </div>
+    <span class="label">calendar-cell × 4 states · 10-column grid · gap: 3px · cell: 36px · rounded: sm</span>
+  </div>
+
+  <!-- Avatars -->
+  <div class="component-section">
+    <div class="component-title">Avatars (social, Her 75 style)</div>
+    <div class="component-row" style="align-items:flex-end;">
+      <div style="text-align:center;"><div class="avatar avatar-sm" style="background:#F4A24A;color:#fff;">M</div><div class="label">sm · 36px</div></div>
+      <div style="text-align:center;"><div class="avatar avatar-lg" style="background:#4DC8D8;color:#fff;">A</div><div class="label">lg · 56px</div></div>
+      <div style="text-align:center;"><div class="avatar avatar-sm" style="background:#E8507A;color:#fff;">B</div></div>
+      <div style="text-align:center;"><div class="avatar avatar-sm" style="background:#F0C84A;color:#fff;">J</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     7. DOS AND DON'TS
+     ============================================================ -->
+<div class="section">
+  <div class="section-title">7 — Do's & Don'ts</div>
+  <div class="dd-grid">
+    <div class="dd-col dos">
+      <h4>✓ DO</h4>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Utiliser Playfair Display italic pour les titres de section éditoriale — c'est la signature Her 75 qui crée l'aspiration.</span></div>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Respecter le mapping couleur/catégorie : teal = eau, orange = alimentation, jaune = lecture, rose = entraînement. Toujours.</span></div>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Laisser respirer : min 24px entre sections, 20px de padding horizontal. Le whitespace est de l'information.</span></div>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Boutons principaux en noir pur (#111) sur blanc — l'élégance éditoriale de Her 75 vient de ce contraste maximal.</span></div>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Afficher les 75 jours du calendrier entiers — la vue globale est la principale récompense visuelle de l'app.</span></div>
+      <div class="dd-item"><span class="dd-icon">✓</span><span>Numéros de règle toujours dans un badge coloré (badge-1 à badge-5) pour le rythme visuel Her 75.</span></div>
+    </div>
+    <div class="dd-col donts">
+      <h4>✗ DON'T</h4>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais passer en dark mode par défaut — fond blanc est structurel à l'esthétique éditoriale des deux apps.</span></div>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais mélanger les couleurs de catégorie — pas d'eau en orange, pas d'entraînement en teal.</span></div>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais mettre le serif italic sur des labels fonctionnels (boutons, champs, nav) — serif = moments éditoriaux uniquement.</span></div>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais dépasser 4 rings de catégorie sur le dashboard — au-delà la densité brise le rythme aéré.</span></div>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais utiliser d'ombres lourdes (elevation 4+) — le système est quasi-flat, les ombres fortes détruisent l'aspect éditorial.</span></div>
+      <div class="dd-item"><span class="dd-icon">✗</span><span>Ne jamais afficher les numéros de règle en texte brut sans badge coloré.</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     DEMO SCREENS
+     ============================================================ -->
+<div class="screens-section">
+  <div class="section-title">DÉMO ÉCRANS — 3 maquettes mobiles (390×844px)</div>
+  <div class="screens-row">
+
+    <!-- ========== SCREEN 1: DASHBOARD ========== -->
+    <div style="text-align:center;">
+      <div class="phone" style="height:844px;">
+        <!-- Status bar -->
+        <div class="phone-status">
+          <span class="time">9:41</span>
+          <div class="icons"><span>●●●</span><span>WiFi</span><span>■■■</span></div>
+        </div>
+        <!-- Content -->
+        <div class="phone-content">
+          <!-- Coral header -->
+          <div class="s1-header">
+            <div class="s1-header-top">
+              <span class="app-name">Challenge 75</span>
+              <span class="streak">🔥 50 days</span>
+            </div>
+            <div class="s1-day-hero">
+              <span class="s1-day-number">50</span>
+              <span class="s1-day-label">/ 75</span>
+            </div>
+            <div class="s1-quote">"Setting goals is the first step in turning the invisible into the visible."</div>
+          </div>
+
+          <!-- Body -->
+          <div class="s1-body">
+            <div class="s1-section-label">Daily Tasks <span>2/4 done</span></div>
+            <div class="s1-rings">
+              <!-- Water: done -->
+              <div class="s1-ring-card">
+                <div class="s1-ring-icon" style="background:#E8F8FA;">
+                  <svg width="44" height="44" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="#E8F8FA" stroke-width="4"/><circle cx="22" cy="22" r="18" fill="none" stroke="#4DC8D8" stroke-width="4" stroke-dasharray="113.1" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90 22 22)"/></svg>
+                  <span style="position:absolute;font-size:14px;">💧</span>
+                </div>
+                <div class="s1-ring-info"><div class="s1-ring-name">Drink water</div><div class="s1-ring-prog" style="color:#4DC8D8;">3 / 3 litres</div></div>
+                <span class="s1-ring-check" style="color:#34C759;">✓</span>
+              </div>
+              <!-- Food: done -->
+              <div class="s1-ring-card">
+                <div class="s1-ring-icon" style="background:#FEF3E7;">
+                  <svg width="44" height="44" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="#FEF3E7" stroke-width="4"/><circle cx="22" cy="22" r="18" fill="none" stroke="#F4A24A" stroke-width="4" stroke-dasharray="113.1" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90 22 22)"/></svg>
+                  <span style="position:absolute;font-size:14px;">🥗</span>
+                </div>
+                <div class="s1-ring-info"><div class="s1-ring-name">Eat well</div><div class="s1-ring-prog" style="color:#F4A24A;">Completed</div></div>
+                <span class="s1-ring-check" style="color:#34C759;">✓</span>
+              </div>
+              <!-- Reading: in progress -->
+              <div class="s1-ring-card">
+                <div class="s1-ring-icon" style="background:#FEFAE7;">
+                  <svg width="44" height="44" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="#FEFAE7" stroke-width="4"/><circle cx="22" cy="22" r="18" fill="none" stroke="#F0C84A" stroke-width="4" stroke-dasharray="113.1" stroke-dashoffset="56.5" stroke-linecap="round" transform="rotate(-90 22 22)"/></svg>
+                  <span style="position:absolute;font-size:14px;">📖</span>
+                </div>
+                <div class="s1-ring-info"><div class="s1-ring-name">Read 10 pages</div><div class="s1-ring-prog" style="color:#F0C84A;">5 / 10 pages</div></div>
+                <span class="s1-ring-check">›</span>
+              </div>
+              <!-- Workout: todo -->
+              <div class="s1-ring-card">
+                <div class="s1-ring-icon" style="background:#FDEDF2;">
+                  <svg width="44" height="44" viewBox="0 0 44 44"><circle cx="22" cy="22" r="18" fill="none" stroke="#FDEDF2" stroke-width="4"/><circle cx="22" cy="22" r="18" fill="none" stroke="#E8507A" stroke-width="4" stroke-dasharray="113.1" stroke-dashoffset="113.1" stroke-linecap="round" transform="rotate(-90 22 22)"/></svg>
+                  <span style="position:absolute;font-size:14px;">🏃</span>
+                </div>
+                <div class="s1-ring-info"><div class="s1-ring-name">Train 45 mins</div><div class="s1-ring-prog" style="color:#E8507A;">0 / 2 sessions</div></div>
+                <span class="s1-ring-check">›</span>
+              </div>
+            </div>
+
+            <!-- Mini calendar strip -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-xl);padding:14px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="font-size:13px;font-weight:600;color:var(--color-on-surface-2);margin-bottom:10px;">This week</div>
+              <div style="display:flex;gap:4px;">
+                <div style="flex:1;background:var(--color-accent);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;">46</div>
+                <div style="flex:1;background:var(--color-accent);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;">47</div>
+                <div style="flex:1;background:var(--color-accent);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;">48</div>
+                <div style="flex:1;background:var(--color-accent);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;">49</div>
+                <div style="flex:1;background:var(--color-on-background);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff;">50</div>
+                <div style="flex:1;background:var(--color-surface-alt);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;color:var(--color-on-surface-3);">51</div>
+                <div style="flex:1;background:var(--color-surface-alt);border-radius:6px;height:32px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;color:var(--color-on-surface-3);">52</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Nav -->
+        <div class="s1-nav">
+          <div class="s1-nav-item active"><span class="s1-nav-icon">⊞</span><span>Home</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">👥</span><span>Friends</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">📅</span><span>Calendar</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">📷</span><span>Photos</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">⚙️</span><span>Settings</span></div>
+        </div>
+      </div>
+      <div class="phone-label">Écran 1 — Dashboard du défi<br>Anneau de progression + jour courant</div>
+    </div>
+
+    <!-- ========== SCREEN 2: TASK LIST ========== -->
+    <div style="text-align:center;">
+      <div class="phone" style="height:844px;">
+        <div class="phone-status">
+          <span class="time">9:41</span>
+          <div class="icons"><span>●●●</span><span>WiFi</span><span>■■■</span></div>
+        </div>
+        <div class="phone-content">
+          <div class="s2-header">
+            <div style="font-family:var(--font-serif);font-style:italic;font-size:28px;font-weight:700;color:var(--color-on-background);line-height:1.2;">Follow your<br><em>routine</em></div>
+            <div style="font-size:13px;color:var(--color-on-surface-2);margin-top:6px;">75 Hard · Day 50</div>
+          </div>
+
+          <!-- Difficulty chips -->
+          <div class="s2-chips">
+            <span class="chip chip-active">75 Hard</span>
+            <span class="chip chip-default">75 Medium</span>
+            <span class="chip chip-default">75 Soft</span>
+          </div>
+
+          <!-- Rules list -->
+          <div class="s2-rules">
+            <div style="font-size:12px;font-weight:700;color:var(--color-on-surface-2);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px;">Rules</div>
+
+            <!-- Rule 1: done -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-lg);padding:0 16px;height:64px;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="width:36px;height:36px;border-radius:var(--rounded-md);background:var(--color-badge-1);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;flex-shrink:0;">1</div>
+              <span style="flex:1;font-size:15px;color:var(--color-on-surface);text-decoration:line-through;color:var(--color-on-surface-2);">Follow a strict diet</span>
+              <span style="color:var(--color-success);font-size:18px;">✓</span>
+            </div>
+
+            <!-- Rule 2: in progress -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-lg);padding:0 16px;height:64px;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="width:36px;height:36px;border-radius:var(--rounded-md);background:var(--color-badge-2);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;flex-shrink:0;">2</div>
+              <div style="flex:1;">
+                <div style="font-size:15px;color:var(--color-on-surface);font-weight:500;">2 workouts · 45 mins</div>
+                <div style="font-size:11px;color:var(--color-cat-workout);margin-top:2px;">1 / 2 done · one must be outside</div>
+              </div>
+              <span style="color:var(--color-on-surface-3);font-size:16px;">›</span>
+            </div>
+
+            <!-- Rule 3: todo -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-lg);padding:0 16px;height:64px;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="width:36px;height:36px;border-radius:var(--rounded-md);background:var(--color-badge-3);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;flex-shrink:0;">3</div>
+              <div style="flex:1;">
+                <div style="font-size:15px;color:var(--color-on-surface);">Read 10 pages</div>
+                <div style="font-size:11px;color:var(--color-on-surface-2);margin-top:2px;">Non-fiction / self-development</div>
+              </div>
+              <span style="color:var(--color-on-surface-3);font-size:16px;">›</span>
+            </div>
+
+            <!-- Rule 4: todo -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-lg);padding:0 16px;height:64px;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="width:36px;height:36px;border-radius:var(--rounded-md);background:var(--color-badge-4);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;flex-shrink:0;">4</div>
+              <div style="flex:1;">
+                <div style="font-size:15px;color:var(--color-on-surface);">Take a progress photo</div>
+                <div style="font-size:11px;color:var(--color-on-surface-2);margin-top:2px;">Every single day</div>
+              </div>
+              <span style="color:var(--color-on-surface-3);font-size:16px;">›</span>
+            </div>
+
+            <!-- Rule 5: todo -->
+            <div style="background:var(--color-surface-card);border-radius:var(--rounded-lg);padding:0 16px;height:64px;display:flex;align-items:center;gap:12px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="width:36px;height:36px;border-radius:var(--rounded-md);background:var(--color-badge-5);display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;flex-shrink:0;">5</div>
+              <div style="flex:1;">
+                <div style="font-size:15px;color:var(--color-on-surface);">Drink 1 gallon water</div>
+                <div style="font-size:11px;color:var(--color-cat-water);margin-top:2px;">3.7 litres · 2/3 done</div>
+              </div>
+              <span style="color:var(--color-on-surface-3);font-size:16px;">›</span>
+            </div>
+
+            <!-- CTA button -->
+            <div style="margin-top:16px;">
+              <button class="btn btn-primary" style="width:100%;">Log completed day ✓</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Nav -->
+        <div class="s1-nav">
+          <div class="s1-nav-item"><span class="s1-nav-icon">⊞</span><span>Home</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">👥</span><span>Friends</span></div>
+          <div class="s1-nav-item active"><span class="s1-nav-icon">📅</span><span>Calendar</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">📷</span><span>Photos</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">⚙️</span><span>Settings</span></div>
+        </div>
+      </div>
+      <div class="phone-label">Écran 2 — Liste de tâches<br>Catégories colorées + règles numérotées</div>
+    </div>
+
+    <!-- ========== SCREEN 3: CALENDAR ========== -->
+    <div style="text-align:center;">
+      <div class="phone" style="height:844px;">
+        <div class="phone-status">
+          <span class="time">9:41</span>
+          <div class="icons"><span>●●●</span><span>WiFi</span><span>■■■</span></div>
+        </div>
+        <div class="phone-content">
+          <div style="padding:16px 20px 0;">
+            <!-- Editorial serif italic title -->
+            <div style="font-family:var(--font-serif);font-style:italic;font-size:32px;font-weight:700;color:var(--color-on-background);line-height:1.15;">Visualize<br><em>your journey</em></div>
+            <div style="display:flex;align-items:center;gap:10px;margin-top:8px;">
+              <span style="background:var(--color-success-soft);color:var(--color-success);border-radius:9999px;padding:4px 12px;font-size:12px;font-weight:600;">Day 50 of 75</span>
+              <span style="background:var(--color-accent-soft);color:var(--color-accent);border-radius:9999px;padding:4px 12px;font-size:12px;font-weight:600;">67% complete</span>
+            </div>
+          </div>
+
+          <!-- Stats row -->
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;padding:16px 20px;">
+            <div style="background:var(--color-surface);border-radius:var(--rounded-lg);padding:12px;text-align:center;">
+              <div style="font-size:24px;font-weight:800;color:var(--color-on-background);font-family:var(--font-sans);letter-spacing:-0.02em;">49</div>
+              <div style="font-size:10px;color:var(--color-on-surface-2);margin-top:2px;">Days done</div>
+            </div>
+            <div style="background:var(--color-surface);border-radius:var(--rounded-lg);padding:12px;text-align:center;">
+              <div style="font-size:24px;font-weight:800;color:var(--color-accent);font-family:var(--font-sans);letter-spacing:-0.02em;">25</div>
+              <div style="font-size:10px;color:var(--color-on-surface-2);margin-top:2px;">Remaining</div>
+            </div>
+            <div style="background:var(--color-surface);border-radius:var(--rounded-lg);padding:12px;text-align:center;">
+              <div style="font-size:24px;font-weight:800;color:var(--color-cat-water);font-family:var(--font-sans);letter-spacing:-0.02em;">49</div>
+              <div style="font-size:10px;color:var(--color-on-surface-2);margin-top:2px;">Best streak</div>
+            </div>
+          </div>
+
+          <!-- Full 75-day calendar -->
+          <div style="padding:0 16px;">
+            <div style="font-size:12px;font-weight:600;color:var(--color-on-surface-2);margin-bottom:8px;padding-left:4px;">75-Day Calendar</div>
+            <div style="display:grid;grid-template-columns:repeat(10,1fr);gap:3px;">
+              <!-- 1-49 done -->
+              <div class="s3-cell done">1</div><div class="s3-cell done">2</div><div class="s3-cell done">3</div><div class="s3-cell done">4</div><div class="s3-cell done">5</div><div class="s3-cell done">6</div><div class="s3-cell done">7</div><div class="s3-cell done">8</div><div class="s3-cell done">9</div><div class="s3-cell done">10</div>
+              <div class="s3-cell done">11</div><div class="s3-cell done">12</div><div class="s3-cell done">13</div><div class="s3-cell done">14</div><div class="s3-cell done">15</div><div class="s3-cell done">16</div><div class="s3-cell done">17</div><div class="s3-cell done">18</div><div class="s3-cell done">19</div><div class="s3-cell done">20</div>
+              <div class="s3-cell done">21</div><div class="s3-cell done">22</div><div class="s3-cell done">23</div><div class="s3-cell done">24</div><div class="s3-cell done">25</div><div class="s3-cell done">26</div><div class="s3-cell done">27</div><div class="s3-cell done">28</div><div class="s3-cell done">29</div><div class="s3-cell done">30</div>
+              <div class="s3-cell done">31</div><div class="s3-cell done">32</div><div class="s3-cell done">33</div><div class="s3-cell done">34</div><div class="s3-cell done">35</div><div class="s3-cell done">36</div><div class="s3-cell done">37</div><div class="s3-cell done">38</div><div class="s3-cell done">39</div><div class="s3-cell done">40</div>
+              <div class="s3-cell done">41</div><div class="s3-cell done">42</div><div class="s3-cell done">43</div><div class="s3-cell done">44</div><div class="s3-cell done">45</div><div class="s3-cell done">46</div><div class="s3-cell done">47</div><div class="s3-cell done">48</div><div class="s3-cell done">49</div>
+              <!-- 50 today -->
+              <div class="s3-cell today">50</div>
+              <!-- 51-75 future -->
+              <div class="s3-cell empty">51</div><div class="s3-cell empty">52</div><div class="s3-cell empty">53</div><div class="s3-cell empty">54</div><div class="s3-cell empty">55</div><div class="s3-cell empty">56</div><div class="s3-cell empty">57</div><div class="s3-cell empty">58</div><div class="s3-cell empty">59</div><div class="s3-cell empty">60</div>
+              <div class="s3-cell empty">61</div><div class="s3-cell empty">62</div><div class="s3-cell empty">63</div><div class="s3-cell empty">64</div><div class="s3-cell empty">65</div><div class="s3-cell empty">66</div><div class="s3-cell empty">67</div><div class="s3-cell empty">68</div><div class="s3-cell empty">69</div><div class="s3-cell empty">70</div>
+              <div class="s3-cell empty">71</div><div class="s3-cell empty">72</div><div class="s3-cell empty">73</div><div class="s3-cell empty">74</div><div class="s3-cell empty">75</div>
+            </div>
+
+            <!-- Legend -->
+            <div style="display:flex;gap:14px;margin-top:10px;">
+              <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:var(--color-on-surface-2);"><div style="width:8px;height:8px;border-radius:2px;background:var(--color-accent);"></div>Done</div>
+              <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:var(--color-on-surface-2);"><div style="width:8px;height:8px;border-radius:2px;background:#111;"></div>Today</div>
+              <div style="display:flex;align-items:center;gap:5px;font-size:10px;color:var(--color-on-surface-2);"><div style="width:8px;height:8px;border-radius:2px;background:var(--color-surface-alt);border:1px solid #ddd;"></div>Upcoming</div>
+            </div>
+
+            <!-- Progress bar -->
+            <div style="margin-top:16px;background:var(--color-surface-card);border-radius:var(--rounded-xl);padding:14px;box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+              <div style="display:flex;justify-content:space-between;font-size:12px;font-weight:600;color:var(--color-on-surface-2);margin-bottom:8px;"><span>Overall progress</span><span style="color:var(--color-accent);">67%</span></div>
+              <div style="background:var(--color-surface-alt);border-radius:9999px;height:8px;overflow:hidden;"><div style="background:linear-gradient(90deg,var(--color-grad-coral-s),var(--color-accent));width:67%;height:100%;border-radius:9999px;"></div></div>
+              <div style="display:flex;justify-content:space-between;font-size:10px;color:var(--color-on-surface-3);margin-top:6px;"><span>Day 1</span><span>Day 75</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Nav -->
+        <div class="s1-nav">
+          <div class="s1-nav-item"><span class="s1-nav-icon">⊞</span><span>Home</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">👥</span><span>Friends</span></div>
+          <div class="s1-nav-item active"><span class="s1-nav-icon">📅</span><span>Calendar</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">📷</span><span>Photos</span></div>
+          <div class="s1-nav-item"><span class="s1-nav-icon">⚙️</span><span>Settings</span></div>
+        </div>
+      </div>
+      <div class="phone-label">Écran 3 — Calendrier 75 jours<br>États : complété / aujourd'hui / à venir</div>
+    </div>
+
+  </div><!-- /screens-row -->
+</div><!-- /screens-section -->
+
+<div style="max-width:1100px;margin:48px auto 0;padding:0 24px 0;">
+  <div style="background:#111;color:#888;border-radius:12px;padding:20px 24px;font-size:12px;font-family:monospace;line-height:1.8;">
+    <span style="color:#fff;font-weight:600;">Challenge 75 Design System</span> — Version alpha<br>
+    Source of truth: <span style="color:#aaa;">design.md</span> · Human mirror: <span style="color:#aaa;">design.html</span><br>
+    Primary refs: <span style="color:#aaa;">75 Soft (id6670955917)</span> + <span style="color:#aaa;">Her 75 (id6746784659)</span><br>
+    Fonts: <span style="color:#aaa;">Playfair Display (Google Fonts) + Inter (Google Fonts / SF Pro fallback)</span>
+  </div>
+</div>
+
+</body>
+</html>

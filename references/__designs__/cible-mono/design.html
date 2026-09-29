@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Her75 Design System</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   DESIGN TOKENS — all values mirror design.md exactly
+   ============================================================ */
+:root {
+  /* Colors */
+  --color-background:          #FAFAF7;
+  --color-surface:             #FFFFFF;
+  --color-surface-elevated:    #F5F3EE;
+  --color-on-background:       #1A1A1A;
+  --color-on-surface:          #1A1A1A;
+  --color-on-surface-secondary:#7A7A7A;
+  --color-on-surface-tertiary: #AAAAAA;
+  --color-accent:              #5B8A6F;
+  --color-accent-star:         #4A90D9;
+  --color-header-card:         #5BB8C8;
+  --color-badge-1:             #F5D6C0;
+  --color-badge-2:             #D6E8D4;
+  --color-badge-3:             #F5E8C0;
+  --color-badge-4:             #C0D4F5;
+  --color-badge-neutral:       #E8E4DE;
+  --color-chip-background:     #FFFFFF;
+  --color-chip-text:           #1A1A1A;
+  --color-success:             #5B8A6F;
+  --color-error:               #D94A4A;
+  --color-warning:             #E8B84B;
+
+  /* Typography */
+  --type-display-family:       'Playfair Display', Georgia, serif;
+  --type-display-size:         28px;
+  --type-display-weight:       700;
+  --type-display-line:         1.15;
+  --type-display-spacing:      -0.01em;
+
+  --type-h1-family:            'Playfair Display', Georgia, serif;
+  --type-h1-size:              22px;
+  --type-h1-weight:            700;
+  --type-h1-line:              1.2;
+  --type-h1-spacing:           -0.01em;
+
+  --type-h2-family:            'Inter', -apple-system, sans-serif;
+  --type-h2-size:              17px;
+  --type-h2-weight:            600;
+  --type-h2-line:              1.3;
+
+  --type-body-family:          'Inter', -apple-system, sans-serif;
+  --type-body-size:            15px;
+  --type-body-weight:          400;
+  --type-body-line:            1.5;
+
+  --type-body-medium-family:   'Inter', -apple-system, sans-serif;
+  --type-body-medium-size:     15px;
+  --type-body-medium-weight:   500;
+  --type-body-medium-line:     1.5;
+
+  --type-caption-family:       'Inter', -apple-system, sans-serif;
+  --type-caption-size:         12px;
+  --type-caption-weight:       400;
+  --type-caption-line:         1.4;
+  --type-caption-spacing:      0.01em;
+
+  --type-caption-medium-family:  'Inter', -apple-system, sans-serif;
+  --type-caption-medium-size:    12px;
+  --type-caption-medium-weight:  500;
+  --type-caption-medium-line:    1.4;
+  --type-caption-medium-spacing: 0.01em;
+
+  /* Rounded */
+  --rounded-none: 0px;
+  --rounded-xs:   4px;
+  --rounded-sm:   8px;
+  --rounded-md:   12px;
+  --rounded-lg:   16px;
+  --rounded-xl:   20px;
+  --rounded-full: 9999px;
+
+  /* Spacing */
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  20px;
+  --space-6:  24px;
+  --space-8:  32px;
+  --space-10: 40px;
+  --space-12: 48px;
+}
+
+/* ============================================================
+   STYLE GUIDE CHROME (neutral, does not use app tokens)
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #F0EEE9;
+  color: #1A1A1A;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 48px 24px;
+}
+.guide-wrap { max-width: 900px; margin: 0 auto; }
+.guide-header { margin-bottom: 56px; }
+.guide-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
+}
+.guide-header p { color: #555; font-size: 15px; max-width: 600px; }
+.guide-header .mirror-note {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #888;
+  font-style: italic;
+}
+section { margin-bottom: 64px; }
+.section-title {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #888;
+  border-top: 1px solid #D8D4CF;
+  padding-top: 16px;
+  margin-bottom: 28px;
+}
+.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.label { font-size: 11px; color: #777; margin-top: 6px; font-family: monospace; }
+.value { font-size: 11px; color: #AAA; font-family: monospace; }
+
+/* ============================================================
+   1. COLOR SWATCHES
+   ============================================================ */
+.swatch-wrap { display: flex; flex-direction: column; }
+.swatch {
+  height: 64px;
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.07);
+  display: flex;
+  align-items: flex-end;
+  padding: 6px 8px;
+}
+.swatch-on {
+  font-size: 11px;
+  font-weight: 500;
+  opacity: 0.75;
+}
+.swatch-group-title { font-size: 12px; font-weight: 600; color: #555; margin: 16px 0 10px; }
+.swatches-row { display: flex; flex-wrap: wrap; gap: 12px; }
+.swatch-item { width: 120px; flex-shrink: 0; }
+
+/* ============================================================
+   2. TYPOGRAPHY SPECIMENS
+   ============================================================ */
+.type-row {
+  display: flex;
+  align-items: baseline;
+  gap: 24px;
+  padding: 20px 0;
+  border-bottom: 1px solid #E0DDD8;
+}
+.type-specimen { flex: 1; }
+.type-meta { width: 220px; flex-shrink: 0; }
+.type-token { font-size: 11px; font-weight: 600; font-family: monospace; color: #555; }
+.type-spec { font-size: 11px; color: #999; font-family: monospace; margin-top: 3px; line-height: 1.6; }
+
+/* ============================================================
+   3. SPACING BARS
+   ============================================================ */
+.space-row { display: flex; align-items: center; gap: 16px; margin-bottom: 10px; }
+.space-bar { background: #C8C4BE; border-radius: 2px; height: 16px; }
+.space-label { font-size: 11px; font-family: monospace; color: #777; width: 80px; }
+
+/* ============================================================
+   4. RADIUS SAMPLES
+   ============================================================ */
+.radius-row { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-end; }
+.radius-box {
+  width: 72px; height: 72px;
+  background: var(--color-on-background);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.radius-info { text-align: center; }
+
+/* ============================================================
+   5. ELEVATION SAMPLES
+   ============================================================ */
+.elevation-row { display: flex; gap: 24px; flex-wrap: wrap; }
+.elev-card {
+  width: 160px; height: 90px;
+  border-radius: var(--rounded-md);
+  background: var(--color-surface);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 12px; color: #999;
+}
+
+/* ============================================================
+   6. COMPONENTS
+   ============================================================ */
+.component-group { margin-bottom: 40px; }
+.component-group-title { font-size: 12px; font-weight: 600; color: #555; margin-bottom: 16px; padding: 4px 0; border-bottom: 1px dashed #DDD; }
+.component-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 12px; }
+.component-label { font-size: 11px; font-family: monospace; color: #AAA; }
+
+/* ============================================================
+   DO'S AND DON'TS
+   ============================================================ */
+.dos-donts { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.do-col, .dont-col { }
+.do-col h3 { color: var(--color-success); font-size: 13px; font-weight: 600; margin-bottom: 12px; }
+.dont-col h3 { color: var(--color-error); font-size: 13px; font-weight: 600; margin-bottom: 12px; }
+.rule-item { font-size: 13px; line-height: 1.6; margin-bottom: 8px; padding-left: 16px; position: relative; }
+.do-col .rule-item::before { content: "✓"; position: absolute; left: 0; color: var(--color-success); font-weight: 700; }
+.dont-col .rule-item::before { content: "✗"; position: absolute; left: 0; color: var(--color-error); font-weight: 700; }
+
+/* ============================================================
+   DEMO SCREENS — mobile phone format ~390×844px
+   ============================================================ */
+.screens-row {
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+.phone-frame {
+  width: 390px;
+  min-height: 844px;
+  background: var(--color-background);
+  border-radius: 44px;
+  box-shadow: 0 24px 80px rgba(0,0,0,0.18), 0 0 0 2px #2A2A2A, 0 0 0 4px #3A3A3A;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+/* Notch */
+.phone-frame::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 50%;
+  transform: translateX(-50%);
+  width: 120px; height: 34px;
+  background: #1A1A1A;
+  border-radius: 0 0 20px 20px;
+  z-index: 10;
+}
+.phone-screen {
+  padding: 60px 24px 32px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+/* Status bar */
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 0 4px;
+}
+.status-time {
+  font-family: var(--type-body-medium-family);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--color-on-background);
+}
+.status-icons { font-size: 12px; color: var(--color-on-background); letter-spacing: 2px; }
+/* Screen label */
+.screen-label {
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #999;
+  margin-top: 24px;
+}
+</style>
+</head>
+<body>
+<div class="guide-wrap">
+
+  <!-- HEADER -->
+  <div class="guide-header">
+    <h1>Her75 Design System</h1>
+    <p>A 75-day fitness challenge app for women aged 20–40. Editorial monochrome with warm surfaces and soft pastel accents. Aspirational, intimate, minimal.</p>
+    <div class="mirror-note">Human-readable mirror of <code>design.md</code> — same tokens, two audiences. Source of truth: design.md.</div>
+  </div>
+
+
+  <!-- 1. COLORS -->
+  <section>
+    <div class="section-title">01 — Colors</div>
+
+    <div class="swatch-group-title">Core Surfaces</div>
+    <div class="swatches-row">
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-background);">
+          <span class="swatch-on" style="color:var(--color-on-background);">Text</span>
+        </div>
+        <div class="label">background</div>
+        <div class="value">#FAFAF7</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-surface);border:1px solid #E8E4DE;">
+          <span class="swatch-on" style="color:var(--color-on-surface);">Text</span>
+        </div>
+        <div class="label">surface</div>
+        <div class="value">#FFFFFF</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-surface-elevated);">
+          <span class="swatch-on" style="color:var(--color-on-surface);">Text</span>
+        </div>
+        <div class="label">surface-elevated</div>
+        <div class="value">#F5F3EE</div>
+      </div>
+    </div>
+
+    <div class="swatch-group-title" style="margin-top:20px;">Text Colors</div>
+    <div class="swatches-row">
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-on-background);">
+          <span class="swatch-on" style="color:#FAFAF7;">on bg</span>
+        </div>
+        <div class="label">on-background</div>
+        <div class="value">#1A1A1A</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-on-surface-secondary);">
+          <span class="swatch-on" style="color:#FFF;">secondary</span>
+        </div>
+        <div class="label">on-surface-secondary</div>
+        <div class="value">#7A7A7A</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-on-surface-tertiary);">
+          <span class="swatch-on" style="color:#FFF;">tertiary</span>
+        </div>
+        <div class="label">on-surface-tertiary</div>
+        <div class="value">#AAAAAA</div>
+      </div>
+    </div>
+
+    <div class="swatch-group-title" style="margin-top:20px;">Accents</div>
+    <div class="swatches-row">
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-accent);">
+          <span class="swatch-on" style="color:#fff;">✓</span>
+        </div>
+        <div class="label">accent / success</div>
+        <div class="value">#5B8A6F</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-header-card);">
+          <span class="swatch-on" style="color:#fff;">pill</span>
+        </div>
+        <div class="label">header-card (widget)</div>
+        <div class="value">#5BB8C8</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-accent-star);">
+          <span class="swatch-on" style="color:#fff;">★</span>
+        </div>
+        <div class="label">accent-star (widget)</div>
+        <div class="value">#4A90D9</div>
+      </div>
+    </div>
+
+    <div class="swatch-group-title" style="margin-top:20px;">Task Badge Colors</div>
+    <div class="swatches-row">
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-badge-1);">
+          <span class="swatch-on" style="color:var(--color-on-background);">1</span>
+        </div>
+        <div class="label">badge-1 (peach)</div>
+        <div class="value">#F5D6C0</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-badge-2);">
+          <span class="swatch-on" style="color:var(--color-on-background);">2</span>
+        </div>
+        <div class="label">badge-2 (sage)</div>
+        <div class="value">#D6E8D4</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-badge-3);">
+          <span class="swatch-on" style="color:var(--color-on-background);">3</span>
+        </div>
+        <div class="label">badge-3 (amber)</div>
+        <div class="value">#F5E8C0</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-badge-4);">
+          <span class="swatch-on" style="color:var(--color-on-background);">4</span>
+        </div>
+        <div class="label">badge-4 (periwinkle)</div>
+        <div class="value">#C0D4F5</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-badge-neutral);">
+          <span class="swatch-on" style="color:var(--color-on-background);">5</span>
+        </div>
+        <div class="label">badge-neutral</div>
+        <div class="value">#E8E4DE</div>
+      </div>
+    </div>
+
+    <div class="swatch-group-title" style="margin-top:20px;">Semantic States</div>
+    <div class="swatches-row">
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-success);">
+          <span class="swatch-on" style="color:#fff;">Success</span>
+        </div>
+        <div class="label">success</div>
+        <div class="value">#5B8A6F</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-error);">
+          <span class="swatch-on" style="color:#fff;">Error</span>
+        </div>
+        <div class="label">error</div>
+        <div class="value">#D94A4A</div>
+      </div>
+      <div class="swatch-item">
+        <div class="swatch" style="background:var(--color-warning);">
+          <span class="swatch-on" style="color:var(--color-on-background);">Warning</span>
+        </div>
+        <div class="label">warning</div>
+        <div class="value">#E8B84B</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 2. TYPOGRAPHY -->
+  <section>
+    <div class="section-title">02 — Typography</div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-display-family);font-size:var(--type-display-size);font-weight:var(--type-display-weight);line-height:var(--type-display-line);letter-spacing:var(--type-display-spacing);">day one</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">display</div>
+        <div class="type-spec">Playfair Display · 28px · 700 · lh 1.15<br>From: "day one" card title (screen 2)</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-display-family);font-size:var(--type-display-size);font-weight:var(--type-display-weight);line-height:var(--type-display-line);letter-spacing:var(--type-display-spacing);font-style:italic;">day one</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">display-italic</div>
+        <div class="type-spec">Playfair Display Italic · 28px · 700<br>Key expressive variant — screen titles</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-h1-family);font-size:var(--type-h1-size);font-weight:var(--type-h1-weight);line-height:var(--type-h1-line);letter-spacing:var(--type-h1-spacing);">75 Day Hard</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">h1</div>
+        <div class="type-spec">Playfair Display · 22px · 700<br>From: challenge title "75 Day Hard" (screen 3)</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-h2-family);font-size:var(--type-h2-size);font-weight:var(--type-h2-weight);line-height:var(--type-h2-line);">+6,256 joined</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">h2</div>
+        <div class="type-spec">Inter · 17px · 600<br>From: "+6,256 joined" label (screen 3)</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);">Follow a strict diet (no cheat meals, no alcohol)</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">body</div>
+        <div class="type-spec">Inter · 15px · 400 · lh 1.5<br>From: task descriptions (screen 3)</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);line-height:var(--type-body-medium-line);">Walk 10,000 steps</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">body-medium</div>
+        <div class="type-spec">Inter · 15px · 500<br>From: task labels in friend rows (screen 4)</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);font-weight:var(--type-caption-weight);line-height:var(--type-caption-line);letter-spacing:var(--type-caption-spacing);color:var(--color-on-surface-secondary);">mar 16 → april 24 · Day 75 · 11:45am</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">caption</div>
+        <div class="type-spec">Inter · 12px · 400 · ls 0.01em<br>From: date range, timestamps, day count</div>
+      </div>
+    </div>
+
+    <div class="type-row">
+      <div class="type-specimen">
+        <span style="font-family:var(--type-caption-medium-family);font-size:var(--type-caption-medium-size);font-weight:var(--type-caption-medium-weight);line-height:var(--type-caption-medium-line);letter-spacing:var(--type-caption-medium-spacing);">you · 2min</span>
+      </div>
+      <div class="type-meta">
+        <div class="type-token">caption-medium</div>
+        <div class="type-spec">Inter · 12px · 500<br>From: header pill text (screen 2)</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 3. SPACING -->
+  <section>
+    <div class="section-title">03 — Spacing</div>
+    <div class="space-row"><div class="space-label">space-1 · 4px</div><div class="space-bar" style="width:4px;"></div></div>
+    <div class="space-row"><div class="space-label">space-2 · 8px</div><div class="space-bar" style="width:8px;"></div></div>
+    <div class="space-row"><div class="space-label">space-3 · 12px</div><div class="space-bar" style="width:12px;"></div></div>
+    <div class="space-row"><div class="space-label">space-4 · 16px</div><div class="space-bar" style="width:16px;"></div></div>
+    <div class="space-row"><div class="space-label">space-5 · 20px</div><div class="space-bar" style="width:20px;"></div></div>
+    <div class="space-row"><div class="space-label">space-6 · 24px</div><div class="space-bar" style="width:24px;"></div></div>
+    <div class="space-row"><div class="space-label">space-8 · 32px</div><div class="space-bar" style="width:32px;"></div></div>
+    <div class="space-row"><div class="space-label">space-10 · 40px</div><div class="space-bar" style="width:40px;"></div></div>
+    <div class="space-row"><div class="space-label">space-12 · 48px</div><div class="space-bar" style="width:48px;"></div></div>
+  </section>
+
+
+  <!-- 4. RADIUS -->
+  <section>
+    <div class="section-title">04 — Border Radius</div>
+    <div class="radius-row">
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-none);"></div>
+        <div class="label">none · 0px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-xs);"></div>
+        <div class="label">xs · 4px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-sm);"></div>
+        <div class="label">sm · 8px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-md);"></div>
+        <div class="label">md · 12px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-lg);"></div>
+        <div class="label">lg · 16px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-xl);"></div>
+        <div class="label">xl · 20px</div>
+      </div>
+      <div class="radius-info">
+        <div class="radius-box" style="border-radius:var(--rounded-full);width:72px;height:72px;"></div>
+        <div class="label">full · 9999px</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 5. ELEVATION -->
+  <section>
+    <div class="section-title">05 — Elevation &amp; Depth</div>
+    <div class="elevation-row">
+      <div>
+        <div class="elev-card" style="box-shadow:none;border:1px solid #E8E4DE;">Flat + border</div>
+        <div class="label" style="margin-top:6px;">elevation-0<br>Border only: 1px #E8E4DE</div>
+      </div>
+      <div>
+        <div class="elev-card" style="box-shadow:0 1px 4px rgba(0,0,0,0.06);">Micro lift</div>
+        <div class="label" style="margin-top:6px;">elevation-1<br>0 1px 4px rgba(0,0,0,0.06)</div>
+      </div>
+      <div>
+        <div class="elev-card" style="box-shadow:0 4px 16px rgba(0,0,0,0.08);">Card lift</div>
+        <div class="label" style="margin-top:6px;">elevation-2<br>0 4px 16px rgba(0,0,0,0.08)</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 6. COMPONENTS -->
+  <section>
+    <div class="section-title">06 — Components</div>
+
+    <!-- Challenge chips -->
+    <div class="component-group">
+      <div class="component-group-title">Challenge Level Chips (screen 1)</div>
+      <div class="component-row">
+        <div style="background:var(--color-chip-background);color:var(--color-chip-text);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:8px 16px;border:1px solid #E0DDD8;">✓ 75 Day Hard</div>
+        <div style="background:var(--color-chip-background);color:var(--color-chip-text);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:8px 16px;border:1px solid #E0DDD8;">✓ 75 Medium</div>
+        <div style="background:var(--color-chip-background);color:var(--color-chip-text);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:8px 16px;border:1px solid #E0DDD8;">✓ 75 Soft</div>
+        <div style="background:var(--color-chip-background);color:var(--color-chip-text);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:8px 16px;border:1px solid #E0DDD8;">& More</div>
+      </div>
+      <div class="component-label">chip-challenge · white pill · pill rounded · body-medium</div>
+    </div>
+
+    <!-- Task number badges -->
+    <div class="component-group">
+      <div class="component-group-title">Task Number Badges (screen 3)</div>
+      <div class="component-row">
+        <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-1);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">1</div>
+        <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-2);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">2</div>
+        <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-3);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">3</div>
+        <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-4);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">4</div>
+        <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">5</div>
+      </div>
+      <div class="component-label">badge-task · 32px circle · each task position has its own color</div>
+    </div>
+
+    <!-- Completion check badge -->
+    <div class="component-group">
+      <div class="component-group-title">Completion Check Badge (screen 4)</div>
+      <div class="component-row">
+        <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:13px;font-weight:700;">✓</div>
+        <span style="font-size:13px;color:#777;">Task completed</span>
+        <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;color:var(--color-on-surface-secondary);font-size:13px;font-weight:700;">○</div>
+        <span style="font-size:13px;color:#777;">Task pending</span>
+      </div>
+      <div class="component-label">check-badge · 24px · success green fill · white checkmark</div>
+    </div>
+
+    <!-- Task rows -->
+    <div class="component-group">
+      <div class="component-group-title">Task Rows (screen 3 — challenge checklist)</div>
+      <div style="background:var(--color-background);border-radius:var(--rounded-sm);padding:0;width:360px;">
+        <div style="display:flex;align-items:flex-start;padding:14px 16px;gap:14px;">
+          <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-1);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">1</div>
+          <div style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);color:var(--color-on-background);">Follow a strict diet<br><span style="color:var(--color-on-surface-secondary);">(no cheat meals, no alcohol)</span></div>
+        </div>
+        <div style="height:1px;background:#EEEAE4;margin:0 16px;"></div>
+        <div style="display:flex;align-items:flex-start;padding:14px 16px;gap:14px;">
+          <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-2);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">2</div>
+          <div style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);color:var(--color-on-background);">Do two 45-minute workouts per day, one must be outside</div>
+        </div>
+        <div style="height:1px;background:#EEEAE4;margin:0 16px;"></div>
+        <div style="display:flex;align-items:flex-start;padding:14px 16px;gap:14px;">
+          <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-3);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">3</div>
+          <div style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);color:var(--color-on-background);">Read 10 pages of a non-fiction/self-development book</div>
+        </div>
+        <div style="height:1px;background:#EEEAE4;margin:0 16px;"></div>
+        <div style="display:flex;align-items:flex-start;padding:14px 16px;gap:14px;">
+          <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-4);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">4</div>
+          <div style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);color:var(--color-on-background);">Take a progress picture every day</div>
+        </div>
+        <div style="height:1px;background:#EEEAE4;margin:0 16px;"></div>
+        <div style="display:flex;align-items:flex-start;padding:14px 16px;gap:14px;">
+          <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-family:var(--type-body-medium-family);font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">5</div>
+          <div style="font-family:var(--type-body-family);font-size:var(--type-body-size);font-weight:var(--type-body-weight);line-height:var(--type-body-line);color:var(--color-on-background);">Become that girl</div>
+        </div>
+      </div>
+      <div class="component-label" style="margin-top:8px;">task-row · background surface · colored circle badge left-anchored · body text</div>
+    </div>
+
+    <!-- Friend row -->
+    <div class="component-group">
+      <div class="component-group-title">Friend Activity Row (screen 4)</div>
+      <div style="width:360px;">
+        <div style="background:var(--color-surface);border-radius:var(--rounded-sm);padding:12px 16px;display:flex;align-items:center;gap:12px;margin-bottom:2px;box-shadow:0 1px 3px rgba(0,0,0,0.04);">
+          <div style="width:44px;height:44px;border-radius:var(--rounded-full);background:#D8CFC6;flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center;font-size:18px;">👤</div>
+          <div style="flex:1;min-width:0;">
+            <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-surface);">Maddy</div>
+            <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">Day 75</div>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:2px;align-items:flex-end;">
+            <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);display:flex;align-items:center;gap:4px;">Walk 10,000 steps <div style="width:16px;height:16px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:9px;">✓</div></div>
+            <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);display:flex;align-items:center;gap:4px;">Read 10 pages <div style="width:16px;height:16px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:9px;">✓</div></div>
+            <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);display:flex;align-items:center;gap:4px;">Workout <div style="width:16px;height:16px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:9px;">✓</div></div>
+          </div>
+        </div>
+      </div>
+      <div class="component-label" style="margin-top:8px;">friend-row · white card · circular avatar · name/day · task checklist right-side · green check badges</div>
+    </div>
+
+    <!-- Day card -->
+    <div class="component-group">
+      <div class="component-group-title">Day Card (screen 2 — daily summary)</div>
+      <div style="background:var(--color-surface-elevated);border-radius:var(--rounded-lg);padding:20px;width:300px;box-shadow:0 1px 4px rgba(0,0,0,0.06);">
+        <div style="font-family:var(--type-display-family);font-size:var(--type-display-size);font-weight:var(--type-display-weight);font-style:italic;color:var(--color-on-surface);margin-bottom:4px;">day one</div>
+        <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);margin-bottom:16px;">mar 16 → april 24</div>
+        <div style="display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;gap:10px;align-items:center;">
+            <div style="background:var(--color-badge-neutral);border-radius:var(--rounded-full);width:20px;height:20px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">1</div>
+            <span style="font-family:var(--type-body-family);font-size:14px;color:var(--color-on-surface);">stric diet</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center;">
+            <div style="background:var(--color-badge-neutral);border-radius:var(--rounded-full);width:20px;height:20px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">2</div>
+            <span style="font-family:var(--type-body-family);font-size:14px;color:var(--color-on-surface);">2 workouts, 1 outside</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center;">
+            <div style="background:var(--color-badge-neutral);border-radius:var(--rounded-full);width:20px;height:20px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">3</div>
+            <span style="font-family:var(--type-body-family);font-size:14px;color:var(--color-on-surface);">10 pages, non-fiction</span>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center;">
+            <div style="background:var(--color-badge-neutral);border-radius:var(--rounded-full);width:20px;height:20px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">4</div>
+            <span style="font-family:var(--type-body-family);font-size:14px;color:var(--color-on-surface);">progress pic</span>
+          </div>
+        </div>
+      </div>
+      <div class="component-label" style="margin-top:8px;">day-card · surface-elevated · display-italic serif title · numbered checklist body</div>
+    </div>
+
+    <!-- Header pill -->
+    <div class="component-group">
+      <div class="component-group-title">Header Pill (screen 2 — widget context only)</div>
+      <div class="component-row">
+        <div style="background:var(--color-header-card);color:var(--color-surface);font-family:var(--type-caption-medium-family);font-size:var(--type-caption-medium-size);font-weight:var(--type-caption-medium-weight);border-radius:var(--rounded-full);padding:4px 12px;">you · 2min</div>
+      </div>
+      <div class="component-label">header-pill · teal bg · white text · pill rounded — WIDGET USE ONLY</div>
+    </div>
+
+    <!-- Buttons -->
+    <div class="component-group">
+      <div class="component-group-title">Primary Button</div>
+      <div class="component-row">
+        <div style="background:var(--color-on-background);color:var(--color-background);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:14px 32px;cursor:pointer;">Start Challenge</div>
+        <div style="background:var(--color-on-surface-tertiary);color:var(--color-surface);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:14px 32px;opacity:0.7;">Disabled</div>
+      </div>
+      <div class="component-label">button-primary · near-black bg · off-white text · pill rounded</div>
+    </div>
+  </section>
+
+
+  <!-- 7. DO'S AND DON'TS -->
+  <section>
+    <div class="section-title">07 — Do's &amp; Don'ts</div>
+    <div class="dos-donts">
+      <div class="do-col">
+        <h3>✓ Do</h3>
+        <div class="rule-item">Use the display serif at 24px+ only — for screen titles and hero moments</div>
+        <div class="rule-item">Use the 4 pastel badge colors (peach, sage, amber, periwinkle) exclusively for task numbering</div>
+        <div class="rule-item">Keep backgrounds warm off-white (#FAFAF7) — never pure #FFFFFF as the page bg</div>
+        <div class="rule-item">Use circular shapes for all identity elements: avatars, badges, status dots</div>
+        <div class="rule-item">Let whitespace separate rows — no dividers or borders needed on task lists</div>
+        <div class="rule-item">Use forest green (#5B8A6F) as the one and only completion/success signal</div>
+      </div>
+      <div class="dont-col">
+        <h3>✗ Don't</h3>
+        <div class="rule-item">Never use neon, saturated, or vibrant colors — this system is deliberately desaturated</div>
+        <div class="rule-item">Never use a dark/black background for main screens — light-mode only</div>
+        <div class="rule-item">Never use teal (#5BB8C8) or blue (#4A90D9) outside the "official challenge" widget context</div>
+        <div class="rule-item">Never use the display serif at caption or body sizes — it loses all premium quality</div>
+        <div class="rule-item">Never add heavy drop shadows or visible card borders on list content</div>
+        <div class="rule-item">Never show more than 5 task rows without a "& More" collapse affordance</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 8. DEMO SCREENS -->
+  <section>
+    <div class="section-title">08 — Demo Screens (390×844px, tokens only)</div>
+    <div class="screens-row">
+
+      <!-- SCREEN A: Challenge Dashboard -->
+      <div>
+        <div class="phone-frame">
+          <div class="phone-screen">
+            <div class="status-bar">
+              <span class="status-time">9:41</span>
+              <span class="status-icons">▲ ● ■</span>
+            </div>
+
+            <!-- Header -->
+            <div style="margin-bottom:var(--space-6);">
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--color-on-surface-secondary);margin-bottom:var(--space-2);">Your Challenge</div>
+              <div style="font-family:var(--type-h1-family);font-size:var(--type-h1-size);font-weight:var(--type-h1-weight);letter-spacing:var(--type-h1-spacing);color:var(--color-on-background);">75 Day Hard</div>
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);margin-top:var(--space-1);">Day 23 of 75</div>
+            </div>
+
+            <!-- Progress ring area -->
+            <div style="background:var(--color-surface-elevated);border-radius:var(--rounded-lg);padding:var(--space-6);margin-bottom:var(--space-5);text-align:center;">
+              <div style="display:inline-block;width:100px;height:100px;border-radius:var(--rounded-full);border:6px solid #E8E4DE;position:relative;display:flex;align-items:center;justify-content:center;margin:0 auto 12px;">
+                <div style="position:absolute;inset:0;border-radius:var(--rounded-full);border:6px solid var(--color-accent);clip-path:polygon(50% 0%, 50% 50%, 100% 0%, 100% 100%, 0% 100%, 0% 0%);opacity:0.9;"></div>
+                <div style="z-index:2;text-align:center;">
+                  <div style="font-family:var(--type-h1-family);font-size:24px;font-weight:700;color:var(--color-on-background);">30%</div>
+                </div>
+              </div>
+              <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-surface);">Keep going — you're on track</div>
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);margin-top:var(--space-1);">52 days remaining</div>
+            </div>
+
+            <!-- Today's tasks mini -->
+            <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--color-on-surface-secondary);margin-bottom:var(--space-3);">Today's tasks</div>
+            <div style="display:flex;flex-direction:column;gap:var(--space-2);">
+              <div style="display:flex;align-items:center;gap:var(--space-3);padding:var(--space-3) 0;">
+                <div style="width:28px;height:28px;border-radius:var(--rounded-full);background:var(--color-badge-1);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">1</div>
+                <span style="font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);flex:1;">Follow a strict diet</span>
+                <div style="width:22px;height:22px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;">✓</div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <div style="display:flex;align-items:center;gap:var(--space-3);padding:var(--space-3) 0;">
+                <div style="width:28px;height:28px;border-radius:var(--rounded-full);background:var(--color-badge-2);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">2</div>
+                <span style="font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);flex:1;">2 workouts, 1 outside</span>
+                <div style="width:22px;height:22px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;color:var(--color-on-surface-tertiary);font-size:11px;font-weight:700;">○</div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <div style="display:flex;align-items:center;gap:var(--space-3);padding:var(--space-3) 0;">
+                <div style="width:28px;height:28px;border-radius:var(--rounded-full);background:var(--color-badge-3);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">3</div>
+                <span style="font-family:var(--type-body-medium-family);font-size:14px;font-weight:var(--type-body-medium-weight);color:var(--color-on-background);flex:1;">Read 10 pages</span>
+                <div style="width:22px;height:22px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;color:var(--color-on-surface-tertiary);font-size:11px;font-weight:700;">○</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="screen-label" style="margin-top:16px;">A — Challenge Dashboard</div>
+      </div>
+
+      <!-- SCREEN B: Task List -->
+      <div>
+        <div class="phone-frame">
+          <div class="phone-screen">
+            <div class="status-bar">
+              <span class="status-time">9:41</span>
+              <span class="status-icons">▲ ● ■</span>
+            </div>
+
+            <div style="margin-bottom:var(--space-5);">
+              <div style="font-family:var(--type-display-family);font-size:var(--type-display-size);font-weight:var(--type-display-weight);font-style:italic;color:var(--color-on-background);margin-bottom:var(--space-1);">day twenty-three</div>
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">mar 16 → april 24</div>
+            </div>
+
+            <!-- Full task list -->
+            <div style="display:flex;flex-direction:column;">
+              <!-- Task 1 — done -->
+              <div style="display:flex;align-items:flex-start;padding:var(--space-4) 0;gap:var(--space-4);">
+                <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-1);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">1</div>
+                <div style="flex:1;">
+                  <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">Follow a strict diet</div>
+                  <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">(no cheat meals, no alcohol)</div>
+                </div>
+                <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;color:#fff;font-size:12px;font-weight:700;flex-shrink:0;">✓</div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <!-- Task 2 -->
+              <div style="display:flex;align-items:flex-start;padding:var(--space-4) 0;gap:var(--space-4);">
+                <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-2);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">2</div>
+                <div style="flex:1;">
+                  <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">Do two 45-minute workouts per day</div>
+                  <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">one must be outside</div>
+                </div>
+                <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);border:1.5px solid #D8D4CE;flex-shrink:0;"></div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <!-- Task 3 -->
+              <div style="display:flex;align-items:flex-start;padding:var(--space-4) 0;gap:var(--space-4);">
+                <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-3);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">3</div>
+                <div style="flex:1;">
+                  <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">Read 10 pages of non-fiction</div>
+                  <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">self-development book</div>
+                </div>
+                <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);border:1.5px solid #D8D4CE;flex-shrink:0;"></div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <!-- Task 4 -->
+              <div style="display:flex;align-items:flex-start;padding:var(--space-4) 0;gap:var(--space-4);">
+                <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-4);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">4</div>
+                <div style="flex:1;">
+                  <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">Take a progress picture</div>
+                  <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);">every day</div>
+                </div>
+                <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);border:1.5px solid #D8D4CE;flex-shrink:0;"></div>
+              </div>
+              <div style="height:1px;background:#EEEAE4;"></div>
+              <!-- Task 5 -->
+              <div style="display:flex;align-items:flex-start;padding:var(--space-4) 0;gap:var(--space-4);">
+                <div style="width:32px;height:32px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:var(--color-on-background);flex-shrink:0;">5</div>
+                <div style="flex:1;">
+                  <div style="font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);color:var(--color-on-background);">Drink 1 gallon of water</div>
+                </div>
+                <div style="width:24px;height:24px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);border:1.5px solid #D8D4CE;flex-shrink:0;"></div>
+              </div>
+            </div>
+
+            <!-- CTA -->
+            <div style="margin-top:auto;padding-top:var(--space-8);">
+              <div style="background:var(--color-on-background);color:var(--color-background);font-family:var(--type-body-medium-family);font-size:var(--type-body-medium-size);font-weight:var(--type-body-medium-weight);border-radius:var(--rounded-full);padding:14px 32px;text-align:center;cursor:pointer;">Log today's tasks</div>
+            </div>
+          </div>
+        </div>
+        <div class="screen-label" style="margin-top:16px;">B — Task List (Day 23)</div>
+      </div>
+
+      <!-- SCREEN C: 75-Day Calendar -->
+      <div>
+        <div class="phone-frame">
+          <div class="phone-screen">
+            <div class="status-bar">
+              <span class="status-time">9:41</span>
+              <span class="status-icons">▲ ● ■</span>
+            </div>
+
+            <div style="margin-bottom:var(--space-5);">
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--color-on-surface-secondary);margin-bottom:var(--space-2);">Your Journey</div>
+              <div style="font-family:var(--type-h1-family);font-size:var(--type-h1-size);font-weight:var(--type-h1-weight);letter-spacing:var(--type-h1-spacing);color:var(--color-on-background);">75 Days</div>
+              <div style="font-family:var(--type-caption-family);font-size:var(--type-caption-size);color:var(--color-on-surface-secondary);margin-top:var(--space-1);">mar 16 → may 29</div>
+            </div>
+
+            <!-- Legend -->
+            <div style="display:flex;gap:var(--space-4);margin-bottom:var(--space-4);align-items:center;">
+              <div style="display:flex;align-items:center;gap:var(--space-2);">
+                <div style="width:14px;height:14px;border-radius:var(--rounded-full);background:var(--color-success);"></div>
+                <span style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Done</span>
+              </div>
+              <div style="display:flex;align-items:center;gap:var(--space-2);">
+                <div style="width:14px;height:14px;border-radius:var(--rounded-full);background:var(--color-error);opacity:0.7;"></div>
+                <span style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Missed</span>
+              </div>
+              <div style="display:flex;align-items:center;gap:var(--space-2);">
+                <div style="width:14px;height:14px;border-radius:var(--rounded-full);background:var(--color-badge-neutral);"></div>
+                <span style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Upcoming</span>
+              </div>
+            </div>
+
+            <!-- Calendar grid — 75 days as dots, 10 cols -->
+            <div style="display:grid;grid-template-columns:repeat(10,1fr);gap:6px;margin-bottom:var(--space-6);">
+              <!-- Days 1-23 done (green), 24 = today (ring), 25-75 upcoming (gray) -->
+              <!-- Using JS-free rendering: write each dot inline -->
+              <!-- Done: 1-22 -->
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">1</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">2</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">3</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">4</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">5</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">6</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">7</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">8</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">9</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">10</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">11</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">12</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">13</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">14</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">15</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">16</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">17</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">18</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">19</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">20</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">21</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-success);display:flex;align-items:center;justify-content:center;font-size:9px;color:#fff;font-weight:600;">22</div>
+              <!-- Day 23 = today, ring -->
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-background);border:2.5px solid var(--color-on-background);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-background);font-weight:700;">23</div>
+              <!-- Days 24-75 = upcoming gray -->
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">24</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">25</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">26</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">27</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">28</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">29</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">30</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">31</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">32</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">33</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">34</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">35</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">36</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">37</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">38</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">39</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">40</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">41</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">42</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">43</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">44</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">45</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">46</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">47</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">48</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">49</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">50</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">51</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">52</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">53</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">54</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">55</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">56</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">57</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">58</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">59</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">60</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">61</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">62</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">63</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">64</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">65</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">66</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">67</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">68</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">69</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">70</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">71</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">72</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">73</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">74</div>
+              <div style="width:100%;aspect-ratio:1;border-radius:var(--rounded-full);background:var(--color-badge-neutral);display:flex;align-items:center;justify-content:center;font-size:9px;color:var(--color-on-surface-tertiary);">75</div>
+            </div>
+
+            <!-- Stats row -->
+            <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:var(--space-3);">
+              <div style="background:var(--color-surface-elevated);border-radius:var(--rounded-md);padding:var(--space-3);text-align:center;">
+                <div style="font-family:var(--type-h1-family);font-size:20px;font-weight:700;color:var(--color-on-background);">22</div>
+                <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Completed</div>
+              </div>
+              <div style="background:var(--color-surface-elevated);border-radius:var(--rounded-md);padding:var(--space-3);text-align:center;">
+                <div style="font-family:var(--type-h1-family);font-size:20px;font-weight:700;color:var(--color-on-background);">0</div>
+                <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Missed</div>
+              </div>
+              <div style="background:var(--color-surface-elevated);border-radius:var(--rounded-md);padding:var(--space-3);text-align:center;">
+                <div style="font-family:var(--type-h1-family);font-size:20px;font-weight:700;color:var(--color-accent);">22</div>
+                <div style="font-family:var(--type-caption-family);font-size:11px;color:var(--color-on-surface-secondary);">Streak</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="screen-label" style="margin-top:16px;">C — 75-Day Calendar</div>
+      </div>
+
+    </div><!-- end screens-row -->
+  </section>
+
+</div><!-- end guide-wrap -->
+</body>
+</html>

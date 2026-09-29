@@ -99,6 +99,32 @@ plus récent du sujet concerné.
 
 
 
+15. **WORKFLOW STRICT + MODÈLES PAR PHASE（NON NÉGOCIABLE — renforcé 2026-09-29）** :
+    - On SUIT les étapes du workflow dans l'ordre（G1→G2→G2bis→G3→G3.5→G3.6→G3.7→G4→G5→G6→G7）,
+      sans en sauter, sans en réordonner, sans improviser. Aucun gate franchi sans validation.
+    - **LE MODÈLE = PAR PHASE, jamais au choix**（`config/modeles.md`）:
+      planification & rédaction lourde（PRD, spec, plan, analyse）→ déléguée au **modèle haut de
+      gamme（Kimi K3）** via sous-agent ; code → modèle code（DeepSeek V4.1 Flash）；volume/bulk →
+      GLM. **Interdiction absolue d'écrire un PRD/spec/plan/analyse avec le modèle par défaut
+      économique** — toujours déléguer au bon agent/modèle.
+    - On appelle **le bon agent pour la bonne tâche**（product-manager/architecte/analyste…）,
+      en lui fournissant toutes les données d'entrée（analyses concurrentes, captures）.
+    - En cas de doute sur l'ordre ou le modèle : **demander à l'utilisateur**, jamais décider seul.
+    - Référence de contrôle : `config/modeles.md` + `PLAN-MAITRE.md` + `pipeline/etat.md`.
+
+16. **FOURNISSEUR : OPencode Go TOUJOURS, OpenRouter BLOQUÉ（règle utilisateur 2026-09-29, NON NÉGOCIABLE）** :
+    - Tous les modèles passent par l'abonnement **OpenCode Go**（préfixe `opencode-go/`）— uniquement.
+    - **OpenRouter est DÉSACTIVÉ en dur** dans la configuration（`disabled_providers: ["openrouter"]`
+      dans `opencode.json` du projet ET dans le template `config/opencode-global.json`）.
+      Il est donc **techniquement inutilisable** au démarrage, sauf si l'utilisateur le débloque
+      lui-même explicitement. Ne JAMAIS réactiver OpenRouter de soi-même, jamais.
+    - La config `~/.config/opencode/opencode.jsonc` est la référence : `model`/`small_model` et
+      tous les agents pointent vers `opencode-go/...`（pas `opencode/` = Zen payant à l'usage, pas
+      `openrouter/`）.
+    - En cas de doute fournisseur/modèle : demander à l'utilisateur, jamais décider seul.
+
+
+
 
 
 
@@ -106,14 +132,13 @@ plus récent du sujet concerné.
 - **USINE**（racine）＝ partagé, change rarement ：agents, skills, tools/, brain/, pipeline/,
     template-app/, constitution. Jamais de contenu spécifique à une app à la racine.
 
-- **APP**（apps/<app>/）＝ spécifique à l'app ：son AGENTS.md, sa spec/plan/tasks（Spec Kit local),
-    ses ADR（apps/<app>/docs/decisions.md）, designs, code, store assets.
+- **APP**（apps/<app>/）＝ spécifique à l'app ：son AGENTS.md, son ETAT.md（fichier de reprise）,
+    sa spec/plan/tasks（Spec Kit local), ses ADR（apps/<app>/docs/decisions.md）, design/, code,
+    store assets.
 
-
-
-- **Pont** ：`brain/apps/<app>/` conserve la RECHERCHE（scraps, rapports）et le MARKETING；
-    `apps/<app>/` contient le PRODUIT. Les learnings remontent de l'app vers `brain/learnings.md`
-    （jamais l'inverse）. Création normalisée ：`FORGE <nom-app>`（détail COMMANDES.md）.
+- **Pont** ：`brain/apps/<app>/` conserve la RECHERCHE（scraps, rapports）et le MARKETING uniquement；
+    `apps/<app>/` contient le PRODUIT（dont le design et l'ETAT). Les learnings remontent de l'app vers
+    `brain/learnings.md`（jamais l'inverse）. Création normalisée ：`FORGE <nom-app>`（détail COMMANDES.md）.
 
 
 
